@@ -1,0 +1,381 @@
+{{DISPLAYTITLE:McGill Monthly 2: Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=McGill Monthly/2
+|name2=Singles Bracket
+|link2=McGill Monthly/2/Singles Bracket
+|name3=Singles Pools
+|link3=McGill Monthly/2/Singles Pools
+|name4=Doubles Bracket
+|link4=McGill Monthly/2/Doubles Bracket
+|This=4
+}}
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia name=ssbmtl-McGillMonthly2SSBMDoubles -->
+
+==Winners Bracket==
+{{16DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=HHH |r1m1t1p1flag=ca
+|r1m1t1p2=Chester01 |r1m1t1p2flag=ca |r1m1t1score=W
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=-
+|r1m1win=1
+
+|r1m2t1p1=Keo |r1m2t1p1flag=ca
+|r1m2t1p2=Rice |r1m2t1p2flag=ca |r1m2t1score=2
+|r1m2t2p1=Kyle |r1m2t2p1flag=br
+|r1m2t2p2=Lapopo |r1m2t2p2flag=us |r1m2t2score=1
+|r1m2win=1
+|r1m2t1p1char1=sheik |r1m2t1p1stock1=0 |r1m2t1p2char1=marth |r1m2t1p2stock1=0
+|r1m2t2p1char1=peach |r1m2t2p1stock1=1 |r1m2t2p2char1=sheik |r1m2t2p2stock1=1 |r1m2win1=2 |r1m2stage1=Final Destination
+|r1m2t1p1char2=sheik |r1m2t1p1stock2=1 |r1m2t1p2char2=fox |r1m2t1p2stock2=0
+|r1m2t2p1char2=peach |r1m2t2p1stock2=0 |r1m2t2p2char2=sheik |r1m2t2p2stock2=0 |r1m2win2=1 |r1m2stage2=Pokémon Stadium
+|r1m2t1p1char3=sheik |r1m2t1p1stock3=0 |r1m2t1p2char3=fox |r1m2t1p2stock3=1
+|r1m2t2p1char3=peach |r1m2t2p1stock3=0 |r1m2t2p2char3=sheik |r1m2t2p2stock3=0 |r1m2win3=1 |r1m2stage3=Battlefield
+|r1m2t1p1char4= |r1m2t1p1stock4= |r1m2t1p2char4= |r1m2t1p2stock4=
+|r1m2t2p1char4= |r1m2t2p1stock4= |r1m2t2p2char4= |r1m2t2p2stock4= |r1m2win4= |r1m2stage4=
+|r1m2t1p1char5= |r1m2t1p1stock5= |r1m2t1p2char5= |r1m2t1p2stock5=
+|r1m2t2p1char5= |r1m2t2p1stock5= |r1m2t2p2char5= |r1m2t2p2stock5= |r1m2win5= |r1m2stage5=
+|r1m2date=
+|r1m2finished=
+|r1m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=Gxe4z3C0TZg|interview=|recap=}}
+
+|r1m3t1p1=Cemo |r1m3t1p1flag=ca
+|r1m3t1p2=HandsomeTom |r1m3t1p2flag=ca |r1m3t1score=2
+|r1m3t2p1=Alan |r1m3t2p1flag=ca
+|r1m3t2p2=Lafungo |r1m3t2p2flag=us |r1m3t2score=1
+|r1m3win=1
+
+|r1m4t1p1=Vanitas |r1m4t1p1flag=ca
+|r1m4t1p2=Flood |r1m4t1p2flag=ca |r1m4t1score=2
+|r1m4t2p1=TM |r1m4t2p1flag=ca
+|r1m4t2p2=Simon |r1m4t2p2flag=ca |r1m4t2score=0
+|r1m4win=1
+
+|r1m5t1p1=SAUS |r1m5t1p1flag=ca
+|r1m5t1p2=Xuna |r1m5t1p2flag=ca |r1m5t1score=W
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=-
+|r1m5win=1
+
+|r1m6t1p1=Yogi |r1m6t1p1flag=ca
+|r1m6t1p2=ZergG |r1m6t1p2flag=ca |r1m6t1score=2
+|r1m6t2p1=GoDiegoGo |r1m6t2p1flag=ve
+|r1m6t2p2=Vane |r1m6t2p2flag=ca |r1m6t2score=0
+|r1m6win=1
+
+|r1m7t1p1=Ministry |r1m7t1p1flag=ca
+|r1m7t1p2=Sauc3 |r1m7t1p2flag=ca |r1m7t1score=2
+|r1m7t2p1=Cheer |r1m7t2p1flag=ca
+|r1m7t2p2=Peep |r1m7t2p2flag=ca |r1m7t2score=0
+|r1m7win=1
+
+|r1m8t1p1=Jager |r1m8t1p1flag=us
+|r1m8t1p2=Moonpanda |r1m8t1p2flag=us |r1m8t1score=2
+|r1m8t2p1=Kev |r1m8t2p1flag=ca
+|r1m8t2p2=Testrider |r1m8t2p2flag=ca |r1m8t2score=1
+|r1m8win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=HHH |r2m1t1p1flag=ca
+|r2m1t1p2=Chester01 |r2m1t1p2flag=ca |r2m1t1score=2
+|r2m1t2p1=Keo |r2m1t2p1flag=ca
+|r2m1t2p2=Rice |r2m1t2p2flag=ca |r2m1t2score=0
+|r2m1win=1
+|r2m1t1p1char1=peach |r2m1t1p1stock1=2 |r2m1t1p2char1=sheik |r2m1t1p2stock1=1
+|r2m1t2p1char1=sheik |r2m1t2p1stock1=0 |r2m1t2p2char1=marth |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Final Destination
+|r2m1t1p1char2=peach |r2m1t1p1stock2=1 |r2m1t1p2char2=sheik |r2m1t1p2stock2=2
+|r2m1t2p1char2=sheik |r2m1t2p1stock2=0 |r2m1t2p2char2=fox |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1t1p1char3= |r2m1t1p1stock3= |r2m1t1p2char3= |r2m1t1p2stock3=
+|r2m1t2p1char3= |r2m1t2p1stock3= |r2m1t2p2char3= |r2m1t2p2stock3= |r2m1win3= |r2m1stage3=
+|r2m1t1p1char4= |r2m1t1p1stock4= |r2m1t1p2char4= |r2m1t1p2stock4=
+|r2m1t2p1char4= |r2m1t2p1stock4= |r2m1t2p2char4= |r2m1t2p2stock4= |r2m1win4= |r2m1stage4=
+|r2m1t1p1char5= |r2m1t1p1stock5= |r2m1t1p2char5= |r2m1t1p2stock5=
+|r2m1t2p1char5= |r2m1t2p1stock5= |r2m1t2p2char5= |r2m1t2p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=Dk8Ha_PBuFo|interview=|recap=}}
+
+|r2m2t1p1=Cemo |r2m2t1p1flag=ca
+|r2m2t1p2=HandsomeTom |r2m2t1p2flag=ca |r2m2t1score=1
+|r2m2t2p1=Vanitas |r2m2t2p1flag=ca
+|r2m2t2p2=Flood |r2m2t2p2flag=ca |r2m2t2score=2
+|r2m2win=2
+
+|r2m3t1p1=SAUS |r2m3t1p1flag=ca
+|r2m3t1p2=Xuna |r2m3t1p2flag=ca |r2m3t1score=1
+|r2m3t2p1=Yogi |r2m3t2p1flag=ca
+|r2m3t2p2=ZergG |r2m3t2p2flag=ca |r2m3t2score=2
+|r2m3win=2
+
+|r2m4t1p1=Ministry |r2m4t1p1flag=ca
+|r2m4t1p2=Sauc3 |r2m4t1p2flag=ca |r2m4t1score=2
+|r2m4t2p1=Jager |r2m4t2p1flag=us
+|r2m4t2p2=Moonpanda |r2m4t2p2flag=us |r2m4t2score=1
+|r2m4win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=HHH |r3m1t1p1flag=ca
+|r3m1t1p2=Chester01 |r3m1t1p2flag=ca |r3m1t1score=2
+|r3m1t2p1=Vanitas |r3m1t2p1flag=ca
+|r3m1t2p2=Flood |r3m1t2p2flag=ca |r3m1t2score=1
+|r3m1win=1
+|r3m1t1p1char1=peach |r3m1t1p1stock1=1 |r3m1t1p2char1=sheik |r3m1t1p2stock1=2
+|r3m1t2p1char1=marth |r3m1t2p1stock1=0 |r3m1t2p2char1=peach |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1t1p1char2=peach |r3m1t1p1stock2=0 |r3m1t1p2char2=sheik |r3m1t1p2stock2=0
+|r3m1t2p1char2=ic |r3m1t2p1stock2=1 |r3m1t2p2char2=peach |r3m1t2p2stock2=1 |r3m1win2=2 |r3m1stage2=Pokémon Stadium
+|r3m1t1p1char3=peach |r3m1t1p1stock3=1 |r3m1t1p2char3=fox |r3m1t1p2stock3=2
+|r3m1t2p1char3=ic |r3m1t2p1stock3=0 |r3m1t2p2char3=peach |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Final Destination
+|r3m1t1p1char4= |r3m1t1p1stock4= |r3m1t1p2char4= |r3m1t1p2stock4=
+|r3m1t2p1char4= |r3m1t2p1stock4= |r3m1t2p2char4= |r3m1t2p2stock4= |r3m1win4= |r3m1stage4=
+|r3m1t1p1char5= |r3m1t1p1stock5= |r3m1t1p2char5= |r3m1t1p2stock5=
+|r3m1t2p1char5= |r3m1t2p1stock5= |r3m1t2p2char5= |r3m1t2p2stock5= |r3m1win5= |r3m1stage5=
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=k01gHrP4YW0|interview=|recap=}}
+
+|r3m2t1p1=Yogi |r3m2t1p1flag=ca
+|r3m2t1p2=ZergG |r3m2t1p2flag=ca |r3m2t1score=0
+|r3m2t2p1=Ministry |r3m2t2p1flag=ca
+|r3m2t2p2=Sauc3 |r3m2t2p2flag=ca |r3m2t2score=2
+|r3m2win=2
+}}
+
+==Losers Bracket==
+{{16DEDoublesLBracketSmwA
+|tourneylink=McGill Monthly/2
+|tourneyname=McGill Monthly 2
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+|column-width=150
+<!-- ROUND 1 -->
+|l1m1t1p1=Bye |l1m1t1p1flag=
+|l1m1t1p2=Bye |l1m1t1p2flag= |l1m1t1score=-
+|l1m1t2p1=Kyle |l1m1t2p1flag=br
+|l1m1t2p2=Lapopo |l1m1t2p2flag=us |l1m1t2score=W
+|l1m1win=2
+
+|l1m2t1p1=Alan |l1m2t1p1flag=ca
+|l1m2t1p2=Lafungo |l1m2t1p2flag=us |l1m2t1score=2
+|l1m2t2p1=TM |l1m2t2p1flag=ca
+|l1m2t2p2=Simon |l1m2t2p2flag=ca |l1m2t2score=0
+|l1m2win=1
+
+|l1m3t1p1=Bye |l1m3t1p1flag=
+|l1m3t1p2=Bye |l1m3t1p2flag= |l1m3t1score=-
+|l1m3t2p1=GoDiegoGo |l1m3t2p1flag=ve
+|l1m3t2p2=Vane |l1m3t2p2flag=ca |l1m3t2score=W
+|l1m3win=2
+
+|l1m4t1p1=Cheer |l1m4t1p1flag=ca
+|l1m4t1p2=Peep |l1m4t1p2flag=ca |l1m4t1score=0
+|l1m4t2p1=Kev |l1m4t2p1flag=ca
+|l1m4t2p2=Testrider |l1m4t2p2flag=ca |l1m4t2score=2
+|l1m4win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Jager |l2m1t1p1flag=us
+|l2m1t1p2=Moonpanda |l2m1t1p2flag=us |l2m1t1score=2
+|l2m1t2p1=Kyle |l2m1t2p1flag=br
+|l2m1t2p2=Lapopo |l2m1t2p2flag=us |l2m1t2score=1
+|l2m1win=1
+
+|l2m2t1p1=SAUS |l2m2t1p1flag=ca
+|l2m2t1p2=Xuna |l2m2t1p2flag=ca |l2m2t1score=2
+|l2m2t2p1=Alan |l2m2t2p1flag=ca
+|l2m2t2p2=Lafungo |l2m2t2p2flag=us |l2m2t2score=0
+|l2m2win=1
+
+|l2m3t1p1=Cemo |l2m3t1p1flag=ca
+|l2m3t1p2=HandsomeTom |l2m3t1p2flag=ca |l2m3t1score=2
+|l2m3t2p1=GoDiegoGo |l2m3t2p1flag=ve
+|l2m3t2p2=Vane |l2m3t2p2flag=ca |l2m3t2score=0
+|l2m3win=1
+
+|l2m4t1p1=Keo |l2m4t1p1flag=ca
+|l2m4t1p2=Rice |l2m4t1p2flag=ca |l2m4t1score=2
+|l2m4t2p1=Kev |l2m4t2p1flag=ca
+|l2m4t2p2=Testrider |l2m4t2p2flag=ca |l2m4t2score=1
+|l2m4win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=Jager |l3m1t1p1flag=us
+|l3m1t1p2=Moonpanda |l3m1t1p2flag=us |l3m1t1score=2
+|l3m1t2p1=SAUS |l3m1t2p1flag=ca
+|l3m1t2p2=Xuna |l3m1t2p2flag=ca |l3m1t2score=1
+|l3m1win=1
+
+|l3m2t1p1=Cemo |l3m2t1p1flag=ca
+|l3m2t1p2=HandsomeTom |l3m2t1p2flag=ca |l3m2t1score=2
+|l3m2t2p1=Keo |l3m2t2p1flag=ca
+|l3m2t2p2=Rice |l3m2t2p2flag=ca |l3m2t2score=0
+|l3m2win=1
+|l3m2t1p1char1=ic |l3m2t1p1stock1=1 |l3m2t1p2char1=jigglypuff |l3m2t1p2stock1=1
+|l3m2t2p1char1=sheik |l3m2t2p1stock1=0 |l3m2t2p2char1=fox |l3m2t2p2stock1=0 |l3m2win1=1 |l3m2stage1=Battlefield
+|l3m2t1p1char2=ic |l3m2t1p1stock2=1 |l3m2t1p2char2=jigglypuff |l3m2t1p2stock2=1
+|l3m2t2p1char2=sheik |l3m2t2p1stock2=0 |l3m2t2p2char2=fox |l3m2t2p2stock2=0 |l3m2win2=1 |l3m2stage2=Pokémon Stadium
+|l3m2t1p1char3= |l3m2t1p1stock3= |l3m2t1p2char3= |l3m2t1p2stock3=
+|l3m2t2p1char3= |l3m2t2p1stock3= |l3m2t2p2char3= |l3m2t2p2stock3= |l3m2win3= |l3m2stage3=
+|l3m2t1p1char4= |l3m2t1p1stock4= |l3m2t1p2char4= |l3m2t1p2stock4=
+|l3m2t2p1char4= |l3m2t2p1stock4= |l3m2t2p2char4= |l3m2t2p2stock4= |l3m2win4= |l3m2stage4=
+|l3m2t1p1char5= |l3m2t1p1stock5= |l3m2t1p2char5= |l3m2t1p2stock5=
+|l3m2t2p1char5= |l3m2t2p1stock5= |l3m2t2p2char5= |l3m2t2p2stock5= |l3m2win5= |l3m2stage5=
+|l3m2date=
+|l3m2finished=
+|l3m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=gt6gFKRa7I4|interview=|recap=}}
+
+<!-- ROUND 4 -->
+|l4m1t1p1=Vanitas |l4m1t1p1flag=ca
+|l4m1t1p2=Flood |l4m1t1p2flag=ca |l4m1t1score=2
+|l4m1t2p1=Jager |l4m1t2p1flag=us
+|l4m1t2p2=Moonpanda |l4m1t2p2flag=us |l4m1t2score=0
+|l4m1win=1
+|l4m1t1p1char1=ic |l4m1t1p1stock1=1 |l4m1t1p2char1=peach |l4m1t1p2stock1=0
+|l4m1t2p1char1=fox |l4m1t2p1stock1=0 |l4m1t2p2char1=sheik |l4m1t2p2stock1=0 |l4m1win1=1 |l4m1stage1=Battlefield
+|l4m1t1p1char2=ic |l4m1t1p1stock2=1 |l4m1t1p2char2=peach |l4m1t1p2stock2=1
+|l4m1t2p1char2=fox |l4m1t2p1stock2=0 |l4m1t2p2char2=sheik |l4m1t2p2stock2=0 |l4m1win2=1 |l4m1stage2=Pokémon Stadium
+|l4m1t1p1char3= |l4m1t1p1stock3= |l4m1t1p2char3= |l4m1t1p2stock3=
+|l4m1t2p1char3= |l4m1t2p1stock3= |l4m1t2p2char3= |l4m1t2p2stock3= |l4m1win3= |l4m1stage3=
+|l4m1t1p1char4= |l4m1t1p1stock4= |l4m1t1p2char4= |l4m1t1p2stock4=
+|l4m1t2p1char4= |l4m1t2p1stock4= |l4m1t2p2char4= |l4m1t2p2stock4= |l4m1win4= |l4m1stage4=
+|l4m1t1p1char5= |l4m1t1p1stock5= |l4m1t1p2char5= |l4m1t1p2stock5=
+|l4m1t2p1char5= |l4m1t2p1stock5= |l4m1t2p2char5= |l4m1t2p2stock5= |l4m1win5= |l4m1stage5=
+|l4m1date=
+|l4m1finished=
+|l4m1details={{BracketMatchDetails|comment=The Challonge bracket erroneously lists the score as 2-1.|preview=|lrthread=|vod=https://www.youtube.com/watch?v=hb_U5R2jx1M|interview=|recap=}}
+
+|l4m2t1p1=Yogi |l4m2t1p1flag=ca
+|l4m2t1p2=ZergG |l4m2t1p2flag=ca |l4m2t1score=1
+|l4m2t2p1=Cemo |l4m2t2p1flag=ca
+|l4m2t2p2=HandsomeTom |l4m2t2p2flag=ca |l4m2t2score=2
+|l4m2win=2
+|l4m2t1p1char1=fox |l4m2t1p1stock1=0 |l4m2t1p2char1=fox |l4m2t1p2stock1=0
+|l4m2t2p1char1=ic |l4m2t2p1stock1=0 |l4m2t2p2char1=jigglypuff |l4m2t2p2stock1=1 |l4m2win1=2 |l4m2stage1=Battlefield
+|l4m2t1p1char2=fox |l4m2t1p1stock2=1 |l4m2t1p2char2=fox |l4m2t1p2stock2=1
+|l4m2t2p1char2=ic |l4m2t2p1stock2=0 |l4m2t2p2char2=jigglypuff |l4m2t2p2stock2=0 |l4m2win2=1 |l4m2stage2=Pokémon Stadium
+|l4m2t1p1char3=fox |l4m2t1p1stock3=0 |l4m2t1p2char3=fox |l4m2t1p2stock3=0
+|l4m2t2p1char3=ic |l4m2t2p1stock3=3 |l4m2t2p2char3=jigglypuff |l4m2t2p2stock3=1 |l4m2win3=2 |l4m2stage3=Final Destination
+|l4m2t1p1char4= |l4m2t1p1stock4= |l4m2t1p2char4= |l4m2t1p2stock4=
+|l4m2t2p1char4= |l4m2t2p1stock4= |l4m2t2p2char4= |l4m2t2p2stock4= |l4m2win4= |l4m2stage4=
+|l4m2t1p1char5= |l4m2t1p1stock5= |l4m2t1p2char5= |l4m2t1p2stock5=
+|l4m2t2p1char5= |l4m2t2p1stock5= |l4m2t2p2char5= |l4m2t2p2stock5= |l4m2win5= |l4m2stage5=
+|l4m2date=
+|l4m2finished=
+|l4m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=7ZM5NOMyk1s|interview=|recap=}}
+}}
+
+==Finals Bracket==
+<onlyinclude>
+{{DEFinalDoublesSmwBracket
+|tourneylink=McGill Monthly/2
+|tourneyname=McGill Monthly 2
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+<!-- FROM WINNERS -->
+|r1m1t1p1=HHH |r1m1t1p1flag=ca
+|r1m1t1p2=Chester01 |r1m1t1p2flag=ca |r1m1t1score=3
+|r1m1t2p1=Ministry |r1m1t2p1flag=ca
+|r1m1t2p2=Sauc3 |r1m1t2p2flag=ca |r1m1t2score=1
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Vanitas |l1m1t1p1flag=ca
+|l1m1t1p2=Flood |l1m1t1p2flag=ca |l1m1t1score=2
+|l1m1t2p1=Cemo |l1m1t2p1flag=ca
+|l1m1t2p2=HandsomeTom |l1m1t2p2flag=ca |l1m1t2score=1
+|l1m1win=1
+|l1m1t1p1char1=marth |l1m1t1p1stock1=0 |l1m1t1p2char1=peach  |l1m1t1p2stock1=0
+|l1m1t2p1char1=ic |l1m1t2p1stock1=1 |l1m1t2p2char1=jigglypuff  |l1m1t2p2stock1=0 |l1m1win1=2 |l1m1stage1=Pokémon Stadium
+|l1m1t1p1char2=marth |l1m1t1p1stock2=1 |l1m1t1p2char2=peach  |l1m1t1p2stock2=2
+|l1m1t2p1char2=ic |l1m1t2p1stock2=0 |l1m1t2p2char2=jigglypuff  |l1m1t2p2stock2=0 |l1m1win2=1 |l1m1stage2=Battlefield
+|l1m1t1p1char3=marth |l1m1t1p1stock3=1 |l1m1t1p2char3=peach  |l1m1t1p2stock3=2
+|l1m1t2p1char3=ic |l1m1t2p1stock3=0 |l1m1t2p2char3=jigglypuff  |l1m1t2p2stock3=0 |l1m1win3=1 |l1m1stage3=Final Destination
+|l1m1t1p1char4= |l1m1t1p1stock4= |l1m1t1p2char4=  |l1m1t1p2stock4=
+|l1m1t2p1char4= |l1m1t2p1stock4= |l1m1t2p2char4=  |l1m1t2p2stock4= |l1m1win4= |l1m1stage4=
+|l1m1t1p1char5= |l1m1t1p1stock5= |l1m1t1p2char5=  |l1m1t1p2stock5=
+|l1m1t2p1char5= |l1m1t2p1stock5= |l1m1t2p2char5=  |l1m1t2p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=ekggl61OVZk
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=The Challonge bracket erroneously lists the score as 2-0.
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Ministry |r2m1t1p1flag=ca
+|r2m1t1p2=Sauc3 |r2m1t1p2flag=ca |r2m1t1score=3
+|r2m1t2p1=Vanitas |r2m1t2p1flag=ca
+|r2m1t2p2=Flood |r2m1t2p2flag=ca |r2m1t2score=1
+|r2m1win=1
+|r2m1t1p1char1=sheik |r2m1t1p1stock1=2 |r2m1t1p2char1=fox  |r2m1t1p2stock1=1
+|r2m1t2p1char1=ic |r2m1t2p1stock1=0 |r2m1t2p2char1=peach  |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Final Destination
+|r2m1t1p1char2=sheik |r2m1t1p1stock2=0 |r2m1t1p2char2=fox  |r2m1t1p2stock2=0
+|r2m1t2p1char2=marth |r2m1t2p1stock2=2 |r2m1t2p2char2=peach  |r2m1t2p2stock2=2 |r2m1win2=2 |r2m1stage2=Yoshi's Story
+|r2m1t1p1char3=sheik |r2m1t1p1stock3=2 |r2m1t1p2char3=fox  |r2m1t1p2stock3=1
+|r2m1t2p1char3=marth |r2m1t2p1stock3=0 |r2m1t2p2char3=peach  |r2m1t2p2stock3=0 |r2m1win3=1 |r2m1stage3=Pokémon Stadium
+|r2m1t1p1char4=sheik |r2m1t1p1stock4=2 |r2m1t1p2char4=fox  |r2m1t1p2stock4=1
+|r2m1t2p1char4=marth |r2m1t2p1stock4=0 |r2m1t2p2char4=peach  |r2m1t2p2stock4=0 |r2m1win4=1 |r2m1stage4=Battlefield
+|r2m1t1p1char5= |r2m1t1p1stock5= |r2m1t1p2char5=  |r2m1t1p2stock5=
+|r2m1t2p1char5= |r2m1t2p1stock5= |r2m1t2p2char5=  |r2m1t2p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=qjrnEkhqL6Y
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=HHH |r3m1t1p1flag=ca
+|r3m1t1p2=Chester01 |r3m1t1p2flag=ca |r3m1t1score=3
+|r3m1t2p1=Ministry |r3m1t2p1flag=ca
+|r3m1t2p2=Sauc3 |r3m1t2p2flag=ca |r3m1t2score=1
+|r3m1win=1
+|r3m1t1p1char1=peach |r3m1t1p1stock1=1 |r3m1t1p2char1=fox  |r3m1t1p2stock1=1
+|r3m1t2p1char1=sheik |r3m1t2p1stock1=0 |r3m1t2p2char1=sheik  |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1t1p1char2=peach |r3m1t1p1stock2=0 |r3m1t1p2char2=fox  |r3m1t1p2stock2=0
+|r3m1t2p1char2=sheik |r3m1t2p1stock2=1 |r3m1t2p2char2=sheik  |r3m1t2p2stock2=0 |r3m1win2=2 |r3m1stage2=Battlefield
+|r3m1t1p1char3=peach |r3m1t1p1stock3=0 |r3m1t1p2char3=fox  |r3m1t1p2stock3=2
+|r3m1t2p1char3=sheik |r3m1t2p1stock3=0 |r3m1t2p2char3=sheik  |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Pokémon Stadium
+|r3m1t1p1char4=peach |r3m1t1p1stock4=2 |r3m1t1p2char4=fox  |r3m1t1p2stock4=1
+|r3m1t2p1char4=sheik |r3m1t2p1stock4=0 |r3m1t2p2char4=fox  |r3m1t2p2stock4=0 |r3m1win4=1 |r3m1stage4=Dream Land
+|r3m1t1p1char5= |r3m1t1p1stock5= |r3m1t1p2char5=  |r3m1t1p2stock5=
+|r3m1t2p1char5= |r3m1t2p1stock5= |r3m1t2p2char5=  |r3m1t2p2stock5= |r3m1win5= |r3m1stage5=
+
+<!-- Bracket Reset (if needed) -->
+|r3m2t1p1char1= |r3m2t1p1stock1= |r3m2t1p2char1= |r3m2t1p2stock1=
+|r3m2t2p1char1= |r3m2t2p1stock1= |r3m2t2p2char1= |r3m2t2p2stock1= |r3m2win1= |r3m2stage1=
+|r3m2t1p1char2= |r3m2t1p1stock2= |r3m2t1p2char2= |r3m2t1p2stock2=
+|r3m2t2p1char2= |r3m2t2p1stock2= |r3m2t2p2char2= |r3m2t2p2stock2= |r3m2win2= |r3m2stage2=
+|r3m2t1p1char3= |r3m2t1p1stock3= |r3m2t1p2char3= |r3m2t1p2stock3=
+|r3m2t2p1char3= |r3m2t2p1stock3= |r3m2t2p2char3= |r3m2t2p2stock3= |r3m2win3= |r3m2stage3=
+|r3m2t1p1char4= |r3m2t1p1stock4= |r3m2t1p2char4= |r3m2t1p2stock4=
+|r3m2t2p1char4= |r3m2t2p1stock4= |r3m2t2p2char4= |r3m2t2p2stock4= |r3m2win4= |r3m2stage4=
+|r3m2t1p1char5= |r3m2t1p1stock5= |r3m2t1p2char5= |r3m2t1p2stock5=
+|r3m2t2p1char5= |r3m2t2p1stock5= |r3m2t2p2char5= |r3m2t2p2stock5= |r3m2win5= |r3m2stage5=
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=dbMYff4Hx84
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

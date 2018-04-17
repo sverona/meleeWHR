@@ -1,0 +1,111 @@
+{{DISPLAYTITLE:The Big House 4: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=The Big House/4/Melee
+|name2=Round 1 Pools
+|link2=The Big House/4/Melee/Round 1 Pools
+|name3=Round 2 Pools
+|link3=The Big House/4/Melee/Round 2 Pools
+|name4=Singles Bracket
+|link4=The Big House/4/Melee/Singles Bracket
+|name5=Doubles Bracket
+|link5=The Big House/4/Melee/Doubles Bracket
+|This=4
+}}
+{{:The Big House/4/Melee/Winners Bracket}}
+{{:The Big House/4/Melee/Losers Bracket}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=The Big House/4/Melee
+|tourneyname=The Big House 4
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=200
+|column-width-finals=250
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Leffen |r1m1p2flag=se |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=marth |r1m1p1stock1=1 |r1m1p2char1=fox |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Fountain of Dreams
+|r1m1p1char2=marth |r1m1p1stock2=1 |r1m1p2char2=fox |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Dream Land
+|r1m1p1char3=marth |r1m1p1stock3=1 |r1m1p2char3=fox |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Dream Land
+|r1m1date=October 5, 2014
+|r1m1finished=true
+|r1m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=phsu7eQVKlM
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Armada |l1m1p1flag=se |l1m1p1score=1
+|l1m1p2=Mango |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=peach |l1m1p1stock1=0 |l1m1p2char1=fox |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1p1char2=peach |l1m1p1stock2=1 |l1m1p2char2=captain falcon |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Dream Land
+|l1m1p1char3=peach |l1m1p1stock3=0 |l1m1p2char3=fox |l1m1p2stock3=1 |l1m1win3=2 |l1m1stage3=Yoshi's Story
+|l1m1p1char4=peach |l1m1p1stock4=0 |l1m1p2char4=fox |l1m1p2stock4=3 |l1m1win4=2 |l1m1stage4=Battlefield
+|l1m1date=October 5, 2014
+|l1m1finished=true
+|l1m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=yKsaRJDCWt8
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Leffen |r2m1p1flag=se |r2m1p1score=1
+|r2m1p2=Mango |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=fox |r2m1p1stock1=1 |r2m1p2char1=falco |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Dream Land
+|r2m1p1char2=fox |r2m1p1stock2=0 |r2m1p2char2=falco |r2m1p2stock2=3 |r2m1win2=2 |r2m1stage2=Dream Land
+|r2m1p1char3=fox |r2m1p1stock3=0 |r2m1p2char3=falco |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Final Destination
+|r2m1p1char4=fox |r2m1p1stock4=0 |r2m1p2char4=falco |r2m1p2stock4=4 |r2m1win4=2 |r2m1stage4=Final Destination
+|r2m1date=October 5, 2014
+|r2m1finished=true
+|r2m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=4AhkPaHUh0A
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score=1 |r3m2p1score=1
+|r3m1p2=Mango |r3m1p2flag=us |r3m1p2score=3 |r3m2p2score=3
+|r3m1win=2
+|ort_score=true
+|r3m1p1char1=marth |r3m1p1stock1=0 |r3m1p2char1=fox |r3m1p2stock1=1 |r3m1win1=2 |r3m1stage1=Fountain of Dreams 
+|r3m1p1char2=marth |r3m1p1stock2=0 |r3m1p2char2=falco |r3m1p2stock2=2 |r3m1win2=2 |r3m1stage2=Final Destination
+|r3m1p1char3=marth |r3m1p1stock3=2 |r3m1p2char3=falco |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Final Destination
+|r3m1p1char4=marth |r3m1p1stock4=0 |r3m1p2char4=fox |r3m1p2stock4=1 |r3m1win4=2 |r3m1stage4=Dream Land
+|r3m2p1char1=marth |r3m2p1stock1=0 |r3m2p2char1=fox |r3m2p2stock1=1 |r3m2win1=2 |r3m2stage1=Fountain of Dreams
+|r3m2p1char2=marth |r3m2p1stock2=0 |r3m2p2char2=falco |r3m2p2stock2=1 |r3m2win2=2 |r3m2stage2=Final Destination
+|r3m2p1char3=marth |r3m2p1stock3=3 |r3m2p2char3=falco |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Final Destination
+|r3m2p1char4=marth |r3m2p1stock4=0 |r3m2p2char4=fox |r3m2p2stock4=1 |r3m2win4=2 |r3m2stage4=Dream Land
+|r3m1date=October 5, 2014
+|r3m1finished=true
+|r3m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=G4VRHsO0d2U
+|vod2=https://www.youtube.com/watch?v=PNRzSweNvzc
+}}
+}}
+</onlyinclude>

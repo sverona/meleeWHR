@@ -1,0 +1,113 @@
+{{tabs static
+|name1=Overview
+|link1=Super Smash Sundays 29
+|name2=Singles Pool A
+|link2=Super Smash Sundays 29/Singles Pool A
+|name3=Singles Pool B
+|link3=Super Smash Sundays 29/Singles Pool B
+|name4=Singles Pool C
+|link4=Super Smash Sundays 29/Singles Pool C
+|name5=Singles Pool D
+|link5=Super Smash Sundays 29/Singles Pool D
+|name6=Singles Top 16
+|link6=Super Smash Sundays 29/Singles Top 16
+|name7=Doubles
+|link7=Super Smash Sundays 29/Doubles
+|This=6
+}}{{SetGame|melee}}
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia -->
+==Winners Bracket==
+{{8DEWBracketA
+|r1m1p1=Fly Amanita |r1m1p1flag=us |r1m1p1score=1 |r1m1win=2
+|r1m1p2=Larry Lurr |r1m1p2flag=us |r1m1p2score=2
+
+|r1m2p1=Westballz |r1m2p1flag=us |r1m2p1score=2 |r1m2win=1
+|r1m2p2=HugS |r1m2p2flag=us |r1m2p2score=0
+
+|r1m3p1=Lucky |r1m3p1flag=us |r1m3p1score=2 |r1m3win=1
+|r1m3p2=Eddy Mexico |r1m3p2flag=mx |r1m3p2score=1
+
+|r1m4p1=MikeHaze |r1m4p1flag=us |r1m4p1score=1 |r1m4win=2
+|r1m4p2=S2J |r1m4p2flag=us |r1m4p2score=2
+
+|r2m1p1=Larry Lurr |r2m1p1flag=us |r2m1p1score=0 |r2m1win=2
+|r2m1p2=Westballz |r2m1p2flag=us |r2m1p2score=3
+
+|r2m2p1=Lucky |r2m2p1flag=us |r2m2p1score=2 |r2m2win=2
+|r2m2p2=S2J |r2m2p2flag=us |r2m2p2score=3
+}}
+
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=Super Smash Sundays 29
+|tourneyname=Super Smash Sundays 29
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+
+|l1m1p1=Adam |l1m1p1flag=us |l1m1p1score=0 |l1m1win=2
+|l1m1p2=Kira |l1m1p2flag=us |l1m1p2score=2
+
+|l1m2p1=ROFL |l1m2p1flag=us |l1m2p1score=1 |l1m2win=2
+|l1m2p2=MacD |l1m2p2flag=us |l1m2p2score=2
+
+|l1m3p1=SUNG475 |l1m3p1flag=us |l1m3p1score=0 |l1m3win=2
+|l1m3p2=Ken |l1m3p2flag=us |l1m3p2score=2
+
+|l1m4p1=Connor |l1m4p1flag=us |l1m4p1score=2 |l1m4win=1
+|l1m4p2=Medz |l1m4p2flag=us |l1m4p2score=1
+
+|l2m1p1=MikeHaze |l2m1p1flag=us |l2m1p1score=2 |l2m1win=1
+|l2m1p2=Kira |l2m1p2flag=us |l2m1p2score=0
+
+|l2m2p1=Eddy Mexico |l2m2p1flag=mx |l2m2p1score=1 |l2m2win=2
+|l2m2p2=MacD |l2m2p2flag=us |l2m2p2score=2
+
+|l2m3p1=HugS |l2m3p1flag=us |l2m3p1score=2 |l2m3win=1
+|l2m3p2=Ken |l2m3p2flag=us |l2m3p2score=1
+
+|l2m4p1=Fly Amanita |l2m4p1flag=us |l2m4p1score=2 |l2m4win=1
+|l2m4p2=Connor |l2m4p2flag=us |l2m4p2score=0
+
+|l3m1p1=MikeHaze |l3m1p1flag=us |l3m1p1score=2 |l3m1win=1
+|l3m1p2=MacD |l3m1p2flag=us |l3m1p2score=0
+
+|l3m2p1=HugS |l3m2p1flag=us |l3m2p1score=1 |l3m2win=2
+|l3m2p2=Fly Amanita |l3m2p2flag=us |l3m2p2score=2
+
+|l4m1p1=Larry Lurr |l4m1p1flag=us |l4m1p1score=2 |l4m1win=1
+|l4m1p2=MikeHaze |l4m1p2flag=us |l4m1p2score=0
+
+|l4m2p1=Lucky |l4m2p1flag=us |l4m2p1score=2 |l4m2win=1
+|l4m2p2=Fly Amanita |l4m2p2flag=us |l4m2p2score=1
+}}
+
+==Finals Bracket==
+<onlyinclude>
+{{DEFinalSmwBracket
+|tourneylink=Super Smash Sundays 29
+|tourneyname=Super Smash Sundays 29
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1p1=Westballz |r1m1p1flag=us |r1m1p1score=3 |r1m1win=1
+|r1m1p2=S2J |r1m1p2flag=us |r1m1p2score=2
+
+<!-- FROM LOSERS -->
+|l1m1p1=Larry Lurr |l1m1p1flag=us |l1m1p1score=0 |l1m1win=2
+|l1m1p2=Lucky |l1m1p2flag=us |l1m1p2score=3
+
+<!-- LOSERS FINALS -->
+|r2m1p1=S2J |r2m1p1flag=us |r2m1p1score=2 |r2m1win=2
+|r2m1p2=Lucky |r2m1p2flag=us |r2m1p2score=3
+
+<!-- GRAND FINALS -->
+|r3m1p1=Westballz |r3m1p1flag=us |r3m1p1score=1 |r3m2p1score=3 |r3m1win=1
+|r3m1p2=Lucky |r3m1p2flag=us |r3m1p2score=3 |r3m2p2score=0
+|export_score=true
+}}
+</onlyinclude>

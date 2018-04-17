@@ -1,0 +1,831 @@
+{{DISPLAYTITLE: Smash Summit 3: ''Crew Events''}}{{Smash Summit 3 Tabs|This=4}}__NOTOC__
+==Full Rosters==
+{{box|start|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| energy BALLZ mcdaniel
+|-
+|style="width:160px;"|{{flag/us}} {{head/falco}} [[Westballz]]
+|-
+|{{flag/se}} {{head/peach}} {{head/fox}} [[Armada]]
+|-
+|{{flag/us}} {{head/sheik}} [[Shroomed]]
+|-
+|{{flag/us}} {{head/samus}} [[Duck]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| *screeching*
+|-
+|style="width:160px;"|{{flag/us}} {{head/sheik}} {{head/marth}} [[Mew2King]]
+|-
+|{{flag/us}} {{head/sheik}} {{head/samus}} [[Plup]]
+|-
+|{{flag/us}} {{head/pikachu}} [[Axe]]
+|-
+|{{flag/us}} {{head/marth}} [[The Moon]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| L O S L E F F O S
+|-
+|style="width:160px;"|{{flag/se}} {{head/fox}} [[Leffen]]
+|-
+|{{flag/us}} {{head/jigglypuff}} [[Hungrybox]]
+|-
+|{{flag/us}} {{head/fox}} [[SFAT]]
+|-
+|{{flag/ni}} {{head/cf}} [[n0ne]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| Team Beer
+|-
+|style="width:160px;"|{{flag/us}} {{head/fox}} {{head/falco}} [[Mango]]
+|-
+|{{flag/us}} {{head/cf}} [[S2J]]
+|-
+|{{flag/us}} {{head/marth}} [[PewPewU]]
+|-
+|{{flag/us}} {{head/peach}} [[Mafia]]
+|}
+{{box|end}}
+{{Tabs dynamic
+|name1=Blind Man Challenge
+|name2=Iron Man
+|name3=Around the World
+|name4=Draft Crew Battles
+|This=1
+}}
+{{Tabs dynamic/tab|1}}
+==Blind Man Challenge==
+===Format===
+One player from each team is blindfolded, and must control their character using directions provided by their team member. Timed matches were used. Sudden Death was played.
+
+===Participants===
+{{box|start|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| energy BALLZ mcdaniel
+|-
+|style="width:160px;"|{{flag/us}} {{head/samus}} [[Shroomed]]
+|-
+|{{flag/us}} {{head/samus}} {{head/puff}} {{head/marth}} [[Duck]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| *screeching*
+|-
+|style="width:160px;"|{{flag/us}} {{head/samus}} [[Plup]]
+|-
+|{{flag/us}} {{head/marth}} [[The Moon]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| L O S L E F F O S
+|-
+|style="width:160px;"|{{flag/us}} {{head/jigglypuff}} {{head/falco}} [[Hungrybox]]
+|-
+|{{flag/us}} {{head/fox}} {{head/ganon}} [[SFAT]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| Team Beer
+|-
+|style="width:160px;"|{{flag/us}} {{head/cf}} [[S2J]]
+|-
+|{{flag/us}} {{head/peach}} [[Mafia]]
+|}
+{{box|end}}
+
+===Bracket===
+{{4DEBracket
+<!-- WINNERS SEMIS -->
+|r1m1p1=energy BALLZ mcdaniel |r1m1p1flag= |r1m1p1score=0 |r1m1win=2
+|r1m1p2=Team Beer |r1m1p2flag= |r1m1p2score=2
+|r1m1p1char1=puff |r1m1p2char1=peach |r1m1p1stock1= |r1m1p2stock1= |r1m1win1=2 |r1m1stage1=Final Destination
+|r1m1p1char2=marth |r1m1p2char2=peach |r1m1p1stock2= |r1m1p2stock2= |r1m1win2=2 |r1m1stage2=Final Destination
+|r1m1date=November 3, 2016
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=nybT6eNqPfU|interview=|recap=}}
+
+|r1m2p1=*screeching* |r1m2p1flag= |r1m2p1score=2 |r1m2win=1
+|r1m2p2=L O S L E F F O S |r1m2p2flag= |r1m2p2score=0
+|r1m2p1char1=samus |r1m2p2char1=fox |r1m2p1stock1= |r1m2p2stock1= |r1m2win1=1 |r1m2stage1=Final Destination
+|r1m2p1char2=samus  |r1m2p2char2=ganon |r1m2p1stock2= |r1m2p2stock2= |r1m2win2=1 |r1m2stage2=Final Destination
+|r1m2date=November 3, 2016
+|r1m2finished=
+|r1m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=ZEPu9tPdhSg|interview=|recap=}}
+
+<!-- WINNERS FINALS -->
+|r2m1p1=Team Beer |r2m1p1flag= |r2m1p1score=1 |r2m1win=2
+|r2m1p2=*screeching* |r2m1p2flag= |r2m1p2score=2
+|r2m1p1char1=cf |r2m1p2char1=marth |r2m1p1stock1= |r2m1p2stock1= |r2m1win1=1 |r2m1stage1=Pokémon Stadium
+|r2m1p1char2=cf |r2m1p2char2=marth |r2m1p1stock2= |r2m1p2stock2= |r2m1win2=2 |r2m1stage2=Yoshi's Story
+|r2m1p1char3=cf |r2m1p2char3=marth |r2m1p1stock3= |r2m1p2stock3= |r2m1win3=2 |r2m1stage3=Yoshi's Story
+|r2m1date=November 3, 2016
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=T5aNi8pTPSI|interview=|recap=}}
+
+<!-- LOSERS SEMIS -->
+|l1m1p1=energy BALLZ mcdaniel |l1m1p1flag= |l1m1p1score=2
+|l1m1p2=L O S L E F F O S |l1m1p2flag= |l1m1p2score=0
+|l1m1win=1
+|l1m1p1char1=samus |l1m1p2char1=puff |l1m1p1stock1= |l1m1p2stock1= |l1m1win1=1 |l1m1stage1=Final Destination
+|l1m1p1char2=samus |l1m1p2char2=falco |l1m1p1stock2= |l1m1p2stock2= |l1m1win2=1 |l1m1stage2=Battlefield
+|l1m1date=November 3, 2016
+|l1m1finished=
+|l1m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=F1OHz_D9RYE|interview=|recap=}}
+
+<!-- LOSERS FINALS -->
+|l2m1p1=Team Beer |l2m1p1flag= |l2m1p1score=0
+|l2m1p2=energy BALLZ mcdaniel |l2m1p2flag= |l2m1p2score=2
+|l2m1win=2
+|l2m1p1char1=peach |l2m1p2char1=samus |l2m1p1stock1= |l2m1p2stock1= |l2m1win1=2 |l2m1stage1=Yoshi's Story
+|l2m1p1char2=peach |l2m1p2char2=samus |l2m1p1stock2= |l2m1p2stock2= |l2m1win2=2 |l2m1stage2=Fountain of Dreams
+|l2m1date=November 3, 2016
+|l2m1finished=
+|l2m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=eDGiF0Sah00|interview=|recap=}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=*screeching* |r3m1p1flag= |r3m1p1score=2 |r3m1win=1
+|r3m1p2=energy BALLZ mcdaniel |r3m1p2flag= |r3m1p2score=1
+|r3m1p1char1=samus |r3m1p2char1=samus |r3m1p1stock1= |r3m1p2stock1= |r3m1win1=2 |r3m1stage1=Final Destination
+|r3m1p1char2=samus |r3m1p2char2=samus |r3m1p1stock2= |r3m1p2stock2= |r3m1win2=1 |r3m1stage2=Final Destination
+|r3m1p1char3=samus |r3m1p2char3=samus |r3m1p1stock3= |r3m1p2stock3= |r3m1win3=1 |r3m1stage3=Battlefield
+|r3m1date=November 3, 2016
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=ncNW9xvHqYo|interview=|recap=}}
+}}
+
+{{Tabs dynamic/tab|2}}
+
+==Iron Man==
+===Participants===
+{{box|start|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| energy BALLZ mcdaniel
+|-
+|style="width:200px;"|{{flag/se}} {{head/peach}} {{head/fox}} {{head/sheik}} {{head/marth}} {{head/luigi}} [[Armada]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| *screeching*
+|-
+|style="width:200px;"|{{flag/us}} {{head/pikachu}} {{head/falco}} {{head/marth}} {{head/ic}} {{head/yl}} [[Axe]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| L O S L E F F O S
+|-
+|style="width:200px;"|{{flag/se}} {{head/fox}} {{head/falco}} {{head/marth}} {{head/yoshi}} {{head/mewtwo}} [[Leffen]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| Team Beer
+|-
+|style="width:200px;"|{{flag/us}} {{head/fox}} {{head/falco}} {{head/marth}} {{head/cf}} {{head/mario}} [[Mango]]
+|}
+{{box|end}}
+
+===Bracket===
+{{4DEBracket
+<!-- WINNERS SEMIS -->
+|r1m1p1=Mango |r1m1p1flag=us |r1m1p1score=20 |r1m1win=1
+|r1m1p2=Axe |r1m1p2flag=us |r1m1p2score=18
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m2p1=Armada |r1m2p1flag=se |r1m2p1score=20 |r1m2win=1
+|r1m2p2=Leffen |r1m2p2flag=se |r1m2p2score=15
+|r1m2date=
+|r1m2finished=
+|r1m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+<!-- WINNERS FINALS -->
+|r2m1p1=Mango |r2m1p1flag=us |r2m1p1score=20 |r2m1win=1
+|r2m1p2=Armada |r2m1p2flag=se |r2m1p2score=16
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+<!-- LOSERS SEMIS -->
+|l1m1p1=Axe |l1m1p1flag=us |l1m1p1score=20
+|l1m1p2=Leffen |l1m1p2flag=se |l1m1p2score=15
+|l1m1win=1
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+<!-- LOSERS FINALS -->
+|l2m1p1=Armada |l2m1p1flag=se |l2m1p1score=20
+|l2m1p2=Axe |l2m1p2flag=us|l2m1p2score=16
+|l2m1win=1
+|l2m1date=
+|l2m1finished=
+|l2m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Mango |r3m1p1flag=us |r3m1p1score=19 |r3m2p1score=12
+|r3m1p2=Armada |r3m1p2flag=se |r3m1p2score=20 |r3m2p2score=20
+|r3m1win=2
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+}}
+
+===Match Details===
+====Winners Semis====
+{{TeamMatch
+|team1literal='''Mango''' {{flag/us}} 
+|team2literal={{flag/us}} '''Axe'''
+|preview=
+|date=
+|finished=
+|live=
+|vod=
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=5
+|team2matches=4
+|team1stocks=
+|team2stocks=0
+
+|m1p1=Mango |m1p1char=cf |m1p1s1=4 |m1p1s2=2 |m1p2=Axe |m1p2char=falco |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Battlefield
+|m2p1=Mango |m2p1char=cf |m2p1s1=2 |m2p1s2=0 |m2p2=Axe  |m2p2char=yl |m2p2s1=4 |m2p2s2=1 |m2win=2 |m2stage=Fountain of Dreams
+|m3p1=Mango |m3p1char=mario |m3p1s1=4 |m3p1s2=4 |m3p2=Axe  |m3p2char=yl |m3p2s1=1 |m3p2s2=0 |m3win=1 |m3stage=Yoshi's Story
+|m4p1=Mango |m4p1char=mario |m4p1s1=4 |m4p1s2=0 |m4p2=Axe  |m4p2char=ic |m4p2s1=4 |m4p2s2=2 |m4win=2 |m4stage=Pokémon Stadium
+|m5p1=Mango |m5p1char=fox |m5p1s1=4 |m5p1s2=2 |m5p2=Axe  |m5p2char=ic |m5p2s1=2 |m5p2s2=0 |m5win=1 |m5stage=Yoshi's Story
+|m6p1=Mango |m6p1char=fox |m6p1s1=2 |m6p1s2=0 |m6p2=Axe  |m6p2char=pikachu |m6p2s1=4 |m6p2s2=2 |m6win=2 |m6stage=Final Destination
+|m7p1=Mango |m7p1char=falco |m7p1s1=4 |m7p1s2=1 |m7p2=Axe  |m7p2char=pikachu |m7p2s1=2 |m7p2s2=0 |m7win=1 |m7stage=Yoshi's Story
+|m8p1=Mango |m8p1char=falco |m8p1s1=1 |m8p1s2=0 |m8p2=Axe  |m8p2char=marth |m8p2s1=4 |m8p2s2=3 |m8win=2 |m8stage=Final Destination
+|m9p1=Mango |m9p1char=marth |m9p1s1=4 |m9p1s2=2 |m9p2=Axe  |m9p2char=marth |m9p2s1=3 |m9p2s2=0 |m9win=1 |m9stage=Yoshi's Story
+}}
+<nowiki>*</nowiki> It is not clear whether Mango had 2 or 3 stocks in the final game as the stream went down.<ref>[https://twitter.com/tafokints/status/794318481265000448 Tafokints on the results of Mango vs Axe]</ref>
+
+{{TeamMatch
+|team1literal='''Armada''' {{flag/se}} 
+|team2literal={{flag/se}} '''Leffen'''
+|preview=
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=sAxbMHAm-hc
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=5
+|team2matches=3
+|team1stocks=5
+|team2stocks=0
+
+|m1p1=Armada |m1p1char=peach |m1p1s1=4 |m1p1s2=2 |m1p2=Leffen |m1p2char=falco |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Fountain of Dreams
+|m2p1=Armada |m2p1char=peach |m2p1s1=2 |m2p1s2=0 |m2p2=Leffen |m2p2char=marth |m2p2s1=4 |m2p2s2=3 |m2win=2 |m2stage=Yoshi's Story
+|m3p1=Armada |m3p1char=sheik |m3p1s1=4 |m3p1s2=2 |m3p2=Leffen |m3p2char=marth |m3p2s1=3 |m3p2s2=0 |m3win=1 |m3stage=Dream Land
+|m4p1=Armada |m4p1char=sheik |m4p1s1=2 |m4p1s2=1 |m4p2=Leffen |m4p2char=yoshi |m4p2s1=4 |m4p2s2=0 |m4win=1 |m4stage=Fountain of Dreams
+|m5p1=Armada |m5p1char=sheik |m5p1s1=1 |m5p1s2=0 |m5p2=Leffen |m5p2char=fox |m5p2s1=4 |m5p2s2=3 |m5win=2 |m5stage=Final Destination
+|m6p1=Armada |m6p1char=fox |m6p1s1=4 |m6p1s2=2 |m6p2=Leffen |m6p2char=fox |m6p2s1=3 |m6p2s2=0 |m6win=1 |m6stage=Battlefield
+|m7p1=Armada |m7p1char=fox |m7p1s1=2 |m7p1s2=0 |m7p2=Leffen |m7p2char=mewtwo |m7p2s1=4 |m7p2s2=3 |m7win=2 |m7stage=Final Destination
+|m8p1=Armada |m8p1char=luigi |m8p1s1=4 |m8p1s2=1 |m8p2=Leffen |m8p2char=mewtwo |m8p2s1=3 |m8p2s2=0 |m8win=1 |m8stage=Pokémon Stadium
+}}
+
+====Winners Finals====
+{{TeamMatch
+|team1literal='''Mango''' {{flag/us}} 
+|team2literal={{flag/se}} '''Armada'''
+|preview=
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=vvYem2kvF9U
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=5
+|team2matches=4
+|team1stocks=4
+|team2stocks=0
+
+|m1p1=Mango |m1p1char=cf |m1p1s1=4 |m1p1s2=2 |m1p2=Armada |m1p2char=luigi |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Battlefield
+|m2p1=Mango |m2p1char=cf |m2p1s1=2 |m2p1s2=0 |m2p2=Armada |m2p2char=fox |m2p2s1=4 |m2p2s2=2 |m2win=2 |m2stage=Final Destination
+|m3p1=Mango |m3p1char=mario |m3p1s1=4 |m3p1s2=1 |m3p2=Armada |m3p2char=fox |m3p2s1=2 |m3p2s2=0 |m3win=1 |m3stage=Fountain of Dreams
+|m4p1=Mango |m4p1char=mario  |m4p1s1=1 |m4p1s2=0 |m4p2=Armada |m4p2char=marth |m4p2s1=4 |m4p2s2=3 |m4win=2 |m4stage=Battlefield
+|m5p1=Mango |m5p1char=falco |m5p1s1=4 |m5p1s2=2 |m5p2=Armada |m5p2char=marth |m5p2s1=3 |m5p2s2=0 |m5win=1 |m5stage=Yoshi's Story
+|m6p1=Mango |m6p1char=falco |m6p1s1=2 |m6p1s2=0 |m6p2=Armada |m6p2char=peach |m6p2s1=4 |m6p2s2=2 |m6win=2 |m6stage=Final Destination
+|m7p1=Mango |m7p1char=marth |m7p1s1=4 |m7p1s2=2 |m7p2=Armada |m7p2char=peach |m7p2s1=2 |m7p2s2=0 |m7win=1 |m7stage=Yoshi's Story
+|m8p1=Mango |m8p1char=marth |m8p1s1=2 |m8p1s2=0 |m8p2=Armada |m8p2char=sheik |m8p2s1=4 |m8p2s2=1 |m8win=2 |m8stage=Dream Land
+|m9p1=Mango |m9p1char=fox |m9p1s1=4 |m9p1s2=4 |m9p2=Armada |m9p2char=sheik |m9p2s1=1 |m9p2s2=0 |m9win=1 |m9stage=Yoshi's Story
+}}
+
+====Losers Semis====
+{{TeamMatch
+|team1literal='''Axe''' {{flag/us}} 
+|team2literal={{flag/se}} '''Leffen'''
+|preview=
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=z-NaakjdKWo
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=5
+|team2matches=3
+|team1stocks=5
+|team2stocks=0
+
+|m1p1=Axe |m1p1char=ic |m1p1s1=4 |m1p1s2=1 |m1p2=Leffen |m1p2char=falco |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Dream Land
+|m2p1=Axe |m2p1char=ic |m2p1s1=1 |m2p1s2=0 |m2p2=Leffen |m2p2char=yoshi |m2p2s1=4 |m2p2s2=3 |m2win=2 |m2stage=Fountain of Dreams
+|m3p1=Axe |m3p1char=falco |m3p1s1=4 |m3p1s2=2 |m3p2=Leffen |m3p2char=yoshi |m3p2s1=3 |m3p2s2=0 |m3win=1 |m3stage=Yoshi's Story
+|m4p1=Axe |m4p1char=falco |m4p1s1=2 |m4p1s2=0 |m4p2=Leffen |m4p2char=mewtwo |m4p2s1=4 |m4p2s2=1 |m4win=2 |m4stage=Final Destination
+|m5p1=Axe |m5p1char=marth |m5p1s1=4 |m5p1s2=3 |m5p2=Leffen |m5p2char=mewtwo |m5p2s1=1 |m5p2s2=0 |m5win=1 |m5stage=Yoshi's Story
+|m6p1=Axe |m6p1char=marth |m6p1s1=3 |m6p1s2=1 |m6p2=Leffen |m6p2char=marth |m6p2s1=4 |m6p2s2=0 |m6win=1 |m6stage=Final Destination
+|m7p1=Axe |m7p1char=marth |m7p1s1=1 |m7p1s2=0 |m7p2=Leffen |m7p2char=fox |m7p2s1=4 |m7p2s2=4 |m7win=2 |m7stage=Dream Land
+|m8p1=Axe |m8p1char=pikachu |m8p1s1=4 |m8p1s2=1 |m8p2=Leffen |m8p2char=fox |m8p2s1=4 |m8p2s2=0 |m8win=1 |m8stage=Final Destination
+}}
+
+====Losers Finals====
+{{TeamMatch
+|team1literal='''Armada''' {{flag/se}} 
+|team2literal={{flag/us}} '''Axe'''
+|preview=
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=3sHKAOJxtjk
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=5
+|team2matches=4
+|team1stocks=4
+|team2stocks=0
+
+|m1p1=Armada |m1p1char=peach |m1p1s1=4 |m1p1s2=1 |m1p2=Axe |m1p2char=falco |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Fountain of Dreams
+|m2p1=Armada |m2p1char=peach |m2p1s1=1 |m2p1s2=0 |m2p2=Axe |m2p2char=marth |m2p2s1=4 |m2p2s2=3 |m2win=2 |m2stage=Yoshi's Story
+|m3p1=Armada |m3p1char=sheik |m3p1s1=4 |m3p1s2=4 |m3p2=Axe |m3p2char=marth |m3p2s1=3 |m3p2s2=0 |m3win=1 |m3stage=Dream Land
+|m4p1=Armada |m4p1char=sheik |m4p1s1=4 |m4p1s2=1 |m4p2=Axe |m4p2char=ic |m4p2s1=4 |m4p2s2=0 |m4win=1 |m4stage=Final Destination
+|m5p1=Armada |m5p1char=sheik |m5p1s1=1 |m5p1s2=0 |m5p2=Axe |m5p2char=yl |m5p2s1=4 |m5p2s2=3 |m5win=2 |m5stage=Yoshi's Story
+|m6p1=Armada |m6p1char=marth |m6p1s1=4 |m6p1s2=2 |m6p2=Axe |m6p2char=yl |m6p2s1=3 |m6p2s2=0 |m6win=1 |m6stage=Battlefield
+|m7p1=Armada |m7p1char=marth |m7p1s1=2 |m7p1s2=0 |m7p2=Axe |m7p2char=pikachu |m7p2s1=4 |m7p2s2=4 |m7win=2 |m7stage=Pokémon Stadium
+|m8p1=Armada |m8p1char=luigi |m8p1s1=4 |m8p1s2=0 |m8p2=Axe |m8p2char=pikachu |m8p2s1=4 |m8p2s2=1 |m8win=2 |m8stage=Final Destination
+|m9p1=Armada |m9p1char=fox |m9p1s1=4 |m9p1s2=4 |m9p2=Axe |m9p2char=pikachu |m9p2s1=1 |m9p2s2=0 |m9win=1 |m9stage=Pokémon Stadium
+}}
+
+====Grand Finals====
+{{TeamMatch
+|team1literal='''Mango''' {{flag/us}} 
+|team2literal={{flag/se}} '''Armada'''
+|preview=
+|date=
+|finished=
+|live=
+|vod=
+|teamwin=2
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=4
+|team2matches=5
+|team1stocks=0
+|team2stocks=1
+
+|m1p1=Mango |m1p1char=cf |m1p1s1=4 |m1p1s2=3 |m1p2=Armada |m1p2char=luigi |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Battlefield
+|m2p1=Mango |m2p1char=cf |m2p1s1=3 |m2p1s2=0 |m2p2=Armada |m2p2char=fox |m2p2s1=4 |m2p2s2=3 |m2win=2 |m2stage=Final Destination
+|m3p1=Mango |m3p1char=falco |m3p1s1=4 |m3p1s2=1 |m3p2=Armada |m3p2char=fox |m3p2s1=3 |m3p2s2=0 |m3win=1 |m3stage=Dream Land
+|m4p1=Mango |m4p1char=falco |m4p1s1=1 |m4p1s2=0 |m4p2=Armada |m4p2char=marth |m4p2s1=4 |m4p2s2=3 |m4win=2 |m4stage=Final Destination
+|m5p1=Mango |m5p1char=mario |m5p1s1=4 |m5p1s2=1 |m5p2=Armada |m5p2char=marth |m5p2s1=3 |m5p2s2=0 |m5win=1 |m5stage=Yoshi's Story
+|m6p1=Mango |m6p1char=mario |m6p1s1=1 |m6p1s2=0 |m6p2=Armada |m6p2char=sheik |m6p2s1=4 |m6p2s2=3 |m6win=2 |m6stage=Battlefield
+|m7p1=Mango |m7p1char=fox |m7p1s1=4 |m7p1s2=2 |m7p2=Armada |m7p2char=sheik |m7p2s1=3 |m7p2s2=0 |m7win=1 |m7stage=Yoshi's Story
+|m8p1=Mango |m8p1char=fox |m8p1s1=2 |m8p1s2=0 |m8p2=Armada |m8p2char=peach |m8p2s1=4 |m8p2s2=3 |m8win=2 |m8stage=Final Destination
+|m9p1=Mango |m9p1char=marth |m9p1s1=4 |m9p1s2=0 |m9p2=Armada |m9p2char=peach |m9p2s1=3 |m9p2s2=1 |m9win=2 |m9stage=Yoshi's Story
+}}
+
+{{TeamMatch
+|team1literal='''Mango''' {{flag/us}} 
+|team2literal={{flag/se}} '''Armada'''
+|preview=
+|date=
+|finished=
+|live=
+|vod=
+|teamwin=2
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=3
+|team2matches=5
+|team1stocks=0
+|team2stocks=8
+
+|m1p1=Mango |m1p1char=marth |m1p1s1=4 |m1p1s2=0 |m1p2=Armada |m1p2char=falco |m1p2s1=4 |m1p2s2=1 |m1win=2 |m1stage=Battlefield
+|m2p1=Mango |m2p1char=mario |m2p1s1=4 |m2p1s2=3 |m2p2=Armada |m2p2char=falco |m2p2s1=1 |m2p2s2=0 |m2win=1 |m2stage=Yoshi's Story
+|m3p1=Mango |m3p1char=mario |m3p1s1=3 |m3p1s2=0 |m3p2=Armada |m3p2char=fox |m3p2s1=4 |m3p2s2=3 |m3win=2 |m3stage=Pokémon Stadium
+|m4p1=Mango |m4p1char=falco |m4p1s1=4 |m4p1s2=0 |m4p2=Armada |m4p2char=fox |m4p2s1=3 |m4p2s2=1 |m4win=2 |m4stage=Pokémon Stadium
+|m5p1=Mango |m5p1char=cf |m5p1s1=4 |m5p1s2=2 |m5p2=Armada |m5p2char=fox |m5p2s1=1 |m5p2s2=0 |m5win=1 |m5stage=Dream Land
+|m6p1=Mango |m6p1char=cf |m6p1s1=2 |m6p1s2=0 |m6p2=Armada |m6p2char=peach |m6p2s1=4 |m6p2s2=3 |m6win=2 |m6stage=Dream Land
+|m7p1=Mango |m7p1char=fox |m7p1s1=4 |m7p1s2=2 |m7p2=Armada |m7p2char=peach |m7p2s1=3 |m7p2s2=0 |m7win=1 |m7stage=Yoshi's Story
+|m8p1=Mango |m8p1char=fox |m8p1s1=2 |m8p1s2=0 |m8p2=Armada |m8p2char=marth |m8p2s1=4 |m8p2s2=4 |m8win=2 |m8stage=Pokémon Stadium
+}}
+
+{{Tabs dynamic/tab|3}}
+
+==Around the World==
+===Format===
+Each player starts by placing their token on a character in the corner of the Character Select Screen. At the end of each match, the winner advances their token to the next adjacent character. The goal of the game is to win a match with every character on the Character Select Screen.
+
+All stages were enabled, and stages were randomly selected. Game rules were Free For All, two minutes, two stocks. Sudden Death was played.
+
+===Participants===
+{{box|start|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| energy BALLZ mcdaniel
+|-
+|style="width:160px;"|{{flag/us}} [[Westballz]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| *screeching*
+|-
+|style="width:160px;"|{{flag/us}} [[Mew2King]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| L O S L E F F O S
+|-
+|style="width:160px;"|{{flag/ni}} [[n0ne]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| Team Beer
+|-
+|style="width:160px;"|{{flag/us}} [[PewPewU]]
+|}
+{{box|end}}
+
+===Matches===
+{| class="wikitable"
+! Stage
+! style="width:100px;"|{{flag/us}} Westballz
+! style="width:100px;"|{{flag/us}} Mew2King
+! style="width:100px;"|{{flag/ni}} n0ne
+! style="width:100px;"|{{flag/us}} PewPewU
+|-
+| [[Brinstar]]
+| {{head/roy}}
+| {{head/ganon}}
+| {{head/pichu}}
+| bgcolor="#cfc"| {{head/doc}}
+|-
+| [[Dream Land]]
+| {{head/roy}}
+| {{head/ganon}}
+| bgcolor="#cfc"| {{head/pichu}}
+| {{head/mario}}
+|-
+| [[Big Blue]]
+| {{head/roy}}
+| bgcolor="#cfc"| {{head/ganon}}
+| {{head/pikachu}}
+| {{head/mario}}
+|-
+| [[Brinstar Depths]]
+| bgcolor="#cfc"| {{head/roy}}
+| {{head/cf}}
+| {{head/pikachu}}
+| {{head/mario}}
+|-
+| [[Poké Floats]]
+| {{head/marth}}
+| {{head/cf}}
+| {{head/pikachu}}
+| bgcolor="#cfc"| {{head/mario}}
+|-
+| [[Yoshi's Island 64]]
+| bgcolor="#cfc"| {{head/marth}}
+| {{head/cf}}
+| {{head/pikachu}}
+| {{head/luigi}}
+|-
+| [[Great Bay]]
+| {{head/gaw}}
+| {{head/cf}}
+| bgcolor="#cfc"| {{head/pikachu}}
+| {{head/luigi}}
+|-
+| [[Onett]]
+| {{head/gaw}}
+| bgcolor="#cfc"| {{head/cf}}
+| {{head/jigglypuff}}
+| {{head/luigi}}
+|-
+| [[Final Destination]]
+| {{head/gaw}}
+| bgcolor="#cfc"| {{head/dk}}
+| {{head/jigglypuff}}
+| {{head/luigi}}
+|-
+| [[Icicle Mountain]]
+| {{head/gaw}}
+| {{head/yoshi}}
+| {{head/jigglypuff}}
+| bgcolor="#cfc"| {{head/luigi}}
+|-
+| [[Yoshi's Island]]
+| {{head/gaw}}
+| bgcolor="#cfc"| {{head/yoshi}}
+| {{head/jigglypuff}}
+| {{head/bowser}}
+|-
+| [[Mushroom Kingdom II]]
+| {{head/gaw}}
+| bgcolor="#cfc"| {{head/peach}}
+| {{head/jigglypuff}}
+| {{head/bowser}}
+|-
+| [[Flat Zone]]
+| bgcolor="#cfc"| {{head/gaw}}
+| {{head/bowser}}
+| {{head/jigglypuff}}
+| {{head/bowser}}
+|-
+| [[Mute City]]
+| {{head/mewtwo}}
+| {{head/bowser}}
+| bgcolor="#cfc"| {{head/jigglypuff}}
+| {{head/bowser}}
+|-
+| [[Fountain of Dreams]]
+| {{head/mewtwo}}
+| bgcolor="#cfc"| {{head/bowser}}
+| {{head/mewtwo}}
+| {{head/bowser}}
+|-
+| [[Fourside]]
+| {{head/mewtwo}}
+| bgcolor="#cfc"| {{head/luigi}}
+| {{head/mewtwo}}
+| {{head/bowser}}
+|-
+| [[Mushroom Kingdom]]
+| {{head/mewtwo}}
+| {{head/mario}}
+| {{head/mewtwo}}
+| bgcolor="#cfc"| {{head/bowser}}
+|-
+| [[Rainbow Cruise]]
+| {{head/mewtwo}}
+| {{head/mario}}
+| bgcolor="#cfc"| {{head/mewtwo}}
+| {{head/peach}}
+|-
+| [[Yoshi's Story]]
+| bgcolor="#cfc"| {{head/mewtwo}}
+| {{head/mario}}
+| {{head/gaw}}
+| {{head/peach}}
+|-
+| [[Kongo Jungle 64]]
+| bgcolor="#cfc"| {{head/jigglypuff}}
+| {{head/mario}}
+| {{head/gaw}}
+| {{head/peach}}
+|-
+| [[Temple]]
+| {{head/pikachu}}
+| {{head/mario}}
+| {{head/gaw}}
+| bgcolor="#cfc"| {{head/peach}}
+|-
+| [[Corneria]]
+| {{head/pikachu}}
+| {{head/mario}}
+| {{head/gaw}}
+| bgcolor="#cfc"| {{head/yoshi}}
+|-
+| [[Kongo Jungle]]
+| {{head/pikachu}}
+| {{head/mario}}
+| bgcolor="#cfc"| {{head/gaw}}
+| {{head/dk}}
+|-
+| [[Green Greens]]
+| {{head/pikachu}}
+| {{head/mario}}
+| bgcolor="#cfc"| {{head/marth}}
+| {{head/dk}}
+|-
+| [[Princess Peach's Castle]]
+| {{head/pikachu}}
+| {{head/mario}}
+| {{head/roy}}
+| bgcolor="#cfc"| {{head/dk}}
+|-
+| [[Venom]]
+| {{head/pikachu}}
+| {{head/mario}}
+| {{head/roy}}
+| bgcolor="#cfc"| {{head/cf}}
+|-
+| [[Brinstar Depths]]
+| bgcolor="#cfc"| {{head/pikachu}}
+| {{head/mario}}
+| {{head/roy}}
+| {{head/ganon}}
+|-
+| [[Dream Land]]
+| bgcolor="#cfc"| {{head/pichu}}
+| {{head/mario}}
+| {{head/roy}}
+| {{head/ganon}}
+|-
+| [[Yoshi's Island 64]]
+| {{head/falco}}
+| {{head/mario}}
+| {{head/roy}}
+| bgcolor="#cfc"| {{head/ganon}}
+|-
+| [[Yoshi's Story]]
+| {{head/falco}}
+| {{head/mario}}
+| bgcolor="#cfc"| {{head/roy}}
+| {{head/yl}}
+|-
+| [[Jungle Japes]]
+| bgcolor="#cfc"| {{head/falco}}
+| {{head/mario}}
+| {{head/yl}}
+| {{head/yl}}
+|-
+| [[Fourside]]
+| bgcolor="#cfc"| {{head/fox}}
+| {{head/mario}}
+| {{head/yl}}
+| {{head/yl}}
+|-
+| [[Mushroom Kingdom]]
+| {{head/ness}}
+| {{head/mario}}
+| bgcolor="#cfc"| {{head/yl}}
+| {{head/yl}}
+|-
+| [[Green Greens]]
+| {{head/ness}}
+| bgcolor="#cfc"| {{head/mario}}
+| {{head/link}}
+| {{head/yl}}
+|-
+| [[Yoshi's Island]]
+| {{head/ness}}
+| {{head/doc}}
+| bgcolor="#cfc"| {{head/link}}
+| {{head/yl}}
+|-
+| [[Mushroom Kingdom II]]
+| {{head/ness}}
+| bgcolor="#cfc"| {{head/doc}}
+| {{head/sheik}}
+| {{head/yl}}
+|-
+| [[Rainbow Cruise]]
+| {{head/ness}}
+| bgcolor="#cfc"| {{head/falco}}
+| {{head/sheik}}
+| {{head/yl}}
+|-
+| '''Total Wins'''
+| '''9'''
+| '''10'''
+| '''9'''
+| '''9'''
+|}
+
+The event ended prematurely because of time constraints.
+
+{{Tabs dynamic/tab|4}}
+
+==Draft Crew Battles==
+===Bracket===
+{{4SEBracket
+<!-- SEMIFINALS -->
+|r1m1p1=Team Beer |r1m1p1flag= |r1m1p1score=14
+|r1m1p2=energy BALLZ mcdaniel |r1m1p2flag= |r1m1p2score=16
+|r1m1win=2
+
+|r1m2p1=*screeching* |r1m2p1flag= |r1m2p1score=16
+|r1m2p2=L O S L E F F O S |r1m2p2flag= |r1m2p2score=11
+|r1m2win=1
+
+<!-- FINALS -->
+|r2m1p1=energy BALLZ mcdaniel |r2m1p1flag= |r2m1p1score=16
+|r2m1p2=*screeching* |r2m1p2flag= |r2m1p2score=11
+|r2m1win=1
+}}
+
+===Match Details===
+====Semifinals====
+{{TeamMatch
+|team1literal='''Team Beer'''
+|team2literal='''energy BALLZ mcdaniel'''
+|preview=
+|date=
+|finished=
+|live=
+|vod=
+|teamwin=2
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=3
+|team2matches=4
+|team1stocks=0
+|team2stocks=2
+
+|m1p1=PewPewU |m1p1char=marth |m1p1s1=4 |m1p1s2=1 |m1p2=Shroomed |m1p2char=sheik |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Battlefield
+|m2p1=PewPewU |m2p1char=marth |m2p1s1=1 |m2p1s2=0 |m2p2=Westballz |m2p2char=falco |m2p2s1=4 |m2p2s2=3 |m2win=2 |m2stage=Dream Land
+|m3p1=Mafia |m3p1char=peach |m3p1s1=4 |m3p1s2=3 |m3p2=Westballz |m3p2char=falco |m3p2s1=3 |m3p2s2=0 |m3win=1 |m3stage=Final Destination
+|m4p1=Mafia |m4p1char=peach |m4p1s1=3 |m4p1s2=0 |m4p2=Duck |m4p2char=samus |m4p2s1=4 |m4p2s2=3 |m4win=2 |m4stage=Pokémon Stadium
+|m5p1=S2J |m5p1char=cf |m5p1s1=4 |m5p1s2=1 |m5p2=Duck |m5p2char=samus |m5p2s1=3 |m5p2s2=0 |m5win=1 |m5stage=Pokémon Stadium
+|m6p1=S2J |m6p1char=cf |m6p1s1=1 |m6p1s2=0 |m6p2=Armada |m6p2char=peach |m6p2s1=4 |m6p2s2=4 |m6win=2 |m6stage=Final Destination
+|m7p1=Mango |m7p1char=fox |m7p1s1=4 |m7p1s2=0 |m7p2=Armada |m7p2char=peach |m7p2s1=4 |m7p2s2=2 |m7win=2 |m7stage=Yoshi's Story
+}}
+
+{{TeamMatch
+|team1literal='''*screeching*'''
+|team2literal='''L O S L E F F O S'''
+|preview=
+|date=
+|finished=
+|live=
+|vod=
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=4
+|team2matches=2
+|team1stocks=5
+|team2stocks=0
+
+|m1p1=Axe |m1p1char=pikachu |m1p1s1=4 |m1p1s2=2 |m1p2=SFAT |m1p2char=fox |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Battlefield
+|m2p1=Axe |m2p1char=pikachu |m2p1s1=2 |m2p1s2=0 |m2p2=Hungrybox |m2p2char=jigglypuff |m2p2s1=4 |m2p2s2=4 |m2win=2 |m2stage=Dream Land
+|m3p1=Plup |m3p1char=sheik |m3p1s1=4 |m3p1s2=1 |m3p2=Hungrybox |m3p2char=jigglypuff |m3p2s1=4 |m3p2s2=0 |m3win=1 |m3stage=Yoshi's Story
+|m4p1=Plup |m4p1char=sheik |m4p1s1=1 |m4p1s2=0 |m4p2=n0ne |m4p2char=cf |m4p2s1=4 |m4p2s2=2 |m4win=2 |m4stage=Dream Land
+|m5p1=The Moon |m5p1char=marth |m5p1s1=4 |m5p1s2=3 |m5p2=n0ne |m5p2char=cf |m5p2s1=2 |m5p2s2=0 |m5win=1 |m5stage=Yoshi's Story
+|m6p1=The Moon |m6p1char=marth |m6p1s1=3 |m6p1s2=0 |m6p2=Leffen |m6p2char=fox |m6p2s1=4 |m6p2s2=0 |m6win=1 |m6stage=Dream Land
+}}
+
+====Grand Finals====
+{{TeamMatch
+|team1literal='''*screeching*'''
+|team2literal='''energy BALLZ mcdaniel'''
+|preview=
+|date=
+|finished=2
+|live=
+|vod=
+|teamwin=2
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=2
+|team2matches=4
+|team1stocks=0
+|team2stocks=5
+
+|m1p1=Plup |m1p1char=sheik |m1p1s1=4 |m1p1s2=0 |m1p2=Shroomed |m1p2char=sheik |m1p2s1=4 |m1p2s2=1 |m1win=2 |m1stage=Battlefield
+|m2p1=The Moon |m2p1char=marth |m2p1s1=4 |m2p1s2=3 |m2p2=Shroomed |m2p2char=sheik |m2p2s1=1 |m2p2s2=0 |m2win=1 |m2stage=Yoshi's Story
+|m3p1=The Moon |m3p1char=marth |m3p1s1=3 |m3p1s2=0 |m3p2=Duck |m3p2char=samus |m3p2s1=4 |m3p2s2=3 |m3win=2 |m3stage=Dream Land
+|m4p1=Mew2King |m4p1char=sheik |m4p1s1=4 |m4p1s2=3 |m4p2=Duck |m4p2char=samus |m4p2s1=3 |m4p2s2=0 |m4win=1 |m4stage=Final Destination
+|m5p1=Mew2King |m5p1char=sheik |m5p1s1=3 |m5p1s2=0 |m5p2=Armada |m5p2char=peach |m5p2s1=4 |m5p2s2=3 |m5win=2 |m5stage=Dream Land
+|m6p1=Axe |m6p1char=pikachu |m6p1s1=4 |m6p1s2=0 |m6p2=Armada |m6p2char=peach |m6p2s1=3 |m6p2s2=1 |m6win=2 |m6stage=Pokémon Stadium
+}}
+{{Tabs dynamic/end}}
+
+==References==
+{{reflist}}

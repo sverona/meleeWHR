@@ -1,0 +1,78 @@
+{{DISPLAYTITLE:Smash Rivalries: East Coast vs West Coast}}{{Smash Rivalries Tabs |This=4}}
+==Full Rosters==
+{{box|start|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|{{flag/us}}  East Coast
+|-
+|style="width:160px;"|{{flag/us}} {{head/puff}} [[Hungrybox]]
+|-
+|{{flag/us}} {{head/sheik}} [[Mew2King]]
+|-
+|{{flag/us}} {{head/sheik}} [[Swedish Delight]]
+|-
+|{{flag/us}} {{head/cf}} [[Wizzrobe]]
+|-
+|{{flag/us}} {{head/samus}} [[Duck]]
+|-
+|{{flag/us}} {{head/marth}} [[The Moon]]
+|-
+|{{flag/us}} {{head/fox}} [[Druggedfox]]
+|-
+|{{flag/us}} {{head/ic}} [[ChuDat]]
+|-
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|{{flag/us}}  West Coast
+|-
+|style="width:160px;"|{{flag/us}} {{head/fox}} [[Mango]]
+|-
+|{{flag/us}} {{head/fox}} [[SFAT]]
+|-
+|{{flag/us}} {{head/falco}}  [[Westballz]]
+|-
+|{{flag/us}} {{head/pikachu}} [[Axe]]
+|-
+|{{flag/us}} {{head/sheik}} [[Shroomed]]
+|-
+|{{flag/us}} {{head/marth}} [[PewPewU]]
+|-
+|{{flag/us}} {{head/cf}} [[S2J]]
+|-
+|{{flag/us}} {{head/fox}} [[Lucky]]
+|-
+|}
+{{box|break|padding=1em}}
+{{box|end}}
+
+<onlyinclude>
+{{TeamMatch/start
+|team1literal='''East Coast''' {{flag/us}} 
+|team2literal={{flag/us}} '''West Coast'''
+|date=
+|width=240
+|startingstocks=4
+
+|team1matches=7
+|team2matches=8
+|team1stocks=0
+|team2stocks=4
+|teamwin=2
+}}
+{{TeamMatch/row |p1=Swedish Delight |p1char=sheik |p1s1=4 |p1s2=1 |p2=Lucky |p2char=fox |p2s1=4 |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Swedish Delight |p1char=sheik |p1s1=1 |p1s2=0 |p2=Shroomed |p2char=sheik |p2s1=4 |p2s2=3 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Chudat |p1char=ic |p1s1=4 |p1s2=1 |p2=Shroomed |p2char=sheik |p2s1=3 |p2s2=0 |win=1 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=Chudat |p1char=ic |p1s1=1 |p1s2=0 |p2=PewPewU |p2char=marth |p2s1=4 |p2s2=4 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Wizzrobe |p1char=cf |p1s1=4 |p1s2=2 |p2=PewPewU |p2char=marth |p2s1=4 |p2s2=0 |win=1 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=Wizzrobe |p1char=cf |p1s1=2 |p1s2=0 |p2=Westballz |p2char=falco |p2s1=4 |p2s2=3 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Hungrybox |p1char=jigglypuff |p1s1=4 |p1s2=1 |p2=Westballz |p2char=falco |p2s1=3 |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Hungrybox |p1char=jigglypuff |p1s1=1 |p1s2=0 |p2=SFAT |p2char=fox |p2s1=4 |p2s2=4 |win=2 |stage=Final Destination}}
+{{TeamMatch/row |p1=The Moon |p1char=marth |p1s1=4 |p1s2=0 |p2=SFAT |p2char=fox |p2s1=4 |p2s2=2 |win=2 |stage=Fountain of Dreams}}
+{{TeamMatch/row |p1=Druggedfox |p1char=fox |p1s1=4 |p1s2=0 |p2=SFAT |p2char=fox |p2s1=2 |p2s2=1 |win=2 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=Duck |p1char=samus |p1s1=4 |p1s2=3 |p2=SFAT |p2char=fox |p2s1=1 |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Duck |p1char=samus |p1s1=3 |p1s2=0 |p2=S2J |p2char=cf |p2s1=4 |p2s2=1 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mew2King |p1char=sheik |p1s1=4 |p1s2=4 |p2=S2J |p2char=cf |p2s1=1 |p2s2=0 |win=1 |stage=Fountain of Dreams}}
+{{TeamMatch/row |p1=Mew2King |p1char=sheik |p1s1=4 |p1s2=1 |p2=Mango |p2char=fox |p2s1=4 |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mew2King |p1char=sheik |p1s1=1 |p1s2=0 |p2=Axe |p2char=pikachu |p2s1=4 |p2s2=4 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/end |preview=|lrthread=|reddit=|interview=|review=|vod=https://youtu.be/duamK_hDskc}}
+</onlyinclude>

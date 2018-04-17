@@ -1,0 +1,130 @@
+{{DISPLAYTITLE:We Tech Those 3: ''Melee'' Singles Pools}}{{SetGame|melee}}{{GroupTableSlotSmwInfo
+|tourneylink=We Tech Those/3/Melee
+|tourneyname=We Tech Those 3
+|group_placements=5,7,9
+|final_placements=17-24,25-32,33-48
+}}
+{{Tabs static
+|name1=Overview
+|link1=We Tech Those/3/Melee
+|name2=Singles Pools
+|link2=We Tech Those/3/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=We Tech Those/3/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=We Tech Those/3/Melee/Doubles Bracket
+}}
+==Bracket Pools==
+{{Box|start|padding=4em}}
+==={{HiddenSort|MC1}}===
+{{GroupTableStart |Bracket MC1|width=300px}}
+{{GroupTableSlot|Junebug|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|We Tech Those/3/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Atomsk|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|We Tech Those/3/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|FMB5k|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|We Tech Those/3/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|47|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|We Tech Those/3/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlotSmw|Vari|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlotSmw|lint|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlotSmw|Dirtboy|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlotSmw|Bongo|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlotSmw|Flarp|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|Dandy|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|GodTouch|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|Domke|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|shug|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|HAMMERTIME|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|cal|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Woods|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|HSK|flag=|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|KJohn|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Propane|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Daxodox|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Kaloshade|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Disciple|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|nino|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|MC2}}===
+{{GroupTableStart |Bracket MC2|width=300px}}
+{{GroupTableSlot|Stango|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|We Tech Those/3/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Kalvar|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|We Tech Those/3/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|BIG KID|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|We Tech Those/3/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|PudgyPanda|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|We Tech Those/3/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlotSmw|Gohan|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlotSmw|techboy|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlotSmw|KDP|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlotSmw|Turtle|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlotSmw|brother rob|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|Face|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|D Double Keebs|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|Sokokopuffs|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Aidan|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Greidam|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Kuthillick|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Hydrodynamic|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|TOPY|flag=|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|ProXY|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|SerbianFilm|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|PenguinPowerTV|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Bionis|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Ghost of Kappa|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|TheFonz|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Enemy|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+==={{HiddenSort|MD1}}===
+{{GroupTableStart |Bracket MD1|width=300px}}
+{{GroupTableSlot|DJ Nintendo|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|We Tech Those/3/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Ryobeat|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|We Tech Those/3/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Wassabi|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|We Tech Those/3/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Lunchables|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|We Tech Those/3/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlotSmw|Sothe|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlotSmw|Rasen|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlotSmw|Swoosh|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlotSmw|Venti|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlotSmw|Sunshine|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|Rose|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|Troy|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|Ivayne|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Battery|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Lazy|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Dandyman|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Icy|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Kite|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Squints|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Cicero|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Jc_Chill|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Squirrlz|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Marko64|flag=ca|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|too%milk|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Supa|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|MD2}}===
+{{GroupTableStart |Bracket MD2|width=300px}}
+{{GroupTableSlot|bonfire10|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|We Tech Those/3/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Slox|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|We Tech Those/3/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|DrLobster|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|We Tech Those/3/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|ctrlaltdefeat|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|We Tech Those/3/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlotSmw|Lite|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlotSmw|Kevorkian|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlotSmw|Greasy|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlotSmw|Cruzycakes|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlotSmw|Mew2Queen|flag=ca|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|Baby Bird|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|Mask|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlotSmw|UltimaScout|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Userjoe9066|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Mar|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Bingo Bango|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Doppler|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Flash|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Ploopdud|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Beandawg_Trillionaire|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|sh1mk0k0|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|SPY|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Dolphin|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Dres|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}

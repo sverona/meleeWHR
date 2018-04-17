@@ -1,0 +1,196 @@
+{{SetGame|melee}}<!--
+-->{{DISPLAYTITLE:Apollo V: Doubles Bracket}}<!--
+-->{{Tabs static
+|name1=Overview |link1=Apollo/5
+|name2=Singles Pools |link2=Apollo/5/Singles Pools
+|name3=Singles Bracket |link3=Apollo/5/Singles Bracket
+|name4=Doubles Bracket |link4=Apollo/5/Doubles Bracket
+|This=4
+}}
+==Winners Bracket==
+{{16DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=G$ |r1m1t1p1flag=us
+|r1m1t1p2=DJ Nintendo |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=
+|r1m1win=1
+
+|r1m2t1p1=Syrup |r1m2t1p1flag=us
+|r1m2t1p2=Arty |r1m2t1p2flag=us |r1m2t1score={{win}}
+|r1m2t2p1=firex |r1m2t2p1flag=us
+|r1m2t2p2=emilywaves |r1m2t2p2flag=us |r1m2t2score=
+|r1m2win=1
+
+|r1m3t1p1=Vino |r1m3t1p1flag=us
+|r1m3t1p2=Ryobeat |r1m3t1p2flag=us |r1m3t1score={{win}}
+|r1m3t2p1=Bye |r1m3t2p1flag=
+|r1m3t2p2=Bye |r1m3t2p2flag= |r1m3t2score=
+|r1m3win=1
+
+|r1m4t1p1=Wassabi |r1m4t1p1flag=us
+|r1m4t1p2=Thx |r1m4t1p2flag=us |r1m4t1score={{win}}
+|r1m4t2p1=Bye |r1m4t2p1flag=
+|r1m4t2p2=Bye |r1m4t2p2flag= |r1m4t2score=
+|r1m4win=1
+
+|r1m5t1p1=dizzkidboogie |r1m5t1p1flag=us
+|r1m5t1p2=mayb |r1m5t1p2flag=us |r1m5t1score={{win}}
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=
+|r1m5win=1
+
+|r1m6t1p1=SB Chuuper |r1m6t1p1flag=us
+|r1m6t1p2=getbodied |r1m6t1p2flag=us |r1m6t1score={{win}}
+|r1m6t2p1=kong |r1m6t2p1flag=us
+|r1m6t2p2=DIO-L |r1m6t2p2flag=us |r1m6t2score=
+|r1m6win=1
+
+|r1m7t1p1=Kaeon |r1m7t1p1flag=us
+|r1m7t1p2=Animal |r1m7t1p2flag=us |r1m7t1score={{win}}
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=
+|r1m7win=1
+
+|r1m8t1p1=TheSWOOPER |r1m8t1p1flag=us
+|r1m8t1p2=Zealous5000 |r1m8t1p2flag=us |r1m8t1score={{win}}
+|r1m8t2p1=JJM |r1m8t2p1flag=us
+|r1m8t2p2=yungbambi |r1m8t2p2flag=us |r1m8t2score=
+|r1m8win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=G$ |r2m1t1p1flag=us
+|r2m1t1p2=DJ Nintendo |r2m1t1p2flag=us |r2m1t1score={{win}}
+|r2m1t2p1=Syrup |r2m1t2p1flag=us
+|r2m1t2p2=Arty |r2m1t2p2flag=us |r2m1t2score=
+|r2m1win=1
+
+|r2m2t1p1=Vino |r2m2t1p1flag=us
+|r2m2t1p2=Ryobeat |r2m2t1p2flag=us |r2m2t1score=
+|r2m2t2p1=Wassabi |r2m2t2p1flag=us
+|r2m2t2p2=Thx |r2m2t2p2flag=us |r2m2t2score={{win}}
+|r2m2win=2
+
+|r2m3t1p1=dizzkidboogie |r2m3t1p1flag=us
+|r2m3t1p2=mayb |r2m3t1p2flag=us |r2m3t1score={{win}}
+|r2m3t2p1=SB Chuuper |r2m3t2p1flag=us
+|r2m3t2p2=getbodied |r2m3t2p2flag=us |r2m3t2score=
+|r2m3win=1
+
+|r2m4t1p1=Kaeon |r2m4t1p1flag=us
+|r2m4t1p2=Animal |r2m4t1p2flag=us |r2m4t1score={{win}}
+|r2m4t2p1=TheSWOOPER |r2m4t2p1flag=us
+|r2m4t2p2=Zealous5000 |r2m4t2p2flag=us |r2m4t2score=
+|r2m4win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=G$ |r3m1t1p1flag=us
+|r3m1t1p2=DJ Nintendo |r3m1t1p2flag=us |r3m1t1score={{win}}
+|r3m1t2p1=Wassabi |r3m1t2p1flag=us
+|r3m1t2p2=Thx |r3m1t2p2flag=us |r3m1t2score=
+|r3m1win=1
+
+|r3m2t1p1=dizzkidboogie |r3m2t1p1flag=us
+|r3m2t1p2=mayb |r3m2t1p2flag=us |r3m2t1score=
+|r3m2t2p1=Kaeon |r3m2t2p1flag=us
+|r3m2t2p2=Animal |r3m2t2p2flag=us |r3m2t2score={{win}}
+|r3m2win=2
+}}
+==Losers Bracket==
+{{12DEDoublesLBracketSmwA
+|tourneylink=Apollo/5
+|tourneyname=Apollo V
+|l1placement=9-12
+|l2placement=7-8
+|l3placement=5-6
+|column-width=160
+<!-- ROUND 1 -->
+|l1m1t1p1=TheSWOOPER |l1m1t1p1flag=us
+|l1m1t1p2=Zealous5000 |l1m1t1p2flag=us |l1m1t1score={{win}}
+|l1m1t2p1=firex |l1m1t2p1flag=us
+|l1m1t2p2=emilywaves |l1m1t2p2flag=us |l1m1t2score=
+|l1m1win=1
+
+|l1m2t1p1=SB Chuuper |l1m2t1p1flag=us
+|l1m2t1p2=getbodied |l1m2t1p2flag=us |l1m2t1score={{win}}
+|l1m2t2p1=Bye |l1m2t2p1flag=
+|l1m2t2p2=Bye |l1m2t2p2flag= |l1m2t2score=
+|l1m2win=1
+
+|l1m3t1p1=Vino |l1m3t1p1flag=us
+|l1m3t1p2=Ryobeat |l1m3t1p2flag=us |l1m3t1score={{win}}
+|l1m3t2p1=kong |l1m3t2p1flag=us
+|l1m3t2p2=DIO-L |l1m3t2p2flag=us |l1m3t2score=
+|l1m3win=1
+
+|l1m4t1p1=Syrup |l1m4t1p1flag=us
+|l1m4t1p2=Arty |l1m4t1p2flag=us |l1m4t1score={{win}}
+|l1m4t2p1=JJM |l1m4t2p1flag=us
+|l1m4t2p2=yungbambi |l1m4t2p2flag=us |l1m4t2score=
+|l1m4win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=TheSWOOPER |l2m1t1p1flag=us
+|l2m1t1p2=Zealous5000 |l2m1t1p2flag=us |l2m1t1score={{win}}
+|l2m1t2p1=SB Chuuper |l2m1t2p1flag=us
+|l2m1t2p2=getbodied |l2m1t2p2flag=us |l2m1t2score=
+|l2m1win=1
+
+|l2m2t1p1=Vino |l2m2t1p1flag=us
+|l2m2t1p2=Ryobeat |l2m2t1p2flag=us |l2m2t1score={{win}}
+|l2m2t2p1=Syrup |l2m2t2p1flag=us
+|l2m2t2p2=Arty |l2m2t2p2flag=us |l2m2t2score=
+|l2m2win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=Wassabi |l3m1t1p1flag=us
+|l3m1t1p2=Thx |l3m1t1p2flag=us |l3m1t1score=
+|l3m1t2p1=TheSWOOPER |l3m1t2p1flag=us
+|l3m1t2p2=Zealous5000 |l3m1t2p2flag=us |l3m1t2score={{win}}
+|l3m1win=2
+
+|l3m2t1p1=dizzkidboogie |l3m2t1p1flag=us
+|l3m2t1p2=mayb |l3m2t1p2flag=us |l3m2t1score={{win}}
+|l3m2t2p1=Vino |l3m2t2p1flag=us
+|l3m2t2p2=Ryobeat |l3m2t2p2flag=us |l3m2t2score=
+|l3m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Apollo/5
+|tourneyname=Apollo V
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=G$ |r1m1t1p1flag=us
+|r1m1t1p2=DJ Nintendo |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Kaeon |r1m1t2p1flag=us
+|r1m1t2p2=Animal |r1m1t2p2flag=us |r1m1t2score=
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=TheSWOOPER |l1m1t1p1flag=us
+|l1m1t1p2=Zealous5000 |l1m1t1p2flag=us |l1m1t1score={{win}}
+|l1m1t2p1=dizzkidboogie |l1m1t2p1flag=us
+|l1m1t2p2=mayb |l1m1t2p2flag=us |l1m1t2score=
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Kaeon |r2m1t1p1flag=us
+|r2m1t1p2=Animal |r2m1t1p2flag=us |r2m1t1score={{win}}
+|r2m1t2p1=TheSWOOPER |r2m1t2p1flag=us
+|r2m1t2p2=Zealous5000 |r2m1t2p2flag=us |r2m1t2score=
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=G$ |r3m1t1p1flag=us
+|r3m1t1p2=DJ Nintendo |r3m1t1p2flag=us |r3m1t1score={{win}} |r3m2t1score=
+|r3m1t2p1=Kaeon |r3m1t2p1flag=us
+|r3m1t2p2=Animal |r3m1t2p2flag=us |r3m1t2score= |r3m2t2score=
+|r3m1win=1
+}}
+</onlyinclude>

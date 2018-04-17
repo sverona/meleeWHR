@@ -1,0 +1,1054 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Nanashi",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Shippu",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m1": {
+            "date": "May 1, 2016",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/icyYH2_lDZ8?t=333"
+            },
+            "p1": "aMSa",
+            "p1char1": "yoshi",
+            "p1char2": "yoshi",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p1stock1": "0",
+            "p1stock2": "0",
+            "p2": "Rudolph",
+            "p2char1": "fox",
+            "p2char2": "fox",
+            "p2flag": "jp",
+            "p2score": "2",
+            "p2stock1": "1",
+            "p2stock2": "1",
+            "stage1": "Battlefield",
+            "stage2": "Battlefield",
+            "win": "2",
+            "win1": "2",
+            "win2": "2"
+        },
+        "r2m1": {
+            "date": "May 1, 2016",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/icyYH2_lDZ8?t=904"
+            },
+            "p1": "aMSa",
+            "p1char1": "yoshi",
+            "p1char2": "yoshi",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p1stock1": "4",
+            "p1stock2": "1",
+            "p2": "Nanashi",
+            "p2char1": "samus",
+            "p2char2": "samus",
+            "p2flag": "jp",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Battlefield",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r3m1": {
+            "date": "May 1, 2016",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/icyYH2_lDZ8?t=1758",
+                "vod2": "https://youtu.be/icyYH2_lDZ8?t=2185"
+            }
+        },
+        "r3m2": {
+            "p1char1": "yoshi",
+            "p1char2": "yoshi",
+            "p1char3": "yoshi",
+            "p1stock1": "0",
+            "p1stock2": "1",
+            "p1stock3": "1",
+            "p2char1": "fox",
+            "p2char2": "fox",
+            "p2char3": "fox",
+            "p2stock1": "1",
+            "p2stock2": "0",
+            "p2stock3": "0",
+            "stage1": "Battlefield",
+            "stage2": "Battlefield",
+            "stage3": "Final Destination",
+            "win1": "2",
+            "win2": "1",
+            "win3": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "bozitoma",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m10": {
+            "p1": "Kira",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Eidoran",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m11": {
+            "p1": "S2K",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m12": {
+            "p1": "Yoppo~",
+            "p1flag": "jp",
+            "p1score": "",
+            "p2": "Lagnel",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m13": {
+            "p1": "Suinoko",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m14": {
+            "p1": "Sawa",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Maeda Shinku",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m15": {
+            "p1": "Yamanyon",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m16": {
+            "p1": "Zer0",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Reto",
+            "p2flag": "jp",
+            "p2score": "DQ",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Ayataka",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Hitori",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "SamurAI",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Watch",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Takuhito",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Kentarosu",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "Shi-kun",
+            "p1flag": "jp",
+            "p1score": "",
+            "p2": "JUN",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Homura",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "Kei",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Kesuke",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m9": {
+            "p1": "Yamato",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "bozitoma",
+            "p1flag": "jp",
+            "p1score": "1",
+            "p2": "Ayataka",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "SamurAI",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "Watch",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "Kentarosu",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "JUN",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Homura",
+            "p1flag": "jp",
+            "p1score": "1",
+            "p2": "Kei",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Yamato",
+            "p1flag": "jp",
+            "p1score": "1",
+            "p2": "Kira",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "S2K",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Lagnel",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Suinoko",
+            "p1flag": "jp",
+            "p1score": "1",
+            "p2": "Sawa",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m8": {
+            "p1": "Yamanyon",
+            "p1flag": "jp",
+            "p1score": "1",
+            "p2": "Zer0",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Tapioka",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Ayataka",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Maatan",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "Watch",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Zoma",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Kentarosu",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "Hino",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Kei",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m5": {
+            "p1": "So-ten",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Kira",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m6": {
+            "p1": "Shirubaniafamiri GT",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "S2K",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m7": {
+            "p1": "s-royal",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Sawa",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m8": {
+            "p1": "Plata",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Zer0",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Tapioka",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Watch",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Zoma",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Hino",
+            "p2flag": "jp",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "So-ten",
+            "p1flag": "jp",
+            "p1score": "1",
+            "p2": "Shirubaniafamiri GT",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "s-royal",
+            "p1flag": "jp",
+            "p1score": "1",
+            "p2": "Plata",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Kounotori",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Tapioka",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Da-yoshi",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "Zoma",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m3": {
+            "p1": "K.F",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Shirubaniafamiri GT",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m4": {
+            "p1": "Sheik",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Plata",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Kounotori",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Zoma",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "K.F",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "Sheik",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l7m1": {
+            "p1": "Nanashi",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Kounotori",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l7m2": {
+            "p1": "Shippu",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Sheik",
+            "p2flag": "jp",
+            "p2score": "1",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Nanashi",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "S2K",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "JUN",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Maatan",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Yoppo~",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Tapioka",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Kesuke",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "Yamato",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "Sheik",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Kira",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m17": {
+            "p1": "Rudolph",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m18": {
+            "p1": "Eidoran",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "Homura",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m19": {
+            "p1": "Kei",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Yamanyon",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Hitori",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m20": {
+            "p1": "Plata",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m21": {
+            "p1": "Kounotori",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m22": {
+            "p1": "Kentarosu",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Lagnel",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m23": {
+            "p1": "s-royal",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m24": {
+            "p1": "Shi-kun",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m25": {
+            "p1": "Shippu",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m26": {
+            "p1": "Maeda Shinku",
+            "p1flag": "jp",
+            "p1score": "",
+            "p2": "SamurAI",
+            "p2flag": "jp",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m27": {
+            "p1": "Watch",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m28": {
+            "p1": "Shirubaniafamiri GT",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m29": {
+            "p1": "So-ten",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Hino",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m30": {
+            "p1": "bozitoma",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Reto",
+            "p2flag": "jp",
+            "p2score": "DQ",
+            "win": "1"
+        },
+        "r1m31": {
+            "p1": "Da-yoshi",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m32": {
+            "p1": "Ayataka",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Zer0",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "K.F",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Takuhito",
+            "p1flag": "jp",
+            "p1score": "1",
+            "p2": "Suinoko",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Zoma",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Sawa",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "aMSa",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Nanashi",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Yamanyon",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m10": {
+            "p1": "Kei",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "Plata",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m11": {
+            "p1": "Kounotori",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Kentarosu",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m12": {
+            "p1": "s-royal",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Shi-kun",
+            "p2flag": "jp",
+            "p2score": "DQ",
+            "win": "1"
+        },
+        "r2m13": {
+            "p1": "Shippu",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "SamurAI",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m14": {
+            "p1": "Watch",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "Shirubaniafamiri GT",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m15": {
+            "p1": "So-ten",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "bozitoma",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m16": {
+            "p1": "Da-yoshi",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Ayataka",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Hino",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Zer0",
+            "p2flag": "jp",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "K.F",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Suinoko",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Zoma",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Sawa",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "aMSa",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "S2K",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Maatan",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Yoppo~",
+            "p2flag": "jp",
+            "p2score": "DQ",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Tapioka",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Yamato",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Sheik",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Kira",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m9": {
+            "p1": "Rudolph",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Homura",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Nanashi",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Hino",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "K.F",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Zoma",
+            "p2flag": "jp",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "aMSa",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Maatan",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Tapioka",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "Sheik",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m5": {
+            "p1": "Rudolph",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Plata",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m6": {
+            "p1": "Kounotori",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "s-royal",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m7": {
+            "p1": "Shippu",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Shirubaniafamiri GT",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m8": {
+            "p1": "So-ten",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "Da-yoshi",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "Nanashi",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "K.F",
+            "p2flag": "jp",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "aMSa",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Sheik",
+            "p2flag": "jp",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r4m3": {
+            "p1": "Rudolph",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Kounotori",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m4": {
+            "p1": "Shippu",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Da-yoshi",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r5m1": {
+            "p1": "Nanashi",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p2": "aMSa",
+            "p2flag": "jp",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r5m2": {
+            "p1": "Rudolph",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p2": "Shippu",
+            "p2flag": "jp",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

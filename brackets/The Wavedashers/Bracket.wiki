@@ -1,0 +1,119 @@
+{{DISPLAYTITLE:The Wavedashers: Bracket}}
+{{tabs static
+|name1=Overview
+|link1=The_Wavedashers
+|name2=Pools
+|link2=The_Wavedashers/Pools
+|name3=Bracket
+|link3=The_Wavedashers/Bracket
+|This=3
+}}
+
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia name=teamdashsp-wavedashersmelee -->
+
+==Winners Bracket==
+{{8DEWBracketA
+|tourneylink=
+|tourneyname=
+|r1m1p1=Aisengobay |r1m1p1flag=br |r1m1p1score=2 |r1m1win=1
+|r1m1p2=Kizzu |r1m1p2flag= |r1m1p2score=0
+
+|r1m2p1=Leso |r1m2p1flag=br |r1m2p1score=1 |r1m2win=1
+|r1m2p2=Slug |r1m2p2flag=br |r1m2p2score=0
+
+|r1m3p1=Walk |r1m3p1flag=br |r1m3p1score=1 |r1m3win=1
+|r1m3p2=DASH{{!}}FNF.dede |r1m3p2flag= |r1m3p2score=0
+
+|r1m4p1=Godzrage |r1m4p1flag= |r1m4p1score=1 |r1m4win=1
+|r1m4p2=McS33 |r1m4p2flag= |r1m4p2score=0
+
+|r2m1p1=Aisengobay |r2m1p1flag=br |r2m1p1score=2 |r2m1win=1
+|r2m1p2=Leso |r2m1p2flag=br |r2m1p2score=1
+
+|r2m2p1=Walk |r2m2p1flag=br |r2m2p1score=2 |r2m2win=1
+|r2m2p2=Godzrage |r2m2p2flag= |r2m2p2score=0
+}}
+
+==Losers Bracket==
+{{8DELBracketA
+|l1m1p1=Kizzu |l1m1p1flag= |l1m1p1score=0 |l1m1win=2
+|l1m1p2=Slug |l1m1p2flag=br |l1m1p2score=2
+
+|l1m2p1=DASH{{!}}FNF.dede |l1m2p1flag= |l1m2p1score=1 |l1m2win=2
+|l1m2p2=McS33 |l1m2p2flag= |l1m2p2score=2
+
+|l2m1p1=Godzrage |l2m1p1flag= |l2m1p1score=2 |l2m1win=1
+|l2m1p2=Slug |l2m1p2flag=br |l2m1p2score=0
+
+|l2m2p1=Leso |l2m2p1flag=br |l2m2p1score=2 |l2m2win=1
+|l2m2p2=McS33 |l2m2p2flag= |l2m2p2score=0
+}}
+
+==Finals Bracket==
+<onlyinclude>
+{{DEFinalBracket
+|column-width=225
+<!-- FROM WINNERS -->
+|r1m1p1=Aisengobay |r1m1p1flag=br |r1m1p1score=3 |r1m1win=1
+|r1m1p2=Walk |r1m1p2flag=br |r1m1p2score=2
+|r1m1p1char1=fox |r1m1p1stock1=0 |r1m1p2char1=sheik |r1m1p2stock1=1 |r1m1win1=2 |r1m1stage1=Battlefield 
+|r1m1p1char2=fox |r1m1p1stock2=2 |r1m1p2char2=sheik |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1p1char3=fox |r1m1p1stock3=3 |r1m1p2char3=sheik |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Fountain of Dreams
+|r1m1p1char4=fox |r1m1p1stock4=0 |r1m1p2char4=sheik |r1m1p2stock4=1 |r1m1win4=2 |r1m1stage4=Dream Land
+|r1m1p1char5=fox |r1m1p1stock5=1 |r1m1p2char5=sheik |r1m1p2stock5=0 |r1m1win5=1 |r1m1stage5=Pokémon Stadium
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=pe7nuALNBi4
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Godz |l1m1p1flag=br |l1m1p1score=1 |l1m1win=2
+|l1m1p2=Leso |l1m1p2flag=br |l1m1p2score=2
+|l1m1p1char1=jigglypuff |l1m1p1stock1=0 |l1m1p2char1=cf |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Battlefield 
+|l1m1p1char2=jigglypuff |l1m1p1stock2=1 |l1m1p2char2=cf |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Dream Land
+|l1m1p1char3=jigglypuff |l1m1p1stock3=0 |l1m1p2char3=cf |l1m1p2stock3=2 |l1m1win3=2 |l1m1stage3=Final Destination
+|l1m1p1char4= |l1m1p1stock4= |l1m1p2char4= |l1m1p2stock4= |l1m1win4= |l1m1stage4=
+|l1m1p1char5= |l1m1p1stock5= |l1m1p2char5= |l1m1p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=Xl9zrUXUlSA
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Walk |r2m1p1flag=br |r2m1p1score=2 |r2m1win=2
+|r2m1p2=Leso |r2m1p2flag=br |r2m1p2score=3
+|r2m1p1char1=sheik |r2m1p2char1=captain falcon |r2m1p1stock1=2 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Final Destination
+|r2m1p1char2=sheik |r2m1p2char2=captain falcon |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Battlefield
+|r2m1p1char3=sheik |r2m1p2char3=dr mario |r2m1p1stock3=1 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Fountain of Dreams
+|r2m1p1char4=sheik |r2m1p2char4=captain falcon |r2m1p1stock4=0 |r2m1p2stock4=3 |r2m1win4=2 |r2m1stage4=Yoshi's Story
+|r2m1p1char5=sheik |r2m1p2char5=captain falcon |r2m1p1stock5=0 |r2m1p2stock5=1 |r2m1win5=2 |r2m1stage5=Dream Land
+|r2m1date=April 14, 2015
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=tNaiGJ9Otl4}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Aisengobay |r3m1p1flag=br |r3m1p1score=3 |r3m1win=1
+|r3m1p2=Leso |r3m1p2flag=br |r3m1p2score=1
+|r3m1p1char1=fox |r3m1p2char1=captain falcon |r3m1p1stock1=3 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Final Destination
+|r3m1p1char2=fox |r3m1p2char2=captain falcon |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Battlefield
+|r3m1p1char3=donkey kong |r3m1p2char3=captain falcon |r3m1p1stock3=0 |r3m1p2stock3=2 |r3m1win3=2 |r3m1stage3=Battlefield
+|r3m1p1char4=donkey kong |r3m1p2char4=dr mario |r3m1p1stock4=4 |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Final Destination
+|r3m1date=April 14, 2015
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=u5m2JWsPyDE}}
+}}
+</onlyinclude>

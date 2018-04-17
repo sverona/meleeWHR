@@ -1,0 +1,72 @@
+{
+    "===Final===": {},
+    "===Quarterfinals===": {},
+    "===Semifinals===": {},
+    "==Crew Rosters==": {},
+    "==Crews Bracket==": {
+        "r1m1": {
+            "p1": "Team Chillindude",
+            "p1flag": "",
+            "p1score": "15",
+            "p2": "Team Silent Wolf",
+            "p2flag": "",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r1m2": {
+            "p1": "Team ChuDat",
+            "p1flag": "",
+            "p1score": "16",
+            "p2": "Team SFAT",
+            "p2flag": "",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Team Zhu",
+            "p1flag": "",
+            "p1score": "17",
+            "p2": "Team Hungrybox",
+            "p2flag": "",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "Team Nintendude",
+            "p1flag": "",
+            "p1score": "20",
+            "p2": "Team Duck",
+            "p2flag": "",
+            "p2score": "15",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Team Silent Wolf",
+            "p1flag": "",
+            "p1score": "20",
+            "p2": "Team SFAT",
+            "p2flag": "",
+            "p2score": "15",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Team Hungrybox",
+            "p1flag": "",
+            "p1score": "20",
+            "p2": "Team Nintendude",
+            "p2flag": "",
+            "p2score": "17",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Team Silent Wolf",
+            "p1flag": "",
+            "p1score": "20",
+            "p2": "Team Hungrybox",
+            "p2flag": "",
+            "p2score": "18",
+            "win": "1"
+        }
+    },
+    "==Sources==": {}
+}

@@ -1,0 +1,213 @@
+{{DISPLAYTITLE:Smash 'N' Splash: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Smash 'N' Splash/1/Melee
+|name2=Attendees
+|link2=Smash 'N' Splash/1/Melee/Attendees
+|name3=Singles Pools
+|link3=Smash 'N' Splash/1/Melee/Singles Pools
+|name4=Singles Bracket
+|link4=Smash 'N' Splash/1/Melee/Singles Bracket
+|name5=Doubles Bracket
+|link5=Smash 'N' Splash/1/Melee/Doubles Bracket
+|This=5
+}}
+==Winners Bracket==
+{{2SEDoublesBracket
+|r1m1t1p1=Wizzrobe |r1m1t1p1flag=us
+|r1m1t1p2=Plup |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=AnDaLe |r1m1t2p1flag=us
+|r1m1t2p2=Baka4Moe |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+}}
+
+{{2SEDoublesBracket
+|hideroundtitles=true
+
+|r1m1t1p1=Mew2King |r1m1t1p1flag=us
+|r1m1t1p2=Vidjogamer |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=Darkrain |r1m1t2p1flag=us
+|r1m1t2p2=Dart! |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+|r1m1t1p1char1=sheik |r1m1t1p1stock1=1 |r1m1t1p2char1=peach |r1m1t1p2stock1=1
+|r1m1t2p1char1=cf |r1m1t2p1stock1=0 |r1m1t2p2char1=marth |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Final Destination
+|r1m1t1p1char2=sheik |r1m1t1p1stock2=1 |r1m1t1p2char2=peach |r1m1t1p2stock2=1
+|r1m1t2p1char2=cf |r1m1t2p1stock2=0 |r1m1t2p2char2=marth |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1t1p1char3=sheik |r1m1t1p1stock3=2 |r1m1t1p2char3=peach |r1m1t1p2stock3=1
+|r1m1t2p1char3=cf |r1m1t2p1stock3=0 |r1m1t2p2char3=marth |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Final Destination
+|r1m1date=June 14, 2015
+|r1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/4ymzNT1urm8}}
+}}
+==Losers Bracket==
+{{8DEDoublesLBracketSmwA
+|tourneylink=Smash 'N' Splash/1/Melee
+|tourneyname=Smash 'N' Splash
+|l1placement=7-8
+|l2placement=5-6
+|column-width=160
+
+|l1m1t1p1=Hanky Panky |l1m1t1p1flag=us
+|l1m1t1p2=Drephen |l1m1t1p2flag=us |l1m1t1score={{win}}
+|l1m1t2p1=Kels |l1m1t2p1flag=us
+|l1m1t2p2=Vro |l1m1t2p2flag=us |l1m1t2score=DQ
+|l1m1win=1
+
+|l1m2t1p1=Hindawg |l1m2t1p1flag=us
+|l1m2t1p2=Oro |l1m2t1p2flag=us |l1m2t1score=0
+|l1m2t2p1=Captain Faceroll |l1m2t2p1flag=us
+|l1m2t2p2=PRZ |l1m2t2p2flag=us |l1m2t2score=2
+|l1m2win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Darkrain |l2m1t1p1flag=us
+|l2m1t1p2=Dart! |l2m1t1p2flag=us |l2m1t1score=3
+|l2m1t2p1=Hanky Panky |l2m1t2p1flag=us
+|l2m1t2p2=Drephen |l2m1t2p2flag=us |l2m1t2score=0
+|l2m1win=1
+|l2m1t1p1char1=cf |l2m1t1p1stock1=1 |l2m1t1p2char1=marth |l2m1t1p2stock1=1
+|l2m1t2p1char1=peach |l2m1t2p1stock1=0 |l2m1t2p2char1=sheik |l2m1t2p2stock1=0 |l2m1win1=1 |l2m1stage1=Battlefield
+|l2m1t1p1char2=cf |l2m1t1p1stock2=1 |l2m1t1p2char2=marth |l2m1t1p2stock2=1
+|l2m1t2p1char2=peach |l2m1t2p1stock2=0 |l2m1t2p2char2=sheik |l2m1t2p2stock2=0 |l2m1win2=1 |l2m1stage2=Dream Land
+|l2m1t1p1char3=cf |l2m1t1p1stock3=1 |l2m1t1p2char3=marth |l2m1t1p2stock3=2
+|l2m1t2p1char3=peach |l2m1t2p1stock3=0 |l2m1t2p2char3=sheik |l2m1t2p2stock3=0 |l2m1win3=1 |l2m1stage3=Dream Land
+|l2m1date=June 14, 2015
+|l2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/Y6mK35XLeCE}}
+
+|l2m2t1p1=AnDaLe |l2m2t1p1flag=us
+|l2m2t1p2=Baka4Moe |l2m2t1p2flag=us |l2m2t1score=3
+|l2m2t2p1=Captain Faceroll |l2m2t2p1flag=us
+|l2m2t2p2=PRZ |l2m2t2p2flag=us |l2m2t2score=2
+|l2m2win=1
+|l2m2t1p1char1=jigglypuff |l2m2t1p1stock1=2 |l2m2t1p2char1=peach |l2m2t1p2stock1=2
+|l2m2t2p1char1=sheik |l2m2t2p1stock1=0 |l2m2t2p2char1=fox |l2m2t2p2stock1=0 |l2m2win1=1 |l2m2stage1=Final Destination
+|l2m2t1p1char2=jigglypuff |l2m2t1p1stock2=0 |l2m2t1p2char2=peach |l2m2t1p2stock2=0
+|l2m2t2p1char2=sheik |l2m2t2p1stock2=3 |l2m2t2p2char2=fox |l2m2t2p2stock2=1 |l2m2win2=2 |l2m2stage2=Pokémon Stadium
+|l2m2t1p1char3=jigglypuff |l2m2t1p1stock3=0 |l2m2t1p2char3=peach |l2m2t1p2stock3=0
+|l2m2t2p1char3=sheik |l2m2t2p1stock3=0 |l2m2t2p2char3=jigglypuff |l2m2t2p2stock3=1 |l2m2win3=2 |l2m2stage3=Dream Land
+|l2m2t1p1char4=jigglypuff |l2m2t1p1stock4=1 |l2m2t1p2char4=peach |l2m2t1p2stock4=1
+|l2m2t2p1char4=sheik |l2m2t2p1stock4=0 |l2m2t2p2char4=fox |l2m2t2p2stock4=0 |l2m2win4=1 |l2m2stage4=Battlefield
+|l2m2t1p1char5=jigglypuff |l2m2t1p1stock5=1 |l2m2t1p2char5=peach |l2m2t1p2stock5=2
+|l2m2t2p1char5=sheik |l2m2t2p1stock5=0 |l2m2t2p2char5=jigglypuff |l2m2t2p2stock5=0 |l2m2win5=1 |l2m2stage5=Battlefield
+|l2m2date=June 14, 2015
+|l2m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/fk_PDVdqv_s}}
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Smash 'N' Splash/1/Melee
+|tourneyname=Smash 'N' Splash
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- WINNERS FINALS -->
+|r1m1t1p1=Wizzrobe |r1m1t1p1flag=us
+|r1m1t1p2=Plup |r1m1t1p2flag=us |r1m1t1score=2
+|r1m1t2p1=Mew2King |r1m1t2p1flag=us
+|r1m1t2p2=Vidjogamer |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+|r1m1t1p1char1=cf |r1m1t1p1stock1=0 |r1m1t1p2char1=sheik |r1m1t1p2stock1=0
+|r1m1t2p1char1=sheik |r1m1t2p1stock1=1 |r1m1t2p2char1=peach |r1m1t2p2stock1=1 |r1m1win1=2 |r1m1stage1=Battlefield
+|r1m1t1p1char2=cf |r1m1t1p1stock2=1 |r1m1t1p2char2=sheik |r1m1t1p2stock2=2
+|r1m1t2p1char2=sheik |r1m1t2p1stock2=0 |r1m1t2p2char2=peach |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Battlefield
+|r1m1t1p1char3=cf |r1m1t1p1stock3=0 |r1m1t1p2char3=sheik |r1m1t1p2stock3=0
+|r1m1t2p1char3=fox |r1m1t2p1stock3=2 |r1m1t2p2char3=peach |r1m1t2p2stock3=3 |r1m1win3=2 |r1m1stage3=Pokémon Stadium
+|r1m1t1p1char4=cf |r1m1t1p1stock4=1 |r1m1t1p2char4=sheik |r1m1t1p2stock4=2
+|r1m1t2p1char4=sheik |r1m1t2p1stock4=0 |r1m1t2p2char4=peach |r1m1t2p2stock4=0 |r1m1win4=1 |r1m1stage4=Dream Land
+|r1m1t1p1char5=cf |r1m1t1p1stock5=0 |r1m1t1p2char5=sheik |r1m1t1p2stock5=0
+|r1m1t2p1char5=fox |r1m1t2p1stock5=1 |r1m1t2p2char5=peach |r1m1t2p2stock5=1 |r1m1win5=2 |r1m1stage5=Final Destination
+|r1m1date=June 14, 2015 - 11:47 CDT (UTC-5)
+|r1m1finished=true
+|r1m1details={{BracketMatchDetails
+|vod=https://youtu.be/8A_eWw9UOAA
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS SEMIS -->
+|l1m1t1p1=Darkrain |l1m1t1p1flag=us
+|l1m1t1p2=Dart! |l1m1t1p2flag=us |l1m1t1score=3
+|l1m1t2p1=AnDaLe |l1m1t2p1flag=us
+|l1m1t2p2=Baka4Moe |l1m1t2p2flag=us |l1m1t2score=0
+|l1m1win=1
+|l1m1t1p1char1=cf |l1m1t1p1stock1=3 |l1m1t1p2char1=marth |l1m1t1p2stock1=2
+|l1m1t2p1char1=sheik |l1m1t2p1stock1=0 |l1m1t2p2char1=peach |l1m1t2p2stock1=0 |l1m1win1=1 |l1m1stage1=Final Destination
+|l1m1t1p1char2=cf |l1m1t1p1stock2=1 |l1m1t1p2char2=marth |l1m1t1p2stock2=1
+|l1m1t2p1char2=jigglypuff |l1m1t2p1stock2=0 |l1m1t2p2char2=peach |l1m1t2p2stock2=0 |l1m1win2=1 |l1m1stage2=Dream Land
+|l1m1t1p1char3=cf |l1m1t1p1stock3=1 |l1m1t1p2char3=marth |l1m1t1p2stock3=1
+|l1m1t2p1char3=jigglypuff |l1m1t2p1stock3=0 |l1m1t2p2char3=peach |l1m1t2p2stock3=0 |l1m1win3=1 |l1m1stage3=Dream Land
+|l1m1date=June 14, 2015 - 12:10 CDT (UTC-5)
+|l1m1finished=true
+|l1m1details={{BracketMatchDetails
+|vod=https://youtu.be/Gbe1I1zTTTQ
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Wizzrobe |r2m1t1p1flag=us
+|r2m1t1p2=Plup |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Darkrain |r2m1t2p1flag=us
+|r2m1t2p2=Dart! |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+|r2m1t1p1char1=cf |r2m1t1p1stock1=1 |r2m1t1p2char1=sheik |r2m1t1p2stock1=2
+|r2m1t2p1char1=cf |r2m1t2p1stock1=0 |r2m1t2p2char1=marth |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1t1p1char2=cf |r2m1t1p1stock2=1 |r2m1t1p2char2=sheik |r2m1t1p2stock2=2
+|r2m1t2p1char2=cf |r2m1t2p1stock2=0 |r2m1t2p2char2=marth |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1t1p1char3=cf |r2m1t1p1stock3=1 |r2m1t1p2char3=sheik |r2m1t1p2stock3=3
+|r2m1t2p1char3=cf |r2m1t2p1stock3=0 |r2m1t2p2char3=marth |r2m1t2p2stock3=0 |r2m1win3=1 |r2m1stage3=Final Destination
+|r2m1date=June 14, 2015 - 12:25 CDT (UTC-5)
+|r2m1finished=true
+|r2m1details={{BracketMatchDetails
+|vod=https://youtu.be/DmyTXBiNG6k
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Mew2King |r3m1t1p1flag=us
+|r3m1t1p2=Vidjogamer |r3m1t1p2flag=us |r3m1t1score=0 |r3m2t1score=3
+|r3m1t2p1=Wizzrobe |r3m1t2p1flag=us
+|r3m1t2p2=Plup |r3m1t2p2flag=us |r3m1t2score=3 |r3m2t2score=0
+|r3m1win=1
+|r3m1t1p1char1=fox |r3m1t1p1stock1=0 |r3m1t1p2char1=peach |r3m1t1p2stock1=0
+|r3m1t2p1char1=cf |r3m1t2p1stock1=1 |r3m1t2p2char1=sheik |r3m1t2p2stock1=1 |r3m1win1=2 |r3m1stage1=Final Destination
+|r3m1t1p1char2=fox |r3m1t1p1stock2=0 |r3m1t1p2char2=peach |r3m1t1p2stock2=0
+|r3m1t2p1char2=cf |r3m1t2p1stock2=1 |r3m1t2p2char2=sheik |r3m1t2p2stock2=2 |r3m1win2=2 |r3m1stage2=Pokémon Stadium
+|r3m1t1p1char3=fox |r3m1t1p1stock3=0 |r3m1t1p2char3=peach |r3m1t1p2stock3=0
+|r3m1t2p1char3=cf |r3m1t2p1stock3=2 |r3m1t2p2char3=sheik |r3m1t2p2stock3=1 |r3m1win3=2 |r3m1stage3=Final Destination
+
+<!-- Bracket Reset (if needed) -->
+|r3m2t1p1char1=sheik |r3m2t1p1stock1=1 |r3m2t1p2char1=peach |r3m2t1p2stock1=0
+|r3m2t2p1char1=cf |r3m2t2p1stock1=0 |r3m2t2p2char1=sheik |r3m2t2p2stock1=0 |r3m2win1=1 |r3m2stage1=Final Destination
+|r3m2t1p1char2=sheik |r3m2t1p1stock2=1 |r3m2t1p2char2=peach |r3m2t1p2stock2=0
+|r3m2t2p1char2=cf |r3m2t2p1stock2=0 |r3m2t2p2char2=sheik |r3m2t2p2stock2=0 |r3m2win2=1 |r3m2stage2=Dream Land
+|r3m2t1p1char3=sheik |r3m2t1p1stock3=3 |r3m2t1p2char3=peach |r3m2t1p2stock3=2
+|r3m2t2p1char3=cf |r3m2t2p1stock3=0 |r3m2t2p2char3=sheik |r3m2t2p2stock3=0 |r3m2win3=1 |r3m2stage3=Dream Land
+|r3m1date=June 14, 2015 - 12:40 CDT (UTC-5)
+|r3m1finished=true
+|r3m1details={{BracketMatchDetails
+|vod=https://youtu.be/YrNxdKU5A18
+|vod2=https://youtu.be/-Gc_Bu_g90k
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

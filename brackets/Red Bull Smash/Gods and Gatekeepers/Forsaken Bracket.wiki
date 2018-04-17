@@ -1,0 +1,226 @@
+{{DISPLAYTITLE:Red Bull Smash: Gods and Gatekeepers - Forsaken Bracket}}{{SetGame|melee}}
+{{Gods and Gatekeepers Tabs |This=4}}
+
+==Winners Bracket==
+{{16DEWBracketA2
+|tourneylink=Red Bull Smash/Gods and Gatekeepers
+|tourneyname=Gods and Gatekeepers (Open Bracket)
+|column-width=180
+
+<!-- Ro16 -->
+|r1m1p1=Azusa |r1m1p1flag=us |r1m1p1score=2
+|r1m1p2=Venelox |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+
+|r1m2p1=Bimbo |r1m2p1flag=mx |r1m2p1score=2
+|r1m2p2=Smashdaddy |r1m2p2flag=us |r1m2p2score=1
+|r1m2win=1
+
+|r1m3p1=Drephen |r1m3p1flag=us |r1m3p1score=2
+|r1m3p2=mixx |r1m3p2flag=us |r1m3p2score=0
+|r1m3win=1
+|r1m3p1char1=sheik |r1m3p2char1=marth |r1m3p1stock1=2 |r1m3p2stock1=0 |r1m3win1=1 |r1m3stage1=Battlefield
+|r1m3p1char2=sheik |r1m3p2char2=marth |r1m3p1stock2=2 |r1m3p2stock2=0 |r1m3win2=1 |r1m3stage2=Battlefield
+|r1m3date=September 2, 2017
+|r1m3details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r1m4p1=Kalamazhu |r1m4p1flag=us |r1m4p1score=2
+|r1m4p2=Far! |r1m4p2flag=mx |r1m4p2score=0
+|r1m4win=1
+|r1m4p1char1=peach |r1m4p2char1=sheik |r1m4p1stock1=3 |r1m4p2stock1=0 |r1m4win1=1 |r1m4stage1=Fountain of Dreams
+|r1m4p1char2=peach |r1m4p2char2=falco |r1m4p1stock2=3 |r1m4p2stock2=0 |r1m4win2=1 |r1m4stage2=Pokémon Stadium
+|r1m4date=September 2, 2017
+|r1m4details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r1m5p1=Captain Faceroll |r1m5p1flag=us |r1m5p1score=2
+|r1m5p2=SacaSuMoto |r1m5p2flag=us |r1m5p2score=0
+|r1m5win=1
+
+|r1m6p1=NMW |r1m6p1flag=us |r1m6p1score=0
+|r1m6p2=Cal |r1m6p2flag=us |r1m6p2score=2
+|r1m6win=2
+|r1m6p1char1=cf |r1m6p2char1=fox |r1m6p1stock1=0 |r1m6p2stock1=2 |r1m6win1=2 |r1m6stage1=Dream Land
+|r1m6p1char2=cf |r1m6p2char2=fox |r1m6p1stock2=0 |r1m6p2stock2=2 |r1m6win2=2 |r1m6stage2=Yoshi's Story
+|r1m6date=September 2, 2017
+|r1m6details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r1m7p1=Squid |r1m7p1flag=us |r1m7p1score=0
+|r1m7p2=Bizzarro Flame |r1m7p2flag=us |r1m7p2score=2
+|r1m7win=2
+
+|r1m8p1=Iceman |r1m8p1flag=us |r1m8p1score=2
+|r1m8p2=PsychoMidget |r1m8p2flag=us |r1m8p2score=0
+|r1m8win=1
+
+<!-- QUARTERFINALS -->
+|r2m1p1=Azusa |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=Bimbo |r2m1p2flag=mx |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=peach |r2m1p2char1=falco |r2m1p1stock1=2 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=peach |r2m1p2char2=falco |r2m1p1stock2=1 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1date=September 2, 2017
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r2m2p1=Drephen |r2m2p1flag=us |r2m2p1score=2
+|r2m2p2=Kalamazhu |r2m2p2flag=us |r2m2p2score=0
+|r2m2win=1
+
+|r2m3p1=Captain Faceroll |r2m3p1flag=us |r2m3p1score=0
+|r2m3p2=Cal |r2m3p2flag=us |r2m3p2score=2
+|r2m3win=2
+|r2m3p1char1=sheik |r2m3p2char1=fox |r2m3p1stock1=0 |r2m3p2stock1=1 |r2m3win1=2 |r2m3stage1=Dream Land
+|r2m3p1char2=sheik |r2m3p2char2=fox |r2m3p1stock2=0 |r2m3p2stock2=1 |r2m3win2=2 |r2m3stage2=Fountain of Dreams
+|r2m3date=September 2, 2017
+|r2m3details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/x2vvx55egZI}}
+
+|r2m4p1=Bizzarro Flame |r2m4p1flag=us |r2m4p1score=2
+|r2m4p2=Iceman |r2m4p2flag=us |r2m4p2score=0
+|r2m4win=1
+|r2m4p1char1=ganon |r2m4p2char1=marth |r2m4p1stock1=2 |r2m4p2stock1=0 |r2m4win1=1 |r2m4stage1=Battlefield
+|r2m4p1char2=ganon |r2m4p2char2=marth |r2m4p1stock2=1 |r2m4p2stock2=0 |r2m4win2=1 |r2m4stage2=Fountain of Dreams
+|r2m4date=September 2, 2017
+|r2m4details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- SEMIFINALS -->
+|r3m1p1=Azusa |r3m1p1flag=us |r3m1p1score=1
+|r3m1p2=Drephen |r3m1p2flag=us |r3m1p2score=3
+|r3m1win=2
+|r3m1p1char1=peach |r3m1p2char1=sheik |r3m1p1stock1=0 |r3m1p2stock1=2 |r3m1win1=2 |r3m1stage1=Final Destination
+|r3m1p1char2=peach |r3m1p2char2=sheik |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Dream Land
+|r3m1p1char3=peach |r3m1p2char3=sheik |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Pokémon Stadium
+|r3m1p1char4=peach |r3m1p2char4=sheik |r3m1p1stock4=0 |r3m1p2stock4=2 |r3m1win4=2 |r3m1stage4=Battlefield
+|r3m1date=September 2, 2017
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r3m2p1=Cal |r3m2p1flag=us |r3m2p1score=3
+|r3m2p2=Bizzarro Flame |r3m2p2flag=us |r3m2p2score=0
+|r3m2win=1
+|r3m2p1char1=fox |r3m2p2char1=ganon |r3m2p1stock1=3 |r3m2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2p1char2=fox |r3m2p2char2=ganon |r3m2p1stock2=2 |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Yoshi's Story
+|r3m2p1char3=fox |r3m2p2char3=ganon |r3m2p1stock3=1 |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Dream Land
+|r3m2date=September 2, 2017
+|r3m2details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=Red Bull Smash/Gods and Gatekeepers
+|tourneyname=Gods and Gatekeepers (Open Bracket)
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+|column-width=180
+
+<!-- Round 1 -->
+|l1m1p1=Venelox |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Smashdaddy |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=2
+
+|l1m2p1=mixx |l1m2p1flag=us |l1m2p1score=0
+|l1m2p2=Far! |l1m2p2flag=mx |l1m2p2score=2
+|l1m2win=2
+
+|l1m3p1=SacaSuMoto |l1m3p1flag=us |l1m3p1score=0
+|l1m3p2=NMW |l1m3p2flag=us |l1m3p2score=2
+|l1m3win=2
+
+|l1m4p1=Squid |l1m4p1flag=us |l1m4p1score=1
+|l1m4p2=PsychoMidget |l1m4p2flag=us |l1m4p2score=2
+|l1m4win=2
+
+<!-- Round 2 -->
+|l2m1p1=Iceman |l2m1p1flag=us |l2m1p1score=0
+|l2m1p2=Smashdaddy |l2m1p2flag=us |l2m1p2score=2
+|l2m1win=2
+
+|l2m2p1=Captain Faceroll |l2m2p1flag=us |l2m2p1score=2
+|l2m2p2=Far! |l2m2p2flag=mx |l2m2p2score=0
+|l2m2win=1
+
+|l2m3p1=Kalamazhu |l2m3p1flag=us |l2m3p1score=0
+|l2m3p2=NMW |l2m3p2flag=us |l2m3p2score=2
+|l2m3win=2
+
+|l2m4p1=Bimbo |l2m4p1flag=mx |l2m4p1score=0
+|l2m4p2=PsychoMidget |l2m4p2flag=us |l2m4p2score=2
+|l2m4win=2
+
+<!-- Round 3 -->
+|l3m1p1=Smashdaddy |l3m1p1flag=us |l3m1p1score=0
+|l3m1p2=Captain Faceroll |l3m1p2flag=us |l3m1p2score=3
+|l3m1win=2
+
+|l3m2p1=NMW |l3m2p1flag=us |l3m2p1score=3
+|l3m2p2=PsychoMidget |l3m2p2flag=us |l3m2p2score=2
+|l3m2win=1
+
+<!-- Round 4 -->
+|l4m1p1=Azusa |l4m1p1flag=us |l4m1p1score=3
+|l4m1p2=Captain Faceroll |l4m1p2flag=us |l4m1p2score=2
+|l4m1win=1
+
+|l4m2p1=Bizzarro Flame |l4m2p1flag=us |l4m2p1score=0
+|l4m2p2=NMW |l4m2p2flag=us |l4m2p2score=3
+|l4m2win=2
+|l4m2p1char1=ganon |l4m2p2char1=cf |l4m2p1stock1=0 |l4m2p2stock1=1 |l4m2win1=2 |l4m2stage1=Battlefield
+|l4m2p1char2=ganon |l4m2p2char2=cf |l4m2p1stock2=0 |l4m2p2stock2=1 |l4m2win2=2 |l4m2stage2=Battlefield
+|l4m2p1char3=ganon |l4m2p2char3=cf |l4m2p1stock3=0 |l4m2p2stock3=1 |l4m2win3=2 |l4m2stage3=Fountain of Dreams
+|l4m2date=September 2, 2017
+|l4m2details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+<onlyinclude>
+==Final Forsaken Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Red Bull Smash/Gods and Gatekeepers
+|tourneyname=Gods and Gatekeepers (Open Bracket)
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=180
+
+<!-- FROM WINNERS -->
+|r1m1p1=Drephen |r1m1p1flag=us |r1m1p1score=1
+|r1m1p2=Cal |r1m1p2flag=us |r1m1p2score=3
+|r1m1win=2
+|r1m1p1char1=sheik |r1m1p2char1=fox |r1m1p1stock1=0 |r1m1p2stock1=2 |r1m1win1=2 |r1m1stage1=Dream Land
+|r1m1p1char2=sheik |r1m1p2char2=fox |r1m1p1stock2=0 |r1m1p2stock2=3 |r1m1win2=2 |r1m1stage2=Fountain of Dreams
+|r1m1p1char3=sheik |r1m1p2char3=fox |r1m1p1stock3=1 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Dream Land
+|r1m1p1char4=sheik |r1m1p2char4=fox |r1m1p1stock4=0 |r1m1p2stock4=2 |r1m1win4=2 |r1m1stage4=Yoshi's Story
+|r1m1date=September 2, 2017
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Azusa |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=NMW |l1m1p2flag=us |l1m1p2score=1
+|l1m1win=1
+|l1m1p1char1=peach |l1m1p2char1=cf |l1m1p1stock1=1 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Dream Land
+|l1m1p1char2=peach |l1m1p2char2=cf |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Pokémon Stadium
+|l1m1p1char3=peach |l1m1p2char3=cf |l1m1p1stock3=1 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Fountain of Dreams
+|l1m1p1char4=peach |l1m1p2char4=cf |l1m1p1stock4=1 |l1m1p2stock4=0 |l1m1win4=1 |l1m1stage4=Yoshi's Story
+|l1m1date=September 2, 2017
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Drephen |r2m1p1flag=us |r2m1p1score=0
+|r2m1p2=Azusa |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=sheik |r2m1p2char1=peach |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=sheik |r2m1p2char2=peach |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Final Destination
+|r2m1p1char3=sheik |r2m1p2char3=peach |r2m1p1stock3=0 |r2m1p2stock3=2 |r2m1win3=2 |r2m1stage3=Yoshi's Story
+|r2m1date=September 2, 2017
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Cal |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Azusa |r3m1p2flag=us |r3m1p2score=2
+|r3m1win=1
+|r3m1p1char1=fox |r3m1p2char1=peach |r3m1p1stock1=1 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Dream Land
+|r3m1p1char2=fox |r3m1p2char2=peach |r3m1p1stock2=3 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Fountain of Dreams
+|r3m1p1char3=fox |r3m1p2char3=peach |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Final Destination
+|r3m1p1char4=fox |r3m1p2char4=peach |r3m1p1stock4=0 |r3m1p2stock4=1 |r3m1win4=2 |r3m1stage4=Yoshi's Story
+|r3m1p1char5=fox |r3m1p2char5=peach |r3m1p1stock5=1 |r3m1p2stock5=0 |r3m1win5=1 |r3m1stage5=Yoshi's Story
+|r3m1date=September 2, 2017
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}</onlyinclude>

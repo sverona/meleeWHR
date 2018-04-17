@@ -1,0 +1,35 @@
+<noinclude>{{DISPLAYTITLE:UNC Gamefest 2014: Finals Bracket}}{{SetGame|melee}}
+
+{{tabs static
+|name1=Overview
+|link1=UNC Gamefest 2014
+|name2=Winners Bracket
+|link2=UNC Gamefest 2014/Winners Bracket
+|name3=Losers Bracket
+|link3=UNC Gamefest 2014/Losers Bracket
+|name4=Finals Bracket
+|link4=UNC Gamefest 2014/Finals Bracket
+|This=4
+}}<br></noinclude>
+
+{{DEFinalBracket
+<!-- FROM WINNERS -->
+|r1m1p1=Dr. PeePee |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Papes |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1p1=Stingers |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Mo |l1m1p2flag=us |l1m1p2score=2 
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Papes |r2m1p1flag= |r2m1p1score=1
+|r2m1p2=Mo |r2m1p2flag=us |r2m1p2score=2
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1p1=Dr. PeePee |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Mo |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+}}

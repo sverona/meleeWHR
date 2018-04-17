@@ -1,0 +1,529 @@
+{{DISPLAYTITLE: GENESIS: ''Melee'' Pools 31-42}}
+{{tabs static
+|name1=Overview
+|link1=GENESIS/1/Melee
+|name2=Singles Bracket
+|link2=GENESIS/1/Melee/Singles Bracket
+|name3=Singles Pools 1-10
+|link3=GENESIS/1/Melee/Pools 1-10
+|name4=Singles Pools 11-20
+|link4=GENESIS/1/Melee/Pools 11-20
+|name5=Singles Pools 21-30
+|link5=GENESIS/1/Melee/Pools 21-30
+|name6=Singles Pools 31-42
+|link6=GENESIS/1/Melee/Pools 31-42
+|This=6
+}}
+
+==Pool 31==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=Fly Amanita |player1flag=us |player1char=Ice Climbers |player1link=|player1bg=up |player1_w= |player1_l=
+|player2=Jin |player2flag=us|player2char= |player2link=false |player2bg=up |player2_w= |player2_l=
+|player3=KSO Kirby |player3flag=us|player3char= |player3link=false|player3bg= |player3_w= |player3_l=
+|player4=Linguini |player4flag=us|player4char=Ganondorf |player4link=false|player4bg=up |player4_w= |player4_l=
+|player5=Paff |player5flag=us|player5char= |player5link=false|player5bg=|player5_w= |player5_l=
+|player6=Flux Wolf |player6flag=us|player6char= |player6link=false|player6bg= |player6_w= |player6_l=
+|player7=Pwny |player7flag=us|player7char= |player7link=false|player7bg= |player7_w= |player7_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=1
+|1vs3result=2 |1vs3resultvs=0
+|1vs4result=0 |1vs4resultvs=2
+|1vs5result=2 |1vs5resultvs=1
+|1vs6result=2 |1vs6resultvs=0
+|1vs7result=2 |1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=2 |2vs3resultvs=0
+|2vs4result=0 |2vs4resultvs=2
+|2vs5result=2 |2vs5resultvs=0
+|2vs6result=2 |2vs6resultvs=0
+|2vs7result=2 |2vs7resultvs=0
+<!--Games of Player 3-->
+|3vs4result=0 |3vs4resultvs=2
+|3vs5result=0 |3vs5resultvs=2
+|3vs6result=0 |3vs6resultvs=2
+|3vs7result=0 |3vs7resultvs=2
+<!--Games of Player 4-->
+|4vs5result=2 |4vs5resultvs=0
+|4vs6result=2 |4vs6resultvs=0
+|4vs7result=2 |4vs7resultvs=0
+<!--Games of Player 5-->
+|5vs6result=0 |5vs6resultvs=2
+|5vs7result=2 |5vs7resultvs=1
+<!--Games of Player 6-->
+|6vs7result=2 |6vs7resultvs=0
+
+}}
+
+==Pool 32==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=brdy |player1flag=us |player1char=Peach |player1link=false|player1bg=up |player1_w= |player1_l=
+|player2=dynamism |player2flag=us|player2char= |player2link=false |player2bg= |player2_w= |player2_l=
+|player3=Hyprid |player3flag=us|player3char=Marth |player3link=false|player3bg= |player3_w= |player3_l=
+|player4=Raves |player4flag=us|player4char= |player4link=false|player4bg= |player4_w= |player4_l=
+|player5=Ryan F. |player5flag=us|player5char= |player5link=false|player5bg=|player5_w= |player5_l=
+|player6=Xelic |player6flag=us|player6char=Peach |player6link=false|player6bg=up |player6_w= |player6_l=
+|player7=Psycho Midget |player7flag=us|player7char=Marth |player7link=false|player7bg=up |player7_w= |player7_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=0
+|1vs3result=2 |1vs3resultvs=0
+|1vs4result=2 |1vs4resultvs=0
+|1vs5result=2 |1vs5resultvs=0
+|1vs6result=0 |1vs6resultvs=2
+|1vs7result=0 |1vs7resultvs=2
+<!--Games of Player 2-->
+|2vs3result=0 |2vs3resultvs=2
+|2vs4result=0 |2vs4resultvs=2
+|2vs5result=0 |2vs5resultvs=2
+|2vs6result=0 |2vs6resultvs=2
+|2vs7result=0 |2vs7resultvs=2
+<!--Games of Player 3-->
+|3vs4result=0 |3vs4resultvs=2
+|3vs5result=0 |3vs5resultvs=2
+|3vs6result=0 |3vs6resultvs=2
+|3vs7result=0 |3vs7resultvs=2
+<!--Games of Player 4-->
+|4vs5result=2 |4vs5resultvs=0
+|4vs6result=0 |4vs6resultvs=2
+|4vs7result=1 |4vs7resultvs=2
+<!--Games of Player 5-->
+|5vs6result=0 |5vs6resultvs=2
+|5vs7result=0 |5vs7resultvs=2
+<!--Games of Player 6-->
+|6vs7result=2 |6vs7resultvs=0
+
+}}
+
+==Pool 33==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=isb |player1flag=us |player1char= |player1link=false|player1bg= |player1_w= |player1_l=
+|player2=Jman |player2flag=us|player2char=Fox |player2link= |player2bg=up |player2_w= |player2_l=
+|player3=Kosmos |player3flag=us|player3char=Peach |player3link=false|player3bg=up |player3_w= |player3_l=
+|player4=K-Rod |player4flag=us|player4char= |player4link=false|player4bg= |player4_w= |player4_l=
+|player5=Phanna |player5flag=us|player5char=Samus |player5link=false|player5bg=up|player5_w= |player5_l=
+|player6=Sasha |player6flag=us|player6char= |player6link=false|player6bg= |player6_w= |player6_l=
+|player7=Kaos |player7flag=us|player7char= |player7link=false|player7bg= |player7_w= |player7_l=
+
+<!--Games of Player 1-->
+|1vs2result=0 |1vs2resultvs=2
+|1vs3result=0 |1vs3resultvs=2
+|1vs4result=2 |1vs4resultvs=0
+|1vs5result=0 |1vs5resultvs=2
+|1vs6result=2 |1vs6resultvs=0
+|1vs7result=0 |1vs7resultvs=2
+<!--Games of Player 2-->
+|2vs3result=2 |2vs3resultvs=0
+|2vs4result=2 |2vs4resultvs=0
+|2vs5result=2 |2vs5resultvs=0
+|2vs6result=2 |2vs6resultvs=0
+|2vs7result=2 |2vs7resultvs=0
+<!--Games of Player 3-->
+|3vs4result=2 |3vs4resultvs=0
+|3vs5result=2 |3vs5resultvs=0
+|3vs6result=2 |3vs6resultvs=0
+|3vs7result=2 |3vs7resultvs=1
+<!--Games of Player 4-->
+|4vs5result=0 |4vs5resultvs=2
+|4vs6result=2 |4vs6resultvs=0
+|4vs7result=0 |4vs7resultvs=2
+<!--Games of Player 5-->
+|5vs6result=2 |5vs6resultvs=0
+|5vs7result=2 |5vs7resultvs=0
+<!--Games of Player 6-->
+|6vs7result=0 |6vs7resultvs=2
+
+}}
+
+==Pool 34==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=Aarosmashguy |player1flag=us |player1char=Falco |player1link=false|player1bg=up |player1_w= |player1_l=
+|player2=KCal |player2flag=us|player2char= |player2link=false |player2bg= |player2_w= |player2_l=
+|player3=DaShizWiz |player3flag=us|player3char=Falco |player3link=|player3bg=up |player3_w= |player3_l=
+|player4=Twizzle |player4flag=us|player4char= |player4link=false|player4bg= |player4_w= |player4_l=
+|player5=Zone |player5flag=us|player5char= |player5link=false|player5bg=|player5_w= |player5_l=
+|player6=Ice? |player6flag=us|player6char= |player6link=false|player6bg= |player6_w= |player6_l=
+|player7=Jfox |player7flag=us|player7char=Peach |player7link=false|player7bg=up |player7_w= |player7_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=0
+|1vs3result=0 |1vs3resultvs=2
+|1vs4result=2 |1vs4resultvs=0
+|1vs5result=2 |1vs5resultvs=0
+|1vs6result=2 |1vs6resultvs=0
+|1vs7result=1 |1vs7resultvs=2
+<!--Games of Player 2-->
+|2vs3result=0 |2vs3resultvs=2
+|2vs4result=2 |2vs4resultvs=0
+|2vs5result=2 |2vs5resultvs=1
+|2vs6result=2 |2vs6resultvs=0
+|2vs7result=1 |2vs7resultvs=2
+<!--Games of Player 3-->
+|3vs4result=2 |3vs4resultvs=0
+|3vs5result=2 |3vs5resultvs=0
+|3vs6result=2 |3vs6resultvs=0
+|3vs7result=2 |3vs7resultvs=1
+<!--Games of Player 4-->
+|4vs5result=0 |4vs5resultvs=2
+|4vs6result=2 |4vs6resultvs=0
+|4vs7result=0 |4vs7resultvs=2
+<!--Games of Player 5-->
+|5vs6result=2 |5vs6resultvs=0
+|5vs7result=0 |5vs7resultvs=2
+<!--Games of Player 6-->
+|6vs7result=0 |6vs7resultvs=2
+
+}}
+
+==Pool 35==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=Caterkiller |player1flag=us |player1char= |player1link=false|player1bg=up |player1_w= |player1_l=
+|player2=Cold Fire |player2flag=us|player2char= |player2link=false |player2bg= |player2_w= |player2_l=
+|player3=DJ Nintendo |player3flag=us|player3char=Fox |player3link=|player3bg=up |player3_w= |player3_l=
+|player4=Esmegmo |player4flag=us|player4char= |player4link=false|player4bg= |player4_w= |player4_l=
+|player5=Roro |player5flag=us|player5char= |player5link=false|player5bg=|player5_w= |player5_l=
+|player6=Scorp |player6flag=us|player6char= |player6link=false|player6bg= |player6_w= |player6_l=
+|player7=Silentspectre |player7flag=us|player7char=Falcon |player7link=false|player7bg=up |player7_w= |player7_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=0
+|1vs3result=0 |1vs3resultvs=2
+|1vs4result=1 |1vs4resultvs=2
+|1vs5result=2 |1vs5resultvs=0
+|1vs6result=2 |1vs6resultvs=0
+|1vs7result=0 |1vs7resultvs=2
+<!--Games of Player 2-->
+|2vs3result=0 |2vs3resultvs=2
+|2vs4result=0 |2vs4resultvs=2
+|2vs5result=0 |2vs5resultvs=2
+|2vs6result=0 |2vs6resultvs=2
+|2vs7result=0 |2vs7resultvs=2
+<!--Games of Player 3-->
+|3vs4result=2 |3vs4resultvs=0
+|3vs5result=2 |3vs5resultvs=0
+|3vs6result=2 |3vs6resultvs=0
+|3vs7result=0 |3vs7resultvs=2
+<!--Games of Player 4-->
+|4vs5result=1 |4vs5resultvs=2
+|4vs6result=2 |4vs6resultvs=0
+|4vs7result=0 |4vs7resultvs=2
+<!--Games of Player 5-->
+|5vs6result=0 |5vs6resultvs=2
+|5vs7result=0 |5vs7resultvs=2
+<!--Games of Player 6-->
+|6vs7result=0 |6vs7resultvs=2
+
+}}
+
+==Pool 36==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=Deva |player1flag=us |player1char=Link |player1link=false|player1bg= |player1_w= |player1_l=
+|player2=EvilDuky |player2flag=us|player2char= |player2link=false |player2bg= |player2_w= |player2_l=
+|player3=Germ |player3flag=us|player3char=Link |player3link=false|player3bg=up |player3_w= |player3_l=
+|player4=Jmoan |player4flag=us|player4char=Sheik |player4link=false|player4bg=up |player4_w= |player4_l=
+|player5=Kels |player5flag=us|player5char=Fox |player5link=|player5bg=|player5_w= |player5_l=
+|player6=Pat |player6flag=us|player6char=Fox |player6link=false|player6bg=up |player6_w= |player6_l=
+|player7=rohins |player7flag=us|player7char= |player7link=false|player7bg= |player7_w= |player7_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=0
+|1vs3result=1 |1vs3resultvs=2
+|1vs4result=0 |1vs4resultvs=2
+|1vs5result=2 |1vs5resultvs=1
+|1vs6result=1 |1vs6resultvs=2
+|1vs7result=2 |1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=0 |2vs3resultvs=2
+|2vs4result=0 |2vs4resultvs=2
+|2vs5result=0 |2vs5resultvs=2
+|2vs6result=0 |2vs6resultvs=2
+|2vs7result=2 |2vs7resultvs=0
+<!--Games of Player 3-->
+|3vs4result=1 |3vs4resultvs=2
+|3vs5result=2 |3vs5resultvs=0
+|3vs6result=2 |3vs6resultvs=0
+|3vs7result=2 |3vs7resultvs=0
+<!--Games of Player 4-->
+|4vs5result=1 |4vs5resultvs=2
+|4vs6result=0 |4vs6resultvs=2
+|4vs7result=2 |4vs7resultvs=1
+<!--Games of Player 5-->
+|5vs6result=0 |5vs6resultvs=2
+|5vs7result=2 |5vs7resultvs=0
+<!--Games of Player 6-->
+|6vs7result=2 |6vs7resultvs=1
+
+}}
+
+==Pool 37==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=Hitsugaya |player1flag=ca |player1char=Peach |player1link=false|player1bg=up |player1_w= |player1_l=
+|player2=off cell |player2flag=us|player2char= |player2link=false |player2bg= |player2_w= |player2_l=
+|player3=r00r |player3flag=us|player3char= |player3link=false|player3bg= |player3_w= |player3_l=
+|player4=Romeo |player4flag=us|player4char=Falcon |player4link=false|player4bg=up |player4_w= |player4_l=
+|player5=Usher |player5flag=us|player5char= |player5link=false|player5bg=|player5_w= |player5_l=
+|player6=Mogwai |player6flag=us|player6char=Falco |player6link=false|player6bg=up |player6_w= |player6_l=
+|player7=Edrees |player7flag=us|player7char=Peach |player7link=false|player7bg= |player7_w= |player7_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=0
+|1vs3result=2 |1vs3resultvs=0
+|1vs4result=0 |1vs4resultvs=2
+|1vs5result=2 |1vs5resultvs=0
+|1vs6result=2 |1vs6resultvs=0
+|1vs7result=2 |1vs7resultvs=1
+<!--Games of Player 2-->
+|2vs3result=0 |2vs3resultvs=2
+|2vs4result=0 |2vs4resultvs=2
+|2vs5result=0 |2vs5resultvs=2
+|2vs6result=0 |2vs6resultvs=2
+|2vs7result=0 |2vs7resultvs=2
+<!--Games of Player 3-->
+|3vs4result=0 |3vs4resultvs=2
+|3vs5result=0 |3vs5resultvs=2
+|3vs6result=0 |3vs6resultvs=2
+|3vs7result=0 |3vs7resultvs=2
+<!--Games of Player 4-->
+|4vs5result=0 |4vs5resultvs=2
+|4vs6result=2 |4vs6resultvs=1
+|4vs7result=2 |4vs7resultvs=0
+<!--Games of Player 5-->
+|5vs6result=0 |5vs6resultvs=2
+|5vs7result=0 |5vs7resultvs=2
+<!--Games of Player 6-->
+|6vs7result=2 |6vs7resultvs=0
+
+}}
+
+==Pool 38==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=Festizzio |player1flag=us |player1char=Pikachu |player1link=false|player1bg=up |player1_w= |player1_l=
+|player2=Samsonides101 |player2flag=us|player2char= |player2link=false |player2bg= |player2_w= |player2_l=
+|player3=SuperRad |player3flag=us|player3char= |player3link=false|player3bg= |player3_w= |player3_l=
+|player4=Wikipedia |player4flag=us|player4char= |player4link=false|player4bg= |player4_w= |player4_l=
+|player5=Blunted Object |player5flag=ca|player5char=Falco |player5link=false|player5bg=up|player5_w= |player5_l=
+|player6=Lunin |player6flag=us|player6char=Fox |player6link=false|player6bg=up |player6_w= |player6_l=
+|player7=knuttz |player7flag=us|player7char= |player7link=false|player7bg= |player7_w= |player7_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=0
+|1vs3result=2 |1vs3resultvs=0
+|1vs4result=2 |1vs4resultvs=0
+|1vs5result=1 |1vs5resultvs=2
+|1vs6result=0 |1vs6resultvs=2
+|1vs7result=2 |1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=0 |2vs3resultvs=2
+|2vs4result=0 |2vs4resultvs=2
+|2vs5result=0 |2vs5resultvs=2
+|2vs6result=0 |2vs6resultvs=2
+|2vs7result=0 |2vs7resultvs=2
+<!--Games of Player 3-->
+|3vs4result=2 |3vs4resultvs=1
+|3vs5result=0 |3vs5resultvs=2
+|3vs6result=0 |3vs6resultvs=2
+|3vs7result=0 |3vs7resultvs=2
+<!--Games of Player 4-->
+|4vs5result=0 |4vs5resultvs=2
+|4vs6result=0 |4vs6resultvs=2
+|4vs7result=0 |4vs7resultvs=2
+<!--Games of Player 5-->
+|5vs6result=0 |5vs6resultvs=2
+|5vs7result=1 |5vs7resultvs=2
+<!--Games of Player 6-->
+|6vs7result=2 |6vs7resultvs=0
+
+}}
+
+==Pool 39==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=HMW |player1flag=us |player1char=Dr. Mario |player1link=HomeMadeWaffles|player1bg= |player1_w= |player1_l=
+|player2=Motel Vaccabille |player2flag=us|player2char= |player2link=false |player2bg= |player2_w= |player2_l=
+|player3=VANS |player3flag=us|player3char=Sheik |player3link=false|player3bg= |player3_w= |player3_l=
+|player4=DoH |player4flag=us|player4char=Peach |player4link=|player4bg=up |player4_w= |player4_l=
+|player5=P |player5flag=us|player5char=Marth |player5link=false|player5bg=up|player5_w= |player5_l=
+|player6=CrimsonShadow |player6flag=us|player6char=Marth |player6link=Crimson Blur|player6bg= |player6_w= |player6_l=
+|player7=WarriorKnight |player7flag=us|player7char=Bowser |player7link=false|player7bg=up |player7_w= |player7_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=0
+|1vs3result=2 |1vs3resultvs=0
+|1vs4result=1 |1vs4resultvs=2
+|1vs5result=1 |1vs5resultvs=2
+|1vs6result=2 |1vs6resultvs=0
+|1vs7result=0 |1vs7resultvs=2
+<!--Games of Player 2-->
+|2vs3result=0 |2vs3resultvs=2
+|2vs4result=0 |2vs4resultvs=2
+|2vs5result=0 |2vs5resultvs=2
+|2vs6result=2 |2vs6resultvs=0
+|2vs7result=0 |2vs7resultvs=2
+<!--Games of Player 3-->
+|3vs4result=0 |3vs4resultvs=2
+|3vs5result=0 |3vs5resultvs=2
+|3vs6result=2 |3vs6resultvs=1
+|3vs7result=0 |3vs7resultvs=2
+<!--Games of Player 4-->
+|4vs5result=1 |4vs5resultvs=2
+|4vs6result=2 |4vs6resultvs=0
+|4vs7result=2 |4vs7resultvs=0
+<!--Games of Player 5-->
+|5vs6result=2 |5vs6resultvs=0
+|5vs7result=2 |5vs7resultvs=1
+<!--Games of Player 6-->
+|6vs7result=0 |6vs7resultvs=2
+
+}}
+
+==Pool 40==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=Armada |player1flag=se |player1char=Peach |player1link=|player1bg=up |player1_w= |player1_l=
+|player2=JFro |player2flag=us|player2char=Ganondorf |player2link=false |player2bg= |player2_w= |player2_l=
+|player3=x-ray |player3flag=us|player3char=Fox |player3link=false|player3bg= |player3_w= |player3_l=
+|player4=xXx-NoobKing-xXx |player4flag=ca|player4char=Falcon |player4link=false|player4bg=up |player4_w= |player4_l=
+|player5=Zoap |player5flag=us|player5char=Peach |player5link=false|player5bg=up|player5_w= |player5_l=
+|player6=WhatIsFear |player6flag=us|player6char=Ganondorf |player6link=false|player6bg= |player6_w= |player6_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=0
+|1vs3result=2 |1vs3resultvs=0
+|1vs4result=2 |1vs4resultvs=0
+|1vs5result=2 |1vs5resultvs=0
+|1vs6result=2 |1vs6resultvs=1
+<!--Games of Player 2-->
+|2vs3result=2 |2vs3resultvs=0
+|2vs4result=2 |2vs4resultvs=1
+|2vs5result=1 |2vs5resultvs=2
+|2vs6result=2 |2vs6resultvs=1
+<!--Games of Player 3-->
+|3vs4result=0 |3vs4resultvs=2
+|3vs5result=0 |3vs5resultvs=2
+|3vs6result=0 |3vs6resultvs=2
+<!--Games of Player 4-->
+|4vs5result=2 |4vs5resultvs=1
+|4vs6result=2 |4vs6resultvs=0
+<!--Games of Player 5-->
+|5vs6result=2 |5vs6resultvs=0
+
+}}
+
+==Pool 41==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=Cyrain |player1flag=us |player1char=Fox |player1link=false|player1bg=up |player1_w= |player1_l=
+|player2=Keta |player2flag=us|player2char= |player2link=false |player2bg= |player2_w= |player2_l=
+|player3=Lucky |player3flag=us|player3char=Fox |player3link=|player3bg=up |player3_w= |player3_l=
+|player4=Rayku |player4flag=us|player4char= |player4link=false|player4bg= |player4_w= |player4_l=
+|player5=TJ555 |player5flag=us|player5char= |player5link=false|player5bg=|player5_w= |player5_l=
+|player6=vyse |player6flag=us|player6char= |player6link=false|player6bg= |player6_w= |player6_l=
+|player7=Caotic |player7flag=au|player7char=Peach |player7link=false|player7bg=up |player7_w= |player7_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=0
+|1vs3result=0 |1vs3resultvs=2
+|1vs4result=2 |1vs4resultvs=0
+|1vs5result=2 |1vs5resultvs=0
+|1vs6result=2 |1vs6resultvs=0
+|1vs7result=2 |1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=0 |2vs3resultvs=2
+|2vs4result=1 |2vs4resultvs=2
+|2vs5result=2 |2vs5resultvs=1
+|2vs6result=2 |2vs6resultvs=0
+|2vs7result=0 |2vs7resultvs=2
+<!--Games of Player 3-->
+|3vs4result=2 |3vs4resultvs=0
+|3vs5result=2 |3vs5resultvs=0
+|3vs6result=2 |3vs6resultvs=0
+|3vs7result=2 |3vs7resultvs=0
+<!--Games of Player 4-->
+|4vs5result=2 |4vs5resultvs=0
+|4vs6result=2 |4vs6resultvs=0
+|4vs7result=2 |4vs7resultvs=0
+<!--Games of Player 5-->
+|5vs6result=2 |5vs6resultvs=0
+|5vs7result=0 |5vs7resultvs=2
+<!--Games of Player 6-->
+|6vs7result=0 |6vs7resultvs=2
+
+}}
+Note: Rayku was replaced by Caotic in the transition to bracket
+
+==Pool 42==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=Eggz |player1flag=us |player1char=Fox |player1link=false|player1bg=up |player1_w= |player1_l=
+|player2=Nes Noob |player2flag=us|player2char=Falcon |player2link=false |player2bg=up |player2_w= |player2_l=
+|player3=PewPewU |player3flag=us|player3char=Marth |player3link=|player3bg= |player3_w= |player3_l=
+|player4=Vet-Zero |player4flag=us|player4char= |player4link=false|player4bg= |player4_w= |player4_l=
+|player5=Pakman |player5flag=us|player5char=Luigi |player5link=false|player5bg=up|player5_w= |player5_l=
+|player6=Qlex |player6flag=fr|player6char=Ganondorf |player6link=false|player6bg= |player6_w= |player6_l=
+
+<!--Games of Player 1-->
+|1vs2result=1 |1vs2resultvs=2
+|1vs3result=2 |1vs3resultvs=1
+|1vs4result=2 |1vs4resultvs=0
+|1vs5result=2 |1vs5resultvs=0
+|1vs6result=2 |1vs6resultvs=1
+<!--Games of Player 2-->
+|2vs3result=2 |2vs3resultvs=1
+|2vs4result=2 |2vs4resultvs=0
+|2vs5result=2 |2vs5resultvs=0
+|2vs6result=2 |2vs6resultvs=0
+<!--Games of Player 3-->
+|3vs4result=2 |3vs4resultvs=0
+|3vs5result=0 |3vs5resultvs=2
+|3vs6result=2 |3vs6resultvs=0
+<!--Games of Player 4-->
+|4vs5result=0 |4vs5resultvs=2
+|4vs6result=0 |4vs6resultvs=2
+<!--Games of Player 5-->
+|5vs6result=2 |5vs6resultvs=0
+
+}}

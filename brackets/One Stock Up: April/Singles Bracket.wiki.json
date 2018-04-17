@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Shifting Shadows",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Captain Zeppo",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "BrTarolg",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Captain Zeppo",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Professor Pro",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p2": "Professor Pro",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m2": {
+            "p2score": "3"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Time Muffin",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Galapagos",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Duckslayer",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Jalued",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Looman",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Suff",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Kieran",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Sadsquirtz",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Socks",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Time Muffin",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Phade",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Jalued",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Shifting Shadows",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Looman",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Maskless",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Sadsquirtz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Socks",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Phade",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Shifting Shadows",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Maskless",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Phade",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Jam",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Shifting Shadows",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Time Muffin",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Maskless",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Galapagos",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Shifting Shadows",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Duckslayer",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Captain Zeppo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Jalued",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "BrTarolg",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Looman",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Phade",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Suff",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Jam",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Kieran",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Socks",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Sadsquirtz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Maskless",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Shifting Shadows",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Captain Zeppo",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "BrTarolg",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Phade",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Jam",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Socks",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Captain Zeppo",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m2": {
+            "p1": "BrTarolg",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Jam",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

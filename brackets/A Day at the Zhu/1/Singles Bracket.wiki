@@ -1,0 +1,199 @@
+{{SetGame|melee}}<!--
+-->{{DISPLAYTITLE:A Day at the Zhu: Singles Bracket}}<!--
+-->{{Tabs static
+|name1=Overview |link1=A Day at the Zhu/1
+|name2=Singles Bracket |link2=A Day at the Zhu/1/Singles Bracket
+|This=2}}<br/>
+==Winners Bracket==
+{{16DEWBracketA2
+|tourneylink=A Day at the Zhu/1
+|tourneyname=A Day at the Zhu
+|column-width=160
+
+<!-- Ro16 -->
+|r1m1p1=Lucky |r1m1p1flag=us |r1m1p1score={{win}}
+|r1m1p2= |r1m1p2flag=us |r1m1p2score=
+|r1m1win=1
+
+|r1m2p1= |r1m2p1flag=us |r1m2p1score=
+|r1m2p2= |r1m2p2flag=us |r1m2p2score=
+|r1m2win=
+
+|r1m3p1=Zhu |r1m3p1flag=us |r1m3p1score={{win}}
+|r1m3p2= |r1m3p2flag=us |r1m3p2score=
+|r1m3win=1
+
+|r1m4p1= |r1m4p1flag=us |r1m4p1score=
+|r1m4p2= |r1m4p2flag=us |r1m4p2score=
+|r1m4win=
+
+|r1m5p1=HomeMadeWaffles |r1m5p1flag=us |r1m5p1score={{win}}
+|r1m5p2= |r1m5p2flag=us |r1m5p2score=
+|r1m5win=1
+
+|r1m6p1= |r1m6p1flag=us |r1m6p1score=
+|r1m6p2= |r1m6p2flag=us |r1m6p2score=
+|r1m6win=
+
+|r1m7p1=KFC |r1m7p1flag=us |r1m7p1score={{win}}
+|r1m7p2= |r1m7p2flag=us |r1m7p2score=
+|r1m7win=1
+
+|r1m8p1=Lunin |r1m8p1flag=us |r1m8p1score={{win}}
+|r1m8p2= |r1m8p2flag=us |r1m8p2score=
+|r1m8win=1
+
+<!-- QUARTERFINALS -->
+|r2m1p1=Lucky |r2m1p1flag=us |r2m1p1score={{win}}
+|r2m1p2= |r2m1p2flag=us |r2m1p2score=
+|r2m1win=1
+
+|r2m2p1=Zhu |r2m2p1flag=us |r2m2p1score={{win}}
+|r2m2p2= |r2m2p2flag=us |r2m2p2score=
+|r2m2win=1
+
+|r2m3p1=HomeMadeWaffles |r2m3p1flag=us |r2m3p1score={{win}}
+|r2m3p2= |r2m3p2flag=us |r2m3p2score=
+|r2m3win=1
+
+|r2m4p1=KFC |r2m4p1flag=us |r2m4p1score=1
+|r2m4p2=Lunin |r2m4p2flag=us |r2m4p2score=2
+|r2m4p1char1=fox |r2m4p2char1=fox |r2m4p1stock1=2 |r2m4p2stock1=0 |r2m4win1=1 |r2m4stage1=Kongo Jungle
+|r2m4p1char2=fox |r2m4p2char2=marth |r2m4p1stock2=0 |r2m4p2stock2=1 |r2m4win2=2 |r2m4stage2=Yoshi's Story
+|r2m4p1char3=unknown |r2m4p2char3=unknown |r2m4p1stock3= |r2m4p2stock3= |r2m4win3=2 |r2m4stage3=Unknown
+|r2m4details={{BracketMatchDetails|vodgame1=https://youtu.be/-ezXxeVFCpI |vodgame2=https://www.youtube.com/watch?v=nt29hvPbrRA |comment=Although the match title says friendly, KFC says they were the last two matches of his set on smashboards. However, the first VOD shows player 1 switching to Fox from Ice Climbers (a character that Lunin does not play), so it is more likely to be the first match of the set. As Lunin won this set, the final score would be 2-1.<ref>{{Cite web |url=https://smashboards.com/threads/a-day-at-the-zhu-videos-feat-lucky-zhu-hmw-kfc-tofu-more.192242/#post-5305616 |date=2008-09-07 |accessdate=2016-04-01 |title=Those matches weren't friendlies |work=SmashBoards.com |author=KFC}}</ref>}}
+|r2m4win=2
+
+<!-- SEMIFINALS -->
+|r3m1p1=Lucky |r3m1p1flag=us |r3m1p1score=2
+|r3m1p2=Zhu |r3m1p2flag=us |r3m1p2score=1
+|r3m1p1char1=fox |r3m1p2char1=falco |r3m1p1stock1=2 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Pokémon Stadium
+|r3m1p1char2=fox |r3m1p2char2=falco |r3m1p1stock2=0 |r3m1p2stock2=1 |r3m1win2=2 |r3m1stage2=Battlefield
+|r3m1p1char3=fox |r3m1p2char3=falco |r3m1p1stock3=3 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Dream Land
+|r3m1details={{BracketMatchDetails|vodgame1=https://www.youtube.com/watch?v=HX9YDxxR1Rg |vodgame2=https://www.youtube.com/watch?v=kIsOKDWSqzw |vodgame3=https://www.youtube.com/watch?v=CDFyukccXG4}}
+|r3m1win=1
+
+|r3m2p1=HomeMadeWaffles |r3m2p1flag=us |r3m2p1score=1
+|r3m2p2=Lunin |r3m2p2flag=us |r3m2p2score=2
+|r3m2win=2
+}}
+
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=A Day at the Zhu/1
+|tourneyname=A Day at the Zhu
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+|column-width=160
+
+<!-- Round 1 -->
+|l1m1p1= |l1m1p1flag=us |l1m1p1score=
+|l1m1p2= |l1m1p2flag=us |l1m1p2score=
+|l1m1win=
+
+|l1m2p1= |l1m2p1flag=us |l1m2p1score=
+|l1m2p2= |l1m2p2flag=us |l1m2p2score= 
+|l1m2win=
+
+|l1m3p1= |l1m3p1flag=us |l1m3p1score=
+|l1m3p2= |l1m3p2flag=us |l1m3p2score=
+|l1m3win=
+
+|l1m4p1= |l1m4p1flag=us |l1m4p1score=
+|l1m4p2= |l1m4p2flag=us |l1m4p2score= 
+|l1m4win=
+
+<!-- Round 2 -->
+|l2m1p1= |l2m1p1flag=us |l2m1p1score=
+|l2m1p2= |l2m1p2flag=us |l2m1p2score=
+|l2m1win=
+
+
+|l2m2p1=Kira |l2m2p1flag=us |l2m2p1score=
+|l2m2p2=Atlus |l2m2p2flag=us |l2m2p2score={{win}}
+|l2m2details={{BracketMatchDetails|vodgame1=https://www.youtube.com/watch?v=wjXJDVpOSSE |vodgame2=https://www.youtube.com/watch?v=xv6vhPtwx84 |vodgame3=https://www.youtube.com/watch?v=qP7t-_0Rybs}}
+|l2m2win=2
+
+|l2m3p1= |l2m3p1flag=us |l2m3p1score=
+|l2m3p2= |l2m3p2flag=us |l2m3p2score=
+|l2m3win=
+
+|l2m4p1=|l2m4p1flag=us |l2m4p1score=
+|l2m4p2=|l2m4p2flag=us |l2m4p2score= 
+|l2m4win=
+
+<!-- Round 3 -->
+|l3m1p1= |l3m1p1flag=us |l3m1p1score= 
+|l3m1p2= |l3m1p2flag=us |l3m1p2score=
+|l3m1win= 
+
+|l3m2p1=  |l3m2p1flag=us |l3m2p1score=
+|l3m2p2= |l3m2p2flag=us |l3m2p2score= 
+|l3m2win=2
+
+<!-- Round 4 -->
+|l4m1p1=HomeMadeWaffles |l4m1p1flag=us |l4m1p1score={{win}}
+|l4m1p2=Tofu |l4m1p2flag=us |l4m1p2score=
+|l4m1win=1
+
+|l4m2p1=Zhu |l4m2p1flag=us |l4m2p1score=2
+|l4m2p2=KFC |l4m2p2flag=us |l4m2p2score=0
+|l4m2win=1
+|l4m2p1char1=falco |l4m2p2char1=fox |l4m2p1stock1=3 |l4m2p2stock1=0 |l4m2win1=1 |l4m2stage1=Final Destination
+|l4m2p1char2=falco |l4m2p2char2=fox |l4m2p1stock2=1 |l4m2p2stock2=0 |l4m2win2=1 |l4m2stage2=Pokémon Stadium
+|l4m2details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://www.youtube.com/watch?v=jePFR7UeFIk|vodgame2=https://www.youtube.com/watch?v=IVnYhKH8qGs}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=A Day at the Zhu/1
+|tourneyname=A Day at the Zhu
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=175
+
+<!-- FROM WINNERS -->
+|r1m1p1=Lucky |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Lunin |r1m1p2flag=us |r1m1p2score=0
+|r1m1p1char1=fox |r1m1p2char1=fox |r1m1p1stock1=1 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=fox |r1m1p2char2=fox |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1p1char3=fox |r1m1p2char3=marth |r1m1p1stock3=2 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Final Destination
+|r1m1details={{BracketMatchDetails|vodgame1=https://www.youtube.com/watch?v=hRmDyhocuJs |vodgame2=https://www.youtube.com/watch?v=Ntj55bHEmss |vodgame3=https://www.youtube.com/watch?v=GAolWZ6o1wc}}
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1p1=HomeMadeWaffles |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Zhu |l1m1p2flag=us |l1m1p2score=2
+|l1m1p1char1=doc |l1m1p2char1=falco |l1m1p1stock1=0 |l1m1p2stock1=2 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1p1char2=luigi |l1m1p2char2=falco |l1m1p1stock2=0 |l1m1p2stock2=4 |l1m1win2=2 |l1m1stage2=Yoshi's Story
+|l1m1details={{BracketMatchDetails|vodgame1=https://www.youtube.com/watch?v=DJ8MjUPCH3c |vodgame2=https://www.youtube.com/watch?v=D5Dcui3aLnY}}
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Lunin |r2m1p1flag=us |r2m1p1score=1
+|r2m1p2=Zhu |r2m1p2flag=us |r2m1p2score=3
+|r2m1p1char1=fox |r2m1p2char1=falco |r2m1p1stock1=1 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Final Destination
+|r2m1p1char2=fox |r2m1p2char2=falco |r2m1p1stock2=0 |r2m1p2stock2=2 |r2m1win2=2 |r2m1stage2=Fountain of Dreams
+|r2m1p1char3=fox |r2m1p2char3=falco |r2m1p1stock3=0 |r2m1p2stock3=2 |r2m1win3=2 |r2m1stage3=Yoshi's Story
+|r2m1p1char4=fox |r2m1p2char4=fox |r2m1p1stock4=0 |r2m1p2stock4=2 |r2m1win4=2 |r2m1stage4=Poké Floats
+|r2m1details={{BracketMatchDetails|vodgame1=https://www.youtube.com/watch?v=QujlH3DFBXw |vodgame2=https://www.youtube.com/watch?v=Mtt7hUiPioA |vodgame3=https://www.youtube.com/watch?v=xu1X7aA_5-8 |vodgame4=https://www.youtube.com/watch?v=E6R9jRWn4jQ}}
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1p1=Lucky |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Zhu |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=fox |r3m1p2char1=falco |r3m1p1stock1=1 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Yoshi's Story
+|r3m1p1char2=fox |r3m1p2char2=fox |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Yoshi's Story
+|r3m1p1char3=fox |r3m1p2char3=fox |r3m1p1stock3=1 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Battlefield
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://www.youtube.com/watch?v=TWW60PPZtqk |vodgame2=https://www.youtube.com/watch?v=Bts2BzJ_SKs |vodgame3=https://www.youtube.com/watch?v=YdbhH8IX1wE |vodgame4=}}
+}}
+</onlyinclude>
+''Note: This bracket has been reconstructed based on VODs and the SmashBoards results thread, because the original bracket image has been lost. Many specific matchups are unknown.''
+
+==References==
+{{Reflist}}

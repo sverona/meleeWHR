@@ -1,0 +1,528 @@
+{
+    "==Losers==": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "fair",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "stupid yoshi",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "dodger",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Vic Ramen",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "nasa",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "straight",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "wu",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "droogie",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "josh",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "chives",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "g1j",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "quasar",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "UPTILT {{!}} kony",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Travis T",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "fair",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "scrub $",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "dodger",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "TheCrimsonBlur",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "nasa",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "oxy_oops",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "straight",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "mind assassin",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "droogie",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "v$",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "chives",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "tapez",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "g1j",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "tuxedo mask",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "quasar",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Travis T",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "scrub $",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "nasa",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "straight",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "droogie",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "v$",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "tapez",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "tuxedo mask",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Jace",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Travis T",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Peligro",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "straight",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "Bimbo Mexico",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "v$",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Tai",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "tuxedo mask",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "Jace",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Peligro",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Bimbo Mexico",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Tai",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Jace",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "ROFL",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Tai",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        }
+    },
+    "==Winners==": {
+        "r1m1": {
+            "p1": "Westballz",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "oxy_oops",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "droogie",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Tai",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "josh",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "TheCrimsonBlur",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "chives",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "scrub $",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "g1j",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Bimbo Mexico",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "quasar",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Travis T",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "UPTILT {{!}} kony",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "tuxedo mask",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "fair",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Peligro",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "stupid yoshi",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "tapez",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "dodger",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Jace",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Vic Ramen",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "nasa",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "v$",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "ROFL",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "straight",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "mind assassin",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "wu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Westballz",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "tuxedo mask",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Peligro",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "tapez",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Jace",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "v$",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "ROFL",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "mind assassin",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "oxy_oops",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Tai",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "TheCrimsonBlur",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "scrub $",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Bimbo Mexico",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Travis T",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Westballz",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Peligro",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Jace",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "ROFL",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Tai",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Bimbo Mexico",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Westballz",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "ROFL",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "HugS",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        }
+    }
+}

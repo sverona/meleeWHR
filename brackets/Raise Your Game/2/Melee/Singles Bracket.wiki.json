@@ -1,0 +1,494 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "MattSmith",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Sylveon",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "R23",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "MattSmith",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "R23",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Henley",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Viph",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "HoorayForJay",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mumbles",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Modest Major",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "10QuidShoes",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Hylian Reaper",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Harvey",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Umpa",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Libers",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "PugMug",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Boggle",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Omadon",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Demo",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Ghost",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "CHube",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Henley",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "HoorayForJay",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "Modest Major",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Hylian Reaper",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Umpa",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Boggle",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Demo",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Ghost",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "MattSmith",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "HoorayForJay",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Bloo",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Modest Major",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Pyro",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Umpa",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Oytun",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Ghost",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "MattSmith",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Modest Major",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Umpa",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Oytun",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Frenzy",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "MattSmith",
+            "p2flag": "gb",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "Sylveon",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Oytun",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Hylian Reaper",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Libers",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Modest Major",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Oytun",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Boggle",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Frenzy",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "HoorayForJay",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Demo",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Henley",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Pyro",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "CHube",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Ghost",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Viph",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Omadon",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Bloo",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mumbles",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "MattSmith",
+            "p1flag": "gb",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "PugMug",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "10QuidShoes",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Umpa",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Sylveon",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Harvey",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Ghost",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Omadon",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Bloo",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "MattSmith",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "PugMug",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Umpa",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Sylveon",
+            "p2flag": "gb",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m5": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Hylian Reaper",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Modest Major",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Oytun",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "Frenzy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "HoorayForJay",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Henley",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Pyro",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Bloo",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "MattSmith",
+            "p1flag": "gb",
+            "p1score": "",
+            "p2": "Sylveon",
+            "p2flag": "gb",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Oytun",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Frenzy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Pyro",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Sylveon",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Frenzy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        }
+    }
+}

@@ -1,0 +1,613 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "maXy",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Frenzy",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "MINT",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "MINT",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "maXy",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1char1": "fox",
+            "p1char2": "fox",
+            "p1char3": "fox",
+            "p1char4": "fox",
+            "p1char5": "fox",
+            "p1stock1": "2",
+            "p1stock2": "0",
+            "p1stock3": "0",
+            "p1stock4": "1",
+            "p1stock5": "0",
+            "p2char1": "fox",
+            "p2char2": "fox",
+            "p2char3": "fox",
+            "p2char4": "fox",
+            "p2char5": "fox",
+            "p2stock1": "0",
+            "p2stock2": "1",
+            "p2stock3": "1",
+            "p2stock4": "0",
+            "p2stock5": "1",
+            "stage1": "Battlefield",
+            "stage2": "Final Destination",
+            "stage3": "Pok\u00e9mon Stadium",
+            "stage4": "Pok\u00e9mon Stadium",
+            "stage5": "Battlefield",
+            "win": "1",
+            "win1": "1",
+            "win2": "2",
+            "win3": "2",
+            "win4": "1",
+            "win5": "2"
+        },
+        "r3m2": {
+            "p1char1": "fox",
+            "p1char2": "fox",
+            "p1char3": "fox",
+            "p1stock1": "2",
+            "p1stock2": "2",
+            "p1stock3": "3",
+            "p2char1": "fox",
+            "p2char2": "fox",
+            "p2char3": "fox",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "p2stock3": "0",
+            "stage1": "Battlefield",
+            "stage2": "Final Destination",
+            "stage3": "Final Destination",
+            "win1": "1",
+            "win2": "1",
+            "win3": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Zeruko",
+            "p1flag": "ie",
+            "p1score": "0",
+            "p2": "meamking",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Lump729",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "KaPe",
+            "p2flag": "de",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Tikaal",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "Diabound",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Adam Aplz",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Evi",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "HaunteR",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Conall",
+            "p2flag": "ie",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "AN2",
+            "p1flag": "ie",
+            "p1score": "0",
+            "p2": "Lultam",
+            "p2flag": "ie",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Dieguy",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Bengay",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Blue_Persil",
+            "p1flag": "ie",
+            "p1score": "0",
+            "p2": "Verdant",
+            "p2flag": "ie",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Draz",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "meamking",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Lima",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "KaPe",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Craft",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Diabound",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Lupin",
+            "p1flag": "ie",
+            "p1score": "2",
+            "p2": "Adam Aplz",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "MagiMagi",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Conall",
+            "p2flag": "ie",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "King of Legend",
+            "p1flag": "ie",
+            "p1score": "1",
+            "p2": "Lultam",
+            "p2flag": "ie",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m7": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "Bengay",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m8": {
+            "p1": "Can~D",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "Verdant",
+            "p2flag": "ie",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Draz",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Lima",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Craft",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Lupin",
+            "p2flag": "ie",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Conall",
+            "p1flag": "ie",
+            "p1score": "2",
+            "p2": "Lultam",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "Bengay",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Verdant",
+            "p2flag": "ie",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Way",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Draz",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "ministry",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Craft",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Conall",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Leck",
+            "p1flag": "ie",
+            "p1score": "2",
+            "p2": "Verdant",
+            "p2flag": "ie",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "Way",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "ministry",
+            "p2flag": "ca",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Leck",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "maXy",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "ministry",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Frenzy",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "R23",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Zeruko",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Conall",
+            "p1flag": "ie",
+            "p1score": "0",
+            "p2": "Lupin",
+            "p2flag": "ie",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "Craft",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "AN2",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Leck",
+            "p1flag": "ie",
+            "p1score": "2",
+            "p2": "Lultam",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Dieguy",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Lima",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Bengay",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "maXy",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Blue_Persil",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Draz",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Verdant",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "meamking",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Can~D",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "ministry",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Lump729",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "details": {
+                "vod": "https://www.youtube.com/watch?v=Kxvh1BV4eSA"
+            },
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "KaPe",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Frenzy",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Tikaal",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "King of Legend",
+            "p1flag": "ie",
+            "p1score": "2",
+            "p2": "Diabound",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Way",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Adam Aplz",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "MagiMagi",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Evi",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "MINT",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "HaunteR",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Can~D",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "ministry",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Frenzy",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "King of Legend",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Way",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "MagiMagi",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "MINT",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Lupin",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Craft",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Leck",
+            "p2flag": "ie",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Lima",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "maXy",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Draz",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "ministry",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Frenzy",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Way",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "MINT",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Leck",
+            "p2flag": "ie",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "maXy",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Frenzy",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "MINT",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "maXy",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

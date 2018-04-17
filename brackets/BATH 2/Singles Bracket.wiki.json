@@ -1,0 +1,278 @@
+{
+    "==Final Bracket==": {
+        "l1m1": {
+            "p1": "X1",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Pripps",
+            "p2flag": "se",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "Jam",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "X1",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Jam",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "R23",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Stan Sasquatch",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Jay",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Sleepsjr",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "Aiken",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "LuNa",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "Twig",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Can~D",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Hylian Reaper",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "X1",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Jay",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Sylveon",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Aiken",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "PugMug",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Twig",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "SHIP",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Can~D",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "X1",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Sylveon",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "PugMug",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "SHIP",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "ModestMajor",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "X1",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Pripps",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "SHIP",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Stan Sasquatch",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "SHIP",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Jay",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "ModestMajor",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Sleepsjr",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Aiken",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "PugMug",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "Jam",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "LuNa",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Twig",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "Sylveon",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "X1",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Can~D",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "2"
+        },
+        "r1m8": {
+            "p1": "Pripps",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "Hylian Reaper",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "SHIP",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "ModestMajor",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "PugMug",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Jam",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Sylveon",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "X1",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Pripps",
+            "p2flag": "se",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "ModestMajor",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Jam",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Pripps",
+            "p2flag": "se",
+            "p2score": "2",
+            "win": "1"
+        }
+    }
+}

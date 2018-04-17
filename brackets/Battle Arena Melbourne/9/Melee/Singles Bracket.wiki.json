@@ -1,0 +1,851 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Spud",
+            "p1flag": "nz",
+            "p1score": "3",
+            "p2": "S.D",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Zxv",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Sora",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Zxv",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Spud",
+            "p2flag": "nz",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "win": "2"
+        },
+        "r3m2": {
+            "p2score": "3"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Thriles",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "bruh",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m10": {
+            "p1": "Hughie",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "shineboyfresh",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m11": {
+            "p1": "Birdies",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Skeletom",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m12": {
+            "p1": "Davox",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Scraddles",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m13": {
+            "p1": "Timic83",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "OB",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m14": {
+            "p1": "CookBook",
+            "p1flag": "nz",
+            "p1score": "2",
+            "p2": "shel",
+            "p2flag": "nz",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m15": {
+            "p1": "iuyhcdfs",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Chappos",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m16": {
+            "p1": "Auro",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Macky",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Milun",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Edit",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Brandino",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Tyler",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Gabe",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "DSC",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Fray",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Nangs",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "coup",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "ZAMBEZIUS",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Loafmanjoe",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Yam",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Rek",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Sebby",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m9": {
+            "p1": "striderace",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Birdperson",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Mercury",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Thriles",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m10": {
+            "p1": "Tris",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Hughie",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m11": {
+            "p1": "Lemonpot",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Skeletom",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m12": {
+            "p1": "Sindocus",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Davox",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m13": {
+            "p1": "Kami",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "OB",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m14": {
+            "p1": "Mylo",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "CookBook",
+            "p2flag": "nz",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m15": {
+            "p1": "Azri",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Chappos",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m16": {
+            "p1": "Aluf",
+            "p1flag": "nz",
+            "p1score": "2",
+            "p2": "Auro",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Flow Rats",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Edit",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Aussierob",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Tyler",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "mask1n",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Gabe",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Haydze",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Nangs",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "Pretty Cool Guy",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "ZAMBEZIUS",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Noxus",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Yam",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Raphiki",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Sebby",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m9": {
+            "p1": "Toshi",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Birdperson",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Mercury",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Flow Rats",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Aussierob",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Gabe",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Nangs",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Pretty Cool Guy",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "Noxus",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Raphiki",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m5": {
+            "p1": "Toshi",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Tris",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l3m6": {
+            "p1": "Skeletom",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Davox",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l3m7": {
+            "p1": "Kami",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "CookBook",
+            "p2flag": "nz",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l3m8": {
+            "p1": "Chappos",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Aluf",
+            "p2flag": "nz",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Quetz",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Mercury",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Muscat",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Aussierob",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "MC",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Nangs",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "Fess",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Noxus",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m5": {
+            "p1": "Cunchy",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Tris",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m6": {
+            "p1": "Saucy",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Davox",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m7": {
+            "p1": "sundowns",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "CookBook",
+            "p2flag": "nz",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m8": {
+            "p1": "Kaiza",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Aluf",
+            "p2flag": "nz",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Quetz",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Aussierob",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Nangs",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Fess",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l5m3": {
+            "p1": "Cunchy",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Davox",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l5m4": {
+            "p1": "CookBook",
+            "p1flag": "nz",
+            "p1score": "0",
+            "p2": "Aluf",
+            "p2flag": "nz",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "Spud",
+            "p1flag": "nz",
+            "p1score": "3",
+            "p2": "Quetz",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "DonB",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Fess",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l6m3": {
+            "p1": "Splice",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Cunchy",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l6m4": {
+            "p1": "S.D",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Aluf",
+            "p2flag": "nz",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l7m1": {
+            "p1": "Spud",
+            "p1flag": "nz",
+            "p1score": "3",
+            "p2": "DonB",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l7m2": {
+            "p1": "Splice",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "S.D",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l8m1": {
+            "p1": "SA Vic",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "Spud",
+            "p2flag": "nz",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l8m2": {
+            "p1": "Rainbow",
+            "p1flag": "au",
+            "p1score": "0",
+            "p2": "S.D",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Spud",
+            "p1flag": "nz",
+            "p1score": "2",
+            "p2": "Raphiki",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Fess",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Azri",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "MC",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Mylo",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Splice",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Kami",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "S.D",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Sindocus",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Muscat",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Lemonpot",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Sora",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Tris",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Quetz",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Toshi",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Noxus",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Kaiza",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Zxv",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Pretty Cool Guy",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Haydze",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "sundowns",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "Rainbow",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "mask1n",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Aussierob",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Saucy",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "DonB",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Flow Rats",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Cunchy",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Mercury",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "SA Vic",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Aluf",
+            "p2flag": "nz",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Spud",
+            "p1flag": "nz",
+            "p1score": "3",
+            "p2": "Kaiza",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Zxv",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "sundowns",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Rainbow",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Saucy",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "DonB",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Cunchy",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "SA Vic",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Fess",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "MC",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Splice",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "S.D",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Muscat",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Sora",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Quetz",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Spud",
+            "p1flag": "nz",
+            "p1score": "2",
+            "p2": "Zxv",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m2": {
+            "p1": "Rainbow",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "DonB",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "SA Vic",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Splice",
+            "p2flag": "au",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "S.D",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Sora",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "Zxv",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Rainbow",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "SA Vic",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Sora",
+            "p2flag": "au",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

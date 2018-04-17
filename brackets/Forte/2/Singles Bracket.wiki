@@ -1,0 +1,73 @@
+{{DISPLAYTITLE:Forte 2: Singles Bracket}}{{BracketMatchSMWDisambig |oldtags=Silver, WES |newtags=Silver (Unknown), WES (Unknown)}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Forte/2
+|name2=Singles Bracket
+|link2=Forte/2/Singles Bracket
+|name3=Doubles Bracket
+|link3=Forte/2/Doubles Bracket
+|This=2
+}}
+{{:Forte/2/Singles_Bracket/Winners}}
+{{:Forte/2/Singles_Bracket/Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Forte/2
+|tourneyname=Forte 2
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=180
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Hungrybox |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Wobbles |r1m1p2flag=us |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1=Jigglypuff |r1m1p1stock1=2 |r1m1p2char1=Ice Climbers |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Final Destination
+|r1m1p1char2=Jigglypuff |r1m1p1stock2=1 |r1m1p2char2=Ice Climbers |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1p1char3=Jigglypuff |r1m1p1stock3=0 |r1m1p2char3=Ice Climbers |r1m1p2stock3=2 |r1m1win3=2 |r1m1stage3=Pokémon Stadium
+|r1m1p1char4=Jigglypuff |r1m1p1stock4=3 |r1m1p2char4=Ice Climbers |r1m1p2stock4=0 |r1m1win4=1 |r1m1stage4=Dream Land
+|r1m1date=December 21, 2014
+|r1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=djJ9DgHtHq8&list=PLFXOgPi6_N5RCWmFIsAnxocEATJbfy9pA&index=74
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Javi |l1m1p1flag=mx |l1m1p1score=1
+|l1m1p2=Axe |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=Fox |l1m1p1stock1=3 |l1m1p2char1=Pikachu |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield 
+|l1m1p1char2=Fox |l1m1p1stock2=0 |l1m1p2char2=Pikachu |l1m1p2stock2= |l1m1win2=2 |l1m1stage2=Battlefield
+|l1m1p1char3=Fox |l1m1p1stock3=0 |l1m1p2char3=Pikachu |l1m1p2stock3=1 |l1m1win3=2 |l1m1stage3=Pokémon Stadium
+|l1m1p1char4=Fox |l1m1p1stock4=0 |l1m1p2char4=Pikachu |l1m1p2stock4=2 |l1m1win4=2 |l1m1stage4=Pokémon Stadium
+|l1m1date=December 21, 2014
+|l1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=tFyrjHWG588&list=PLFXOgPi6_N5RCWmFIsAnxocEATJbfy9pA&index=73
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Wobbles |r2m1p1flag=us |r2m1p1score=0
+|r2m1p2=Axe |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=Ice Climbers |r2m1p1stock1=0 |r2m1p2char1=Young Link |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Dream Land
+|r2m1p1char2=Ice Climbers |r2m1p1stock2=0 |r2m1p2char2=Falco |r2m1p2stock2=2 |r2m1win2=2 |r2m1stage2=Yoshi's Story
+|r2m1p1char3=Ice Climbers |r2m1p1stock3=0 |r2m1p2char3=Falco |r2m1p2stock3=2 |r2m1win3=2 |r2m1stage3=Yoshi's Story
+|r2m1date=December 21, 2014
+
+
+<!-- GRAND FINALS -->
+|r3m1p1=Hungrybox |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Axe |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=Jigglypuff |r3m1p1stock1=1 |r3m1p2char1=Pikachu |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=Jigglypuff |r3m1p1stock2=1 |r3m1p2char2=Pikachu |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=Jigglypuff |r3m1p1stock3=1 |r3m1p2char3=Pikachu |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Pokémon Stadium
+|r3m1date=December 21, 2014
+|r3m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=nvkKaqnNA_s&list=PLFXOgPi6_N5RCWmFIsAnxocEATJbfy9pA&index=71
+}}
+}}
+</onlyinclude>

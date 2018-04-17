@@ -1,0 +1,246 @@
+{
+    "====Grand Finals====": {},
+    "====Losers Finals====": {},
+    "====Winners Finals====": {},
+    "===Final Crews Bracket===": {},
+    "===Losers Bracket===": {
+        "l1m1": {
+            "p1": "Norway",
+            "p1flag": "no",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Austria",
+            "p1flag": "at",
+            "p1score": "DQ",
+            "p2": "Belgium",
+            "p2flag": "be",
+            "p2score": "win",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Ireland",
+            "p1flag": "ie",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Wales",
+            "p1flag": "wa",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "England",
+            "p1flag": "en",
+            "p1score": "win",
+            "p2": "Norway",
+            "p2flag": "no",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Spain",
+            "p1flag": "es",
+            "p1score": "win",
+            "p2": "Belgium",
+            "p2flag": "be",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "France",
+            "p1flag": "fr",
+            "p1score": "",
+            "p2": "Ireland",
+            "p2flag": "ie",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Scotland",
+            "p1flag": "sc",
+            "p1score": "win",
+            "p2": "Wales",
+            "p2flag": "wa",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "England",
+            "p1flag": "en",
+            "p1score": "win",
+            "p2": "Spain",
+            "p2flag": "es",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Ireland",
+            "p1flag": "ie",
+            "p1score": "win",
+            "p2": "Scotland",
+            "p2flag": "sc",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Sweden",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "England",
+            "p2flag": "en",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Netherlands",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Ireland",
+            "p2flag": "ie",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "===Winners Bracket===": {
+        "r1m1": {
+            "p1": "Sweden",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Scotland",
+            "p1flag": "sc",
+            "p1score": "win",
+            "p2": "Norway",
+            "p2flag": "no",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Germany",
+            "p1flag": "de",
+            "p1score": "win",
+            "p2": "Austria",
+            "p2flag": "at",
+            "p2score": "DQ",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "France",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "Belgium",
+            "p2flag": "be",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "USA",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Spain",
+            "p1flag": "es",
+            "p1score": "win",
+            "p2": "Ireland",
+            "p2flag": "ie",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "England",
+            "p1flag": "en",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Netherlands",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Wales",
+            "p2flag": "wa",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Sweden",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Scotland",
+            "p2flag": "sc",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Germany",
+            "p1flag": "de",
+            "p1score": "win",
+            "p2": "France",
+            "p2flag": "fr",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "USA",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Spain",
+            "p2flag": "es",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "England",
+            "p1flag": "en",
+            "p1score": "",
+            "p2": "Netherlands",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Sweden",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Germany",
+            "p2flag": "de",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m2": {
+            "p1": "USA",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Netherlands",
+            "p2flag": "nl",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Bracket==": {},
+    "==Match Details==": {}
+}

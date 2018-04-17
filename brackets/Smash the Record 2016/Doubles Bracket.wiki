@@ -1,0 +1,238 @@
+{{tabs static
+|name1=Overview
+|link1=Smash the Record 2016 
+|name2=Singles Bracket
+|link2=Smash the Record 2016/Singles Bracket
+|name3=Doubles Bracket
+|link3=Smash the Record 2016/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{8DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=Shroomed |r1m1t1p1flag=us
+|r1m1t1p2=Silent Wolf |r1m1t1p2flag=us |r1m1t1score=2
+|r1m1t2p1=Barraca |r1m1t2p1flag=us
+|r1m1t2p2=brokenyew |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+|r1m1t1p1char1=doc |r1m1t1p1stock1=2 |r1m1t1p2char1=fox |r1m1t1p2stock1=3
+|r1m1t2p1char1=marth |r1m1t2p1stock1=0 |r1m1t2p2char1=fox |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Brinstar
+|r1m1t1p1char2=doc |r1m1t1p1stock2=2 |r1m1t1p2char2=fox |r1m1t1p2stock2=2
+|r1m1t2p1char2=marth |r1m1t2p1stock2=0 |r1m1t2p2char2=fox |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Green Greens
+|r1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/XA5z9jYZw3Y}}
+
+|r1m2t1p1=DJ Nintendo |r1m2t1p1flag=us
+|r1m2t1p2=The Moon |r1m2t1p2flag=us |r1m2t1score=2
+|r1m2t2p1=Nintendude |r1m2t2p1flag=us
+|r1m2t2p2=Chillindude |r1m2t2p2flag=us |r1m2t2score=0
+|r1m2win=1
+
+|r1m3t1p1=Professor Cedar |r1m3t1p1flag=us
+|r1m3t1p2=Kamikaze |r1m3t1p2flag=us |r1m3t1score=0
+|r1m3t2p1=Colbol |r1m3t2p1flag=us
+|r1m3t2p2=dizzkidboogie |r1m3t2p2flag=us |r1m3t2score=2
+|r1m3win=2
+
+|r1m4t1p1=Zhu |r1m4t1p1flag=us
+|r1m4t1p2=MacD |r1m4t1p2flag=us |r1m4t1score=0
+|r1m4t2p1=Blea Gelo |r1m4t2p1flag=ve
+|r1m4t2p2=Hungrybox |r1m4t2p2flag=us |r1m4t2score=2
+|r1m4win=2
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Shroomed |r2m1t1p1flag=us
+|r2m1t1p2=Silent Wolf |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=DJ Nintendo |r2m1t2p1flag=us
+|r2m1t2p2=The Moon |r2m1t2p2flag=us |r2m1t2score=1
+|r2m1win=1
+|r2m1t1p1char1=doc |r2m1t1p1stock1=2 |r2m1t1p2char1=fox |r2m1t1p2stock1=1
+|r2m1t2p1char1=fox |r2m1t2p1stock1=0 |r2m1t2p2char1=fox |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Brinstar
+|r2m1t1p1char2=doc |r2m1t1p1stock2=0 |r2m1t1p2char2=fox |r2m1t1p2stock2=0
+|r2m1t2p1char2=fox |r2m1t2p1stock2=2 |r2m1t2p2char2=fox |r2m1t2p2stock2=0 |r2m1win2=2 |r2m1stage2=Mushroom Kingdom II
+|r2m1t1p1char3=doc |r2m1t1p1stock3=1 |r2m1t1p2char3=fox |r2m1t1p2stock3=2
+|r2m1t2p1char3=fox |r2m1t2p1stock3=0 |r2m1t2p2char3=fox |r2m1t2p2stock3=0 |r2m1win3=1 |r2m1stage3=Green Greens
+|r2m1t1p1char4=doc |r2m1t1p1stock4=1 |r2m1t1p2char4=fox |r2m1t1p2stock4=2
+|r2m1t2p1char4=fox |r2m1t2p1stock4=0 |r2m1t2p2char4=fox |r2m1t2p2stock4=0 |r2m1win4=1 |r2m1stage4=Jungle Japes
+|r2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/gaiKVaSeKz8}}
+
+|r2m2t1p1=Colbol |r2m2t1p1flag=us
+|r2m2t1p2=dizzkidboogie |r2m2t1p2flag=us |r2m2t1score=1
+|r2m2t2p1=Blea Gelo |r2m2t2p1flag=ve
+|r2m2t2p2=Hungrybox |r2m2t2p2flag=us |r2m2t2score=3
+|r2m2win=2
+|r2m2t1p1char1=fox |r2m2t1p1stock1=1 |r2m2t1p2char1=ic |r2m2t1p2stock1=1
+|r2m2t2p1char1=luigi |r2m2t2p1stock1=0 |r2m2t2p2char1=jigglypuff |r2m2t2p2stock1=0 |r2m2win1=1 |r2m2stage1=Battlefield
+|r2m2t1p1char2=fox |r2m2t1p1stock2=0 |r2m2t1p2char2=ic |r2m2t1p2stock2=0
+|r2m2t2p1char2=luigi |r2m2t2p1stock2=1 |r2m2t2p2char2=jigglypuff |r2m2t2p2stock2=1 |r2m2win2=2 |r2m2stage2=Green Greens
+|r2m2t1p1char3=fox |r2m2t1p1stock3=0 |r2m2t1p2char3=ic |r2m2t1p2stock3=0
+|r2m2t2p1char3=luigi |r2m2t2p1stock3=1 |r2m2t2p2char3=jigglypuff |r2m2t2p2stock3=2 |r2m2win3=2 |r2m2stage3=Great Bay
+|r2m2t1p1char4=fox |r2m2t1p1stock4=0 |r2m2t1p2char4=ic |r2m2t1p2stock4=0
+|r2m2t2p1char4=luigi |r2m2t2p1stock4=0 |r2m2t2p2char4=jigglypuff |r2m2t2p2stock4=2 |r2m2win4=2 |r2m2stage4=Brinstar
+|r2m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/xr8ckhm2u7c}}
+}}
+==Losers Bracket==
+{{16DEDoublesLBracketA
+|column-width=160
+<!-- ROUND 1 -->
+|l1m1t1p1=PB&J |l1m1t1p1flag=us
+|l1m1t1p2=ANTi |l1m1t1p2flag=us |l1m1t1score={{win}}
+|l1m1t2p1=Aly |l1m1t2p1flag=us
+|l1m1t2p2=DINGO |l1m1t2p2flag=us |l1m1t2score=DQ
+|l1m1win=1
+
+|l1m2t1p1=MikeHaze |l1m2t1p1flag=us
+|l1m2t1p2=zerothetheif |l1m2t1p2flag=br |l1m2t1score=2
+|l1m2t2p1=Sinbad |l1m2t2p1flag=us
+|l1m2t2p2=Ajax |l1m2t2p2flag=us |l1m2t2score=0
+|l1m2win=1
+
+|l1m3t1p1=GAwes |l1m3t1p1flag=us
+|l1m3t1p2=Tubesssbm |l1m3t1p2flag=us |l1m3t1score={{win}}
+|l1m3t2p1=Wife |l1m3t2p1flag=us
+|l1m3t2p2=Silence |l1m3t2p2flag=us |l1m3t2score=DQ
+|l1m3win=1
+
+|l1m4t1p1=Druggedfox |l1m4t1p1flag=us
+|l1m4t1p2=fueg0 |l1m4t1p2flag=us |l1m4t1score=0
+|l1m4t2p1=A Rookie |l1m4t2p1flag=us
+|l1m4t2p2=Oppa |l1m4t2p2flag=us |l1m4t2score=2
+|l1m4win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Zhu |l2m1t1p1flag=us
+|l2m1t1p2=MacD |l2m1t1p2flag=us |l2m1t1score=0
+|l2m1t2p1=PB&J |l2m1t2p1flag=us
+|l2m1t2p2=ANTi |l2m1t2p2flag=us |l2m1t2score=2
+|l2m1win=2
+
+|l2m2t1p1=Professor Cedar |l2m2t1p1flag=us
+|l2m2t1p2=Kamikaze |l2m2t1p2flag=us |l2m2t1score=0
+|l2m2t2p1=MikeHaze |l2m2t2p1flag=us
+|l2m2t2p2=zerothetheif |l2m2t2p2flag=br |l2m2t2score=2
+|l2m2win=2
+
+|l2m3t1p1=Nintendude |l2m3t1p1flag=us
+|l2m3t1p2=Chillindude |l2m3t1p2flag=us |l2m3t1score=2
+|l2m3t2p1=GAwes |l2m3t2p1flag=us
+|l2m3t2p2=Tubesssbm |l2m3t2p2flag=us |l2m3t2score=0
+|l2m3win=1
+
+|l2m4t1p1=Barraca |l2m4t1p1flag=us
+|l2m4t1p2=brokenyew |l2m4t1p2flag=us |l2m4t1score=0
+|l2m4t2p1=A Rookie |l2m4t2p1flag=us
+|l2m4t2p2=Oppa |l2m4t2p2flag=us |l2m4t2score=2
+|l2m4win=2
+
+<!-- ROUND 3 -->
+|l3m1t1p1=PB&J |l3m1t1p1flag=us
+|l3m1t1p2=ANTi |l3m1t1p2flag=us |l3m1t1score=3
+|l3m1t2p1=MikeHaze |l3m1t2p1flag=us
+|l3m1t2p2=zerothetheif |l3m1t2p2flag=br |l3m1t2score=0
+|l3m1win=1
+
+|l3m2t1p1=Nintendude |l3m2t1p1flag=us
+|l3m2t1p2=Chillindude |l3m2t1p2flag=us |l3m2t1score=3
+|l3m2t2p1=A Rookie |l3m2t2p1flag=us
+|l3m2t2p2=Oppa |l3m2t2p2flag=us |l3m2t2score=2
+|l3m2win=1
+
+<!-- ROUND 4 -->
+|l4m1t1p1=DJ Nintendo |l4m1t1p1flag=us
+|l4m1t1p2=The Moon |l4m1t1p2flag=us |l4m1t1score=3
+|l4m1t2p1=PB&J |l4m1t2p1flag=us
+|l4m1t2p2=ANTi |l4m1t2p2flag=us |l4m1t2score=0
+|l4m1win=1
+|l4m1t1p1char1=marth |l4m1t1p1stock1=2 |l4m1t1p2char1=marth |l4m1t1p2stock1=2
+|l4m1t2p1char1=marth |l4m1t2p1stock1=0 |l4m1t2p2char1=marth |l4m1t2p2stock1=0 |l4m1win1=1 |l4m1stage1=Battlefield
+|l4m1t1p1char2=fox |l4m1t1p1stock2=4 |l4m1t1p2char2=fox |l4m1t1p2stock2=1
+|l4m1t2p1char2=fox |l4m1t2p1stock2=0 |l4m1t2p2char2=marth |l4m1t2p2stock2=0 |l4m1win2=1 |l4m1stage2=Green Greens
+|l4m1t1p1char3=fox |l4m1t1p1stock3=1 |l4m1t1p2char3=fox |l4m1t1p2stock3=0
+|l4m1t2p1char3=fox |l4m1t2p1stock3=0 |l4m1t2p2char3=marth |l4m1t2p2stock3=0 |l4m1win3=1 |l4m1stage3=Brinstar
+|l4m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/BUmS87bz0Lg}}
+
+|l4m2t1p1=Colbol |l4m2t1p1flag=us
+|l4m2t1p2=dizzkidboogie |l4m2t1p2flag=us |l4m2t1score=3
+|l4m2t2p1=Nintendude |l4m2t2p1flag=us
+|l4m2t2p2=Chillindude |l4m2t2p2flag=us |l4m2t2score=1
+|l4m2win=1
+|l4m2t1p1char1=fox |l4m2t1p1stock1=2 |l4m2t1p2char1=ic |l4m2t1p2stock1=2
+|l4m2t2p1char1=jigglypuff |l4m2t2p1stock1=0 |l4m2t2p2char1=fox |l4m2t2p2stock1=0 |l4m2win1=1 |l4m2stage1=Corneria
+|l4m2t1p1char2=fox |l4m2t1p1stock2=0 |l4m2t1p2char2=ic |l4m2t1p2stock2=0
+|l4m2t2p1char2=jigglypuff |l4m2t2p1stock2=1 |l4m2t2p2char2=fox |l4m2t2p2stock2=1 |l4m2win2=2 |l4m2stage2=Jungle Japes
+|l4m2t1p1char3=fox |l4m2t1p1stock3=1 |l4m2t1p2char3=ic |l4m2t1p2stock3=1
+|l4m2t2p1char3=jigglypuff |l4m2t2p1stock3=0 |l4m2t2p2char3=fox |l4m2t2p2stock3=0 |l4m2win3=1 |l4m2stage3=Mushroom Kingdom II
+|l4m2t1p1char4=fox |l4m2t1p1stock4=1 |l4m2t1p2char4=ic |l4m2t1p2stock4=1
+|l4m2t2p1char4=jigglypuff |l4m2t2p1stock4=0 |l4m2t2p2char4=fox |l4m2t2p2stock4=0 |l4m2win4=1 |l4m2stage4=Mute City
+|l4m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/ZAfZtm-xV34}}
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesBracket
+<!-- FROM WINNERS -->
+|r1m1t1p1=Shroomed |r1m1t1p1flag=us
+|r1m1t1p2=Silent Wolf |r1m1t1p2flag=us |r1m1t1score=1
+|r1m1t2p1=Blea Gelo |r1m1t2p1flag=ve
+|r1m1t2p2=Hungrybox |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+|r1m1t1p1char1=doc |r1m1t1p1stock1=0 |r1m1t1p2char1=fox |r1m1t1p2stock1=0
+|r1m1t2p1char1=luigi |r1m1t2p1stock1=0 |r1m1t2p2char1=jigglypuff |r1m1t2p2stock1=1 |r1m1win1=2 |r1m1stage1=Corneria
+|r1m1t1p1char2=doc |r1m1t1p1stock2=0 |r1m1t1p2char2=fox |r1m1t1p2stock2=0
+|r1m1t2p1char2=luigi |r1m1t2p1stock2=1 |r1m1t2p2char2=jigglypuff |r1m1t2p2stock2=2 |r1m1win2=2 |r1m1stage2=Jungle Japes
+|r1m1t1p1char3=doc |r1m1t1p1stock3=1 |r1m1t1p2char3=fox |r1m1t1p2stock3=1
+|r1m1t2p1char3=luigi |r1m1t2p1stock3=0 |r1m1t2p2char3=jigglypuff |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Mute City
+|r1m1t1p1char4=doc |r1m1t1p1stock4=0 |r1m1t1p2char4=fox |r1m1t1p2stock4=0
+|r1m1t2p1char4=luigi |r1m1t2p1stock4=0 |r1m1t2p2char4=jigglypuff |r1m1t2p2stock4=1 |r1m1win4=2 |r1m1stage4=Green Greens
+|r1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/DsxrFrc7O3k}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=DJ Nintendo |l1m1t1p1flag=us
+|l1m1t1p2=The Moon |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=Colbol |l1m1t2p1flag=us
+|l1m1t2p2=dizzkidboogie |l1m1t2p2flag=us |l1m1t2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Shroomed |r2m1t1p1flag=us
+|r2m1t1p2=Silent Wolf |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Colbol |r2m1t2p1flag=us
+|r2m1t2p2=dizzkidboogie |r2m1t2p2flag=us |r2m1t2score=2
+|r2m1win=1
+|r2m1t1p1char1=doc |r2m1t1p1stock1=0 |r2m1t1p2char1=fox |r2m1t1p2stock1=1
+|r2m1t2p1char1=fox |r2m1t2p1stock1=0 |r2m1t2p2char1=ic |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Corneria
+|r2m1t1p1char2=doc |r2m1t1p1stock2=1 |r2m1t1p2char2=fox |r2m1t1p2stock2=1
+|r2m1t2p1char2=fox |r2m1t2p1stock2=0 |r2m1t2p2char2=ic |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Jungle Japes
+|r2m1t1p1char3=doc |r2m1t1p1stock3=0 |r2m1t1p2char3=fox |r2m1t1p2stock3=0
+|r2m1t2p1char3=fox |r2m1t2p1stock3=1 |r2m1t2p2char3=ic |r2m1t2p2stock3=1 |r2m1win3=2 |r2m1stage3=Mushroom Kingdom II
+|r2m1t1p1char4=doc |r2m1t1p1stock4=0 |r2m1t1p2char4=fox |r2m1t1p2stock4=0
+|r2m1t2p1char4=fox |r2m1t2p1stock4=1 |r2m1t2p2char4=ic |r2m1t2p2stock4=1 |r2m1win4=2 |r2m1stage4=Green Greens
+|r2m1t1p1char5=doc |r2m1t1p1stock5=2 |r2m1t1p2char5=fox |r2m1t1p2stock5=2
+|r2m1t2p1char5=fox |r2m1t2p1stock5=0 |r2m1t2p2char5=ic |r2m1t2p2stock5=0 |r2m1win5=1 |r2m1stage5=Brinstar
+|r2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/DsxrFrc7O3k}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Blea Gelo |r3m1t1p1flag=ve
+|r3m1t1p2=Hungrybox |r3m1t1p2flag=us |r3m1t1score=2 |r3m2t1score=3
+|r3m1t2p1=Shroomed |r3m1t2p1flag=us
+|r3m1t2p2=Silent Wolf |r3m1t2p2flag=us |r3m1t2score=3 |r3m2t2score=0
+|r3m1win=1
+|r3m1t1p1char1=luigi |r3m1t1p1stock1=0 |r3m1t1p2char1=jigglypuff |r3m1t1p2stock1=1
+|r3m1t2p1char1=doc |r3m1t2p1stock1=0 |r3m1t2p2char1=fox |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Great Bay
+|r3m1t1p1char2=luigi |r3m1t1p1stock2=0 |r3m1t1p2char2=jigglypuff |r3m1t1p2stock2=0
+|r3m1t2p1char2=doc |r3m1t2p1stock2=1 |r3m1t2p2char2=fox |r3m1t2p2stock2=1 |r3m1win2=2 |r3m1stage2=Mute City
+|r3m1t1p1char3=luigi |r3m1t1p1stock3=1 |r3m1t1p2char3=jigglypuff |r3m1t1p2stock3=1
+|r3m1t2p1char3=doc |r3m1t2p1stock3=0 |r3m1t2p2char3=fox |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Battlefield
+|r3m1t1p1char4=luigi |r3m1t1p1stock4=0 |r3m1t1p2char4=jigglypuff |r3m1t1p2stock4=0
+|r3m1t2p1char4=doc |r3m1t2p1stock4=3 |r3m1t2p2char4=fox |r3m1t2p2stock4=2 |r3m1win4=2 |r3m1stage4=Jungle Japes
+|r3m1t1p1char5=luigi |r3m1t1p1stock5=0 |r3m1t1p2char5=jigglypuff |r3m1t1p2stock5=0
+|r3m1t2p1char5=doc |r3m1t2p1stock5=1 |r3m1t2p2char5=fox |r3m1t2p2stock5=0 |r3m1win5=2 |r3m1stage5=Corneria
+
+|r3m2t1p1char1=luigi |r3m2t1p1stock1=1 |r3m2t1p2char1=jigglypuff |r3m2t1p2stock1=1
+|r3m2t2p1char1=doc |r3m2t2p1stock1=0 |r3m2t2p2char1=fox |r3m2t2p2stock1=0 |r3m2win1=1 |r3m2stage1=Mushroom Kingdom II
+|r3m2t1p1char2=luigi |r3m2t1p1stock2=2 |r3m2t1p2char2=jigglypuff |r3m2t1p2stock2=2
+|r3m2t2p1char2=doc |r3m2t2p1stock2=0 |r3m2t2p2char2=fox |r3m2t2p2stock2=0 |r3m2win2=1 |r3m2stage2=Brinstar
+|r3m2t1p1char3=luigi |r3m2t1p1stock3=1 |r3m2t1p2char3=jigglypuff |r3m2t1p2stock3=1
+|r3m2t2p1char3=doc |r3m2t2p1stock3=0 |r3m2t2p2char3=falco |r3m2t2p2stock3=0 |r3m2win3=1 |r3m2stage3=Great Bay
+
+|r3m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/sL-wpHFT6tw}}
+}}
+</onlyinclude>

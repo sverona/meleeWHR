@@ -1,0 +1,569 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Coelum",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "BlissinTv",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Jah Ridin'",
+            "p2flag": "ch",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Coelum",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Batatao",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Dr. Greenthumb",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "BTF SmuFF",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Nono",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "matge",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Tato",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "PIXXEL",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Octodecim",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Fleckz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "TiagZ",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "BlissinTv",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Williamallas",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m7": {
+            "p1": "RamsesIII",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Sir Tauntalot",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "Lex",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Neko",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Hyoo",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Dr. Greenthumb",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Coilerr",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "BTF SmuFF",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "QuickSike",
+            "p1flag": "ch",
+            "p1score": "0",
+            "p2": "Tato",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Sel",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Octodecim",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "MAD",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Fleckz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Jim",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "BlissinTv",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m7": {
+            "p1": "War teddy",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "RamsesIII",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Koniac",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Neko",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Hyoo",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Coilerr",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Tato",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Sel",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "MAD",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "BlissinTv",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "War teddy",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Neko",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Coelum",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Hyoo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Narvalhotep 1er",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Sel",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Akatsuki-planta",
+            "p1flag": "ch",
+            "p1score": "1",
+            "p2": "BlissinTv",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "War teddy",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "Coelum",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "Sel",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "BlissinTv",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Scriptor",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Poney",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Coelum",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m2": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "1",
+            "p2": "BlissinTv",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "2",
+            "p2": "Batatao",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Sel",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "TiagZ",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "2",
+            "p2": "BlissinTv",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "QuickSike",
+            "p1flag": "ch",
+            "p1score": "2",
+            "p2": "Williamallas",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Coilerr",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "RamsesIII",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Akatsuki-planta",
+            "p1flag": "ch",
+            "p1score": "2",
+            "p2": "Sir Tauntalot",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Lex",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Hyoo",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m16": {
+            "p1": "Poney",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Neko",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Koniac",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Dr. Greenthumb",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "BTF SmuFF",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "War teddy",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "Nono",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Narvalhotep 1er",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "matge",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Jim",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m6": {
+            "p1": "Tato",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Coelum",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "PIXXEL",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m8": {
+            "p1": "Octodecim",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "MAD",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m9": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Fleckz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "2",
+            "p2": "Koniac",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "War teddy",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Narvalhotep 1er",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Jim",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Coelum",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m4": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "MAD",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Sel",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "2",
+            "p2": "QuickSike",
+            "p2flag": "ch",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Coilerr",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Akatsuki-planta",
+            "p2flag": "ch",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m8": {
+            "p1": "Hyoo",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Poney",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "2",
+            "p2": "Narvalhotep 1er",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Coelum",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Jah Ridin'",
+            "p2flag": "ch",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m4": {
+            "p1": "Akatsuki-planta",
+            "p1flag": "ch",
+            "p1score": "0",
+            "p2": "Poney",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "0",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r4m2": {
+            "details": {
+                "comment": "There is a typo on the Challonge bracket."
+            },
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Poney",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

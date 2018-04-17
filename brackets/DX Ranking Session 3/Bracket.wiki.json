@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Kurogane",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "ZCK",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "BeLia",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Kurogane",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "BeLia",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Darx",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Shamiou",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Lion's Curry",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Clyde Wuts",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "JR.",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Guilu",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Jambon",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Yultan",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Kurogane",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Darx",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Rondelle",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "Lion's Curry",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "KillerGanon",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Guilu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Syef",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Yultan",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Kurogane",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Lion's Curry",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "KillerGanon",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Yultan",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Lepoiraut",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Kurogane",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "ZCK",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Yultan",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Lepoiraut",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Darx",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Syef",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Shamiou",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Lion's Curry",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "KillerGanon",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Clyde Wuts",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "ZCK",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "JR.",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Rondelle",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Guilu",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Jambon",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Kurogane",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Yultan",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Lepoiraut",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Syef",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "KillerGanon",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "ZCK",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Rondelle",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Kurogane",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Lepoiraut",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Cyr",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m2": {
+            "p1": "ZCK",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "BeLia",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

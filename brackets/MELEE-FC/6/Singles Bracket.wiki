@@ -1,0 +1,245 @@
+{{DISPLAYTITLE:MELEE-FC 6: Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=MELEE-FC/6
+|name2=Singles Bracket
+|link2=MELEE-FC/6/Singles Bracket
+|This=2
+}}<br/>
+As the official bracket has been lost, this bracket was recreated using VODs, final placements, and win-loss records<ref>[https://docs.google.com/document/d/1dm_qfAUBaoXEh-M3A51XUjrq-5UIA_n0KMyjmK0PlYs/edit 2006 Win-Loss records from Smash History/bignokh]</ref> The placement of individual matches on the bracket are not guaranteed to be accurate.
+
+==Winners Bracket==
+{{16DEWBracketA2
+|tourneylink=MELEE-FC/6
+|tourneyname=MELEE-FC6
+|column-width=210
+
+<!-- Ro16 -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=3 |r1m1win=1
+|r1m1p2=FastLikeTree |r1m1p2flag=us |r1m1p2score=0
+|r1m1p1char1=fox |r1m1p2char1=marth |r1m1p1stock1=1 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Dream Land
+|r1m1p1char2=fox |r1m1p2char2=marth |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1p1char3=fox |r1m1p2char3=marth |r1m1p1stock3=1 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Pokémon Stadium
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/4IBxVg-ojYw
+|vodgame2=https://youtu.be/4HDH7qKme_I
+|vodgame3=https://youtu.be/I9HNKlt6uZg}}
+
+|r1m2p1= |r1m2p1flag= |r1m2p1score= |r1m2win=
+|r1m2p2= |r1m2p2flag= |r1m2p2score=
+|r1m3p1= |r1m3p1flag= |r1m3p1score= |r1m3win=
+|r1m3p2= |r1m3p2flag= |r1m3p2score=
+|r1m4p1= |r1m4p1flag= |r1m4p1score= |r1m4win=
+|r1m4p2= |r1m4p2flag= |r1m4p2score=
+|r1m5p1= |r1m5p1flag= |r1m5p1score= |r1m5win=
+|r1m5p2= |r1m5p2flag= |r1m5p2score=
+|r1m6p1= |r1m6p1flag= |r1m6p1score= |r1m6win=
+|r1m6p2= |r1m6p2flag= |r1m6p2score=
+
+|r1m7p1=Azen |r1m7p1flag=us |r1m7p1score= |r1m7win=2
+|r1m7p2=Vidjogamer |r1m7p2flag=us |r1m7p2score=
+|r1m7p1char1=link |r1m7p2char1=peach |r1m7p1stock1=0 |r1m7p2stock1=1 |r1m7win1=2 |r1m7stage1=Final Destination
+|r1m7p1char2=luigi |r1m7p2char2=peach |r1m7p1stock2=0 |r1m7p2stock2=2 |r1m7win2=2 |r1m7stage2=Pokémon Stadium
+|r1m7p1char3=pikachu |r1m7p2char3=peach |r1m7p1stock3=0 |r1m7p2stock3=3 |r1m7win3=2 |r1m7stage3=Fountain of Dreams
+|r1m7details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/qUkf2tmYu_Y
+|vodgame2=https://youtu.be/nCrbjMbmvTg
+|vodgame3=https://youtu.be/N-fU_1pE-vc}}
+
+|r1m8p1= |r1m8p1flag= |r1m8p1score= |r1m8win=
+|r1m8p2= |r1m8p2flag= |r1m8p2score=
+
+|r2m1p1=Mew2King |r2m1p1flag=us |r2m1p1score= |r2m1win=1
+|r2m1p2=Rob$ |r2m1p2flag=us |r2m1p2score=
+|r2m1p1char1=fox |r2m1p2char1=falco |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Pokémon Stadium
+|r2m1p1char2=fox |r2m1p2char2=falco |r2m1p1stock2=1 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Mute City
+|r2m1p1char3=fox |r2m1p2char3=falco |r2m1p1stock3=3 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Fountain of Dreams
+|r2m1p1char4=fox |r2m1p2char4=sheik |r2m1p1stock4=0 |r2m1p2stock4=1 |r2m1win4=2 |r2m1stage4=Battlefield
+|r2m1p1char5=fox |r2m1p2char5=falco |r2m1p1stock5=2 |r2m1p2stock5=0 |r2m1win5=1 |r2m1stage5=Yoshi's Story
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/Lem8OlnGeIs
+|vodgame2=https://youtu.be/C1Lwqu8N7aQ
+|vodgame3=https://youtu.be/g_L2J__KSbs
+|vodgame4=https://youtu.be/th1rkrmLvdo
+|vodgame5=https://youtu.be/MNCasMQf8BU}}
+
+|r2m2p1= |r2m2p1flag= |r2m2p1score= |r2m2win=
+|r2m2p2= |r2m2p2flag= |r2m2p2score=
+|r2m3p1= |r2m3p1flag= |r2m3p1score= |r2m3win=
+|r2m3p2= |r2m3p2flag= |r2m3p2score=
+
+|r2m4p1=Vidjogamer |r2m4p1flag=us |r2m4p1score= |r2m4win=1
+|r2m4p2=PC Chris |r2m4p2flag=us |r2m4p2score=
+|r2m4p1char1=peach |r2m4p2char1=marth |r2m4p1stock1=0 |r2m4p2stock1=3 |r2m4win1=2 |r2m4stage1=Dream Land
+|r2m4p1char2=peach |r2m4p2char2=marth |r2m4p1stock2=2 |r2m4p2stock2=0 |r2m4win2=1 |r2m4stage2=Jungle Japes
+|r2m4p1char3=peach |r2m4p2char3=marth |r2m4p1stock3=1 |r2m4p2stock3=0 |r2m4win3=1 |r2m4stage3=Pokémon Stadium
+|r2m4p1char4=peach |r2m4p2char4=falco |r2m4p1stock4=0 |r2m4p2stock4=3 |r2m4win4=2 |r2m4stage4=Corneria
+|r2m4p1char5=peach |r2m4p2char5=falco |r2m4p1stock5=3 |r2m4p2stock5=0 |r2m4win5=1 |r2m4stage5=Brinstar
+|r2m4details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/ossClc-kiAQ
+|vodgame2=https://youtu.be/N0AGn5a87Ak
+|vodgame3=https://youtu.be/AJjc_K6uGxM
+|vodgame4=https://youtu.be/2iof9C2Zoho
+|vodgame5=https://youtu.be/b-B4hBWVb38}}
+
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score={{win}} |r3m1win=1
+|r3m1p2=Darkrain |r3m1p2flag=us |r3m1p2score=
+|r3m2p1=ChuDat |r3m2p1flag=us |r3m2p1score= |r3m2win=2
+|r3m2p2=Vidjogamer |r3m2p2flag=us |r3m2p2score={{win}}
+}}
+==Losers Bracket==
+{{24DELBracketSmwA
+|tourneylink=MELEE-FC/6
+|tourneyname=MELEE-FC6
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+
+|l1m1p1= |l1m1p1flag= |l1m1p1score= |l1m1win=
+|l1m1p2= |l1m1p2flag= |l1m1p2score=
+|l1m2p1= |l1m2p1flag= |l1m2p1score= |l1m2win=
+|l1m2p2= |l1m2p2flag= |l1m2p2score=
+|l1m3p1= |l1m3p1flag= |l1m3p1score= |l1m3win=
+|l1m3p2= |l1m3p2flag= |l1m3p2score=
+|l1m4p1= |l1m4p1flag= |l1m4p1score= |l1m4win=
+|l1m4p2= |l1m4p2flag= |l1m4p2score=
+
+|l1m5p1=Tink |l1m5p1flag=us |l1m5p1score=3 |l1m5win=1
+|l1m5p2=FastLikeTree |l1m5p2flag=us |l1m5p2score=0
+|l1m5p1char1=fox |l1m5p2char1=marth |l1m5p1stock1=1 |l1m5p2stock1=0 |l1m5win1=1 |l1m5stage1=Battlefield
+|l1m5p1char2=fox |l1m5p2char2=marth |l1m5p1stock2=1 |l1m5p2stock2=0 |l1m5win2=1 |l1m5stage2=Pokémon Stadium
+|l1m5p1char3=fox |l1m5p2char3=marth |l1m5p1stock3=2 |l1m5p2stock3=0 |l1m5win3=1 |l1m5stage3=Mute City
+|l1m5details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/LlvoApwdQj8
+|vodgame2=https://youtu.be/FROb-myMUnw
+|vodgame3=https://youtu.be/6aLXxsA5saI}}
+
+|l1m6p1= |l1m6p1flag= |l1m6p1score= |l1m6win=
+|l1m6p2= |l1m6p2flag= |l1m6p2score=
+|l1m7p1= |l1m7p1flag= |l1m7p1score= |l1m7win=
+|l1m7p2= |l1m7p2flag= |l1m7p2score=
+|l1m8p1= |l1m8p1flag= |l1m8p1score= |l1m8win=
+|l1m8p2= |l1m8p2flag= |l1m8p2score=
+
+|l2m1p1= |l2m1p1flag= |l2m1p1score= |l2m1win=
+|l2m1p2= |l2m1p2flag= |l2m1p2score=
+|l2m2p1= |l2m2p1flag= |l2m2p1score= |l2m2win=
+|l2m2p2= |l2m2p2flag= |l2m2p2score=
+|l2m3p1=Tink |l2m3p1flag=us |l2m3p1score= |l2m3win=1
+|l2m3p2=CunningKitsune |l2m3p2flag=us |l2m3p2score=
+|l2m4p1= |l2m4p1flag= |l2m4p1score= |l2m4win=
+|l2m4p2= |l2m4p2flag= |l2m4p2score=
+
+|l3m1p1= |l3m1p1flag= |l3m1p1score= |l3m1win=
+|l3m1p2= |l3m1p2flag= |l3m1p2score=
+|l3m2p1= |l3m2p1flag= |l3m2p1score= |l3m2win=
+|l3m2p2= |l3m2p2flag= |l3m2p2score=
+|l3m3p1=Drephen |l3m3p1flag=us |l3m3p1score= |l3m3win=2
+|l3m3p2=Tink |l3m3p2flag=us |l3m3p2score={{win}}
+|l3m4p1= |l3m4p1flag= |l3m4p1score= |l3m4win=
+|l3m4p2= |l3m4p2flag= |l3m4p2score=
+
+|l4m1p1=KoreanDJ |l4m1p1flag=us |l4m1p1score= |l4m1win=2
+|l4m1p2=Rob$ |l4m1p2flag=us |l4m1p2score={{win}}
+
+|l4m2p1=Tink |l4m2p1flag=us |l4m2p1score=0 |l4m2win=2
+|l4m2p2=PC Chris |l4m2p2flag=us |l4m2p2score=3
+|l4m2p1char1= |l4m2p2char1= |l4m2p1stock1= |l4m2p2stock1= |l4m2win1=2 |l4m2stage1=Unknown
+|l4m2p1char2= |l4m2p2char2= |l4m2p1stock2= |l4m2p2stock2= |l4m2win2=2 |l4m2stage2=Unknown
+|l4m2p1char3=marth |l4m2p2char3=sheik |l4m2p1stock3=0 |l4m2p2stock3=1 |l4m2win3=2 |l4m2stage3=Battlefield
+|l4m2details={{BracketMatchDetails|reddit=|comment=|vodgame1=
+|vodgame2=
+|vodgame3=https://youtu.be/rA3gEyfhY9s}}
+
+|l5m1p1=ChuDat |l5m1p1flag=us |l5m1p1score=3 |l5m1win=1
+|l5m1p2=Rob$ |l5m1p2flag=us |l5m1p2score=1
+|l5m1p1char1= |l5m1p2char1= |l5m1p1stock1= |l5m1p2stock1= |l5m1win1=1 |l5m1stage1=Unknown
+|l5m1p1char2=ic |l5m1p2char2=falco |l5m1p1stock2=0 |l5m1p2stock2=3 |l5m1win2=2 |l5m1stage2=Fountain of Dreams
+|l5m1p1char3=ic |l5m1p2char3=falco |l5m1p1stock3=2 |l5m1p2stock3=0 |l5m1win3=1 |l5m1stage3=Dream Land
+|l5m1p1char4=fox |l5m1p2char4=marth |l5m1p1stock4=1 |l5m1p2stock4=0 |l5m1win4=1 |l5m1stage4=Green Greens
+|l5m1details={{BracketMatchDetails|reddit=|comment=|vodgame2=https://youtu.be/YBBvsOMN-wA
+|vodgame3=https://youtu.be/2_uwbp0dkH4
+|vodgame4=https://youtu.be/endkBRd6iac}}
+
+|l5m2p1=Darkrain |l5m2p1flag=us |l5m2p1score=0 |l5m2win=2
+|l5m2p2=PC Chris |l5m2p2flag=us |l5m2p2score=3
+|l5m2p1char1=cf |l5m2p2char1=falco |l5m2p1stock1=0 |l5m2p2stock1=1 |l5m2win1=2 |l5m2stage1=Final Destination
+|l5m2p1char2=cf |l5m2p2char2=falco |l5m2p1stock2=0 |l5m2p2stock2=2 |l5m2win2=2 |l5m2stage2=Pokémon Stadium
+|l5m2p1char3=cf |l5m2p2char3=fox |l5m2p1stock3=0 |l5m2p2stock3=1 |l5m2win3=2 |l5m2stage3=Yoshi's Story
+|l5m2details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/fpeJrpXPGjw
+|vodgame2=https://youtu.be/ERhPnQYOgk4
+|vodgame3=https://youtu.be/SPNQGYyMd3E}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=MELEE-FC/6
+|tourneyname=MELEE-FC6
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+|column-width=180
+|column-width-finals=250
+
+<!-- FROM WINNERS -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Vidjogamer |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=fox |r1m1p2char1=peach |r1m1p1stock1=1 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=fox |r1m1p2char2=peach |r1m1p1stock2=2 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Brinstar
+|r1m1p1char3=fox |r1m1p2char3=peach |r1m1p1stock3=1 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Final Destination
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/tBT1fTFZswE
+|vodgame2=https://youtu.be/MGLUU12d7I4
+|vodgame3=https://youtu.be/2MO7jnZuMtw}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=ChuDat |l1m1p1flag=us |l1m1p1score=1
+|l1m1p2=PC Chris |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=ic |l1m1p2char1=fox |l1m1p1stock1=0 |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Pokémon Stadium
+|l1m1p1char2=jigglypuff |l1m1p2char2=fox |l1m1p1stock2=0 |l1m1p2stock2=2 |l1m1win2=2 |l1m1stage2=Mute City
+|l1m1p1char3=ic |l1m1p2char3=fox |l1m1p1stock3=2 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Final Destination
+|l1m1p1char4=ic |l1m1p2char4=fox |l1m1p1stock4=0 |l1m1p2stock4=2 |l1m1win4=2 |l1m1stage4=Corneria
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/L5dd7poM8SE
+|vodgame2=https://youtu.be/aUZMpBfZXpo
+|vodgame3=https://youtu.be/U81907ojD_U
+|vodgame4=https://youtu.be/BWQzWkl8xiY}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Vidjogamer |r2m1p1flag=us |r2m1p1score=1
+|r2m1p2=PC Chris |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=peach |r2m1p2char1=falco |r2m1p1stock1=2 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=marth |r2m1p2char2=falco |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Yoshi's Story
+|r2m1p1char3=peach |r2m1p2char3=fox |r2m1p1stock3=0 |r2m1p2stock3=3 |r2m1win3=2 |r2m1stage3=Jungle Japes
+|r2m1p1char4=peach |r2m1p2char4=fox |r2m1p1stock4=0 |r2m1p2stock4=1 |r2m1win4=2 |r2m1stage4=Mute City
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/DOAz0msAJeQ
+|vodgame2=https://youtu.be/WNMbPNtiL-0
+|vodgame3=https://youtu.be/59xlIcnBXks
+|vodgame4=https://youtu.be/MVmufFdwhJE}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score=1 |r3m2p1score=1
+|r3m1p2=PC Chris |r3m1p2flag=us |r3m1p2score=3 |r3m2p2score=3
+|r3m1win=2
+|r3m1p1char1=fox |r3m1p2char1=falco |r3m1p1stock1=2 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Dream Land
+|r3m1p1char2=fox |r3m1p2char2=falco |r3m1p1stock2=0 |r3m1p2stock2=3 |r3m1win2=2 |r3m1stage2=Final Destination
+|r3m1p1char3=fox |r3m1p2char3=falco |r3m1p1stock3=0 |r3m1p2stock3=2 |r3m1win3=2 |r3m1stage3=Mute City
+|r3m1p1char4=fox |r3m1p2char4=falco |r3m1p1stock4=0 |r3m1p2stock4=2 |r3m1win4=2 |r3m1stage4=Pokémon Stadium
+
+|r3m2p1char1=fox |r3m2p2char1=falco |r3m2p1stock1=0 |r3m2p2stock1=2 |r3m2win1=2 |r3m2stage1=Final Destination
+|r3m2p1char2=fox |r3m2p2char2=falco |r3m2p1stock2=0 |r3m2p2stock2=2 |r3m2win2=2 |r3m2stage2=Pokémon Stadium
+|r3m2p1char3=fox |r3m2p2char3=falco |r3m2p1stock3=1 |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Mute City
+|r3m2p1char4=fox |r3m2p2char4=falco |r3m2p1stock4=0 |r3m2p2stock4=2 |r3m2win4=2 |r3m2stage4=Battlefield
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/XNCy31huv7E
+|vodgame2=https://youtu.be/ry0wSgOLkbo
+|vodgame3=https://youtu.be/I_s2QcJ1QvY
+|vodgame4=https://youtu.be/pmjcuOIp12s
+|vod2game1=https://youtu.be/mopmRwLeZcs
+|vod2game2=https://youtu.be/Ac-orQynvMk
+|vod2game3=https://youtu.be/b6KOmUhdofs
+|vod2game4=https://youtu.be/lSR2MmXez30}}
+}}
+</onlyinclude>
+==References==
+{{reflist}}

@@ -1,0 +1,70 @@
+{{tabs static
+|name1=Overview
+|link1=The Melee Games Season 1
+|name2=Bracket
+|link2=The Melee Games Season 1/Bracket
+|This=2
+}}
+
+
+{{Template:16SEBracket
+|r1m1p1=UConn |r1m1p1flag=us |r1m1p1score={{win}} |r1m1win=1
+|r1m1p2=Bye |r1m1p2score=
+|r1m1finished=true
+
+|r1m2p1=Tufts |r1m2p1flag=us |r1m2p1score={{win}} |r1m2win=1
+|r1m2p2=WPI |r1m2p2flag=us |r1m2p2score=
+|r1m2finished=true
+
+|r1m3p1=Harvard |r1m3p1flag=us |r1m3p1score={{win}} |r1m3win=1
+|r1m3p2=Bye |r1m3p2score=
+|r1m3finished=true
+
+|r1m4p1=MIT |r1m4p1flag=us |r1m4p1score={{win}} |r1m4win=1
+|r1m4p2=Bye |r1m4p2score=
+|r1m4finished=true
+
+|r1m5p1=UMB |r1m5p1flag=us |r1m5p1score={{win}} |r1m5win=1
+|r1m5p2=Bye |r1m5p2score=
+|r1m5finished=true
+
+|r1m6p1=B.C. |r1m6p1flag=us |r1m6p1score=
+|r1m6p2=Amherst |r1m6p2flag=us |r1m6p2score={{win}} |r1m6win=2
+|r1m6finished=true
+
+|r1m7p1=B.U. |r1m7p1flag=us |r1m7p1score={{win}} |r1m7win=1
+|r1m7p2=Bye |r1m7p2score=
+|r1m7finished=true
+
+|r1m8p1=Northeastern |r1m8p1flag=us |r1m8p1score={{win}} |r1m8win=1
+|r1m8p2=Bye |r1m8p2score=
+|r1m8finished=true
+
+|r2m1p1=UConn |r2m1p1flag=us |r2m1p1score= |r2m1win=2
+|r2m1p2=Tufts |r2m1p2flag=us |r2m1p2score={{win}}
+|r2m1finished=true
+
+|r2m2p1=Harvard |r2m2p1flag=us |r2m2p1score= |r2m2win=2
+|r2m2p2=MIT |r2m2p2flag=us |r2m2p2score={{win}}
+|r2m2finished=true
+
+|r2m3p1=UMB |r2m3p1flag=us |r2m3p1score={{win}} |r2m3win=1
+|r2m3p2=Amherst |r2m3p2flag=us |r2m3p2score=
+|r2m3finished=true
+
+|r2m4p1=B.U. |r2m4p1flag=us |r2m4p1score= |r2m4win=2
+|r2m4p2=Northeastern |r2m4p2flag=us |r2m4p2score={{win}}
+|r2m4finished=true
+
+|r3m1p1=Tufts |r3m1p1flag=us |r3m1p1score= |r3m1win=2
+|r3m1p2=MIT |r3m1p2flag=us |r3m1p2score={{win}}
+|r3m1finished=true
+
+|r3m2p1=UMB |r3m2p1flag=us |r3m2p1score={{win}} |r3m2win=1
+|r3m2p2=Northeastern |r3m2p2flag=us |r3m2p2score=
+|r3m2finished=true
+
+|r4m1p1=MIT |r4m1p1flag=us |r4m1p1score={{win}} |r4m1win=1
+|r4m1p2=UMB |r4m1p2flag=us |r4m1p2score=
+|r4m1finished=true
+}}

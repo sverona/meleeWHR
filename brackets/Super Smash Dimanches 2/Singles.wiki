@@ -1,0 +1,941 @@
+{{tabs static
+|name1=Overview
+|link1=Super Smash Dimanches 2
+|name2=Singles
+|link2=Super Smash Dimanches 2/Singles
+|This=2
+}}<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia name=ssd_2 -->
+<onlyinclude>
+==Bracket==
+{{8SEBracket
+|r1m1p1=Cyr |r1m1p1flag=fr |r1m1p1score=2 |r1m1win=1
+|r1m1p2=JvJ |r1m1p2flag= |r1m1p2score=0
+
+|r1m2p1=Captain Love |r1m2p1flag=au |r1m2p1score=2 |r1m2win=1
+|r1m2p2=RAOUL |r1m2p2flag= |r1m2p2score=0
+
+|r1m3p1=BeLia |r1m3p1flag=fr |r1m3p1score=2 |r1m3win=1
+|r1m3p2=Bouboo |r1m3p2flag= |r1m3p2score=0
+
+|r1m4p1=Damo |r1m4p1flag= |r1m4p1score=0 |r1m4win=2
+|r1m4p2=Shloub |r1m4p2flag=fr |r1m4p2score=2
+
+|r2m1p1=Cyr |r2m1p1flag=fr |r2m1p1score=2 |r2m1win=1
+|r2m1p2=Captain Love |r2m1p2flag=au |r2m1p2score=0
+
+|r2m2p1=BeLia |r2m2p1flag=fr |r2m2p1score=2 |r2m2win=1
+|r2m2p2=Shloub |r2m2p2flag=fr |r2m2p2score=0
+
+|r3m1p1=Cyr |r3m1p1flag=fr |r3m1p1score=3 |r3m1win=1
+|r3m1p2=BeLia |r3m1p2flag=fr |r3m1p2score=0
+|export_score=true
+
+<!-- 3RD PLACE MATCH -->
+|l3m1p1=Captain Love |l3m1p1flag=au |l3m1p1score=1
+|l3m1p2=Shloub |l3m1p2flag=fr |l3m1p2score=3
+|l3m1win=2
+|l3m1p1char1= |l3m1p2char1= |l3m1p1stock1= |l3m1p2stock1= |l3m1win1= |l3m1stage1=
+|l3m1p1char2= |l3m1p2char2= |l3m1p1stock2= |l3m1p2stock2= |l3m1win2= |l3m1stage2=
+|l3m1p1char3= |l3m1p2char3= |l3m1p1stock3= |l3m1p2stock3= |l3m1win3= |l3m1stage3=
+|l3m1p1char4= |l3m1p2char4= |l3m1p1stock4= |l3m1p2stock4= |l3m1win4= |l3m1stage4=
+|l3m1p1char5= |l3m1p2char5= |l3m1p1stock5= |l3m1p2stock5= |l3m1win5= |l3m1stage5=
+|l3m1date=
+|l3m1finished=
+|l3m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+}}
+}}
+</onlyinclude>
+<!-- Generated with http://tournament-nub.rhcloud.com/swtoliquipedia name=ssd_2_RS -->
+
+==Swiss Rounds==
+{| style="float: left; padding: 20px;"
+|-
+|{{GroupTableStart|Swiss Rounds}}
+{{GroupTableSlot|{{flag/fr}} [[Cyr]]|team= |place=1 |win_m=5 |lose_m=0 |win_g=10 |lose_g=0 |bg=up }}
+{{GroupTableSlot|{{flag/fr}} [[BeLia]]|team= |place=2 |win_m=4 |lose_m=1 |win_g=8 |lose_g=2 |bg=up }}
+{{GroupTableSlot|[[Damo]]|team= |place=3 |win_m=4 |lose_m=1 |win_g=8 |lose_g=5 |bg=up }}
+{{GroupTableSlot|{{flag/au}} [[Captain Love]]|team= |place=4 |win_m=4 |lose_m=1 |win_g=9 |lose_g=2 |bg=up }}
+{{GroupTableSlot|[[RAOUL]]|team= |place=5 |win_m=3 |lose_m=2 |win_g=6 |lose_g=5 |bg=up }}
+{{GroupTableSlot|{{flag/fr}} [[Shloub]]|team= |place=6 |win_m=3 |lose_m=2 |win_g=6 |lose_g=5 |bg=up }}
+{{GroupTableSlot|[[Bouboo]]|team= |place=7 |win_m=3 |lose_m=2 |win_g=6 |lose_g=4 |bg=up }}
+{{GroupTableSlot|[[JvJ]]|team= |place=8 |win_m=3 |lose_m=2 |win_g=6 |lose_g=7 |bg=up }}
+{{GroupTableSlot|[[Explodroid]]|team= |place=9 |win_m=3 |lose_m=2 |win_g=8 |lose_g=5 |bg= }}
+{{GroupTableSlot|[[Aska]]|team= |place=10 |win_m=3 |lose_m=2 |win_g=7 |lose_g=4 |bg= }}
+{{GroupTableSlot|[[Chen]]|team= |place=11 |win_m=2 |lose_m=3 |win_g=5 |lose_g=6 |bg= }}
+{{GroupTableSlot|[[Jr]]|team= |place=12 |win_m=2 |lose_m=3 |win_g=6 |lose_g=6 |bg= }}
+{{GroupTableSlot|[[En?gma24]]|team= |place=13 |win_m=2 |lose_m=3 |win_g=5 |lose_g=7 |bg= }}
+{{GroupTableSlot|[[Darx]]|team= |place=14 |win_m=2 |lose_m=3 |win_g=5 |lose_g=6 |bg= }}
+{{GroupTableSlot|[[Impade]]|team= |place=15 |win_m=2 |lose_m=3 |win_g=5 |lose_g=7 |bg= }}
+{{GroupTableSlot|[[Gaki]]|team= |place=16 |win_m=2 |lose_m=3 |win_g=4 |lose_g=8 |bg= }}
+{{GroupTableSlot|[[Aasla]]|team= |place=17 |win_m=1 |lose_m=4 |win_g=4 |lose_g=9 |bg= }}
+{{GroupTableSlot|[[Aweusmeuh]]|team= |place=18 |win_m=1 |lose_m=4 |win_g=3 |lose_g=8 |bg= }}
+{{GroupTableSlot|[[Slan]]|team= |place=19 |win_m=1 |lose_m=4 |win_g=3 |lose_g=8 |bg= }}
+{{GroupTableSlot|[[Solo]]|team= |place=20 |win_m=0 |lose_m=5 |win_g=0 |lose_g=10 |bg= }}
+{{GroupTableEnd}}
+|}
+
+===Round 1===
+{{Box|start|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Damo |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Aska |r1m1p2flag= |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Shloub |r1m1p1flag=fr |r1m1p1score=2
+|r1m1p2=Captain Love |r1m1p2flag=au |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Cyr |r1m1p1flag=fr |r1m1p1score=2
+|r1m1p2=JvJ |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Bouboo |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Chen |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Jr |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Aasla |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Aweusmeuh |r1m1p1flag= |r1m1p1score=1
+|r1m1p2=Gaki |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Impade |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=BeLia |r1m1p2flag=fr |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Slan |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=En?gma24 |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Explodroid |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Solo |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Darx |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=RAOUL |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|end}}
+===Round 2===
+{{Box|start|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Explodroid |r1m1p1flag= |r1m1p1score=1
+|r1m1p2=RAOUL |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Jr |r1m1p1flag= |r1m1p1score=1
+|r1m1p2=En?gma24 |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Cyr |r1m1p1flag=fr |r1m1p1score=2
+|r1m1p2=BeLia |r1m1p2flag=fr |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Shloub |r1m1p1flag=fr |r1m1p1score=2
+|r1m1p2=Gaki |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Damo |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Chen |r1m1p2flag= |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Darx |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Solo |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Slan |r1m1p1flag= |r1m1p1score=1
+|r1m1p2=Aasla |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Impade |r1m1p1flag= |r1m1p1score=1
+|r1m1p2=JvJ |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Aweusmeuh |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Captain Love |r1m1p2flag=au |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Bouboo |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Aska |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|end}}
+===Round 3===
+{{Box|start|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Cyr |r1m1p1flag=fr |r1m1p1score=2
+|r1m1p2=Damo |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Shloub |r1m1p1flag=fr |r1m1p1score=2
+|r1m1p2=RAOUL |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Aska |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Aweusmeuh |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Solo |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Impade |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=En?gma24 |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Chen |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Slan |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Captain Love |r1m1p2flag=au |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Jr |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Gaki |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Darx |r1m1p1flag= |r1m1p1score=1
+|r1m1p2=JvJ |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Explodroid |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Aasla |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Bouboo |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=BeLia |r1m1p2flag=fr |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|end}}
+===Round 4===
+{{Box|start|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Cyr |r1m1p1flag=fr |r1m1p1score=2
+|r1m1p2=Shloub |r1m1p2flag=fr |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Solo |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Aweusmeuh |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Slan |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Aska |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Aasla |r1m1p1flag= |r1m1p1score=1
+|r1m1p2=Impade |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Gaki |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Bouboo |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Darx |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Captain Love |r1m1p2flag=au |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Damo |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Jr |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Chen |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=BeLia |r1m1p2flag=fr |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=RAOUL |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=JvJ |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=En?gma24 |r1m1p1flag= |r1m1p1score=1
+|r1m1p2=Explodroid |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|end}}
+===Round 5===
+{{Box|start|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Cyr |r1m1p1flag=fr |r1m1p1score=2
+|r1m1p2=RAOUL |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Shloub |r1m1p1flag=fr |r1m1p1score=0
+|r1m1p2=BeLia |r1m1p2flag=fr |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Damo |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Explodroid |r1m1p2flag= |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Solo |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Slan |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Aweusmeuh |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Darx |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Aasla |r1m1p1flag= |r1m1p1score=1
+|r1m1p2=Gaki |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Captain Love |r1m1p1flag=au |r1m1p1score=2
+|r1m1p2=Chen |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=JvJ |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Jr |r1m1p2flag= |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=Bouboo |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Impade |r1m1p2flag= |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|break|padding=2em}}
+{{2SEBracket|hideroundtitles=true
+|r1m1p1=En?gma24 |r1m1p1flag= |r1m1p1score=0
+|r1m1p2=Aska |r1m1p2flag= |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|comment=
+|vod=
+}}
+}}
+{{Box|end}}

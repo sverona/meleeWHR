@@ -1,0 +1,419 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Bobby Frizz",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Ginger",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Shinobi",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Mojo",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Shinobi",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Ginger",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "win": "1"
+        },
+        "r3m2": {
+            "p2score": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Teaspoon",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Dizney",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "OG Swaglord",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Big Doinks",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Dezno",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Bozo the Fox",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Guy Fox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Mr. Gingey",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Shifty",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Happy",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "vyn",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Firebolt",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "TADEO",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "deft",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Underscores",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Gaz!",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "SDJ",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Teaspoon",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Myztek",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "OG Swaglord",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "dansdaman",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Dezno",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "VTS",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Guy Fox",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Flux",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Shifty",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "arby",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Firebolt",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m7": {
+            "p1": "Iifter",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "deft",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "SaberPrime",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Underscores",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "SDJ",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Myztek",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "dansdaman",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Guy Fox",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Shifty",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Firebolt",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "Iifter",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Underscores",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Schythed",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Myztek",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Iori",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "dansdaman",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "DairDeviL",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Shifty",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Chamberlin",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Iifter",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Schythed",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Iori",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "DairDeviL",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Iifter",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "Bobby Frizz",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Iori",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Ginger",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "lifter",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Ginger",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "SaberPrime",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Schythed",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Iifter",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Shinobi",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "arby",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Iori",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Flux",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Mojo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "VTS",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "dansdaman",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "DairDeviL",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Bobby Frizz",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Myztek",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "SDJ",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Chamberlin",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Ginger",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Schythed",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Shinobi",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Iori",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Mojo",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "DairDeviL",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Bobby Frizz",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Chamberlin",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Ginger",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Shinobi",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m2": {
+            "p1": "Mojo",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Bobby Frizz",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        }
+    }
+}

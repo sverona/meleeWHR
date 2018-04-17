@@ -1,0 +1,121 @@
+{
+    "==Top 8==": {
+        "r1m1": {
+            "p1": "Muteki no kamae",
+            "p1flag": "jp",
+            "p1score": "",
+            "p2": "aMSa",
+            "p2flag": "jp",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m2": {
+            "p1": "Katou Hayate",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Ururomu",
+            "p2flag": "jp",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Yasha",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Hashimo",
+            "p2flag": "jp",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Yoroz",
+            "p1flag": "jp",
+            "p1score": "",
+            "p2": "Chogokujo",
+            "p2flag": "jp",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m1": {
+            "date": "August 4, 2013",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/er9EwC4yYC0"
+            },
+            "p1": "aMSa",
+            "p1char1": "yoshi",
+            "p1char2": "yoshi",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p1stock1": "1",
+            "p1stock2": "1",
+            "p2": "Katou Hayate",
+            "p2char1": "falco",
+            "p2char2": "falco",
+            "p2flag": "jp",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Final Destination",
+            "stage2": "Final Destination",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r2m2": {
+            "date": "August 4, 2013",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/ZwvSSIgYlP0"
+            },
+            "p1": "Yasha",
+            "p1char1": "falco",
+            "p1char2": "falco",
+            "p1flag": "jp",
+            "p1score": "2",
+            "p1stock1": "2",
+            "p1stock2": "2",
+            "p2": "Chogokujo",
+            "p2char1": "falco",
+            "p2char2": "falco",
+            "p2flag": "jp",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Final Destination",
+            "stage2": "Final Destination",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r3m1": {
+            "date": "August 4, 2013",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/yqLIh4zfadQ"
+            },
+            "p1": "aMSa",
+            "p1char1": "yoshi",
+            "p1char2": "yoshi",
+            "p1flag": "jp",
+            "p1score": "0",
+            "p1stock1": "0",
+            "p1stock2": "0",
+            "p2": "Yasha",
+            "p2char1": "falco",
+            "p2char2": "falco",
+            "p2flag": "jp",
+            "p2score": "2",
+            "p2stock1": "1",
+            "p2stock2": "1",
+            "stage1": "Final Destination",
+            "stage2": "Final Destination",
+            "win": "2",
+            "win1": "2",
+            "win2": "2"
+        }
+    }
+}

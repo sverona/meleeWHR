@@ -1,0 +1,151 @@
+{{DISPLAYTITLE:Battle of the Five Gods: Playoffs Group}}{{SetGame|melee}}{{GroupTableSlotSmwInfo
+|tourneylink=Battle of the Five Gods
+|tourneyname=Battle of the Five Gods
+|group_placements=4,5
+|final_placements=9,10
+}}
+{{Battle of the Five Gods Tabs|This=3}}<br/>
+==Standings==
+{{GroupTableStart|Playoffs Group|width=350px}}
+{{GroupTableSlot|flag=us|Wobbles|team=pg |place=1 |win_m=3 |lose_m=1 |win_g=10 |lose_g=6 |diff=+4 |bg=up}}
+{{GroupTableSlot|flag=us|Plup|team=pg |place=2 |win_m=3 |lose_m=1 |win_g=11 |lose_g=7 |diff=+4 |bg=up}}
+{{GroupTableSlot|Silent Wolf|flag=us|team=gameclucks |place=3 |win_m=2 |lose_m=2 |win_g=9 |lose_g=7 |diff=+2 |bg=up}}
+{{GroupTableSlotSmw|MacD|flag=us|team=splyce |place=4 |win_m=2 |lose_m=2 |win_g=7 |lose_g=7 |diff=0 |bg=down}}
+{{GroupTableSlotSmw|PPMD|flag=us|team=eg |place=5 |win_m=0 |lose_m=4 |win_g=2 |lose_g=12 |diff=-10 |bg=down}}
+{{GroupTableEnd}}
+
+==Match Details==
+{{PlayerCrossTable
+|cell-width=120
+|doublerounded=false
+|displaystats=true
+|player1=Silent Wolf|player1char=fox|player1flag=us|player1link=|player1bg=up|player1_w=2|player1_l=2
+|player2=PPMD|player2char=falco|player2flag=us|player2link=|player2bg=down|player2_w=0|player2_l=4
+|player3=MacD|player3char=peach|player3flag=us|player3link=|player3bg=down|player3_w=2|player3_l=2
+|player4=Plup|player4char=sheik|player4flag=us|player4link=|player4bg=up|player4_w=3|player4_l=1
+|player5=Wobbles|player5char=ic|player5flag=us|player5link=|player5bg=up|player5_w=3|player5_l=1
+<!--Games of Player 1-->
+|1vs2result=3|1vs2resultvs=1
+|1vs3result=3|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=3
+|1vs5result=1|1vs5resultvs=3
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=3
+|2vs4result=1|2vs4resultvs=3
+|2vs5result=0|2vs5resultvs=3
+<!--Games of Player 3-->
+|3vs4result=1|3vs4resultvs=3
+|3vs5result=3|3vs5resultvs=1
+<!--Games of Player 4-->
+|4vs5result=2|4vs5resultvs=3
+
+<!--Match Details-->
+|1vs2details={{CrossTableMatchSummary
+	|p1char1=fox |p1char2=fox |p1char3=fox |p1char4=fox |p1char5=
+	|p2char1=falco |p2char2=falco |p2char3=falco |p2char4=falco |p2char5=
+	|win1=2 |win2=1 |win3=1 |win4=1 |win5=
+	|stage1=Battlefield |stage2=Yoshi's Story |stage3=Final Destination |stage4=Final Destination |stage5=
+	|p1stock1=0 |p1stock2=1 |p1stock3=1 |p1stock4=1 |p1stock5= 
+	|p2stock1=2 |p2stock2=0 |p2stock3=0 |p2stock4=0 |p2stock5=
+|date=March 18, 2016
+|details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/M5uYCczhgJA}}
+}}
+
+|1vs3details={{CrossTableMatchSummary
+	|p1char1=fox |p1char2=fox |p1char3=fox |p1char4= |p1char5=
+	|p2char1=peach |p2char2=peach |p2char3=peach |p2char4= |p2char5=
+	|win1=1 |win2=1 |win3=1 |win4= |win5=
+	|stage1=Battlefield |stage2=Fountain of Dreams |stage3=Fountain of Dreams |stage4= |stage5=
+	|p1stock1=2 |p1stock2=1 |p1stock3=2 |p1stock4= |p1stock5= 
+	|p2stock1=0 |p2stock2=0 |p2stock3=0 |p2stock4= |p2stock5=
+|date=March 18, 2016
+|details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/ZmyDoW39hzE}}
+}}
+
+|1vs4details={{CrossTableMatchSummary
+	|p1char1=fox |p1char2=fox |p1char3=fox |p1char4=fox |p1char5=fox
+	|p2char1=sheik |p2char2=sheik |p2char3=sheik |p2char4=sheik |p2char5=samus
+	|win1=2 |win2=1 |win3=1 |win4=2 |win5=2
+	|stage1=Battlefield |stage2=Pokémon Stadium |stage3=Fountain of Dreams |stage4=Fountain of Dreams |stage5=Final Destination
+	|p1stock1=0 |p1stock2=2 |p1stock3=1 |p1stock4=0 |p1stock5=0
+	|p2stock1=2 |p2stock2=0 |p2stock3=0 |p2stock4=1 |p2stock5=3
+|date=March 18, 2016
+|details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/C4Uw32-hxwI}}
+}}
+
+|1vs5details={{CrossTableMatchSummary
+	|p1char1=fox |p1char2=fox |p1char3=fox |p1char4=fox |p1char5=
+	|p2char1=ic |p2char2=ic |p2char3=ic |p2char4=ic |p2char5=
+	|win1=2 |win2=2 |win3=1 |win4=2 |win5=
+	|stage1=Final Destination |stage2=Pokémon Stadium |stage3=Pokémon Stadium |stage4=Fountain of Dreams |stage5=
+	|p1stock1=0 |p1stock2=0 |p1stock3=2 |p1stock4=0 |p1stock5=
+	|p2stock1=2 |p2stock2=1 |p2stock3=0 |p2stock4=1 |p2stock5=
+|date=March 18, 2016
+|details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/7C41L08lNnE}}
+}}
+
+|2vs3details={{CrossTableMatchSummary
+	|p1char1=marth |p1char2=marth |p1char3=marth |p1char4= |p1char5=
+	|p2char1=peach |p2char2=peach |p2char3=peach |p2char4= |p2char5=
+	|win1=2 |win2=2 |win3=2 |win4= |win5=
+	|stage1=Battlefield |stage2=Final Destination |stage3=Pokémon Stadium |stage4= |stage5=
+	|p1stock1=0 |p1stock2=0 |p1stock3=0 |p1stock4= |p1stock5= 
+	|p2stock1=1 |p2stock2=1 |p2stock3=2 |p2stock4= |p2stock5=
+|date=March 18, 2016
+|details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/0agsKQsjzLs}}
+}}
+
+|2vs4details={{CrossTableMatchSummary
+	|p1char1=marth |p1char2=falco |p1char3=falco |p1char4=falco |p1char5=
+	|p2char1=sheik |p2char2=sheik |p2char3=sheik |p2char4=sheik |p2char5=
+	|win1=2 |win2=2 |win3=1 |win4=2 |win5=
+	|stage1=Battlefield |stage2=Pokémon Stadium |stage3=Pokémon Stadium |stage4=Dream Land |stage5=
+	|p1stock1=0 |p1stock2=0 |p1stock3=1 |p1stock4=0 |p1stock5= 
+	|p2stock1=2 |p2stock2=1 |p2stock3=0 |p2stock4=1 |p2stock5=
+|date=March 18, 2016
+|details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/X1jyYyC1LXM}}
+}}
+
+|2vs5details={{CrossTableMatchSummary
+	|p1char1=falco |p1char2=falco |p1char3=falco |p1char4= |p1char5=
+	|p2char1=ic |p2char2=ic |p2char3=ic |p2char4= |p2char5=
+	|win1=2 |win2=2 |win3=2 |win4= |win5=
+	|stage1=Yoshi's Story |stage2=Pokémon Stadium |stage3=Final Destination |stage4= |stage5=
+	|p1stock1=0 |p1stock2=0 |p1stock3=0 |p1stock4= |p1stock5= 
+	|p2stock1=2 |p2stock2=1 |p2stock3=3 |p2stock4= |p2stock5=
+|date=March 18, 2016
+|details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/1Q0XAHitkUc}}
+}}
+
+|3vs4details={{CrossTableMatchSummary
+	|p1char1=peach |p1char2=peach |p1char3=peach |p1char4=peach |p1char5=
+	|p2char1=sheik |p2char2=sheik |p2char3=sheik |p2char4=sheik |p2char5=
+	|win1=1 |win2=2 |win3=2 |win4=2 |win5=
+	|stage1=Yoshi's Story |stage2=Battlefield |stage3=Dream Land |stage4=Fountain of Dreams |stage5=
+	|p1stock1=1 |p1stock2=0 |p1stock3=0 |p1stock4=0 |p1stock5= 
+	|p2stock1=0 |p2stock2=1 |p2stock3=2 |p2stock4=1 |p2stock5=
+|date=March 18, 2016
+|details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/bASDtbNena4}}
+}}
+
+|3vs5details={{CrossTableMatchSummary
+	|p1char1=peach |p1char2=peach |p1char3=peach |p1char4=peach |p1char5=
+	|p2char1=ic |p2char2=ic |p2char3=ic |p2char4=ic |p2char5=
+	|win1=1 |win2=2 |win3=1 |win4=1 |win5=
+	|stage1=Dream Land |stage2=Pokémon Stadium |stage3=Fountain of Dreams |stage4=Yoshi's Story |stage5=
+	|p1stock1=2 |p1stock2=0 |p1stock3=3 |p1stock4=2 |p1stock5= 
+	|p2stock1=0 |p2stock2=1 |p2stock3=0 |p2stock4=0 |p2stock5=
+|date=March 18, 2016
+|details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/EYX5skDkeTo}}
+}}
+|4vs5details={{CrossTableMatchSummary
+	|p1char1=samus |p1char2=samus |p1char3=samus |p1char4=samus |p1char5=samus
+	|p2char1=ic |p2char2=ic |p2char3=ic |p2char4=ic |p2char5=ic
+	|win1=2 |win2=1 |win3=2 |win4=1 |win5=2
+	|stage1=Fountain of Dreams |stage2=Pokémon Stadium |stage3=Yoshi's Story |stage4=Dream Land |stage5=Battlefield
+	|p1stock1=0 |p1stock2=2 |p1stock3=0 |p1stock4=1 |p1stock5=0
+	|p2stock1=1 |p2stock2=0 |p2stock3=1 |p2stock4=0 |p2stock5=1
+|date=March 18, 2016
+|details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/E_Bw3o7qjX8}}
+}}
+}}

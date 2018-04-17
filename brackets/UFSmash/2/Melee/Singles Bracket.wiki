@@ -1,0 +1,132 @@
+{{DISPLAYTITLE:UFSmash 2: ''Melee'' Singles Bracket}}{{SetGame|melee}}{{BracketMatchSMWDisambig |oldtags=Joker |newtags=Joker (Brazilian player)}}
+{{tabs static
+|name1=Overview
+|link1=UFSmash/2/Melee
+|name2=Singles Pools
+|link2=UFSmash/2/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=UFSmash/2/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=UFSmash/2/Melee/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{8DEWBracketA
+<!-- Quarterfinals -->
+|r1m1p1=Bobesco |r1m1p1flag=br |r1m1p1score=2
+|r1m1p2=Viral |r1m1p2flag=br |r1m1p2score=0
+|r1m1win=1
+
+|r1m2p1=Izzi |r1m2p1flag=br |r1m2p1score=2
+|r1m2p2=Quip |r1m2p2flag=br |r1m2p2score=0
+|r1m2win=1
+
+|r1m3p1=Godzrage |r1m3p1flag=br |r1m3p1score=0
+|r1m3p2=Slug~ |r1m3p2flag=br |r1m3p2score=2
+|r1m3win=2
+
+|r1m4p1=Aisengobay |r1m4p1flag=br |r1m4p1score=2
+|r1m4p2=Joker |r1m4p2flag=br |r1m4p2score=0
+|r1m4win=1
+
+<!-- SEMIFINALS -->
+|r2m1p1=Bobesco |r2m1p1flag=br |r2m1p1score=3
+|r2m1p2=Izzi |r2m1p2flag=br |r2m1p2score=1
+|r2m1win=1
+
+|r2m2p1=Slug~ |r2m2p1flag=br |r2m2p1score=2
+|r2m2p2=Aisengobay |r2m2p2flag=br |r2m2p2score=3
+|r2m2win=2
+}}
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=UFSmash/2/Melee
+|tourneyname=UFSmash 2
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+
+<!-- Round 1 -->
+|l1m1p1=Afro |l1m1p1flag=br |l1m1p1score=0
+|l1m1p2=Asesino |l1m1p2flag= |l1m1p2score=2
+|l1m1win=2
+
+|l1m2p1=McS33 |l1m2p1flag=br |l1m2p1score=2
+|l1m2p2=W |l1m2p2flag= |l1m2p2score=0
+|l1m2win=1
+
+|l1m3p1=Drut |l1m3p1flag= |l1m3p1score=2
+|l1m3p2=Weaselss |l1m3p2flag=br |l1m3p2score=0
+|l1m3win=1
+
+|l1m4p1=Leso |l1m4p1flag=br |l1m4p1score=2
+|l1m4p2=dede |l1m4p2flag=br |l1m4p2score=0
+|l1m4win=1
+
+<!-- Round 2 -->
+|l2m1p1=Quip |l2m1p1flag=br |l2m1p1score=2
+|l2m1p2=Asesino |l2m1p2flag= |l2m1p2score=0
+|l2m1win=1
+
+|l2m2p1=Viral |l2m2p1flag=br |l2m2p1score=2
+|l2m2p2=McS33 |l2m2p2flag=br |l2m2p2score=1
+|l2m2win=1
+
+|l2m3p1=Joker |l2m3p1flag=br |l2m3p1score=2
+|l2m3p2=Drut |l2m3p2flag= |l2m3p2score=1
+|l2m3win=1
+
+|l2m4p1=Godzrage |l2m4p1flag=br |l2m4p1score=2
+|l2m4p2=Leso |l2m4p2flag=br |l2m4p2score=0
+|l2m4win=1
+
+<!-- Round 3 -->
+|l3m1p1=Quip |l3m1p1flag=br |l3m1p1score=2
+|l3m1p2=Viral |l3m1p2flag=br |l3m1p2score=1
+|l3m1win=1
+
+|l3m2p1=Joker |l3m2p1flag=br |l3m2p1score=0
+|l3m2p2=Godzrage |l3m2p2flag=br |l3m2p2score=2
+|l3m2win=2
+
+<!-- Round 4 -->
+|l4m1p1=Slug~ |l4m1p1flag=br |l4m1p1score=3
+|l4m1p2=Quip |l4m1p2flag=br |l4m1p2score=2
+|l4m1win=1
+
+|l4m2p1=Izzi |l4m2p1flag=br |l4m2p1score=3
+|l4m2p2=Godzrage |l4m2p2flag=br |l4m2p2score=1
+|l4m2win=1
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=UFSmash/2/Melee
+|tourneyname=UFSmash 2
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Bobesco |r1m1p1flag=br |r1m1p1score=2
+|r1m1p2=Aisengobay |r1m1p2flag=br |r1m1p2score=3
+|r1m1win=2
+
+<!-- FROM LOSERS -->
+|l1m1p1=Slug~ |l1m1p1flag=br |l1m1p1score=1
+|l1m1p2=Izzi |l1m1p2flag=br |l1m1p2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Bobesco |r2m1p1flag=br |r2m1p1score=3
+|r2m1p2=Izzi |r2m1p2flag=br |r2m1p2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1p1=Aisengobay |r3m1p1flag=br |r3m1p1score=2 |r3m2p1score=2
+|r3m1p2=Bobesco |r3m1p2flag=br |r3m1p2score=3 |r3m2p2score=3
+|r3m1win=2
+}}</onlyinclude>

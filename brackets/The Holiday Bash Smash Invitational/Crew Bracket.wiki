@@ -1,0 +1,71 @@
+{{DISPLAYTITLE:The Holiday Bash Smash Invitational: East Coast vs West Coast}}{{SetGame|melee}}
+{{The Holiday Bash Smash Invitational Tabs|This=5}}
+
+==Full Rosters==
+{{box|start|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| East Coast
+|-
+|style="width:160px;"|{{flag/us}} {{head/marth}} [[La Luna]]
+|-
+|{{flag/us}} {{head/fox}} [[Crush]]
+|-
+|{{flag/us}} {{head/samus}} [[Duck]]
+|-
+|{{flag/ni}} {{head/cf}} [[n0ne]]
+|-
+|{{flag/us}} {{head/peach}} [[lloD]]
+|-
+|{{flag/us}} {{head/fox}} [[KJH]]
+|-
+|{{flag/us}} {{head/marth}} [[Rishi]]
+|-
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"| West Coast
+|-
+|style="width:160px;"|{{flag/us}} {{head/fox}} [[SFAT]]
+|-
+|{{flag/us}} {{head/cf}} [[S2J]]
+|-
+|{{flag/us}} {{head/sheik}} {{head/marth}}  [[Shroomed]]
+|-
+|{{flag/us}} {{head/falco}} [[Westballz]]
+|-
+|{{flag/us}} {{head/marth}} [[PewPewU]]
+|-
+|{{flag/us}} {{head/fox}} [[Lucky]]
+|-
+|{{flag/us}} {{head/samus}} [[HugS]]
+|-
+|}
+{{box|end}}
+
+==Matches==
+{{TeamMatch/start
+|team1literal='''East Coast'''  
+|team2literal='''West Coast'''
+|date=
+|width=210
+|startingstocks=4
+
+|team1matches=5
+|team2matches=7
+|team1stocks=0
+|team2stocks=5
+|teamwin=2
+}}
+{{TeamMatch/row |p1=Duck |p1char=samus |p1s2=1 |p2=PewPewU |p2char=marth |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1= Duck|p1char=samus |p1s2=0 |p2=Shroomed |p2char=sheik |p2s2=4 |win=2 |stage=Final Destination}}
+{{TeamMatch/row |p1=KJH |p1char=fox |p1s2=0 |p2=Shroomed |p2char=sheik |p2s2=1 |win=2 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=n0ne |p1char=cf |p1s2=2 |p2=Shroomed |p2char=sheik |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=n0ne |p1char=cf |p1s2=0 |p2=Lucky |p2char=fox |p2s2=3 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Rishi |p1char=marth |p1s2=2 |p2=Lucky |p2char=fox |p2s2=0 |win=1 |stage=Final Destination}}
+{{TeamMatch/row |p1=Rishi |p1char=marth |p1s2=0 |p2=S2J |p2char=cf |p2s2=3 |win=2 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=Crush |p1char=fox |p1s2=2 |p2=S2J |p2char=cf |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Crush |p1char=fox |p1s2=0 |p2=HugS |p2char=samus |p2s2=3 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=lloD |p1char=peach |p1s2=3 |p2=HugS |p2char=samus |p2s2=0 |win=1 |stage=Final Destination}}
+{{TeamMatch/row |p1=lloD |p1char=peach |p1s2=0 |p2=Westballz |p2char=falco |p2s2=2 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=La Luna |p1char=marth |p1s2=0 |p2=Westballz |p2char=falco |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/end |reddit=|vod=https://www.youtube.com/watch?v=wom6wxEsp7s}}

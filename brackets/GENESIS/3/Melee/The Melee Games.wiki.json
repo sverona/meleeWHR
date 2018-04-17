@@ -1,0 +1,80 @@
+{
+    "===Final===": {},
+    "===Quarterfinals===": {},
+    "===Semifinals===": {},
+    "==Details==": {},
+    "==The Melee Games Season 4 Finals==": {
+        "l3m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "r1m1": {
+            "p1": "University of Arizona",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "University of Washington",
+            "p1flag": "us",
+            "p1score": "11",
+            "p2": "UC Irvine",
+            "p2flag": "us",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "York University",
+            "p1flag": "ca",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Georgia Tech",
+            "p1flag": "us",
+            "p1score": "20",
+            "p2": "Stony Brook University",
+            "p2flag": "us",
+            "p2score": "19",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "University of Arizona",
+            "p1flag": "us",
+            "p1score": "17",
+            "p2": "UC Irvine",
+            "p2flag": "us",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r2m2": {
+            "p1": "York University",
+            "p1flag": "ca",
+            "p1score": "19",
+            "p2": "Georgia Tech",
+            "p2flag": "us",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "UC Irvine",
+            "p1flag": "us",
+            "p1score": "20",
+            "p2": "Georgia Tech",
+            "p2flag": "us",
+            "p2score": "16",
+            "win": "1"
+        }
+    }
+}

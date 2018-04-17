@@ -1,0 +1,494 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Tuga",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Aza",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Tutty",
+            "p1flag": "mx",
+            "p1score": "",
+            "p2": "Javi",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Tutty",
+            "p1flag": "mx",
+            "p1score": "",
+            "p2": "Tuga",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Javi",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Tuga",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1}}</onlyinclude>"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Turko",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Vena",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "chente",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Lykon",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "rodo",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Isril",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Huhi",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "YOLO",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Souless",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Mako",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Yasu",
+            "p1flag": "de",
+            "p1score": "",
+            "p2": "Valdo",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Kuku",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "chava",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Carlos",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Arturist",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Vena",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Lykon",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "rodo",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Huhi",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "Mako",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Valdo",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "chava",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Arturist",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Esquiel",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Vena",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Rael",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Huhi",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "MZXZ",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Mako",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "R bob",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "chava",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Vena",
+            "p1flag": "mx",
+            "p1score": "",
+            "p2": "Rael",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "MZXZ",
+            "p1flag": "mx",
+            "p1score": "",
+            "p2": "chava",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Tuga",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Rael",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Aza",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "chava",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Isril",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Souless",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "chava",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "Arturist",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Yasu",
+            "p1flag": "de",
+            "p1score": "",
+            "p2": "Esquiel",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m13": {
+            "p1": "Rael",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Mako",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Kuku",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Javi",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Valdo",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Carlos",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Turko",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Tutty",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "MZXZ",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "YOLO",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "chente",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Vena",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Tuga",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "rodo",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "R bob",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Lykon",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Huhi",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Aza",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Isril",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Tutty",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m2": {
+            "p1": "MZXZ",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "YOLO",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Vena",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Tuga",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "R bob",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Lykon",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Aza",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "chava",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Arturist",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Esquiel",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "Rael",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Mako",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Javi",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Valdo",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Tutty",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "MZXZ",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Tuga",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "R bob",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "Aza",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Esquiel",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Rael",
+            "p1flag": "mx",
+            "p1score": "",
+            "p2": "Javi",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "Tutty",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Tuga",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Aza",
+            "p1flag": "mx",
+            "p1score": "",
+            "p2": "Javi",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        }
+    }
+}

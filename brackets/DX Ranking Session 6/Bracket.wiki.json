@@ -1,0 +1,528 @@
+{
+    "==Losers==": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Aspr0",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Rag",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "MM2",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "GOmnipotentD",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Explodroid",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Impade",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Jambon",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Caellach",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Lion's Curry",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Aspr0",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Eternay",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Rag",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Ben",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "MM2",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Clyde Wuts",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "GOmnipotentD",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Yultan",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Explodroid",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "Pute",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Impade",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "RAOUL",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Jambon",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Jr.",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Caellach",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Lion's Curry",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Eternay",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Ben",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Clyde Wuts",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Explodroid",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Pute",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "RAOUL",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Jr.",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Tchang",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Lion's Curry",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "LeMan",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Ben",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Darx",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Pute",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "Guilu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "RAOUL",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "Tchang",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Ben",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Pute",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Guilu",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "Captain Love",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Tchang",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Dero",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Guilu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners==": {
+        "r1m1": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Clyde Wuts",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Explodroid",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Guilu",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Ben",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Impade",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Captain Love",
+            "p1flag": "au",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Jambon",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Eternay",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "Lion's Curry",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Darx",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Caellach",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Jr.",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Aspr0",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "RAOUL",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "LeMan",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Rag",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Dero",
+            "p1flag": "fr",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Pute",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "MM2",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Yultan",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Tchang",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "GOmnipotentD",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Jr.",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "RAOUL",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "LeMan",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Dero",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Pute",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Yultan",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Tchang",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m5": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Clyde Wuts",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Guilu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Ben",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Captain Love",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Eternay",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Lion's Curry",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Darx",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "LeMan",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Dero",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Tchang",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Guilu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Captain Love",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Darx",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Dero",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Captain Love",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

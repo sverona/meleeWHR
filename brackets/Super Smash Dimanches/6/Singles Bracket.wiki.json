@@ -1,0 +1,278 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Charlon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "BeLia",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Baxon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Leon",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Leon",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Charlon",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Baxon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Charlon",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Impade",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "JvJ",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Dero",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "En?gma24",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "RAOUL",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Ben",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Chen",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "JJLinyard",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "StorMyu",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Dero",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "Explodroid",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "RAOUL",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Chance Lo",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Chen",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Dero",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Explodroid",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Chance Lo",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Charlon",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Explodroid",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Baxon",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Impade",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Chance Lo",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Explodroid",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "JvJ",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Charlon",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Dero",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Leon",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "En?gma24",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "StorMyu",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "RAOUL",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Ben",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "JJLinyard",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Chen",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Baxon",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Chance Lo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Explodroid",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Charlon",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Leon",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "StorMyu",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "JJLinyard",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Baxon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Charlon",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Leon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "BeLia",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

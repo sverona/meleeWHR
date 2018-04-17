@@ -1,0 +1,138 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "EastCoastJeff",
+            "t1p1flag": "us",
+            "t1p2": "mixx",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "NUT",
+            "t2p1flag": "us",
+            "t2p2": "Vavez",
+            "t2p2flag": "us",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l1m2": {
+            "t1p1": "Sokka",
+            "t1p1flag": "us",
+            "t1p2": "cpak",
+            "t1p2flag": "us",
+            "t1score": "1",
+            "t2p1": "Neeco",
+            "t2p1flag": "us",
+            "t2p2": "Oli",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "t1p1": "DavidChong",
+            "t1p1flag": "us",
+            "t1p2": "Sergio",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "EastCoastJeff",
+            "t2p1flag": "us",
+            "t2p2": "mixx",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "l2m2": {
+            "t1p1": "LuigiKid",
+            "t1p1flag": "us",
+            "t1p2": "Mchi",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Neeco",
+            "t2p1flag": "us",
+            "t2p2": "Oli",
+            "t2p2flag": "us",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "t1p1": "EastCoastJeff",
+            "t1p1flag": "us",
+            "t1p2": "mixx",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "LuigiKid",
+            "t2p1flag": "us",
+            "t2p2": "Mchi",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "l4m1": {
+            "t1p1": "Kira",
+            "t1p1flag": "us",
+            "t1p2": "PsychoMidget",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "LuigiKid",
+            "t2p1flag": "us",
+            "t2p2": "Mchi",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "1"
+        },
+        "r2m1": {
+            "t1p1": "Kira",
+            "t1p1flag": "us",
+            "t1p2": "PsychoMidget",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "DavidChong",
+            "t2p1flag": "us",
+            "t2p2": "Sergio",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "t1p1": "Ken",
+            "t1p1flag": "us",
+            "t1p2": "Santiago",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "LuigiKid",
+            "t2p1flag": "us",
+            "t2p2": "Mchi",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r4m1": {
+            "t1p1": "Kira",
+            "t1p1flag": "us",
+            "t1p2": "PsychoMidget",
+            "t1p2flag": "us",
+            "t1score": "1",
+            "t2p1": "Ken",
+            "t2p1flag": "us",
+            "t2p2": "Santiago",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r5m1": {
+            "t1p1": "Ken",
+            "t1p1flag": "us",
+            "t1p2": "Santiago",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Kira",
+            "t2p1flag": "us",
+            "t2p2": "PsychoMidget",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "1"
+        },
+        "r5m2": {
+            "t1score": "",
+            "t2score": ""
+        }
+    }
+}

@@ -1,0 +1,970 @@
+{
+    "==Advance==": {},
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Mason",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "RaycHUN1",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m10": {
+            "p1": "Mendoza",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Kishsquared",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m11": {
+            "p1": "Pimp_666",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Snap Pop",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m12": {
+            "p1": "ZigZag",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Aob",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m13": {
+            "p1": "JesusOmega",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Nick B",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m14": {
+            "p1": "ViperBoy",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Watty",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m15": {
+            "p1": "TRE1",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Joshu",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m16": {
+            "p1": "Spaddis",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "DoH",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "No Hope",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Kishprime",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Only1z",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Helios",
+            "p2flag": "se",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Jloc09",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Leprechaun",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Jesi",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "dmac",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Ike",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Pete Chen",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Tdaddy",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Dr. Z",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Crashman",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "BBBD",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m9": {
+            "p1": "C_Tips",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Jazzness",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "RaycHUN1",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Kishprime",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "Helios",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Leprechaun",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "dmac",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Pete Chen",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Dr. Z",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Crashman",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Jazzness",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Kishsquared",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "Snap Pop",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Aob",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m7": {
+            "p1": "Nick B",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "ViperBoy",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m8": {
+            "p1": "Joshu",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "DoH",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Iggy",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Kishprime",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "IK_GOST",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Leprechaun",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Drephen",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "dmac",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Mathos",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Crashman",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m5": {
+            "p1": "Joe Bushman",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Kishsquared",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m6": {
+            "p1": "Jiano",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Aob",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m7": {
+            "p1": "Kaiser GL",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "ViperBoy",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m8": {
+            "p1": "Doraki",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Joshu",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Kishprime",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "IK_GOST",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "dmac",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Mathos",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Joe Bushman",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Jiano",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Kaiser GL",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Doraki",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Trail",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Kishprime",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "Tapion",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Mathos",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m3": {
+            "p1": "Zanguzen",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Joe Bushman",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m4": {
+            "p1": "Zulu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Doraki",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Kishprime",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Mathos",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l6m2": {
+            "p1": "Joe Bushman",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Zulu",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "l7m1": {
+            "p1": "Chillin",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Mathos",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "l7m2": {
+            "p1": "The Doug",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Azen",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Jesi",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Aob",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "Ike",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Snap Pop",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m12": {
+            "p1": "Drephen",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Kishsquared",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Tdaddy",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Mathos",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "Jazzness",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Crashman",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Chillin",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m17": {
+            "p1": "Tapion",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m18": {
+            "p1": "C_Tips",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "BBBD",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m19": {
+            "p1": "Dr. Z",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Mendoza",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Mason",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "DoH",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m20": {
+            "p1": "Joe Bushman",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m21": {
+            "p1": "Pete Chen",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m22": {
+            "p1": "Pimp_666",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "The Doug",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m23": {
+            "p1": "dmac",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "ZigZag",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m24": {
+            "p1": "Jiano",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m25": {
+            "p1": "Leprechaun",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m26": {
+            "p1": "JesusOmega",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Kaiser GL",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m27": {
+            "p1": "Helios",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "ViperBoy",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m28": {
+            "p1": "Darkrain",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m29": {
+            "p1": "Kishprime",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Iggy",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "No Hope",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m30": {
+            "p1": "TRE1",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Trail",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m31": {
+            "p1": "Spaddis",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "RaycHUN1",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m32": {
+            "p1": "Doraki",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Joshu",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "IK_GOST",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Only1z",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Watty",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Nick B",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Jloc09",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Zulu",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Zanguzen",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Azen",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "DoH",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m10": {
+            "p1": "Dr. Z",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Joe Bushman",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m11": {
+            "p1": "Pete Chen",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "The Doug",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m12": {
+            "p1": "dmac",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Jiano",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m13": {
+            "p1": "Leprechaun",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Kaiser GL",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m14": {
+            "p1": "Helios",
+            "p1flag": "se",
+            "p1score": "1",
+            "p2": "Darkrain",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m15": {
+            "p1": "Kishprime",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Trail",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m16": {
+            "p1": "RaycHUN1",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Doraki",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m2": {
+            "p1": "Iggy",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Joshu",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "IK_GOST",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Watty",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Nick B",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Zulu",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m5": {
+            "p1": "Zanguzen",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Aob",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Snap Pop",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Drephen",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "Kishsquared",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Mathos",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m8": {
+            "p1": "Jazzness",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Chillin",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m9": {
+            "p1": "Tapion",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "BBBD",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Azen",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Iggy",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "IK_GOST",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Zulu",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "Zanguzen",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Drephen",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Mathos",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Chillin",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m5": {
+            "p1": "Tapion",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Joe Bushman",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m6": {
+            "p1": "The Doug",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Jiano",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m7": {
+            "p1": "Kaiser GL",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Darkrain",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m8": {
+            "p1": "Trail",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Doraki",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Azen",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Zulu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Zanguzen",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Chillin",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m3": {
+            "p1": "Tapion",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "The Doug",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m4": {
+            "p1": "Darkrain",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Trail",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r5m1": {
+            "p1": "Azen",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Chillin",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r5m2": {
+            "p1": "The Doug",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Darkrain",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r6m1": {
+            "p1": "Azen",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Darkrain",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

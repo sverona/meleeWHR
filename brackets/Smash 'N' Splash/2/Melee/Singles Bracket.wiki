@@ -1,0 +1,79 @@
+{{SetGame|melee}}{{DISPLAYTITLE:Smash 'N' Splash 2: ''Melee'' Singles Bracket}}
+{{tabs static
+|name1=Overview
+|link1=Smash 'N' Splash/2/Melee
+|name2=Singles Round 1 Pools
+|link2=Smash 'N' Splash/2/Melee/Singles Round 1 Pools
+|name3=Singles Round 2 Pools
+|link3=Smash 'N' Splash/2/Melee/Singles Round 2 Pools
+|name4=Singles Bracket
+|link4=Smash 'N' Splash/2/Melee/Singles Bracket
+|name5=Doubles Pools
+|link5=Smash 'N' Splash/2/Melee/Doubles Pools
+|name6=Doubles Bracket
+|link6=Smash 'N' Splash/2/Melee/Doubles Bracket
+|This=4
+}}
+{{:Smash 'N' Splash/2/Melee/Singles Bracket/Winners}}<!--
+-->{{:Smash 'N' Splash/2/Melee/Singles Bracket/Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Smash 'N' Splash/2/Melee
+|tourneyname=Smash 'N' Splash 2
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+|column-width=225
+
+<!-- FROM WINNERS -->
+|r1m1p1=Hungrybox |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Swedish Delight |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=puff |r1m1p2char1=sheik |r1m1p1stock1=1 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=puff |r1m1p2char2=sheik |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Yoshi's Story
+|r1m1p1char3=puff |r1m1p2char3=sheik |r1m1p1stock3=2 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Final Destination
+|r1m1date=June 12, 2016
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|lrthread=|vod=https://youtu.be/1oogrBYIDnc}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Mew2King |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=Shroomed |l1m1p2flag=us |l1m1p2score=1
+|l1m1win=1
+|l1m1p1char1=sheik |l1m1p2char1=sheik |l1m1p1stock1=2 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1p1char2=sheik |l1m1p2char2=sheik |l1m1p1stock2=0 |l1m1p2stock2=2 |l1m1win2=2 |l1m1stage2=Dream Land
+|l1m1p1char3=sheik |l1m1p2char3=sheik |l1m1p1stock3=1 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Final Destination
+|l1m1p1char4=sheik |l1m1p2char4=sheik |l1m1p1stock4=1 |l1m1p2stock4=0 |l1m1win4=1 |l1m1stage4=Yoshi's Story
+|l1m1date=June 12, 2016
+|l1m1finished=
+|l1m1details={{BracketMatchDetails|lrthread=|vod=https://youtu.be/GhjoqGXpoKQ}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Swedish Delight |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Mew2King |r2m1p2flag=us |r2m1p2score=1
+|r2m1win=1
+|r2m1p1char1=sheik |r2m1p2char1=sheik |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=sheik |r2m1p2char2=sheik |r2m1p1stock2=3 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Dream Land
+|r2m1p1char3=sheik |r2m1p2char3=fox |r2m1p1stock3=0 |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Pokémon Stadium
+|r2m1p1char4=sheik |r2m1p2char4=sheik |r2m1p1stock4=1 |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Yoshi's Story
+|r2m1p1char5=sheik |r2m1p2char5=fox |r2m1p1stock5=2 |r2m1p2stock5=0 |r2m1win5=1 |r2m1stage5=Final Destination
+|r2m1date=June 12, 2016
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|lrthread=|vod=https://youtu.be/bbNf3rpscWU}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Hungrybox |r3m1p1flag=us |r3m1p1score=3 
+|r3m1p2=Swedish Delight |r3m1p2flag=us |r3m1p2score=1
+|r3m1win=1
+|r3m1p1char1=puff |r3m1p2char1=luigi |r3m1p1stock1=2 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=puff |r3m1p2char2=luigi |r3m1p1stock2=0 |r3m1p2stock2=1 |r3m1win2=2 |r3m1stage2=Fountain of Dreams
+|r3m1p1char3=puff |r3m1p2char3=luigi |r3m1p1stock3=2 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Dream Land
+|r3m1p1char4=puff |r3m1p2char4=luigi |r3m1p1stock4=3 |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Yoshi's Story
+|r3m1date=June 12, 2016
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|lrthread=|vod=https://youtu.be/-LhRS-a0iLM}}
+}}
+</onlyinclude>

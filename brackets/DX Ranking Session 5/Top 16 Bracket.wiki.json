@@ -1,0 +1,240 @@
+{
+    "==Losers==": {
+        "l1m1": {
+            "p1": "Funk Puissante",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Maxattack",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Jr.",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Darx",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Eternay",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Clyde Wuts",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Jambon",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Lion's Curry",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Cpt. L0ve",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Funk Puissante",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Raoul",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Darx",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Guilu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Clyde Wuts",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Pute",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Lion's Curry",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Cpt. L0ve",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Raoul",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Guilu",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Lion's Curry",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Cpt. L0ve",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Slhoka",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Lion's Curry",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners==": {
+        "r1m1": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Funk Puissante",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Maxattack",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Pute",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Jr.",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Guilu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Darx",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Eternay",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Clyde Wuts",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Raoul",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Cpt. L0ve",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Jambon",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Slhoka",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Lion's Curry",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Pute",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Guilu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Raoul",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Cpt. L0ve",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Slhoka",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Cyr",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "BeLia",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Slhoka",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

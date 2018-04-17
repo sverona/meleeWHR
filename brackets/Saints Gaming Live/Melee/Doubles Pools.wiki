@@ -1,0 +1,40 @@
+{{DISPLAYTITLE:Saints Gaming Live: ''Melee'' Doubles Pools}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Saints Gaming Live/Melee
+|name2=Singles Pools
+|link2=Saints Gaming Live/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Saints Gaming Live/Melee/Singles Bracket
+|name4=Doubles Pools
+|link4=Saints Gaming Live/Melee/Doubles Pools
+|name5=Doubles Bracket
+|link5=Saints Gaming Live/Melee/Doubles Bracket
+|This=4
+}}
+{{Box|start|padding=2em}}
+{{HiddenSort|===A1===}}
+{{GroupTableStart |Bracket A1|width=300px}}
+{{DoublesGroupTableSlot|p1=Hungrybox|p1flag=us|p2=Mew2King|p2flag=us|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=Ryan Ford|p1flag=ca|p2=RaynEX|p2flag=ca|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=KirbyKaze|p1flag=ca|p2=KJH|p2flag=us|win_m=1|lose_m=1|place=3|bg=stay|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Soda|p1flag=ca|p2=Movement|p2flag=ca|win_m=1|lose_m=1|place=3|bg=stay|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Sevan|p1flag=ca|p2=slickah|p2flag=ca|win_m=1|lose_m=1|place=3|bg=stay|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Coffeeblack|p1flag=ca|p2=Monib|p2flag=ca|win_m=1|lose_m=1|place=3|bg=stay|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Rabbit|p1flag=ca|p2=lonebutterfish|p2flag=ca|win_m=0|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=RedMist|p1flag=ca|p2=DiabloMablo|p2flag=ca|win_m=0|lose_m=2|place=7|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===B1===}}
+{{GroupTableStart |Bracket B1|width=300px}}
+{{DoublesGroupTableSlot|p1=Prince Abu|p1flag=us|p2=Duck|p2flag=us|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=n0ne|p1flag=ni|p2=Professor Pro|p2flag=gb|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=Ginger|p1flag=us|p2=Beach|p2flag=us|win_m=1|lose_m=1|place=3|bg=stay|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Windrose|p1flag=ca|p2=🔫|p2flag=uz|win_m=1|lose_m=1|place=3|bg=stay|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Nightmare|p1flag=ca|p2=Westballz|p2flag=us|win_m=1|lose_m=1|place=3|bg=stay|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=5IVE|p1flag=ca|p2=Slice|p2flag=ca|win_m=1|lose_m=1|place=3|bg=stay|go={{advance|Saints Gaming Live/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Jab|p1flag=ca|p2=Matto|p2flag=ca|win_m=0|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Vell|p1flag=ca|p2=Blow|p2flag=ca|win_m=0|lose_m=2|place=7|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}

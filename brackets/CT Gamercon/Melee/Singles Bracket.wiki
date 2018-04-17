@@ -1,0 +1,138 @@
+{{DISPLAYTITLE:CT Gamercon: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=CT Gamercon/Melee
+|name2=Singles Pools
+|link2=CT Gamercon/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=CT Gamercon/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=CT Gamercon/Melee/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{8DEWBracketA
+<!-- Quarterfinals -->
+|r1m1p1=Hungrybox |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Captain Smuckers |r1m1p2flag=us |r1m1p2score=1
+|r1m1win=1
+
+|r1m2p1=Slox |r1m2p1flag=us |r1m2p1score=3
+|r1m2p2=Prince Abu |r1m2p2flag=us |r1m2p2score=1
+|r1m2win=1
+
+|r1m3p1=KirbyKaze |r1m3p1flag=ca |r1m3p1score=3
+|r1m3p2=Ryobeat |r1m3p2flag=us |r1m3p2score=1
+|r1m3win=1
+
+|r1m4p1=Crush |r1m4p1flag=us |r1m4p1score=0
+|r1m4p2=DJ Nintendo |r1m4p2flag=us |r1m4p2score=3
+|r1m4win=2
+
+<!-- SEMIFINALS -->
+|r2m1p1=Hungrybox |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Slox |r2m1p2flag=us |r2m1p2score=0
+|r2m1win=1
+
+|r2m2p1=KirbyKaze |r2m2p1flag=ca |r2m2p1score=3
+|r2m2p2=DJ Nintendo |r2m2p2flag=us |r2m2p2score=0
+|r2m2win=1
+}}
+==Losers Bracket==
+{{24DELBracketSmwA
+|tourneylink=CT Gamercon/Melee
+|tourneyname=CT Gamercon
+|l1placement=17-24
+|l2placement=13-16
+|l3placement=9-12
+|l4placement=7-8
+|l5placement=5-6
+|column-width=160
+
+|l1m1p1=42nd |l1m1p1flag=us |l1m1p1score=2 |l1m1win=1
+|l1m1p2=dudutsai |l1m1p2flag=us |l1m1p2score=1
+|l1m2p1=vortex |l1m2p1flag=us |l1m2p1score=2 |l1m2win=1
+|l1m2p2=Younger |l1m2p2flag=us |l1m2p2score=1
+|l1m3p1=Mafia |l1m3p1flag=us |l1m3p1score=2 |l1m3win=1
+|l1m3p2=Thumbs |l1m3p2flag=us |l1m3p2score=0
+|l1m4p1=squible |l1m4p1flag=us |l1m4p1score=2 |l1m4win=1
+|l1m4p2=Joyboy |l1m4p2flag=us |l1m4p2score=0
+|l1m5p1=G$ |l1m5p1flag=us |l1m5p1score=1 |l1m5win=2
+|l1m5p2=Trail |l1m5p2flag=us |l1m5p2score=2
+|l1m6p1=Hax |l1m6p1flag=us |l1m6p1score=0 |l1m6win=2
+|l1m6p2=Mr. Lemon |l1m6p2flag=us |l1m6p2score=2
+|l1m7p1=Tian |l1m7p1flag=us |l1m7p1score=2 |l1m7win=1
+|l1m7p2=justjason |l1m7p2flag= |l1m7p2score=0
+|l1m8p1=Klaps |l1m8p1flag=us |l1m8p1score=2 |l1m8win=1
+|l1m8p2=Bolt |l1m8p2flag=us |l1m8p2score=0
+
+|l2m1p1=42nd |l2m1p1flag=us |l2m1p1score=0 |l2m1win=2
+|l2m1p2=vortex |l2m1p2flag=us |l2m1p2score=3
+|l2m2p1=Mafia |l2m2p1flag=us |l2m2p1score=2 |l2m2win=2
+|l2m2p2=squible |l2m2p2flag=us |l2m2p2score=3
+|l2m3p1=Trail |l2m3p1flag=us |l2m3p1score=0 |l2m3win=2
+|l2m3p2=Mr. Lemon |l2m3p2flag=us |l2m3p2score=3
+|l2m4p1=Tian |l2m4p1flag=us |l2m4p1score=1 |l2m4win=2
+|l2m4p2=Klaps |l2m4p2flag=us |l2m4p2score=3
+
+|l3m1p1=Ryobeat |l3m1p1flag=us |l3m1p1score=3 |l3m1win=1
+|l3m1p2=vortex |l3m1p2flag=us |l3m1p2score=1
+|l3m2p1=Crush |l3m2p1flag=us |l3m2p1score=3 |l3m2win=1
+|l3m2p2=squible |l3m2p2flag=us |l3m2p2score=0
+|l3m3p1=Captain Smuckers |l3m3p1flag=us |l3m3p1score=3 |l3m3win=1
+|l3m3p2=Mr. Lemon |l3m3p2flag=us |l3m3p2score=0
+|l3m4p1=Prince Abu |l3m4p1flag=us |l3m4p1score=3 |l3m4win=1
+|l3m4p2=Klaps |l3m4p2flag=us |l3m4p2score=0
+
+|l4m1p1=Ryobeat |l4m1p1flag=us |l4m1p1score=0 |l4m1win=2
+|l4m1p2=Crush |l4m1p2flag=us |l4m1p2score=3
+|l4m2p1=Captain Smuckers |l4m2p1flag=us |l4m2p1score=3 |l4m2win=1
+|l4m2p2=Prince Abu |l4m2p2flag=us |l4m2p2score=1
+
+|l5m1p1=Slox |l5m1p1flag=us |l5m1p1score=1 |l5m1win=2
+|l5m1p2=Crush |l5m1p2flag=us |l5m1p2score=3
+|l5m2p1=DJ Nintendo |l5m2p1flag=us |l5m2p1score=0 |l5m2win=2
+|l5m2p2=Captain Smuckers |l5m2p2flag=us |l5m2p2score=3
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=CT Gamercon/Melee
+|tourneyname=CT Gamercon
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+|disableheads=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Hungrybox |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=KirbyKaze |r1m1p2flag=ca |r1m1p2score=0
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1p1=Crush |l1m1p1flag=us |l1m1p1score=2
+|l1m1p2=Captain Smuckers |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1p1=KirbyKaze |r2m1p1flag=ca |r2m1p1score=2
+|r2m1p2=Captain Smuckers |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=sheik |r2m1p1stock1=2 |r2m1p2char1=cf |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=sheik |r2m1p1stock2=0 |r2m1p2char2=cf |r2m1p2stock2=2 |r2m1win2=2 |r2m1stage2=Final Destination
+|r2m1p1char3=sheik |r2m1p1stock3=1 |r2m1p2char3=cf |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Yoshi's Story
+|r2m1p1char4=sheik |r2m1p1stock4=0 |r2m1p2char4=cf |r2m1p2stock4=2 |r2m1win4=2 |r2m1stage4=Pokémon Stadium
+|r2m1p1char5=sheik |r2m1p1stock5=0 |r2m1p2char5=cf |r2m1p2stock5=2 |r2m1win5=2 |r2m1stage5=Dream Land
+
+<!-- GRAND FINALS -->
+|r3m1p1=Hungrybox |r3m1p1flag=us |r3m1p1score=3 |r3m2p1score=
+|r3m1p2=Captain Smuckers |r3m1p2flag=us |r3m1p2score=1 |r3m2p2score=
+|r3m1win=1
+|r3m1p1char1=puff |r3m1p1stock1=2 |r3m1p2char1=cf |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=puff |r3m1p1stock2=3 |r3m1p2char2=cf |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Yoshi's Story
+|r3m1p1char3=puff |r3m1p1stock3=0 |r3m1p2char3=cf |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Battlefield
+|r3m1p1char4=puff |r3m1p1stock4=2 |r3m1p2char4=cf |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Dream Land
+}}
+</onlyinclude>

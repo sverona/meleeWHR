@@ -1,0 +1,170 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "S2J",
+            "t1p1flag": "us",
+            "t1p2": "Shroomed",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Vavez",
+            "t2p1flag": "us",
+            "t2p2": "NUT",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m1": {
+            "t1p1": "Captain Faceroll",
+            "t1p1flag": "us",
+            "t1p2": "CDK",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "Syrox",
+            "t2p1flag": "us",
+            "t2p2": "Westballz",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "t1p1": "Captain Faceroll",
+            "t1p1flag": "us",
+            "t1p2": "CDK",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "S2J",
+            "t2p1flag": "us",
+            "t2p2": "Shroomed",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "1"
+        },
+        "r3m2": {
+            "t2score": ""
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "t1p1": "CaptainJack",
+            "t1p1flag": "jp",
+            "t1p2": "MacD",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Andymosity",
+            "t2p1flag": "us",
+            "t2p2": "Epic Murloc",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "t1p1": "Reno",
+            "t1p1flag": "us",
+            "t1p2": "Lucky",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Grape",
+            "t2p1flag": "us",
+            "t2p2": "Lil' Snack",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "t1p1": "SFAT",
+            "t1p1flag": "us",
+            "t1p2": "Dayge",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Trichael Man",
+            "t2p1flag": "us",
+            "t2p2": "Dr. Light",
+            "t2p2flag": "us",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l1m4": {
+            "t1p1": "ARMY",
+            "t1p1flag": "us",
+            "t1p2": "MegaXmas",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "Vavez",
+            "t2p1flag": "us",
+            "t2p2": "NUT",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "t1p1": "CaptainJack",
+            "t1p1flag": "jp",
+            "t1p2": "MacD",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "Reno",
+            "t2p1flag": "us",
+            "t2p2": "Lucky",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "2"
+        },
+        "l2m2": {
+            "t1p1": "SFAT",
+            "t1p1flag": "us",
+            "t1p2": "Dayge",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "Vavez",
+            "t2p1flag": "us",
+            "t2p2": "NUT",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "t1p1": "S2J",
+            "t1p1flag": "us",
+            "t1p2": "Shroomed",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Reno",
+            "t2p1flag": "us",
+            "t2p2": "Lucky",
+            "t2p2flag": "us",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l3m2": {
+            "t1p1": "Kira",
+            "t1p1flag": "us",
+            "t1p2": "PsychoMidget",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "Vavez",
+            "t2p1flag": "us",
+            "t2p2": "NUT",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "t1p1": "Kira",
+            "t1p1flag": "us",
+            "t1p2": "PsychoMidget",
+            "t1p2flag": "us",
+            "t1score": "1",
+            "t2p1": "Syrox",
+            "t2p1flag": "us",
+            "t2p2": "Westballz",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        }
+    }
+}

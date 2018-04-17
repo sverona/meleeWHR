@@ -1,0 +1,139 @@
+{{DISPLAYTITLE:Unrivaled: ''Melee'' Singles Pools}}{{Tabs static
+|name1=Overview
+|link1=Unrivaled/1/Melee
+|name2=Singles Pools
+|link2=Unrivaled/1/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Unrivaled/1/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=Unrivaled/1/Melee/Doubles Bracket
+|This=2
+}}
+==Pools Overview==
+Singles Pools are Double Elimination Bracket Pools. Three players advance from each group; one from winners, and two from losers.
+==Wave A==
+{{Box|start|padding=2em}}
+{{HiddenSort|===A1===}}
+{{GroupTableStart |Bracket A1|width=250px}}
+{{GroupTableSlot|Plup|flag=us|win_m=3|lose_m=0|place=2|bg=up |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|JBomb|flag=us|win_m=3|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Ridz|flag=us|win_m=2|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|BiggPappa|flag=us|win_m=2|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Rayd|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Rickyspanish|flag=|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Shotlandcore|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Elfonzio|flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Reltsik|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Coty|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|CA$H F Money|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===A2===}}
+{{GroupTableStart |Bracket A2|width=250px}}
+{{GroupTableSlot|Linguini|flag=us|win_m=3|lose_m=0|place=2|bg=up |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|Panda|flag=us|win_m=3|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Fearless|flag=us|win_m=2|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Moltov|flag=us|win_m=2|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|SilenceGhost|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Requis|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Firenze|flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|TurtleSnap|flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|SlappyPoopy|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Taber|flag=|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Lysozy|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===A3===}}
+{{GroupTableStart |Bracket A3|width=250px}}
+{{GroupTableSlot|King Momo|flag=us|win_m=3|lose_m=0|place=2|bg=up |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|Cooltrainer Drew|flag=us|win_m=3|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Working Class Hero|flag=us|win_m=2|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Steele|flag=us|win_m=2|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|haha nice.|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|T-Rekt|flag=|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Digzby|flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Gatherer|flag=|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|pawN|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Moses|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===A4===}}
+{{GroupTableStart |Bracket A4|width=250px}}
+{{GroupTableSlot|Envy|flag=us|win_m=3|lose_m=0|place=2|bg=up |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|Rachman|flag=us|win_m=3|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Drunksloth|flag=us|win_m=2|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|swiss|flag=us|win_m=2|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Ober|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Uma|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|picofarad|flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Adroid|flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|G-Rat|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Jammy|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}
+
+==Wave B==
+{{Box|start|padding=2em}}
+{{HiddenSort|===B1===}}
+{{GroupTableStart |Bracket B1|width=250px}}
+{{GroupTableSlot|Colbol|flag=us|win_m=3|lose_m=0|place=2|bg=up |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|The Law|flag=|win_m=3|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Hungry Pigeon|flag=us|win_m=2|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Raistlin|flag=us|win_m=2|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Yeti|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|The Gerogerigegege|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Aura|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|tru|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|JPika|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Espada|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Dublin|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===B2===}}
+{{GroupTableStart |Bracket B2|width=250px}}
+{{GroupTableSlot|Barraca|flag=us|win_m=3|lose_m=0|place=2|bg=up |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|azianraven|flag=|win_m=3|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Derdian|flag=us|win_m=2|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Yami|flag=us|win_m=2|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|TheAdmiralSultan|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|bolder|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Luz59|flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Komodo|flag=|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Caskan|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Brimiq|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===B3===}}
+{{GroupTableStart |Bracket B3|width=250px}}
+{{GroupTableSlot|Oaty|flag=|win_m=3|lose_m=0|place=2|bg=up |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|Krudo|flag=us|win_m=3|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|JRad|flag=us|win_m=2|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Puppy|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Ebag|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Vision|flag=us|win_m=1|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|King Crow|flag=|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Danimal|flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Phoenix|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|grish|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===B4===}}
+{{GroupTableStart |Bracket B4|width=250px}}
+{{GroupTableSlot|brokenyew|flag=us|win_m=3|lose_m=0|place=2|bg=up |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|StoneRocks|flag=us|win_m=4|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|OC Mike the Franchise|flag=us|win_m=2|lose_m=1|place=3|bg=stay |go={{advance|Unrivaled/1/Melee/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Blinkingsky|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Azzy|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Kairos|flag=us|win_m=1|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Rivers|flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Lad|flag=us|win_m=0|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Sizzler|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Drizzy|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}

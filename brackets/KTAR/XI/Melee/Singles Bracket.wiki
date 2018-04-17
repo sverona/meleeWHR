@@ -1,0 +1,38 @@
+{{SetGame|melee}}{{DISPLAYTITLE:KTAR XI: ''Melee'' Singles Bracket}}{{tabs static
+|name1=Overview
+|link1=KTAR/XI/Melee
+|name2=Singles Bracket
+|link2=KTAR/XI/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=KTAR/XI/Melee/Doubles Bracket
+|This=2
+}}
+{{:KTAR/XI/Melee/Winners Bracket}}
+{{:KTAR/XI/Melee/Losers Bracket}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=KTAR/XI/Melee
+|tourneyname=KTAR XI
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score={{win}} |r1m1win=1
+|r1m1p2=Hax |r1m1p2flag=us |r1m1p2score=
+
+<!-- FROM LOSERS -->
+|l1m1p1=Cactuar |l1m1p1flag=us |l1m1p1score= |l1m1win=2
+|l1m1p2=Wizzrobe |l1m1p2flag=us |l1m1p2score={{win}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Hax |r2m1p1flag=us |r2m1p1score={{win}} |r2m1win=1
+|r2m1p2=Wizzrobe |r2m1p2flag=us |r2m1p2score=
+
+<!-- GRAND FINALS -->
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score={{win}} |r3m1win=1
+|r3m1p2=Hax |r3m1p2flag=us |r3m1p2score=
+}}
+</onlyinclude>

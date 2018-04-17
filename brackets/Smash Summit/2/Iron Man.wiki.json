@@ -1,0 +1,80 @@
+{
+    "===Finals===": {},
+    "===Quarterfinals===": {},
+    "===Semifinals===": {},
+    "==Details==": {},
+    "==Iron Man Bracket==": {
+        "l3m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "r1m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "20",
+            "p2": "Hungrybox",
+            "p2flag": "us",
+            "p2score": "11",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Mango",
+            "p1flag": "us",
+            "p1score": "20",
+            "p2": "Shroomed",
+            "p2flag": "us",
+            "p2score": "19",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Plup",
+            "p1flag": "us",
+            "p1score": "18",
+            "p2": "S2J",
+            "p2flag": "us",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "Westballz",
+            "p1flag": "us",
+            "p1score": "10",
+            "p2": "Armada",
+            "p2flag": "se",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "18",
+            "p2": "Mango",
+            "p2flag": "us",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r2m2": {
+            "p1": "S2J",
+            "p1flag": "us",
+            "p1score": "13",
+            "p2": "Armada",
+            "p2flag": "se",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Mango",
+            "p1flag": "us",
+            "p1score": "20",
+            "p2": "Armada",
+            "p2flag": "se",
+            "p2score": "19",
+            "win": "1"
+        }
+    }
+}

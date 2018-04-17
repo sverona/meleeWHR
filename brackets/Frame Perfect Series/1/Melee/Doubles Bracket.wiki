@@ -1,0 +1,152 @@
+{{DISPLAYTITLE: Frame Perfect Series: ''Melee'' Doubles Bracket}}
+{{tabs static
+|name1=Overview
+|link1=Frame Perfect Series/1/Melee
+|name2=Singles Bracket
+|link2=Frame Perfect Series/1/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=Frame Perfect Series/1/Melee/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{8DEDoublesWBracketA
+
+<!-- ROUND 1 -->
+|r1m1t1p1=Mew2King |r1m1t1p1flag=us
+|r1m1t1p2=Hungrybox |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=r4g3 taco |r1m1t2p1flag=us
+|r1m1t2p2=s4bboi |r1m1t2p2flag=us |r1m1t2score=DQ
+|r1m1win=1
+
+|r1m2t1p1=Envy |r1m2t1p1flag=us
+|r1m2t1p2=Oaty |r1m2t1p2flag=us |r1m2t1score=2
+|r1m2t2p1=AzianRaven |r1m2t2p1flag=us
+|r1m2t2p2=Tempo |r1m2t2p2flag=us |r1m2t2score=0
+|r1m2win=1
+
+|r1m3t1p1=Wizzrobe |r1m3t1p1flag=us
+|r1m3t1p2=Colbol |r1m3t1p2flag=us |r1m3t1score=2
+|r1m3t2p1=BiggPappa |r1m3t2p1flag=us
+|r1m3t2p2=Anchor |r1m3t2p2flag=us |r1m3t2score=0
+|r1m3win=1
+
+|r1m4t1p1=Captain Crunch |r1m4t1p1flag=us
+|r1m4t1p2=UUAA |r1m4t1p2flag=us |r1m4t1score=2
+|r1m4t2p1=Mr Good Luck |r1m4t2p1flag=us
+|r1m4t2p2=Fabio |r1m4t2p2flag=us |r1m4t2score=0
+|r1m4win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Mew2King |r2m1t1p1flag=us
+|r2m1t1p2=Hungrybox |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Envy |r2m1t2p1flag=us
+|r2m1t2p2=Oaty |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=Wizzrobe |r2m2t1p1flag=us
+|r2m2t1p2=Colbol |r2m2t1p2flag=us |r2m2t1score=2
+|r2m2t2p1=Captain Crunch |r2m2t2p1flag=us
+|r2m2t2p2=UUAA |r2m2t2p2flag=us |r2m2t2score=0
+|r2m2win=1
+|r2m2t1p1char1=cf |r2m2t1p1stock1=1 |r2m2t1p2char1=marth |r2m2t1p2stock1=3
+|r2m2t2p1char1=fox |r2m2t2p1stock1=0 |r2m2t2p2char1=fox |r2m2t2p2stock1=0 |r2m2win1=1 |r2m2stage1=Battlefield
+|r2m2t1p1char2=cf |r2m2t1p1stock2=0 |r2m2t1p2char2=marth |r2m2t1p2stock2=1
+|r2m2t2p1char2=fox |r2m2t2p1stock2=0 |r2m2t2p2char2=fox |r2m2t2p2stock2=0 |r2m2win2=1 |r2m2stage2=Yoshi's Story
+|r2m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/9kawq4HNTt0}}
+}}
+==Losers Bracket==
+{{8DEDoublesLBracketA
+
+<!-- ROUND 1 -->
+|l1m1t1p1=r4g3 taco |l1m1t1p1flag=us
+|l1m1t1p2=s4bboi |l1m1t1p2flag=us |l1m1t1score=DQ
+|l1m1t2p1=AzianRaven |l1m1t2p1flag=us
+|l1m1t2p2=Tempo |l1m1t2p2flag=us |l1m1t2score={{win}}
+|l1m1win=2
+
+|l1m2t1p1=BiggPappa |l1m2t1p1flag=us
+|l1m2t1p2=Anchor |l1m2t1p2flag=us |l1m2t1score=2
+|l1m2t2p1=Mr Good Luck |l1m2t2p1flag=us
+|l1m2t2p2=Fabio |l1m2t2p2flag=us |l1m2t2score=1
+|l1m2win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Captain Crunch |l2m1t1p1flag=us
+|l2m1t1p2=UUAA |l2m1t1p2flag=us |l2m1t1score=0
+|l2m1t2p1=AzianRaven |l2m1t2p1flag=us
+|l2m1t2p2=Tempo |l2m1t2p2flag=us |l2m1t2score=2
+|l2m1win=2
+
+|l2m2t1p1=Envy |l2m2t1p1flag=us
+|l2m2t1p2=Oaty |l2m2t1p2flag=us |l2m2t1score=2
+|l2m2t2p1=BiggPappa |l2m2t2p1flag=us
+|l2m2t2p2=Anchor |l2m2t2p2flag=us |l2m2t2score=0
+|l2m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesBracket
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Mew2King |r1m1t1p1flag=us
+|r1m1t1p2=Hungrybox |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=Wizzrobe |r1m1t2p1flag=us
+|r1m1t2p2=Colbol |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+|r1m1t1p1char1=sheik |r1m1t1p1stock1=2 |r1m1t1p2char1=jigglypuff |r1m1t1p2stock1=2
+|r1m1t2p1char1=cf |r1m1t2p1stock1=0 |r1m1t2p2char1=fox |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1t1p1char2=sheik |r1m1t1p1stock2=1 |r1m1t1p2char2=jigglypuff |r1m1t1p2stock2=1
+|r1m1t2p1char2=cf |r1m1t2p1stock2=0 |r1m1t2p2char2=fox |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1t1p1char3=sheik |r1m1t1p1stock3=1 |r1m1t1p2char3=jigglypuff |r1m1t1p2stock3=1
+|r1m1t2p1char3=cf |r1m1t2p1stock3=0 |r1m1t2p2char3=fox |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Pokémon Stadium
+|r1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/btyhsS3BTaE}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=AzianRaven |l1m1t1p1flag=us
+|l1m1t1p2=Tempo |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=Envy |l1m1t2p1flag=us
+|l1m1t2p2=Oaty |l1m1t2p2flag=us |l1m1t2score=1
+|l1m1win=1
+|l1m1t1p1char1=fox |l1m1t1p1stock1=1 |l1m1t1p2char1=falco |l1m1t1p2stock1=1
+|l1m1t2p1char1=jigglypuff |l1m1t2p1stock1=0 |l1m1t2p2char1=peach |l1m1t2p2stock1=1 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1t1p1char2=fox |l1m1t1p1stock2=0 |l1m1t1p2char2=falco |l1m1t1p2stock2=0
+|l1m1t2p1char2=jigglypuff |l1m1t2p1stock2=2 |l1m1t2p2char2=peach |l1m1t2p2stock2=1 |l1m1win2=2 |l1m1stage2=Dream Land
+|l1m1t1p1char3=fox |l1m1t1p1stock3=1 |l1m1t1p2char3=falco |l1m1t1p2stock3=0
+|l1m1t2p1char3=jigglypuff |l1m1t2p1stock3=0 |l1m1t2p2char3=peach |l1m1t2p2stock3=0 |l1m1win3=1 |l1m1stage3=Final Destination
+|l1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/bGOho5q7lwI}}
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Wizzrobe |r2m1t1p1flag=us
+|r2m1t1p2=Colbol |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=AzianRaven |r2m1t2p1flag=us
+|r2m1t2p2=Tempo |r2m1t2p2flag=us |r2m1t2score=1
+|r2m1win=1
+|r2m1t1p1char1=cf |r2m1t1p1stock1=2 |r2m1t1p2char1=marth |r2m1t1p2stock1=1
+|r2m1t2p1char1=fox |r2m1t2p1stock1=0 |r2m1t2p2char1=falco |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1t1p1char2=cf |r2m1t1p1stock2=1 |r2m1t1p2char2=marth |r2m1t1p2stock2=1
+|r2m1t2p1char2=fox |r2m1t2p1stock2=0 |r2m1t2p2char2=falco |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1t1p1char3=cf |r2m1t1p1stock3=0 |r2m1t1p2char3=marth |r2m1t1p2stock3=0
+|r2m1t2p1char3=fox |r2m1t2p1stock3=1 |r2m1t2p2char3=cf |r2m1t2p2stock3=1 |r2m1win3=2 |r2m1stage3=Pokémon Stadium
+|r2m1t1p1char4=cf |r2m1t1p1stock4=1 |r2m1t1p2char4=fox |r2m1t1p2stock4=1
+|r2m1t2p1char4=fox |r2m1t2p1stock4=0 |r2m1t2p2char4=cf |r2m1t2p2stock4=0 |r2m1win4=1 |r2m1stage4=Pokémon Stadium
+|r2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/azdtvasHzaM}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Mew2King |r3m1t1p1flag=us
+|r3m1t1p2=Hungrybox |r3m1t1p2flag=us |r3m1t1score=3
+|r3m1t2p1=Wizzrobe |r3m1t2p1flag=us
+|r3m1t2p2=Colbol |r3m1t2p2flag=us |r3m1t2score=2
+|r3m1win=1
+|r3m1t1p1char1=sheik |r3m1t1p1stock1=1 |r3m1t1p2char1=jigglypuff |r3m1t1p2stock1=1
+|r3m1t2p1char1=cf |r3m1t2p1stock1=0 |r3m1t2p2char1=fox |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Final Destination
+|r3m1t1p1char2=sheik |r3m1t1p1stock2=1 |r3m1t1p2char2=jigglypuff |r3m1t1p2stock2=1
+|r3m1t2p1char2=cf |r3m1t2p1stock2=0 |r3m1t2p2char2=fox |r3m1t2p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1t1p1char3=sheik |r3m1t1p1stock3=0 |r3m1t1p2char3=jigglypuff |r3m1t1p2stock3=0
+|r3m1t2p1char3=cf |r3m1t2p1stock3=1 |r3m1t2p2char3=fox |r3m1t2p2stock3=1 |r3m1win3=2 |r3m1stage3=Pokémon Stadium
+|r3m1t1p1char4=sheik |r3m1t1p1stock4=0 |r3m1t1p2char4=jigglypuff |r3m1t1p2stock4=0
+|r3m1t2p1char4=cf |r3m1t2p1stock4=1 |r3m1t2p2char4=fox |r3m1t2p2stock4=1 |r3m1win4=2 |r3m1stage4=Dream Land
+|r3m1t1p1char5=sheik |r3m1t1p1stock5=2 |r3m1t1p2char5=jigglypuff |r3m1t1p2stock5=1
+|r3m1t2p1char5=cf |r3m1t2p1stock5=0 |r3m1t2p2char5=fox |r3m1t2p2stock5=0 |r3m1win5=1 |r3m1stage5=Dream Land
+|r3m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/zvuR3GgbvWE}}
+}}
+</onlyinclude>

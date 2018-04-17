@@ -1,0 +1,566 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "BrTarolg",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "X1",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Vanity Angel",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "R23",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "BrTarolg",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Vanity Angel",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "R23",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Aphos 3-2",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Lorenzo 3-7",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Psyant 3-3",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Michael Douglas 3-6",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "kaikara 3-1",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "CPU1 3-5",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Aiken 3-4",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Jay 3-8",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Fayt 2-3",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Aphos 3-2",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "deathtouch_lifelink 2-6",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Lorenzo 3-7",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "Twig 2-2",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Psyant 3-3",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Umpa 2-7",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Michael Douglas 3-6",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Beans 2-4",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "kaikara 3-1",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Guts 2-5",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "CPU1 3-5",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Hooray4Jay 1-8",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Aiken 3-4",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Sylveon 2-8",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Jay 3-8",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Fayt 2-3",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Lorenzo 3-7",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Twig 2-2",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Michael Douglas 3-6",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Beans 2-4",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Guts 2-5",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "Hooray4Jay 1-8",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Sylveon 2-8",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Pripps 1-5",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "Lorenzo 3-7",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "meamking 2-1",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Twig 2-2",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Frenzy 1-6",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "Beans 2-4",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Oytun 1-7",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "Hooray4Jay 1-8",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "Pripps 1-5",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "Twig 2-2",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Frenzy 1-6",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Oytun 1-7",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "BrTarolg",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Pripps 1-5",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "X1",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Oytun 1-7",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Vanity Angel",
+            "p1flag": "gb",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Umpa 2-7",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "kaikara 3-1",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Oytun 1-7",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Twig 2-2",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "CPU1 3-5",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "BrTarolg",
+            "p1flag": "gb",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "deathtouch_lifelink 2-6",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Aiken 3-4",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Frenzy 1-6",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Fayt 2-3",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Jay 3-8",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Sylveon 2-8",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Aphos 3-2",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Hooray4Jay 1-8",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "meamking 2-1",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Lorenzo 3-7",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "X1",
+            "p1flag": "gb",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Guts 2-5",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Psyant 3-3",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Pripps 1-5",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Beans 2-4",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Michael Douglas 3-6",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Vanity Angel",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Sylveon 2-8",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Hooray4Jay 1-8",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "meamking 2-1",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "X1 1-4",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Guts 2-5",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Pripps 1-5",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Beans 2-4",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Umpa 2-7",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Oytun 1-7",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Twig 2-2",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "BrTarolg",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "deathtouch_lifelink 2-6",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Frenzy 1-6",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Fayt 2-3",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Vanity Angel",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "meamking 2-1",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "X1",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Pripps 1-5",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Oytun 1-7",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "BrTarolg",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Frenzy 1-6",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Vanity Angel",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "X1",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "BrTarolg",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

@@ -1,0 +1,973 @@
+{{DISPLAYTITLE:Albion 2: ''Melee'' Singles Pools}}{{SetGame|melee}}
+{{tabs static
+|name1=Overivew
+|link1=Albion/2/Melee
+|name2=Singles Pools
+|link2=Albion/2/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Albion/2/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=Albion/2/Melee/Doubles Bracket
+|This=2
+}}
+==Wave B==
+{{Box|start|padding=2em}}
+==={{HiddenSort|B1}}===
+{{GroupTableStart |Bracket B1|width=300px}}
+{{GroupTableSlot|Vanity Angel|flag=gb|win_m=6|lose_m=0|place=1|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Rey|flag=gb|win_m=5|lose_m=1|place=2|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Cong|flag=gb|win_m=4|lose_m=2|place=3|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|aspens|flag=gb|win_m=3|lose_m=3|place=4|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|B|flag=gb|win_m=2|lose_m=4|place=5|bg=down}}
+{{GroupTableSlot|Vexieal|flag=gb|win_m=1|lose_m=5|place=6|bg=down}}
+{{GroupTableSlot|SHIP|flag=gb|win_m=0|lose_m=6|place=7|bg=down}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages|p1=SHIP |p1flag=gb |p1score=-1
+|p2=Vexieal |p2flag=gb |p2score=0
+|win=2
+}}
+{{Match stages|p1=Rey |p1flag=gb |p1score=2
+|p2=B |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Cong |p1flag=gb |p1score=2
+|p2=aspens |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Vanity Angel |p1flag=gb |p1score=2
+|p2=Vexieal |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=SHIP |p1flag=gb |p1score=-1
+|p2=aspens |p2flag=gb |p2score=0
+|win=2
+}}
+{{Match stages|p1=Rey |p1flag=gb |p1score=2
+|p2=Cong |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Vanity Angel |p1flag=gb |p1score=2
+|p2=B |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Vexieal |p1flag=gb |p1score=0
+|p2=aspens |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=SHIP |p1flag=gb |p1score=-1
+|p2=Rey |p2flag=gb |p2score=0
+|win=2
+}}
+{{Match stages|p1=Vanity Angel |p1flag=gb |p1score=2
+|p2=aspens |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=B |p1flag=gb |p1score=1
+|p2=Cong |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Vexieal |p1flag=gb |p1score=0
+|p2=Rey |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Vanity Angel |p1flag=gb |p1score=2
+|p2=Cong |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=aspens |p1flag=gb |p1score=1
+|p2=Rey |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=B |p1flag=gb |p1score=0
+|p2=SHIP |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Vanity Angel |p1flag=gb |p1score=2
+|p2=Rey |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Cong |p1flag=gb |p1score=0
+|p2=SHIP |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=B |p1flag=gb |p1score=2
+|p2=Vexieal |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=Vanity Angel |p1flag=gb |p1score=0
+|p2=SHIP |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Cong |p1flag=gb |p1score=2
+|p2=Vexieal |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=aspens |p1flag=gb |p1score=2
+|p2=B |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|B2}}===
+{{GroupTableStart |Bracket B2|width=300px}}
+{{GroupTableSlot|TimeMuffinPhD|flag=gb|win_m=7|lose_m=0|place=1|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Manyula|flag=gb|win_m=6|lose_m=1|place=2|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|OolongT|flag=hk|win_m=5|lose_m=2|place=3|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|MagiMagi|flag=gb|win_m=4|lose_m=3|place=4|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|El Jefe|flag=nl|win_m=3|lose_m=4|place=5|bg=down}}
+{{GroupTableSlot|Positive|flag=gb|win_m=2|lose_m=5|place=6|bg=down}}
+{{GroupTableSlot|Zuel|flag=gb|win_m=1|lose_m=6|place=7|bg=down}}
+{{GroupTableSlot|Nilesy|flag=gb|win_m=0|lose_m=7|place=8|bg=down}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages|p1=TimeMuffinPhD |p1flag=gb |p1score=2
+|p2=El Jefe |p2flag=nl |p2score=0
+|win=1
+}}
+{{Match stages|p1=Manyula |p1flag=gb |p1score=2
+|p2=Nilesy |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=OolongT |p1flag=hk |p1score=2
+|p2=Zuel |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=MagiMagi |p1flag=gb |p1score=2
+|p2=Positive |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=TimeMuffinPhD |p1flag=gb |p1score=2
+|p2=Nilesy |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=El Jefe |p1flag=nl |p1score=2
+|p2=Zuel |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Manyula |p1flag=gb |p1score=2
+|p2=Positive |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=OolongT |p1flag=hk |p1score=2
+|p2=MagiMagi |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=TimeMuffinPhD |p1flag=gb |p1score=2
+|p2=Zuel |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Nilesy |p1flag=gb |p1score=0
+|p2=Positive |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=El Jefe |p1flag=nl |p1score=0
+|p2=MagiMagi |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Manyula |p1flag=gb |p1score=2
+|p2=OolongT |p2flag=hk |p2score=0
+|win=1
+}}
+{{Match stages|p1=TimeMuffinPhD |p1flag=gb |p1score=2
+|p2=Positive |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Zuel |p1flag=gb |p1score=0
+|p2=MagiMagi |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Nilesy |p1flag=gb |p1score=0
+|p2=OolongT |p2flag=hk |p2score=2
+|win=2
+}}
+{{Match stages|p1=El Jefe |p1flag=nl |p1score=1
+|p2=Manyula |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=TimeMuffinPhD |p1flag=gb |p1score=0
+|p2=MagiMagi |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Positive |p1flag=gb |p1score=1
+|p2=OolongT |p2flag=hk |p2score=2
+|win=2
+}}
+{{Match stages|p1=Zuel |p1flag=gb |p1score=0
+|p2=Manyula |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Nilesy |p1flag=gb |p1score=0
+|p2=El Jefe |p2flag=nl |p2score=2
+|win=2
+}}
+{{Match stages|p1=TimeMuffinPhD |p1flag=gb |p1score=2
+|p2=OolongT |p2flag=hk |p2score=0
+|win=1
+}}
+{{Match stages|p1=MagiMagi |p1flag=gb |p1score=0
+|p2=Manyula |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Positive |p1flag=gb |p1score=0
+|p2=El Jefe |p2flag=nl |p2score=2
+|win=2
+}}
+{{Match stages|p1=Zuel |p1flag=gb |p1score=2
+|p2=Nilesy |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=TimeMuffinPhD |p1flag=gb |p1score=2
+|p2=Manyula |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=OolongT |p1flag=hk |p1score=2
+|p2=El Jefe |p2flag=nl |p2score=1
+|win=1
+}}
+{{Match stages|p1=MagiMagi |p1flag=gb |p1score=2
+|p2=Nilesy |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Positive |p1flag=gb |p1score=2
+|p2=Zuel |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|B3}}===
+{{GroupTableStart |Bracket B3|width=300px}}
+{{GroupTableSlot|Frenzy|flag=gb|win_m=7|lose_m=0|place=1|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|DNL|flag=es|win_m=6|lose_m=1|place=2|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Mordo|flag=gb|win_m=5|lose_m=2|place=3|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Shais Young|flag=gb|win_m=4|lose_m=3|place=4|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Omega|flag=gb|win_m=3|lose_m=4|place=5|bg=down}}
+{{GroupTableSlot|Focus Miss|flag=gb|win_m=2|lose_m=5|place=6|bg=down}}
+{{GroupTableSlot|BananaHD|flag=gb|win_m=1|lose_m=6|place=7|bg=down}}
+{{GroupTableSlot|Retroking|flag=gb|win_m=0|lose_m=7|place=8|bg=down}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages|p1=Frenzy |p1flag=gb |p1score=2
+|p2=BananaHD |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Mordo |p1flag=gb |p1score=2
+|p2=Focus Miss |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Shais Young |p1flag=gb |p1score=0
+|p2=DNL |p2flag=es |p2score=2
+|win=2
+}}
+{{Match stages|p1=Retroking |p1flag=gb |p1score=-1
+|p2=Omega |p2flag=gb |p2score=0
+|win=2
+}}
+{{Match stages|p1=Frenzy |p1flag=gb |p1score=2
+|p2=Focus Miss |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=BananaHD |p1flag=gb |p1score=0
+|p2=DNL |p2flag=es |p2score=2
+|win=2
+}}
+{{Match stages|p1=Mordo |p1flag=gb |p1score=2
+|p2=Omega |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Shais Young |p1flag=gb |p1score=0
+|p2=Retroking |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Frenzy |p1flag=gb |p1score=2
+|p2=DNL |p2flag=es |p2score=0
+|win=1
+}}
+{{Match stages|p1=Focus Miss |p1flag=gb |p1score=1
+|p2=Omega |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=BananaHD |p1flag=gb |p1score=0
+|p2=Retroking |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Mordo |p1flag=gb |p1score=2
+|p2=Shais Young |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Frenzy |p1flag=gb |p1score=2
+|p2=Omega |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=DNL |p1flag=es |p1score=0
+|p2=Retroking |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Focus Miss |p1flag=gb |p1score=0
+|p2=Shais Young |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=BananaHD |p1flag=gb |p1score=0
+|p2=Mordo |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Frenzy |p1flag=gb |p1score=0
+|p2=Retroking |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Omega |p1flag=gb |p1score=0
+|p2=Shais Young |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=DNL |p1flag=es |p1score=2
+|p2=Mordo |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=Focus Miss |p1flag=gb |p1score=2
+|p2=BananaHD |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Frenzy |p1flag=gb |p1score=2
+|p2=Shais Young |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Retroking |p1flag=gb |p1score=-1
+|p2=Mordo |p2flag=gb |p2score=0
+|win=2
+}}
+{{Match stages|p1=Omega |p1flag=gb |p1score=2
+|p2=BananaHD |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=DNL |p1flag=es |p1score=2
+|p2=Focus Miss |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Frenzy |p1flag=gb |p1score=2
+|p2=Mordo |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Shais Young |p1flag=gb |p1score=2
+|p2=BananaHD |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Retroking |p1flag=gb |p1score=-1
+|p2=Focus Miss |p2flag=gb |p2score=0
+|win=2
+}}
+{{Match stages|p1=Omega |p1flag=gb |p1score=0
+|p2=DNL |p2flag=es |p2score=2
+|win=2
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|B4}}===
+{{GroupTableStart |Bracket B4|width=300px}}
+{{GroupTableSlot|UnHaven|flag=gb|win_m=7|lose_m=0|place=1|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Hao|flag=gb|win_m=6|lose_m=1|place=2|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Diabound|flag=gb|win_m=5|lose_m=2|place=3|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|A Beard|flag=gb|win_m=4|lose_m=3|place=4|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|you'retooslow|flag=gb|win_m=3|lose_m=4|place=5|bg=down}}
+{{GroupTableSlot|Kid+|flag=gb|win_m=2|lose_m=5|place=6|bg=down}}
+{{GroupTableSlot|Kino|flag=gb|win_m=1|lose_m=6|place=7|bg=down}}
+{{GroupTableSlot|MegaMark|flag=gb|win_m=0|lose_m=7|place=8|bg=down}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages|p1=UnHaven |p1flag=gb |p1score=2
+|p2=Kino |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Hao |p1flag=gb |p1score=2
+|p2=MegaMark |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Diabound |p1flag=gb |p1score=2
+|p2=you'retooslow |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=A Beard |p1flag=gb |p1score=2
+|p2=Kid+ |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=UnHaven |p1flag=gb |p1score=2
+|p2=MegaMark |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Kino |p1flag=gb |p1score=0
+|p2=you'retooslow |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Hao |p1flag=gb |p1score=2
+|p2=Kid+ |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Diabound |p1flag=gb |p1score=2
+|p2=A Beard |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=UnHaven |p1flag=gb |p1score=2
+|p2=you'retooslow |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=MegaMark |p1flag=gb |p1score=0
+|p2=Kid+ |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Kino |p1flag=gb |p1score=0
+|p2=A Beard |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Hao |p1flag=gb |p1score=2
+|p2=Diabound |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=UnHaven |p1flag=gb |p1score=2
+|p2=Kid+ |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=you'retooslow |p1flag=gb |p1score=1
+|p2=A Beard |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=MegaMark |p1flag=gb |p1score=0
+|p2=Diabound |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Kino |p1flag=gb |p1score=0
+|p2=Hao |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=UnHaven |p1flag=gb |p1score=2
+|p2=A Beard |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Kid+ |p1flag=gb |p1score=0
+|p2=Diabound |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=you'retooslow |p1flag=gb |p1score=0
+|p2=Hao |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=MegaMark |p1flag=gb |p1score=0
+|p2=Kino |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=UnHaven |p1flag=gb |p1score=2
+|p2=Diabound |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=A Beard |p1flag=gb |p1score=0
+|p2=Hao |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Kid+ |p1flag=gb |p1score=2
+|p2=Kino |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=you'retooslow |p1flag=gb |p1score=2
+|p2=MegaMark |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=UnHaven |p1flag=gb |p1score=2
+|p2=Hao |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=Diabound |p1flag=gb |p1score=2
+|p2=Kino |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=A Beard |p1flag=gb |p1score=2
+|p2=MegaMark |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Kid+ |p1flag=gb |p1score=0
+|p2=you'retooslow |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match list end}}
+{{Box|end}}
+
+==Wave C==
+{{Box|start|padding=2em}}
+==={{HiddenSort|C1}}===
+{{GroupTableStart |Bracket C1|width=300px}}
+{{GroupTableSlot|Professor Pro|flag=gb|win_m=6|lose_m=0|place=1|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|CptNebula|flag=gb|win_m=5|lose_m=1|place=2|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Boohbah|flag=gb|win_m=4|lose_m=2|place=3|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Craig|flag=gb|win_m=3|lose_m=3|place=4|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Honesty|flag=gb|win_m=2|lose_m=4|place=5|bg=down}}
+{{GroupTableSlot|Chaler|flag=gb|win_m=1|lose_m=5|place=6|bg=down}}
+{{GroupTableSlot|HoorayForJay|flag=gb|win_m=0|lose_m=6|place=7|bg=down}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages|p1=CptNebula |p1flag=gb |p1score=2
+|p2=Honesty |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=HoorayForJay |p1flag=gb |p1score=-1
+|p2=Chaler |p2flag=gb |p2score=0
+|win=2
+}}
+{{Match stages|p1=Craig |p1flag=gb |p1score=0
+|p2=Boohbah |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Professor Pro |p1flag=gb |p1score=2
+|p2=Honesty |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=CptNebula |p1flag=gb |p1score=2
+|p2=Boohbah |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=HoorayForJay |p1flag=gb |p1score=-1
+|p2=Craig |p2flag=gb |p2score=0
+|win=2
+}}
+{{Match stages|p1=Professor Pro |p1flag=gb |p1score=2
+|p2=Chaler |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Honesty |p1flag=gb |p1score=0
+|p2=Boohbah |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=CptNebula |p1flag=gb |p1score=0
+|p2=HoorayForJay |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Professor Pro |p1flag=gb |p1score=2
+|p2=Boohbah |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Chaler |p1flag=gb |p1score=0
+|p2=Craig |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Honesty |p1flag=gb |p1score=0
+|p2=HoorayForJay |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Professor Pro |p1flag=gb |p1score=2
+|p2=Craig |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Boohbah |p1flag=gb |p1score=0
+|p2=HoorayForJay |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Chaler |p1flag=gb |p1score=0
+|p2=CptNebula |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Professor Pro |p1flag=gb |p1score=0
+|p2=HoorayForJay |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Craig |p1flag=gb |p1score=0
+|p2=CptNebula |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Chaler |p1flag=gb |p1score=0
+|p2=Honesty |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Professor Pro |p1flag=gb |p1score=2
+|p2=CptNebula |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Craig |p1flag=gb |p1score=2
+|p2=Honesty |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=Boohbah |p1flag=gb |p1score=2
+|p2=Chaler |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|C2}}===
+{{GroupTableStart |Bracket C2|width=300px}}
+{{GroupTableSlot|R23|flag=gb|win_m=7|lose_m=0|place=1|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Okameed|flag=gb|win_m=6|lose_m=1|place=2|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Pilot|flag=gb|win_m=5|lose_m=2|place=3|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Lucretio|flag=gb|win_m=4|lose_m=3|place=4|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Jalued|flag=gb|win_m=3|lose_m=4|place=5|bg=down}}
+{{GroupTableSlot|Easmo|flag=es|win_m=2|lose_m=5|place=6|bg=down}}
+{{GroupTableSlot|baddoge|flag=gb|win_m=1|lose_m=6|place=7|bg=down}}
+{{GroupTableSlot|Cal-El|flag=gb|win_m=0|lose_m=7|place=8|bg=down}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages|p1=R23 |p1flag=gb |p1score=0
+|p2=Cal-El |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Okameed |p1flag=gb |p1score=2
+|p2=baddoge |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Pilot |p1flag=gb |p1score=2
+|p2=Easmo |p2flag=es |p2score=0
+|win=1
+}}
+{{Match stages|p1=Lucretio |p1flag=gb |p1score=2
+|p2=Jalued |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=R23 |p1flag=gb |p1score=2
+|p2=baddoge |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Cal-El |p1flag=gb |p1score=-1
+|p2=Easmo |p2flag=es |p2score=0
+|win=2
+}}
+{{Match stages|p1=Okameed |p1flag=gb |p1score=2
+|p2=Jalued |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Pilot |p1flag=gb |p1score=2
+|p2=Lucretio |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=R23 |p1flag=gb |p1score=2
+|p2=Easmo |p2flag=es |p2score=0
+|win=1
+}}
+{{Match stages|p1=baddoge |p1flag=gb |p1score=0
+|p2=Jalued |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Cal-El |p1flag=gb |p1score=-1
+|p2=Lucretio |p2flag=gb |p2score=0
+|win=2
+}}
+{{Match stages|p1=Okameed |p1flag=gb |p1score=2
+|p2=Pilot |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=R23 |p1flag=gb |p1score=2
+|p2=Jalued |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Easmo |p1flag=es |p1score=0
+|p2=Lucretio |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=baddoge |p1flag=gb |p1score=0
+|p2=Pilot |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Cal-El |p1flag=gb |p1score=-1
+|p2=Okameed |p2flag=gb |p2score=0
+|win=2
+}}
+{{Match stages|p1=R23 |p1flag=gb |p1score=2
+|p2=Lucretio |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Jalued |p1flag=gb |p1score=1
+|p2=Pilot |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Easmo |p1flag=es |p1score=0
+|p2=Okameed |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=baddoge |p1flag=gb |p1score=0
+|p2=Cal-El |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=R23 |p1flag=gb |p1score=2
+|p2=Pilot |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Lucretio |p1flag=gb |p1score=0
+|p2=Okameed |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Jalued |p1flag=gb |p1score=0
+|p2=Cal-El |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Easmo |p1flag=es |p1score=2
+|p2=baddoge |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=R23 |p1flag=gb |p1score=2
+|p2=Okameed |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Pilot |p1flag=gb |p1score=0
+|p2=Cal-El |p2flag=gb |p2score=-1
+|win=1
+}}
+{{Match stages|p1=Lucretio |p1flag=gb |p1score=2
+|p2=baddoge |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Jalued |p1flag=gb |p1score=2
+|p2=Easmo |p2flag=es |p2score=0
+|win=1
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|C3}}===
+{{GroupTableStart |Bracket C3|width=300px}}
+{{GroupTableSlot|Alpha Dash|flag=gb|win_m=7|lose_m=0|place=1|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|StrangerSA|flag=gb|win_m=6|lose_m=1|place=2|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|10QuidShoes|flag=gb|win_m=5|lose_m=2|place=3|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|rice|flag=us|win_m=4|lose_m=3|place=4|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Loto|flag=gb|win_m=3|lose_m=4|place=5|bg=down}}
+{{GroupTableSlot|Tet|flag=gb|win_m=2|lose_m=5|place=6|bg=down}}
+{{GroupTableSlot|Fectious|flag=gb|win_m=1|lose_m=6|place=7|bg=down}}
+{{GroupTableSlot|PG|flag=gb|win_m=0|lose_m=7|place=8|bg=down}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages|p1=Alpha Dash |p1flag=gb |p1score=2
+|p2=Loto |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=StrangerSA |p1flag=gb |p1score=2
+|p2=PG |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=10QuidShoes |p1flag=gb |p1score=2
+|p2=Fectious |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=rice |p1flag=us |p1score=2
+|p2=Tet |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Alpha Dash |p1flag=gb |p1score=2
+|p2=PG |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Loto |p1flag=gb |p1score=2
+|p2=Fectious |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=StrangerSA |p1flag=gb |p1score=2
+|p2=Tet |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=10QuidShoes |p1flag=gb |p1score=2
+|p2=rice |p2flag=us |p2score=0
+|win=1
+}}
+{{Match stages|p1=Alpha Dash |p1flag=gb |p1score=2
+|p2=Fectious |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=PG |p1flag=gb |p1score=0
+|p2=Tet |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Loto |p1flag=gb |p1score=0
+|p2=rice |p2flag=us |p2score=2
+|win=2
+}}
+{{Match stages|p1=StrangerSA |p1flag=gb |p1score=2
+|p2=10QuidShoes |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Alpha Dash |p1flag=gb |p1score=2
+|p2=Tet |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Fectious |p1flag=gb |p1score=0
+|p2=rice |p2flag=us |p2score=2
+|win=2
+}}
+{{Match stages|p1=PG |p1flag=gb |p1score=0
+|p2=10QuidShoes |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Loto |p1flag=gb |p1score=0
+|p2=StrangerSA |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Alpha Dash |p1flag=gb |p1score=2
+|p2=rice |p2flag=us |p2score=0
+|win=1
+}}
+{{Match stages|p1=Tet |p1flag=gb |p1score=0
+|p2=10QuidShoes |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Fectious |p1flag=gb |p1score=0
+|p2=StrangerSA |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=PG |p1flag=gb |p1score=0
+|p2=Loto |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Alpha Dash |p1flag=gb |p1score=2
+|p2=10QuidShoes |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=rice |p1flag=us |p1score=0
+|p2=StrangerSA |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Tet |p1flag=gb |p1score=0
+|p2=Loto |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Fectious |p1flag=gb |p1score=2
+|p2=PG |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Alpha Dash |p1flag=gb |p1score=2
+|p2=StrangerSA |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=10QuidShoes |p1flag=gb |p1score=2
+|p2=Loto |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=rice |p1flag=us |p1score=2
+|p2=PG |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Tet |p1flag=gb |p1score=2
+|p2=Fectious |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|C4}}===
+{{GroupTableStart |Bracket C4|width=300px}}
+{{GroupTableSlot|Setchi|flag=gb|win_m=7|lose_m=0|place=1|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Willz|flag=gb|win_m=6|lose_m=1|place=2|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|FileSmile|flag=gb|win_m=5|lose_m=2|place=3|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Leon Massey|flag=gb|win_m=4|lose_m=3|place=4|bg=up|go={{advance|Albion/2/Melee/Singles Bracket}}}}
+{{GroupTableSlot|Lolo|flag=gb|win_m=3|lose_m=4|place=5|bg=down}}
+{{GroupTableSlot|Jaxter|flag=gb|win_m=2|lose_m=5|place=6|bg=down}}
+{{GroupTableSlot|Zeloxory|flag=gb|win_m=1|lose_m=6|place=7|bg=down}}
+{{GroupTableSlot|Ashvin|flag=gb|win_m=0|lose_m=7|place=8|bg=down}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages|p1=Setchi |p1flag=gb |p1score=2
+|p2=Jaxter |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Willz |p1flag=gb |p1score=2
+|p2=Ashvin |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=FileSmile |p1flag=gb |p1score=2
+|p2=Zeloxory |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Lolo |p1flag=gb |p1score=0
+|p2=Leon Massey |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Setchi |p1flag=gb |p1score=2
+|p2=Ashvin |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Jaxter |p1flag=gb |p1score=2
+|p2=Zeloxory |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Willz |p1flag=gb |p1score=2
+|p2=Leon Massey |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=FileSmile |p1flag=gb |p1score=2
+|p2=Lolo |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Setchi |p1flag=gb |p1score=2
+|p2=Zeloxory |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Ashvin |p1flag=gb |p1score=0
+|p2=Leon Massey |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Jaxter |p1flag=gb |p1score=1
+|p2=Lolo |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Willz |p1flag=gb |p1score=2
+|p2=FileSmile |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Setchi |p1flag=gb |p1score=2
+|p2=Leon Massey |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Zeloxory |p1flag=gb |p1score=0
+|p2=Lolo |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Ashvin |p1flag=gb |p1score=0
+|p2=FileSmile |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Jaxter |p1flag=gb |p1score=0
+|p2=Willz |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Setchi |p1flag=gb |p1score=2
+|p2=Lolo |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Leon Massey |p1flag=gb |p1score=0
+|p2=FileSmile |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Zeloxory |p1flag=gb |p1score=0
+|p2=Willz |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Ashvin |p1flag=gb |p1score=1
+|p2=Jaxter |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Setchi |p1flag=gb |p1score=2
+|p2=FileSmile |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Lolo |p1flag=gb |p1score=0
+|p2=Willz |p2flag=gb |p2score=2
+|win=2
+}}
+{{Match stages|p1=Leon Massey |p1flag=gb |p1score=2
+|p2=Jaxter |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Zeloxory |p1flag=gb |p1score=2
+|p2=Ashvin |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=Setchi |p1flag=gb |p1score=2
+|p2=Willz |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=FileSmile |p1flag=gb |p1score=2
+|p2=Jaxter |p2flag=gb |p2score=1
+|win=1
+}}
+{{Match stages|p1=Lolo |p1flag=gb |p1score=2
+|p2=Ashvin |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match stages|p1=Leon Massey |p1flag=gb |p1score=2
+|p2=Zeloxory |p2flag=gb |p2score=0
+|win=1
+}}
+{{Match list end}}
+{{Box|end}}

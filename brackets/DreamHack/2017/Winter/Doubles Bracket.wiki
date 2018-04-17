@@ -1,0 +1,563 @@
+{{DISPLAYTITLE:DreamHack Winter 2017: Doubles Bracket}}{{SetGame|melee}}
+{{Tabs static
+|name1=Overview
+|link1=DreamHack/2017/Winter
+|name2=Singles Pools
+|link2=DreamHack/2017/Winter/Singles Pools
+|name3=Singles Bracket
+|link3=DreamHack/2017/Winter/Singles Bracket
+|name4=Doubles Bracket
+|link4=DreamHack/2017/Winter/Doubles Bracket
+|This=4
+}}
+
+==Winners Bracket==
+{{32DEDoublesWBracketA
+|column-width=165
+
+<!-- ROUND 1 -->
+|r1m1t1p1=Armada |r1m1t1p1flag=se
+|r1m1t1p2=Android |r1m1t1p2flag=se |r1m1t1score=2
+|r1m1t2p1=Smqllp0x |r1m1t2p1flag=se
+|r1m1t2p2=flixe |r1m1t2p2flag=se |r1m1t2score=0
+|r1m1win=1
+
+|r1m2t1p1=Sharp |r1m2t1p1flag=se
+|r1m2t1p2=Red Blaze |r1m2t1p2flag=se |r1m2t1score=0
+|r1m2t2p1=mevx |r1m2t2p1flag=se
+|r1m2t2p2=Nisse |r1m2t2p2flag=se |r1m2t2score=2
+|r1m2win=2
+
+|r1m3t1p1=Poopmaister6000 |r1m3t1p1flag=se
+|r1m3t1p2=King Funk |r1m3t1p2flag=dk |r1m3t1score=2
+|r1m3t2p1=Mexx |r1m3t2p1flag=se
+|r1m3t2p2=KoterDogSupreme |r1m3t2p2flag= |r1m3t2score=0
+|r1m3win=1
+
+|r1m4t1p1=Stax |r1m4t1p1flag=se
+|r1m4t1p2=Aniolas |r1m4t1p2flag=se |r1m4t1score=2
+|r1m4t2p1=Dabs |r1m4t2p1flag=se
+|r1m4t2p2=Rolin |r1m4t2p2flag=se |r1m4t2score=0
+|r1m4win=1
+
+|r1m5t1p1=Amsah |r1m5t1p1flag=nl
+|r1m5t1p2=Professor Pro |r1m5t1p2flag=gb |r1m5t1score={{win}}
+|r1m5t2p1=Fami |r1m5t2p1flag=se
+|r1m5t2p2=Jazzy |r1m5t2p2flag= |r1m5t2score=DQ
+|r1m5win=1
+
+|r1m6t1p1=Jack |r1m6t1p1flag=se
+|r1m6t1p2=Yuna |r1m6t1p2flag=se |r1m6t1score=2
+|r1m6t2p1=Gin |r1m6t2p1flag=se
+|r1m6t2p2=Xenjih |r1m6t2p2flag=se |r1m6t2score=0
+|r1m6win=1
+
+|r1m7t1p1=Zoler |r1m7t1p1flag=se
+|r1m7t1p2=Daydee |r1m7t1p2flag=se |r1m7t1score=2
+|r1m7t2p1=Bamboo |r1m7t2p1flag=il
+|r1m7t2p2=VirtualVoid |r1m7t2p2flag=il |r1m7t2score=0
+|r1m7win=1
+|r1m7t1p1char1=fox |r1m7t1p1stock1=1 |r1m7t1p2char1=samus |r1m7t1p2stock1=1
+|r1m7t2p1char1=sheik |r1m7t2p1stock1=0 |r1m7t2p2char1=ic |r1m7t2p2stock1=0 |r1m7win1=1 |r1m7stage1=Dream Land
+|r1m7t1p1char2=fox |r1m7t1p1stock2=1 |r1m7t1p2char2=samus |r1m7t1p2stock2=2
+|r1m7t2p1char2=sheik |r1m7t2p1stock2=0 |r1m7t2p2char2=ic |r1m7t2p2stock2=0 |r1m7win2=1 |r1m7stage2=Battlefield
+|r1m7date=December 2, 2017
+|r1m7details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r1m8t1p1=Tristan |r1m8t1p1flag=se
+|r1m8t1p2=VJ |r1m8t1p2flag=se |r1m8t1score=2
+|r1m8t2p1=Dawn |r1m8t2p1flag=se
+|r1m8t2p2=EQ |r1m8t2p2flag=se |r1m8t2score=1
+|r1m8win=1
+
+|r1m9t1p1=Swedish Delight |r1m9t1p1flag=us
+|r1m9t1p2=Wizzrobe |r1m9t1p2flag=us |r1m9t1score=2
+|r1m9t2p1=DiLeva |r1m9t2p1flag=se
+|r1m9t2p2=Mjödkungen |r1m9t2p2flag=se |r1m9t2score=0
+|r1m9win=1
+
+|r1m10t1p1=Sebson |r1m10t1p1flag=se
+|r1m10t1p2=Laser Thunder |r1m10t1p2flag=se |r1m10t1score=2
+|r1m10t2p1=Nashi |r1m10t2p1flag=se
+|r1m10t2p2=Mydah |r1m10t2p2flag=se |r1m10t2score=0
+|r1m10win=1
+
+|r1m11t1p1=Humpe |r1m11t1p1flag=se
+|r1m11t1p2=Q |r1m11t1p2flag=se |r1m11t1score=2
+|r1m11t2p1=Starski |r1m11t2p1flag=se
+|r1m11t2p2=RolfLife |r1m11t2p2flag=se |r1m11t2score=0
+|r1m11win=1
+
+|r1m12t1p1=Levingy |r1m12t1p1flag=fi
+|r1m12t1p2=Jadde |r1m12t1p2flag=se |r1m12t1score=2
+|r1m12t2p1=Gojv |r1m12t2p1flag=se
+|r1m12t2p2=Vigge |r1m12t2p2flag=se |r1m12t2score=0
+|r1m12win=1
+
+|r1m13t1p1=Trif |r1m13t1p1flag=es
+|r1m13t1p2=Overtriforce |r1m13t1p2flag=es |r1m13t1score=2
+|r1m13t2p1=Spider |r1m13t2p1flag=se
+|r1m13t2p2=Ludderix |r1m13t2p2flag=se |r1m13t2score=0
+|r1m13win=1
+
+|r1m14t1p1=Fury |r1m14t1p1flag=se
+|r1m14t1p2=NorrlandXX |r1m14t1p2flag=se |r1m14t1score=1
+|r1m14t2p1=Parmsib |r1m14t2p1flag=se
+|r1m14t2p2=Myrox |r1m14t2p2flag=se |r1m14t2score=2
+|r1m14win=2
+
+|r1m15t1p1=FA0 |r1m15t1p1flag=se
+|r1m15t1p2=Pipsqueak |r1m15t1p2flag=se |r1m15t1score=2
+|r1m15t2p1=FizzBA |r1m15t2p1flag=il
+|r1m15t2p2=Shadow |r1m15t2p2flag=il |r1m15t2score=0
+|r1m15win=1
+
+|r1m16t1p1=Eekim |r1m16t1p1flag=se
+|r1m16t1p2=Acid Loveboi |r1m16t1p2flag=se |r1m16t1score=2
+|r1m16t2p1=Bez |r1m16t2p1flag=se
+|r1m16t2p2=Eggan |r1m16t2p2flag=se |r1m16t2score=0
+|r1m16win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Armada |r2m1t1p1flag=se
+|r2m1t1p2=Android |r2m1t1p2flag=se |r2m1t1score=2
+|r2m1t2p1=mevx |r2m1t2p1flag=se
+|r2m1t2p2=Nisse |r2m1t2p2flag=se |r2m1t2score=0
+|r2m1win=1
+|r2m1t1p1char1=peach |r2m1t1p1stock1=4 |r2m1t1p2char1=sheik |r2m1t1p2stock1=2
+|r2m1t2p1char1=zelda |r2m1t2p1stock1=0 |r2m1t2p2char1=peach |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1t1p1char2=fox |r2m1t1p1stock2=3 |r2m1t1p2char2=sheik |r2m1t1p2stock2=3
+|r2m1t2p1char2=zelda |r2m1t2p1stock2=0 |r2m1t2p2char2=peach |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1date=December 2, 2017
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r2m2t1p1=Poopmaister6000 |r2m2t1p1flag=se
+|r2m2t1p2=King Funk |r2m2t1p2flag=dk |r2m2t1score=2
+|r2m2t2p1=Stax |r2m2t2p1flag=se
+|r2m2t2p2=Aniolas |r2m2t2p2flag=se |r2m2t2score=1
+|r2m2win=1
+
+|r2m3t1p1=Amsah |r2m3t1p1flag=nl
+|r2m3t1p2=Professor Pro |r2m3t1p2flag=gb |r2m3t1score=2
+|r2m3t2p1=Jack |r2m3t2p1flag=se
+|r2m3t2p2=Yuna |r2m3t2p2flag=se |r2m3t2score=0
+|r2m3win=1
+|r2m3t1p1char1=sheik |r2m3t1p1stock1=2 |r2m3t1p2char1=fox |r2m3t1p2stock1=1
+|r2m3t2p1char1=puff |r2m3t2p1stock1=0 |r2m3t2p2char1=peach |r2m3t2p2stock1=0 |r2m3win1=1 |r2m3stage1=Final Destination
+|r2m3t1p1char2=sheik |r2m3t1p1stock2=2 |r2m3t1p2char2=fox |r2m3t1p2stock2=1
+|r2m3t2p1char2=ganon |r2m3t2p1stock2=0 |r2m3t2p2char2=peach |r2m3t2p2stock2=0 |r2m3win2=1 |r2m3stage2=Dream Land
+|r2m3date=December 2, 2017
+|r2m3details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r2m4t1p1=Zoler |r2m4t1p1flag=se
+|r2m4t1p2=Daydee |r2m4t1p2flag=se |r2m4t1score=2
+|r2m4t2p1=Tristan |r2m4t2p1flag=se
+|r2m4t2p2=VJ |r2m4t2p2flag=se |r2m4t2score=0
+|r2m4win=1
+
+|r2m5t1p1=Swedish Delight |r2m5t1p1flag=us
+|r2m5t1p2=Wizzrobe |r2m5t1p2flag=us |r2m5t1score=2
+|r2m5t2p1=Sebson |r2m5t2p1flag=se
+|r2m5t2p2=Laser Thunder |r2m5t2p2flag=se |r2m5t2score=0
+|r2m5win=1
+|r2m5t1p1char1=sheik |r2m5t1p1stock1=4 |r2m5t1p2char1=cf |r2m5t1p2stock1=3
+|r2m5t2p1char1=gw |r2m5t2p1stock1=0 |r2m5t2p2char1=cf |r2m5t2p2stock1=0 |r2m5win1=1 |r2m5stage1=Pokémon Stadium
+|r2m5t1p1char2=sheik |r2m5t1p1stock2=3 |r2m5t1p2char2=cf |r2m5t1p2stock2=3
+|r2m5t2p1char2=gw |r2m5t2p1stock2=0 |r2m5t2p2char2=cf |r2m5t2p2stock2=0 |r2m5win2=1 |r2m5stage2=Battlefield
+|r2m5date=December 2, 2017
+|r2m5details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r2m6t1p1=Humpe |r2m6t1p1flag=se
+|r2m6t1p2=Q |r2m6t1p2flag=se |r2m6t1score=1
+|r2m6t2p1=Levingy |r2m6t2p1flag=fi
+|r2m6t2p2=Jadde |r2m6t2p2flag=se |r2m6t2score=2
+|r2m6win=2
+
+|r2m7t1p1=Trif |r2m7t1p1flag=es
+|r2m7t1p2=Overtriforce |r2m7t1p2flag=es |r2m7t1score=2
+|r2m7t2p1=Parmsib |r2m7t2p1flag=se
+|r2m7t2p2=Myrox |r2m7t2p2flag=se |r2m7t2score=0
+|r2m7win=1
+
+|r2m8t1p1=FA0 |r2m8t1p1flag=se
+|r2m8t1p2=Pipsqueak |r2m8t1p2flag=se |r2m8t1score=2
+|r2m8t2p1=Eekim |r2m8t2p1flag=se
+|r2m8t2p2=Acid Loveboi |r2m8t2p2flag=se |r2m8t2score=0
+|r2m8win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Armada |r3m1t1p1flag=se
+|r3m1t1p2=Android |r3m1t1p2flag=se |r3m1t1score=3
+|r3m1t2p1=Poopmaister6000 |r3m1t2p1flag=se
+|r3m1t2p2=King Funk |r3m1t2p2flag=dk |r3m1t2score=0
+|r3m1win=1
+|r3m1t1p1char1=fox |r3m1t1p1stock1=2 |r3m1t1p2char1=sheik |r3m1t1p2stock1=1
+|r3m1t2p1char1=puff |r3m1t2p1stock1=0 |r3m1t2p2char1=falco |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Final Destination
+|r3m1t1p1char2=fox |r3m1t1p1stock2=3 |r3m1t1p2char2=sheik |r3m1t1p2stock2=2
+|r3m1t2p1char2=puff |r3m1t2p1stock2=0 |r3m1t2p2char2=falco |r3m1t2p2stock2=0 |r3m1win2=1 |r3m1stage2=Final Destination
+|r3m1t1p1char3=fox |r3m1t1p1stock3=2 |r3m1t1p2char3=sheik |r3m1t1p2stock3=3
+|r3m1t2p1char3=puff |r3m1t2p1stock3=0 |r3m1t2p2char3=falco |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Final Destination
+|r3m1date=December 2, 2017
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r3m2t1p1=Amsah |r3m2t1p1flag=nl
+|r3m2t1p2=Professor Pro |r3m2t1p2flag=gb |r3m2t1score=3
+|r3m2t2p1=Zoler |r3m2t2p1flag=se
+|r3m2t2p2=Daydee |r3m2t2p2flag=se |r3m2t2score=1
+|r3m2win=1
+|r3m2t1p1char1=sheik |r3m2t1p1stock1=2 |r3m2t1p2char1=fox |r3m2t1p2stock1=1
+|r3m2t2p1char1=fox |r3m2t2p1stock1=0 |r3m2t2p2char1=samus |r3m2t2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2t1p1char2=sheik |r3m2t1p1stock2=2 |r3m2t1p2char2=fox |r3m2t1p2stock2=1
+|r3m2t2p1char2=fox |r3m2t2p1stock2=0 |r3m2t2p2char2=samus |r3m2t2p2stock2=0 |r3m2win2=1 |r3m2stage2=Yoshi's Story
+|r3m2t1p1char3=sheik |r3m2t1p1stock3=0 |r3m2t1p2char3=fox |r3m2t1p2stock3=0
+|r3m2t2p1char3=fox |r3m2t2p1stock3=1 |r3m2t2p2char3=samus |r3m2t2p2stock3=2 |r3m2win3=2 |r3m2stage3=Final Destination
+|r3m2t1p1char4=sheik |r3m2t1p1stock4=1 |r3m2t1p2char4=fox |r3m2t1p2stock4=2
+|r3m2t2p1char4=fox |r3m2t2p1stock4=0 |r3m2t2p2char4=samus |r3m2t2p2stock4=0 |r3m2win4=1 |r3m2stage4=Pokémon Stadium
+|r3m2date=December 2, 2017
+|r3m2details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r3m3t1p1=Swedish Delight |r3m3t1p1flag=us
+|r3m3t1p2=Wizzrobe |r3m3t1p2flag=us |r3m3t1score=3
+|r3m3t2p1=Levingy |r3m3t2p1flag=fi
+|r3m3t2p2=Jadde |r3m3t2p2flag=se |r3m3t2score=0
+|r3m3win=1
+|r3m3t1p1char1=sheik |r3m3t1p1stock1=3 |r3m3t1p2char1=cf |r3m3t1p2stock1=3
+|r3m3t2p1char1=falco |r3m3t2p1stock1=0 |r3m3t2p2char1=sheik |r3m3t2p2stock1=0 |r3m3win1=1 |r3m3stage1=Battlefield
+|r3m3t1p1char2=sheik |r3m3t1p1stock2=3 |r3m3t1p2char2=cf |r3m3t1p2stock2=2
+|r3m3t2p1char2=falco |r3m3t2p1stock2=0 |r3m3t2p2char2=sheik |r3m3t2p2stock2=0 |r3m3win2=1 |r3m3stage2=Dream Land
+|r3m3t1p1char3=sheik |r3m3t1p1stock3=3 |r3m3t1p2char3=cf |r3m3t1p2stock3=1
+|r3m3t2p1char3=falco |r3m3t2p1stock3=0 |r3m3t2p2char3=sheik |r3m3t2p2stock3=0 |r3m3win3=1 |r3m3stage3=Dream Land
+|r3m3date=December 2, 2017
+|r3m3details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r3m4t1p1=Trif |r3m4t1p1flag=es
+|r3m4t1p2=Overtriforce |r3m4t1p2flag=es |r3m4t1score=3
+|r3m4t2p1=FA0 |r3m4t2p1flag=se
+|r3m4t2p2=Pipsqueak |r3m4t2p2flag=se |r3m4t2score=0
+|r3m4win=1
+|r3m4t1p1char1=peach |r3m4t1p1stock1=3 |r3m4t1p2char1=sheik |r3m4t1p2stock1=1
+|r3m4t2p1char1=ic |r3m4t2p1stock1=0 |r3m4t2p2char1=fox |r3m4t2p2stock1=0 |r3m4win1=1 |r3m4stage1=Battlefield
+|r3m4t1p1char2=peach |r3m4t1p1stock2=2 |r3m4t1p2char2=sheik |r3m4t1p2stock2=1
+|r3m4t2p1char2=ic |r3m4t2p1stock2=0 |r3m4t2p2char2=fox |r3m4t2p2stock2=0 |r3m4win2=1 |r3m4stage2=Final Destination
+|r3m4t1p1char3=peach |r3m4t1p1stock3=3 |r3m4t1p2char3=sheik |r3m4t1p2stock3=3
+|r3m4t2p1char3=ic |r3m4t2p1stock3=0 |r3m4t2p2char3=fox |r3m4t2p2stock3=0 |r3m4win3=1 |r3m4stage3=Pokémon Stadium
+|r3m4date=December 2, 2017
+|r3m4details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- ROUND 4 -->
+|r4m1t1p1=Armada |r4m1t1p1flag=se
+|r4m1t1p2=Android |r4m1t1p2flag=se |r4m1t1score=3
+|r4m1t2p1=Amsah |r4m1t2p1flag=nl
+|r4m1t2p2=Professor Pro |r4m1t2p2flag=gb |r4m1t2score=0
+|r4m1win=1
+|r4m1t1p1char1=peach |r4m1t1p1stock1=1 |r4m1t1p2char1=sheik |r4m1t1p2stock1=1
+|r4m1t2p1char1=sheik |r4m1t2p1stock1=0 |r4m1t2p2char1=fox |r4m1t2p2stock1=0 |r4m1win1=1 |r4m1stage1=Final Destination
+|r4m1t1p1char2=peach |r4m1t1p1stock2=2 |r4m1t1p2char2=sheik |r4m1t1p2stock2=1
+|r4m1t2p1char2=sheik |r4m1t2p1stock2=0 |r4m1t2p2char2=fox |r4m1t2p2stock2=0 |r4m1win2=1 |r4m1stage2=Pokémon Stadium
+|r4m1t1p1char3=peach |r4m1t1p1stock3=1 |r4m1t1p2char3=sheik |r4m1t1p2stock3=1
+|r4m1t2p1char3=sheik |r4m1t2p1stock3=0 |r4m1t2p2char3=fox |r4m1t2p2stock3=0 |r4m1win3=1 |r4m1stage3=Pokémon Stadium
+|r4m1date=December 2, 2017
+|r4m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r4m2t1p1=Swedish Delight |r4m2t1p1flag=us
+|r4m2t1p2=Wizzrobe |r4m2t1p2flag=us |r4m2t1score=3
+|r4m2t2p1=Trif |r4m2t2p1flag=es
+|r4m2t2p2=Overtriforce |r4m2t2p2flag=es |r4m2t2score=2
+|r4m2win=1
+|r4m2t1p1char1=sheik |r4m2t1p1stock1=1 |r4m2t1p2char1=cf |r4m2t1p2stock1=2
+|r4m2t2p1char1=peach |r4m2t2p1stock1=0 |r4m2t2p2char1=sheik |r4m2t2p2stock1=0 |r4m2win1=1 |r4m2stage1=Final Destination
+|r4m2t1p1char2=sheik |r4m2t1p1stock2=0 |r4m2t1p2char2=cf |r4m2t1p2stock2=0
+|r4m2t2p1char2=peach |r4m2t2p1stock2=3 |r4m2t2p2char2=sheik |r4m2t2p2stock2=1 |r4m2win2=2 |r4m2stage2=Yoshi's Story
+|r4m2t1p1char3=sheik |r4m2t1p1stock3=1 |r4m2t1p2char3=cf |r4m2t1p2stock3=1
+|r4m2t2p1char3=peach |r4m2t2p1stock3=0 |r4m2t2p2char3=sheik |r4m2t2p2stock3=0 |r4m2win3=1 |r4m2stage3=Battlefield
+|r4m2t1p1char4=sheik |r4m2t1p1stock4=0 |r4m2t1p2char4=cf |r4m2t1p2stock4=0
+|r4m2t2p1char4=peach |r4m2t2p1stock4=1 |r4m2t2p2char4=sheik |r4m2t2p2stock4=1 |r4m2win4=2 |r4m2stage4=Battlefield
+|r4m2t1p1char5=sheik |r4m2t1p1stock5=1 |r4m2t1p2char5=cf |r4m2t1p2stock5=0
+|r4m2t2p1char5=peach |r4m2t2p1stock5=0 |r4m2t2p2char5=sheik |r4m2t2p2stock5=0 |r4m2win5=1 |r4m2stage5=Pokémon Stadium
+|r4m2date=December 2, 2017
+|r4m2details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+
+==Losers Bracket==
+{{32DEDoublesLBracketSmwA
+|tourneylink=DreamHack/2017/Winter
+|tourneyname=DreamHack Winter 2017
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Smqllp0x |l1m1t1p1flag=se
+|l1m1t1p2=flixe |l1m1t1p2flag=se |l1m1t1score=0
+|l1m1t2p1=Sharp |l1m1t2p1flag=se
+|l1m1t2p2=Red Blaze |l1m1t2p2flag=se |l1m1t2score=2
+|l1m1win=2
+
+|l1m2t1p1=Mexx |l1m2t1p1flag=se
+|l1m2t1p2=KoterDogSupreme |l1m2t1p2flag= |l1m2t1score=0
+|l1m2t2p1=Dabs |l1m2t2p1flag=se
+|l1m2t2p2=Rolin |l1m2t2p2flag=se |l1m2t2score=2
+|l1m2win=2
+
+|l1m3t1p1=Fami |l1m3t1p1flag=se
+|l1m3t1p2=Jazzy |l1m3t1p2flag= |l1m3t1score=0
+|l1m3t2p1=Gin |l1m3t2p1flag=se
+|l1m3t2p2=Xenjih |l1m3t2p2flag=se |l1m3t2score=2
+|l1m3win=2
+
+|l1m4t1p1=Bamboo |l1m4t1p1flag=il
+|l1m4t1p2=VirtualVoid |l1m4t1p2flag=il |l1m4t1score=2
+|l1m4t2p1=Dawn |l1m4t2p1flag=se
+|l1m4t2p2=EQ |l1m4t2p2flag=se |l1m4t2score=0
+|l1m4win=1
+
+|l1m5t1p1=DiLeva |l1m5t1p1flag=se
+|l1m5t1p2=Mjödkungen |l1m5t1p2flag=se |l1m5t1score=1
+|l1m5t2p1=Nashi |l1m5t2p1flag=se
+|l1m5t2p2=Mydah |l1m5t2p2flag=se |l1m5t2score=2
+|l1m5win=2
+
+|l1m6t1p1=Starski |l1m6t1p1flag=se
+|l1m6t1p2=RolfLife |l1m6t1p2flag=se |l1m6t1score=1
+|l1m6t2p1=Gojv |l1m6t2p1flag=se
+|l1m6t2p2=Vigge |l1m6t2p2flag=se |l1m6t2score=2
+|l1m6win=2
+
+|l1m7t1p1=Spider |l1m7t1p1flag=se
+|l1m7t1p2=Ludderix |l1m7t1p2flag=se |l1m7t1score=2
+|l1m7t2p1=Fury |l1m7t2p1flag=se
+|l1m7t2p2=NorrlandXX |l1m7t2p2flag=se |l1m7t2score=0
+|l1m7win=1
+
+|l1m8t1p1=FizzBA |l1m8t1p1flag=il
+|l1m8t1p2=Shadow |l1m8t1p2flag=il |l1m8t1score=2
+|l1m8t2p1=Bez |l1m8t2p1flag=se
+|l1m8t2p2=Eggan |l1m8t2p2flag=se |l1m8t2score=0
+|l1m8win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Eekim |l2m1t1p1flag=se
+|l2m1t1p2=Acid Loveboi |l2m1t1p2flag=se |l2m1t1score=0
+|l2m1t2p1=Sharp |l2m1t2p1flag=se
+|l2m1t2p2=Red Blaze |l2m1t2p2flag=se |l2m1t2score=2
+|l2m1win=2
+
+|l2m2t1p1=Parmsib |l2m2t1p1flag=se
+|l2m2t1p2=Myrox |l2m2t1p2flag=se |l2m2t1score=2
+|l2m2t2p1=Dabs |l2m2t2p1flag=se
+|l2m2t2p2=Rolin |l2m2t2p2flag=se |l2m2t2score=0
+|l2m2win=1
+
+|l2m3t1p1=Humpe |l2m3t1p1flag=se
+|l2m3t1p2=Q |l2m3t1p2flag=se |l2m3t1score=2
+|l2m3t2p1=Gin |l2m3t2p1flag=se
+|l2m3t2p2=Xenjih |l2m3t2p2flag=se |l2m3t2score=0
+|l2m3win=1
+
+|l2m4t1p1=Sebson |l2m4t1p1flag=se
+|l2m4t1p2=Laser Thunder |l2m4t1p2flag=se |l2m4t1score=0
+|l2m4t2p1=Bamboo |l2m4t2p1flag=il
+|l2m4t2p2=VirtualVoid |l2m4t2p2flag=il |l2m4t2score=2
+|l2m4win=2
+
+|l2m5t1p1=Tristan |l2m5t1p1flag=se
+|l2m5t1p2=VJ |l2m5t1p2flag=se |l2m5t1score=2
+|l2m5t2p1=Nashi |l2m5t2p1flag=se
+|l2m5t2p2=Mydah |l2m5t2p2flag=se |l2m5t2score=0
+|l2m5win=1
+
+|l2m6t1p1=Jack |l2m6t1p1flag=se
+|l2m6t1p2=Yuna |l2m6t1p2flag=se |l2m6t1score=2
+|l2m6t2p1=Gojv |l2m6t2p1flag=se
+|l2m6t2p2=Vigge |l2m6t2p2flag=se |l2m6t2score=0
+|l2m6win=1
+
+|l2m7t1p1=Stax |l2m7t1p1flag=se
+|l2m7t1p2=Aniolas |l2m7t1p2flag=se |l2m7t1score=2
+|l2m7t2p1=Spider |l2m7t2p1flag=se
+|l2m7t2p2=Ludderix |l2m7t2p2flag=se |l2m7t2score=1
+|l2m7win=1
+
+|l2m8t1p1=mevx |l2m8t1p1flag=se
+|l2m8t1p2=Nisse |l2m8t1p2flag=se |l2m8t1score=2
+|l2m8t2p1=FizzBA |l2m8t2p1flag=il
+|l2m8t2p2=Shadow |l2m8t2p2flag=il |l2m8t2score=1
+|l2m8win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=Sharp |l3m1t1p1flag=se
+|l3m1t1p2=Red Blaze |l3m1t1p2flag=se |l3m1t1score=3
+|l3m1t2p1=Parmsib |l3m1t2p1flag=se
+|l3m1t2p2=Myrox |l3m1t2p2flag=se |l3m1t2score=2
+|l3m1win=1
+
+|l3m2t1p1=Humpe |l3m2t1p1flag=se
+|l3m2t1p2=Q |l3m2t1p2flag=se |l3m2t1score=3
+|l3m2t2p1=Bamboo |l3m2t2p1flag=il
+|l3m2t2p2=VirtualVoid |l3m2t2p2flag=il |l3m2t2score=0
+|l3m2win=1
+
+|l3m3t1p1=Tristan |l3m3t1p1flag=se
+|l3m3t1p2=VJ |l3m3t1p2flag=se |l3m3t1score=0
+|l3m3t2p1=Jack |l3m3t2p1flag=se
+|l3m3t2p2=Yuna |l3m3t2p2flag=se |l3m3t2score=3
+|l3m3win=2
+
+|l3m4t1p1=Stax |l3m4t1p1flag=se
+|l3m4t1p2=Aniolas |l3m4t1p2flag=se |l3m4t1score={{win}}
+|l3m4t2p1=mevx |l3m4t2p1flag=se
+|l3m4t2p2=Nisse |l3m4t2p2flag=se |l3m4t2score=
+|l3m4win=1
+
+<!-- ROUND 4 -->
+|l4m1t1p1=Zoler |l4m1t1p1flag=se
+|l4m1t1p2=Daydee |l4m1t1p2flag=se |l4m1t1score=3
+|l4m1t2p1=Sharp |l4m1t2p1flag=se
+|l4m1t2p2=Red Blaze |l4m1t2p2flag=se |l4m1t2score=0
+|l4m1win=1
+
+|l4m2t1p1=Poopmaister6000 |l4m2t1p1flag=se
+|l4m2t1p2=King Funk |l4m2t1p2flag=dk |l4m2t1score=3
+|l4m2t2p1=Humpe |l4m2t2p1flag=se
+|l4m2t2p2=Q |l4m2t2p2flag=se |l4m2t2score=1
+|l4m2win=1
+
+|l4m3t1p1=FA0 |l4m3t1p1flag=se
+|l4m3t1p2=Pipsqueak |l4m3t1p2flag=se |l4m3t1score=3
+|l4m3t2p1=Jack |l4m3t2p1flag=se
+|l4m3t2p2=Yuna |l4m3t2p2flag=se |l4m3t2score=1
+|l4m3win=1
+
+|l4m4t1p1=Levingy |l4m4t1p1flag=fi
+|l4m4t1p2=Jadde |l4m4t1p2flag=se |l4m4t1score=3
+|l4m4t2p1=Stax |l4m4t2p1flag=se
+|l4m4t2p2=Aniolas |l4m4t2p2flag=se |l4m4t2score=0
+|l4m4win=1
+
+<!-- ROUND 5 -->
+|l5m1t1p1=Zoler |l5m1t1p1flag=se
+|l5m1t1p2=Daydee |l5m1t1p2flag=se |l5m1t1score=3
+|l5m1t2p1=Poopmaister6000 |l5m1t2p1flag=se
+|l5m1t2p2=King Funk |l5m1t2p2flag=dk |l5m1t2score=1
+|l5m1win=1
+
+|l5m2t1p1=FA0 |l5m2t1p1flag=se
+|l5m2t1p2=Pipsqueak |l5m2t1p2flag=se |l5m2t1score=3
+|l5m2t2p1=Levingy |l5m2t2p1flag=fi
+|l5m2t2p2=Jadde |l5m2t2p2flag=se |l5m2t2score=1
+|l5m2win=1
+
+<!-- ROUND 6 -->
+|l6m1t1p1=Trif |l6m1t1p1flag=es
+|l6m1t1p2=Overtriforce |l6m1t1p2flag=es |l6m1t1score=3
+|l6m1t2p1=Zoler |l6m1t2p1flag=se
+|l6m1t2p2=Daydee |l6m1t2p2flag=se |l6m1t2score=1
+|l6m1win=1
+|l6m1t1p1char1=peach |l6m1t1p1stock1=1 |l6m1t1p2char1=sheik |l6m1t1p2stock1=1
+|l6m1t2p1char1=fox |l6m1t2p1stock1=0 |l6m1t2p2char1=samus |l6m1t2p2stock1=0 |l6m1win1=1 |l6m1stage1=Final Destination
+|l6m1t1p1char2=peach |l6m1t1p1stock2=3 |l6m1t1p2char2=sheik |l6m1t1p2stock2=2
+|l6m1t2p1char2=fox |l6m1t2p1stock2=0 |l6m1t2p2char2=samus |l6m1t2p2stock2=0 |l6m1win2=1 |l6m1stage2=Final Destination
+|l6m1t1p1char3=peach |l6m1t1p1stock3=0 |l6m1t1p2char3=sheik |l6m1t1p2stock3=0
+|l6m1t2p1char3=fox |l6m1t2p1stock3=1 |l6m1t2p2char3=samus |l6m1t2p2stock3=2 |l6m1win3=2 |l6m1stage3=Pokémon Stadium
+|l6m1t1p1char4=peach |l6m1t1p1stock4=1 |l6m1t1p2char4=sheik |l6m1t1p2stock4=1
+|l6m1t2p1char4=fox |l6m1t2p1stock4=0 |l6m1t2p2char4=samus |l6m1t2p2stock4=0 |l6m1win4=1 |l6m1stage4=Yoshi's Story
+|l6m1date=December 2, 2017
+|l6m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|l6m2t1p1=Amsah |l6m2t1p1flag=nl
+|l6m2t1p2=Professor Pro |l6m2t1p2flag=gb |l6m2t1score=3
+|l6m2t2p1=FA0 |l6m2t2p1flag=se
+|l6m2t2p2=Pipsqueak |l6m2t2p2flag=se |l6m2t2score=0
+|l6m2win=1
+|l6m2t1p1char1=sheik |l6m2t1p1stock1=1 |l6m2t1p2char1=fox |l6m2t1p2stock1=1
+|l6m2t2p1char1=ic |l6m2t2p1stock1=0 |l6m2t2p2char1=fox |l6m2t2p2stock1=0 |l6m2win1=1 |l6m2stage1=Pokémon Stadium
+|l6m2t1p1char2=sheik |l6m2t1p1stock2=0 |l6m2t1p2char2=fox |l6m2t1p2stock2=1
+|l6m2t2p1char2=ic |l6m2t2p1stock2=0 |l6m2t2p2char2=fox |l6m2t2p2stock2=0 |l6m2win2=1 |l6m2stage2=Final Destination
+|l6m2t1p1char3=sheik |l6m2t1p1stock3=1 |l6m2t1p2char3=fox |l6m2t1p2stock3=1
+|l6m2t2p1char3=ic |l6m2t2p1stock3=0 |l6m2t2p2char3=fox |l6m2t2p2stock3=0 |l6m2win3=1 |l6m2stage3=Pokémon Stadium
+|l6m2date=December 2, 2017
+|l6m2details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=DreamHack/2017/Winter
+|tourneyname=DreamHack Winter 2017
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=155
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Armada |r1m1t1p1flag=se
+|r1m1t1p2=Android |r1m1t1p2flag=se |r1m1t1score=3
+|r1m1t2p1=Swedish Delight |r1m1t2p1flag=us
+|r1m1t2p2=Wizzrobe |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+|r1m1t1p1char1=peach |r1m1t1p1stock1=3 |r1m1t1p2char1=sheik |r1m1t1p2stock1=1
+|r1m1t2p1char1=sheik |r1m1t2p1stock1=0 |r1m1t2p2char1=cf |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Final Destination
+|r1m1t1p1char2=peach |r1m1t1p1stock2=1 |r1m1t1p2char2=sheik |r1m1t1p2stock2=0
+|r1m1t2p1char2=sheik |r1m1t2p1stock2=0 |r1m1t2p2char2=cf |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Battlefield
+|r1m1t1p1char3=peach |r1m1t1p1stock3=2 |r1m1t1p2char3=sheik |r1m1t1p2stock3=2
+|r1m1t2p1char3=sheik |r1m1t2p1stock3=0 |r1m1t2p2char3=cf |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Dream Land
+|r1m1date=December 2, 2017
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Trif |l1m1t1p1flag=es
+|l1m1t1p2=Overtriforce |l1m1t1p2flag=es |l1m1t1score=2
+|l1m1t2p1=Amsah |l1m1t2p1flag=nl
+|l1m1t2p2=Professor Pro |l1m1t2p2flag=gb |l1m1t2score=3
+|l1m1win=2
+|l1m1t1p1char1=peach |l1m1t1p1stock1=0 |l1m1t1p2char1=sheik |l1m1t1p2stock1=0
+|l1m1t2p1char1=sheik |l1m1t2p1stock1=1 |l1m1t2p2char1=fox |l1m1t2p2stock1=1 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1t1p1char2=peach |l1m1t1p1stock2=0 |l1m1t1p2char2=sheik |l1m1t1p2stock2=0
+|l1m1t2p1char2=sheik |l1m1t2p1stock2=1 |l1m1t2p2char2=fox |l1m1t2p2stock2=1 |l1m1win2=2 |l1m1stage2=Dream Land
+|l1m1t1p1char3=peach |l1m1t1p1stock3=2 |l1m1t1p2char3=sheik |l1m1t1p2stock3=1
+|l1m1t2p1char3=sheik |l1m1t2p1stock3=0 |l1m1t2p2char3=fox |l1m1t2p2stock3=0 |l1m1win3=1 |l1m1stage3=Dream Land
+|l1m1t1p1char4=peach |l1m1t1p1stock4=1 |l1m1t1p2char4=sheik |l1m1t1p2stock4=1
+|l1m1t2p1char4=sheik |l1m1t2p1stock4=0 |l1m1t2p2char4=fox |l1m1t2p2stock4=0 |l1m1win4=1 |l1m1stage4=Pokémon Stadium
+|l1m1t1p1char5=peach |l1m1t1p1stock5=0 |l1m1t1p2char5=sheik |l1m1t1p2stock5=0
+|l1m1t2p1char5=sheik |l1m1t2p1stock5=1 |l1m1t2p2char5=fox |l1m1t2p2stock5=1 |l1m1win5=2 |l1m1stage5=Pokémon Stadium
+|l1m1date=December 2, 2017
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Swedish Delight |r2m1t1p1flag=us
+|r2m1t1p2=Wizzrobe |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Amsah |r2m1t2p1flag=nl
+|r2m1t2p2=Professor Pro |r2m1t2p2flag=gb |r2m1t2score=1
+|r2m1win=1
+|r2m1t1p1char1=sheik |r2m1t1p1stock1=2 |r2m1t1p2char1=cf |r2m1t1p2stock1=1
+|r2m1t2p1char1=sheik |r2m1t2p1stock1=0 |r2m1t2p2char1=fox |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1t1p1char2=sheik |r2m1t1p1stock2=1 |r2m1t1p2char2=cf |r2m1t1p2stock2=1
+|r2m1t2p1char2=sheik |r2m1t2p1stock2=0 |r2m1t2p2char2=fox |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1t1p1char3=sheik |r2m1t1p1stock3=0 |r2m1t1p2char3=cf |r2m1t1p2stock3=0
+|r2m1t2p1char3=sheik |r2m1t2p1stock3=2 |r2m1t2p2char3=fox |r2m1t2p2stock3=1 |r2m1win3=2 |r2m1stage3=Pokémon Stadium
+|r2m1t1p1char4=sheik |r2m1t1p1stock4=1 |r2m1t1p2char4=cf |r2m1t1p2stock4=2
+|r2m1t2p1char4=sheik |r2m1t2p1stock4=0 |r2m1t2p2char4=fox |r2m1t2p2stock4=0 |r2m1win4=1 |r2m1stage4=Final Destination
+|r2m1date=December 2, 2017
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Armada |r3m1t1p1flag=se
+|r3m1t1p2=Android |r3m1t1p2flag=se |r3m1t1score=3
+|r3m1t2p1=Swedish Delight |r3m1t2p1flag=us
+|r3m1t2p2=Wizzrobe |r3m1t2p2flag=us |r3m1t2score=1
+|r3m1win=1
+|r3m1t1p1char1=peach |r3m1t1p1stock1=2 |r3m1t1p2char1=sheik |r3m1t1p2stock1=1
+|r3m1t2p1char1=sheik |r3m1t2p1stock1=0 |r3m1t2p2char1=cf |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Final Destination
+|r3m1t1p1char2=peach |r3m1t1p1stock2=2 |r3m1t1p2char2=sheik |r3m1t1p2stock2=1
+|r3m1t2p1char2=sheik |r3m1t2p1stock2=0 |r3m1t2p2char2=cf |r3m1t2p2stock2=0 |r3m1win2=1 |r3m1stage2=Battlefield
+|r3m1t1p1char3=peach |r3m1t1p1stock3=0 |r3m1t1p2char3=sheik |r3m1t1p2stock3=0
+|r3m1t2p1char3=sheik |r3m1t2p1stock3=0 |r3m1t2p2char3=cf |r3m1t2p2stock3=1 |r3m1win3=2 |r3m1stage3=Pokémon Stadium
+|r3m1t1p1char4=peach |r3m1t1p1stock4=3 |r3m1t1p2char4=sheik |r3m1t1p2stock4=2
+|r3m1t2p1char4=sheik |r3m1t2p1stock4=0 |r3m1t2p2char4=cf |r3m1t2p2stock4=0 |r3m1win4=1 |r3m1stage4=Dream Land
+|r3m1date=December 2, 2017
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+</onlyinclude>

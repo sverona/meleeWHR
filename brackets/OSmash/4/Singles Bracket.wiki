@@ -1,0 +1,86 @@
+{{DISPLAYTITLE:OSmash 4: Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=OSmash/4
+|name2=Singles Bracket
+|link2=OSmash/4/Singles Bracket
+|This=2
+}}
+
+==Winners Bracket==
+{{8DEWBracketA
+<!-- Quarterfinals -->
+|r1m1p1=Ice |r1m1p1flag=de |r1m1p2=FlavaSava |r1m1p2flag=de |r1m1win=1 |r1m1p1score=3 |r1m1p2score=0
+
+|r1m2p1=DancingQueen |r1m2p1flag=de |r1m2p2=Mawacate |r1m2p2flag=mx |r1m2win=2 |r1m2p1score=2 |r1m2p2score=3
+
+|r1m3p1=Däumling |r1m3p1flag=de |r1m3p2=Usleon |r1m3p2flag=cl |r1m3win=1 |r1m3p1score=3 |r1m3p2score=1
+
+|r1m4p1=quiKsilver |r1m4p1flag=de |r1m4p2=Pasi |r1m4p2flag=de |r1m4win=2 |r1m4p1score=1 |r1m4p2score=3
+
+<!-- SEMIFINALS -->
+|r2m1p1=Ice |r2m1p1flag=de |r2m1p2=Mawacate |r2m1p2flag=mx |r2m1win=1 |r2m1p1score=3 |r2m1p2score=0
+
+|r2m2p1=Däumling |r2m2p1flag=de |r2m2p2=Pasi |r2m2p2flag=de |r2m2win=1 |r2m2p1score=3 |r2m2p2score=2
+}}
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=OSmash/4
+|tourneyname=OSmash 4
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+
+<!-- Round 1 -->
+|l1m1p1=Dr. Dead |l1m1p1flag=de |l1m1p2=Timi |l1m1p2flag=at |l1m1win=1 |l1m1p1score=2 |l1m1p2score=0
+
+|l1m2p1=Tero |l1m2p1flag=de |l1m2p2=DASH |l1m2p2flag=de |l1m2win=1 |l1m2p1score=2 |l1m2p2score=0
+
+|l1m3p1=.tea |l1m3p1flag=de |l1m3p2=ZetTroxX |l1m3p2flag=de |l1m3win=2 |l1m3p1score=1 |l1m3p2score=2
+
+|l1m4p1=ProSmasherTim |l1m4p1flag=de |l1m4p2=pheX |l1m4p2flag=ch |l1m4win=2 |l1m4p1score=0 |l1m4p2score=2
+
+<!-- Round 2 -->
+|l2m1p1=Usleon |l2m1p1flag=cl |l2m1p2=Dr. Dead |l2m1p2flag=de |l2m1win=2 |l2m1p1score=0 |l2m1p2score=3
+
+|l2m2p1=quiKsilver |l2m2p1flag=de |l2m2p2=Tero |l2m2p2flag=de |l2m2win=1 |l2m2p1score=3 |l2m2p2score=1
+
+|l2m3p1=FlavaSava |l2m3p1flag=de |l2m3p2=ZetTroxX |l2m3p2flag=de |l2m3win=2 |l2m3p1score=1 |l2m3p2score=3
+
+|l2m4p1=DancingQueen |l2m4p1flag=de |l2m4p2=pheX |l2m4p2flag=ch |l2m4win=2 |l2m4p1score=0 |l2m4p2score=3
+
+<!-- Round 3 -->
+|l3m1p1=Dr. Dead |l3m1p1flag=de |l3m1p2=quiKsilver |l3m1p2flag=de |l3m1win=2 |l3m1p1score=2 |l3m1p2score=3
+
+|l3m2p1=ZetTroxX |l3m2p1flag=de |l3m2p2=pheX |l3m2p2flag=ch |l3m2win=2 |l3m2p1score=1 |l3m2p2score=3
+
+<!-- Round 4 -->
+|l4m1p1=Mawacate |l4m1p1flag=mx |l4m1p2=quiKsilver |l4m1p2flag=de |l4m1win=2 |l4m1p1score=0 |l4m1p2score=3
+
+|l4m2p1=Pasi |l4m2p1flag=de |l4m2p2=pheX |l4m2p2flag=ch |l4m2win=1 |l4m2p1score=3 |l4m2p2score=0
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=OSmash/4
+|tourneyname=OSmash 4
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Ice |r1m1p1flag=de |r1m1p2=Däumling |r1m1p2flag=de |r1m1win=1 |r1m1p1score=3 |r1m1p2score=1
+
+<!-- FROM LOSERS -->
+|l1m1p1=quiKsilver |l1m1p1flag=de |l1m1p2=Pasi |l1m1p2flag=de |l1m1win=2 |l1m1p1score=0 |l1m1p2score=3
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Däumling |r2m1p1flag=de |r2m1p2=Pasi |r2m1p2flag=de |r2m1win=1 |r2m1p1score=3 |r2m1p2score=0
+
+<!-- GRAND FINALS -->
+|r3m1p1=Ice |r3m1p1flag=de |r3m1p2=Däumling |r3m1p2flag=de |r3m1win=1 |r3m1p1score=3 |r3m1p2score=1
+}}
+</onlyinclude>

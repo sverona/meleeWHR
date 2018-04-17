@@ -1,0 +1,73 @@
+{{SetGame|melee}}{{DISPLAYTITLE:B.E.A.S.T 6: ''Melee'' Singles Bracket}}{{B.E.A.S.T_6_Tabs|This=3}}<br/>
+{{:B.E.A.S.T/6/Melee/Singles Bracket/Winners}}
+{{:B.E.A.S.T/6/Melee/Singles Bracket/Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=B.E.A.S.T/6/Melee
+|tourneyname=B.E.A.S.T 6
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=180
+|column-width-finals=220
+
+|r1m1p1=Armada |r1m1p1flag=se |r1m1p1score=3
+|r1m1p2=Westballz |r1m1p2flag=us |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1=peach |r1m1p2char1=fox |r1m1p1stock1=2 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Dream Land
+|r1m1p1char2=peach |r1m1p2char2=falco |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Yoshi's Story
+|r1m1p1char3=peach |r1m1p2char3=falco |r1m1p1stock3=0 |r1m1p2stock3=2 |r1m1win3=2 |r1m1stage3=Yoshi's Story
+|r1m1p1char4=peach |r1m1p2char4=marth |r1m1p1stock4=3 |r1m1p2stock4=0 |r1m1win4=1 |r1m1stage4=Final Destination
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=February 21, 2016
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|lrthread=|vod=https://youtu.be/5UdMAxBnXIo}}
+
+
+|l1m1p1=Leffen |l1m1p1flag=se |l1m1p1score=3
+|l1m1p2=Ice |l1m1p2flag=de |l1m1p2score=0
+|l1m1win=1
+|l1m1p1char1=fox |l1m1p2char1=fox |l1m1p1stock1=3 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1p1char2=fox |l1m1p2char2=marth |l1m1p1stock2=2 |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Final Destination
+|l1m1p1char3=fox |l1m1p2char3=sheik |l1m1p1stock3=1 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Fountain of Dreams
+|l1m1p1char4= |l1m1p2char4= |l1m1p1stock4= |l1m1p2stock4= |l1m1win4= |l1m1stage4=
+|l1m1p1char5= |l1m1p2char5= |l1m1p1stock5= |l1m1p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=February 21, 2016
+|l1m1finished=
+|l1m1details={{BracketMatchDetails|lrthread=|vod=https://youtu.be/sZHvY9tQ8xU}}
+
+
+|r2m1p1=Westballz |r2m1p1flag=us |r2m1p1score=0
+|r2m1p2=Leffen |r2m1p2flag=se |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=samus |r2m1p2char1=fox |r2m1p1stock1=0 |r2m1p2stock1=3 |r2m1win1=2 |r2m1stage1=Final Destination
+|r2m1p1char2=falco |r2m1p2char2=fox |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Battlefield
+|r2m1p1char3=falco |r2m1p2char3=fox |r2m1p1stock3=0 |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Battlefield
+|r2m1p1char4= |r2m1p2char4= |r2m1p1stock4= |r2m1p2stock4= |r2m1win4= |r2m1stage4=
+|r2m1p1char5= |r2m1p2char5= |r2m1p1stock5= |r2m1p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=February 21, 2016
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|lrthread=|vod=https://youtu.be/RPSN1PKCmzE}}
+
+
+|r3m1p1=Armada |r3m1p1flag=se |r3m1p1score=1 |r3m2p1score=3 |export_score=true
+|r3m1p2=Leffen |r3m1p2flag=se |r3m1p2score=3 |r3m2p2score=0
+|r3m1win=1
+|r3m1p1char1=fox |r3m1p2char1=fox |r3m1p1stock1=0 |r3m1p2stock1=1 |r3m1win1=2 |r3m1stage1=Battlefield
+|r3m1p1char2=fox |r3m1p2char2=fox |r3m1p1stock2=2 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=fox |r3m1p2char3=fox |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Final Destination
+|r3m1p1char4=fox |r3m1p2char4=fox |r3m1p1stock4=0 |r3m1p2stock4=1 |r3m1win4=2 |r3m1stage4=Dream Land
+|r3m1p1char5= |r3m1p2char5= |r3m1p1stock5= |r3m1p2stock5= |r3m1win5= |r3m1stage5=
+
+|r3m2p1char1=fox |r3m2p2char1=fox |r3m2p1stock1=2 |r3m2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2p1char2=fox |r3m2p2char2=fox |r3m2p1stock2=1 |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Dream Land
+|r3m2p1char3=fox |r3m2p2char3=fox |r3m2p1stock3=3 |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Final Destination
+|r3m2p1char4= |r3m2p2char4= |r3m2p1stock4= |r3m2p2stock4= |r3m2win4= |r3m2stage4=
+|r3m2p1char5= |r3m2p2char5= |r3m2p1stock5= |r3m2p2stock5= |r3m2win5= |r3m2stage5=
+|r3m1date=February 21, 2016
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|lrthread=|vod=https://youtu.be/dI1itCcT19I}}
+}}
+</onlyinclude>

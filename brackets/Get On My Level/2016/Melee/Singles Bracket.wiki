@@ -1,0 +1,111 @@
+{{DISPLAYTITLE:Get On My Level 2016: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Get On My Level/2016/Melee
+|name2=Singles Round 1 Pools
+|link2=Get On My Level/2016/Melee/Singles Round 1 Pools
+|name3=Singles Round 2 Pools
+|link3=Get On My Level/2016/Melee/Singles Round 2 Pools
+|name4=Singles Bracket
+|link4=Get On My Level/2016/Melee/Singles Bracket
+|name5=Doubles Pools
+|link5=Get On My Level/2016/Melee/Doubles Pools
+|name6=Doubles Bracket
+|link6=Get On My Level/2016/Melee/Doubles Bracket
+|This=4
+}}
+{{:Get On My Level/2016/Melee/Singles Bracket/Winners}}
+{{:Get On My Level/2016/Melee/Singles Bracket/Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Get On My Level/2016/Melee
+|tourneyname=Get On My Level 2016
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=190
+<!-- FROM WINNERS -->
+|r1m1p1=Leffen |r1m1p1flag=se |r1m1p1score=3
+|r1m1p2=Hungrybox |r1m1p2flag=us |r1m1p2score=2
+|r1m1win=1
+|r1m1p1char1=fox |r1m1p1stock1=1 |r1m1p2char1=puff |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=fox |r1m1p1stock2=0 |r1m1p2char2=puff |r1m1p2stock2=1 |r1m1win2=2 |r1m1stage2=Dream Land
+|r1m1p1char3=fox |r1m1p1stock3=0 |r1m1p2char3=puff |r1m1p2stock3=2 |r1m1win3=2 |r1m1stage3=Pokémon Stadium
+|r1m1p1char4=fox |r1m1p1stock4=1 |r1m1p2char4=puff |r1m1p2stock4=0 |r1m1win4=1 |r1m1stage4=Pokémon Stadium
+|r1m1p1char5=fox |r1m1p1stock5=1 |r1m1p2char5=puff |r1m1p2stock5=0 |r1m1win5=1 |r1m1stage5=Fountain of Dreams
+|r1m1date=May 22, 2016
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=https://youtu.be/VvhEnMA5_ZM
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Mango |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=Lucky |l1m1p2flag=us |l1m1p2score=1
+|l1m1win=1
+|l1m1p1char1=falco |l1m1p1stock1=2 |l1m1p2char1=fox |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1p1char2=falco |l1m1p1stock2=0 |l1m1p2char2=fox |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Pokémon Stadium
+|l1m1p1char3=falco |l1m1p1stock3=1 |l1m1p2char3=fox |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Dream Land
+|l1m1p1char4=falco |l1m1p1stock4=2 |l1m1p2char4=fox |l1m1p2stock4=0 |l1m1win4=1 |l1m1stage4=Yoshi's Story
+|l1m1date=May 22, 2016
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=https://youtu.be/KWPq-y2MMoY
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Hungrybox |r2m1p1flag=us |r2m1p1score=1
+|r2m1p2=Mango |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=puff |r2m1p1stock1=1 |r2m1p2char1=fox |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield 
+|r2m1p1char2=puff |r2m1p1stock2=0 |r2m1p2char2=fox |r2m1p2stock2=2 |r2m1win2=2 |r2m1stage2=Yoshi's Story
+|r2m1p1char3=puff |r2m1p1stock3=0 |r2m1p2char3=fox |r2m1p2stock3=2 |r2m1win3=2 |r2m1stage3=Dream Land
+|r2m1p1char4=puff |r2m1p1stock4=0 |r2m1p2char4=fox |r2m1p2stock4=2 |r2m1win4=2 |r2m1stage4=Dream Land
+|r2m1date=May 22, 2016
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=https://youtu.be/iVMn-JsrEaA
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Leffen |r3m1p1flag=se |r3m1p1score=3
+|r3m1p2=Mango |r3m1p2flag=us |r3m1p2score=1
+|r3m1win=1
+|export_score=true
+|r3m1p1char1=fox |r3m1p1stock1=2 |r3m1p2char1=falco |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Dream Land
+|r3m1p1char2=fox |r3m1p1stock2=2 |r3m1p2char2=falco |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Battlefield
+|r3m1p1char3=fox |r3m1p1stock3=0 |r3m1p2char3=falco |r3m1p2stock3=2 |r3m1win3=2 |r3m1stage3=Battlefield
+|r3m1p1char4=fox |r3m1p1stock4=1 |r3m1p2char4=marth |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Final Destination
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=NYEbo1FCKVc
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

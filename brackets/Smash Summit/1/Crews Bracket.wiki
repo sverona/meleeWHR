@@ -1,0 +1,71 @@
+{{DISPLAYTITLE: Smash Summit: ''Crews Bracket''}}{{Smash Summit Tabs|This=4}}
+==Full Rosters==
+{{box|start|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team Swedish Delight
+|-
+|{{Flag/us}} {{Head/sheik}} [[Swedish Delight]]
+|-
+|{{Flag/us}} {{Head/falco}} [[Westballz]]
+|-
+|{{Flag/us}} {{head/falco}} [[PPMD]]
+|-
+|{{flag/us}} {{head/sheik}} [[Plup]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team Kage
+|-
+|{{Flag/ca}} {{Head/ganon}} [[Kage]]
+|-
+|{{Flag/se}} {{Head/peach}} [[Armada]]
+|-
+|{{Flag/us}} {{head/fox}} [[SFAT]]
+|-
+|{{flag/us}} {{head/sheik}} [[Shroomed]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team Zhu
+|-
+|{{Flag/us}} {{Head/falco}} [[Zhu]]
+|-
+|{{Flag/us}} {{Head/sheik}} [[Mew2King]]
+|-
+|{{Flag/us}} {{head/pikachu}} [[Axe]]
+|-
+|{{flag/us}} {{head/marth}} [[PewPewU]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team Alex19
+|-
+|{{Flag/us}} {{Head/fox}} [[Alex19]]
+|-
+|{{Flag/us}} {{Head/falco}} [[Mango]]
+|-
+|{{Flag/us}} {{head/cf}} [[S2J]]
+|-
+|{{flag/us}} {{head/fox}} [[Lucky]]
+|}
+{{box|end}}
+
+<onlyinclude>
+==Crews Bracket==
+{{4SEBracket
+
+|r1m1p1=Team Swedish Delight |r1m1p1flag= |r1m1p1score=15
+|r1m1p2=Team Alex19 |r1m1p2flag= |r1m1p2score=16
+|r1m1win=2
+|r1m1details={{BracketMatchDetails |vod=https://www.youtube.com/watch?v=0gh0UtAk9Ag}}
+
+|r1m2p1=Team Kage |r1m2p1flag= |r1m2p1score=16
+|r1m2p2=Team Zhu |r1m2p2flag= |r1m2p2score=15
+|r1m2win=1
+|r1m2details={{BracketMatchDetails |vod=https://www.youtube.com/watch?v=wDzuq13ocgg}}
+
+|r2m1p1=Team Alex19 |r2m1p1flag= |r2m1p1score=15
+|r2m1p2=Team Kage |r2m1p2flag= |r2m1p2score=16
+|r2m1win=2
+}}
+</onlyinclude>

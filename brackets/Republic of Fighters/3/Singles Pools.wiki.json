@@ -1,0 +1,249 @@
+{
+    "===Losers Bracket===": {
+        "l1m1": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Kellner",
+            "p2flag": "de",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Blayd",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Rens",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Aska",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "Poilon",
+            "p2flag": "fr",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "ImperfeCt",
+            "p1flag": "no",
+            "p1score": "win",
+            "p2": "AvengerAngel",
+            "p2flag": "it",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Blayd",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Aska",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "ImperfeCt",
+            "p2flag": "no",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Jolteon",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Dr Dead",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Aska",
+            "p2flag": "fr",
+            "p2score": "win",
+            "win": "2"
+        }
+    },
+    "===Seeding For Top 32===": {
+        "l1m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Aska",
+            "p2flag": "fr",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Adam",
+            "p1flag": "nl",
+            "p1score": "",
+            "p2": "Salepate",
+            "p2flag": "fr",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Adam",
+            "p1flag": "nl",
+            "p1score": "",
+            "p2": "Fuzzyness",
+            "p2flag": "gb",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Salepate",
+            "p1flag": "fr",
+            "p1score": "advance",
+            "p2": "",
+            "p2flag": "",
+            "p2score": ""
+        }
+    },
+    "===Winners Bracket===": {
+        "r1m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Kellner",
+            "p1flag": "de",
+            "p1score": "",
+            "p2": "ImperfeCt",
+            "p2flag": "no",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Adam",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Aska",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "Rens",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Salepate",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Poilon",
+            "p1flag": "fr",
+            "p1score": "",
+            "p2": "Blayd",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Dr Dead",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "AvengerAngel",
+            "p2flag": "it",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "ImperfeCt",
+            "p2flag": "no",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Adam",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Aska",
+            "p2flag": "fr",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Salepate",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "Blayd",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Dr Dead",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Jolteon",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "",
+            "p2": "Adam",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m2": {
+            "p1": "Salepate",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "Dr Dead",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Pool 1==": {},
+    "==Pool 2==": {},
+    "==Pool 3==": {},
+    "==Pool 4==": {},
+    "==Pool 5==": {},
+    "==Pool 6==": {},
+    "==Pool 7==": {},
+    "==Pool 8==": {}
+}

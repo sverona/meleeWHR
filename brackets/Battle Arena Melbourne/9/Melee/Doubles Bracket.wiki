@@ -1,0 +1,101 @@
+{{DISPLAYTITLE:Battle Arena Melbourne 9: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Battle Arena Melbourne/9/Melee
+|name2=Singles Bracket
+|link2=Battle Arena Melbourne/9/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=Battle Arena Melbourne/9/Melee/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{2SEDoublesBracket
+|R1=Winners Semifinals
+
+|r1m1t1p1=Splice |r1m1t1p1flag=au
+|r1m1t1p2=Rainbow |r1m1t1p2flag=au |r1m1t1score=1
+|r1m1t2p1=Zxv |r1m1t2p1flag=au
+|r1m1t2p2=Quetz |r1m1t2p2flag=au |r1m1t2score=3
+|r1m1win=2
+}}
+{{2SEDoublesBracket
+|hideroundtitles=true
+
+|r1m1t1p1=S.D |r1m1t1p1flag=au
+|r1m1t1p2=SA Nick |r1m1t1p2flag=au |r1m1t1score=3
+|r1m1t2p1=MC |r1m1t2p1flag=au
+|r1m1t2p2=Cunchy |r1m1t2p2flag=au |r1m1t2score=1
+|r1m1win=1
+}}
+==Losers Bracket==
+{{8DEDoublesLBracketSmwA
+|tourneylink=Battle Arena Melbourne/9/Melee
+|tourneyname=Battle Arena Melbourne 9
+|l1placement=7-8
+|l2placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=sundowns |l1m1t1p1flag=au
+|l1m1t1p2=Sora |l1m1t1p2flag=au |l1m1t1score=3
+|l1m1t2p1=Toshi |l1m1t2p1flag=au
+|l1m1t2p2=Azri |l1m1t2p2flag=au |l1m1t2score=1
+|l1m1win=1
+
+|l1m2t1p1=Flow Rats |l1m2t1p1flag=au
+|l1m2t1p2=Muscat |l1m2t1p2flag=au |l1m2t1score=3
+|l1m2t2p1=Skeletom |l1m2t2p1flag=au
+|l1m2t2p2=Aussierob |l1m2t2p2flag=au |l1m2t2score=1
+|l1m2win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=MC |l2m1t1p1flag=au
+|l2m1t1p2=Cunchy |l2m1t1p2flag=au |l2m1t1score=3
+|l2m1t2p1=sundowns |l2m1t2p1flag=au
+|l2m1t2p2=Sora |l2m1t2p2flag=au |l2m1t2score=2
+|l2m1win=1
+
+|l2m2t1p1=Splice |l2m2t1p1flag=au
+|l2m2t1p2=Rainbow |l2m2t1p2flag=au |l2m2t1score=3
+|l2m2t2p1=Flow Rats |l2m2t2p1flag=au
+|l2m2t2p2=Muscat |l2m2t2p2flag=au |l2m2t2score=1
+|l2m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Battle Arena Melbourne/9/Melee
+|tourneyname=Battle Arena Melbourne 9
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Zxv |r1m1t1p1flag=au
+|r1m1t1p2=Quetz |r1m1t1p2flag=au |r1m1t1score=3
+|r1m1t2p1=S.D |r1m1t2p1flag=au
+|r1m1t2p2=SA Vic |r1m1t2p2flag=au |r1m1t2score=2
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=MC |l1m1t1p1flag=au
+|l1m1t1p2=Cunchy |l1m1t1p2flag=au |l1m1t1score=2
+|l1m1t2p1=Splice |l1m1t2p1flag=au
+|l1m1t2p2=Rainbow |l1m1t2p2flag=au |l1m1t2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=S.D |r2m1t1p1flag=au
+|r2m1t1p2=SA Vic |r2m1t1p2flag=au |r2m1t1score=2
+|r2m1t2p1=Splice |r2m1t2p1flag=au
+|r2m1t2p2=Rainbow |r2m1t2p2flag=au |r2m1t2score=3
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Zxv |r3m1t1p1flag=au
+|r3m1t1p2=Quetz |r3m1t1p2flag=au |r3m1t1score=3 |r3m2t1score=
+|r3m1t2p1=Splice |r3m1t2p1flag=au
+|r3m1t2p2=Rainbow |r3m1t2p2flag=au |r3m1t2score=1 |r3m2t2score=
+|r3m1win=1
+}}
+</onlyinclude>

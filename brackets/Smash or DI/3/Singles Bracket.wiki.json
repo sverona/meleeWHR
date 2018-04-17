@@ -1,0 +1,278 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "VA",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Professor Pro",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "VA",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Fuzzyness",
+            "p2flag": "gb",
+            "p2score": "0}}</onlyinclude>",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Rash Attack",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Willz",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "R23",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "King NDJ",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Bullet Bill",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Swizzy",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Jomo",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Jin",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Ayy Dee",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Willz",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "Deathgazer",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "King NDJ",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "X1",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "Swizzy",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "J3ly",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Jin",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Willz",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Deathgazer",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Swizzy",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "J3ly",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Deathgazer",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "VA",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "J3ly",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Rash Attack",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Willz",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "J3ly",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "R23",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "X1",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "King NDJ",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Bullet Bill",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Deathgazer",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Swizzy",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "VA",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Jomo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Ayy Dee",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Jin",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "J3ly",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "X1",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Deathgazer",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "VA",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Ayy Dee",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Jolteon",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "VA",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "1"
+        }
+    }
+}

@@ -1,0 +1,458 @@
+{{tabs static
+|name1=Overview
+|link1=South Coast Regionals 8
+|name2=Singles Bracket
+|link2=South Coast Regionals 8/Singles Bracket
+|name3=Doubles Bracket
+|link3=South Coast Regionals 8/Doubles
+|This=3
+}}
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipediadoubles name=SCR8Doubles -->
+==Winners Bracket==
+{{32DEDoublesWBracketA
+|r1m1t1p1=VA  |r1m1t1p1flag=gb
+|r1m1t1p2= R23 |r1m1t1p2flag=gb |r1m1t1score=W
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=-
+|r1m1win=1
+
+
+|r1m2t1p1=Aphex  |r1m2t1p1flag=
+|r1m2t1p2= Lean |r1m2t1p2flag= |r1m2t1score={{win}}
+|r1m2t2p1=Goldie  |r1m2t2p1flag=
+|r1m2t2p2= Goose |r1m2t2p2flag= |r1m2t2score=
+|r1m2win=1
+
+
+|r1m3t1p1=Hero  |r1m3t1p1flag=
+|r1m3t1p2= CPU1 |r1m3t1p2flag= |r1m3t1score=W
+|r1m3t2p1=Bye |r1m3t2p1flag=
+|r1m3t2p2=Bye |r1m3t2p2flag= |r1m3t2score=-
+|r1m3win=1
+
+
+|r1m4t1p1=Lorenzo  |r1m4t1p1flag=
+|r1m4t1p2= SuperSmashDan |r1m4t1p2flag= |r1m4t1score=W
+|r1m4t2p1=Bye |r1m4t2p1flag=
+|r1m4t2p2=Bye |r1m4t2p2flag= |r1m4t2score=-
+|r1m4win=1
+
+
+|r1m5t1p1=Boggle  |r1m5t1p1flag=gb
+|r1m5t1p2= Oytun |r1m5t1p2flag=gb |r1m5t1score=W
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=-
+|r1m5win=1
+
+
+|r1m6t1p1=El Capitan  |r1m6t1p1flag=
+|r1m6t1p2= Guts |r1m6t1p2flag= |r1m6t1score=W
+|r1m6t2p1=Bye |r1m6t2p1flag=
+|r1m6t2p2=Bye |r1m6t2p2flag= |r1m6t2score=-
+|r1m6win=1
+
+
+|r1m7t1p1=Frenzy  |r1m7t1p1flag=
+|r1m7t1p2= Aiken |r1m7t1p2flag= |r1m7t1score=W
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=-
+|r1m7win=1
+
+
+|r1m8t1p1=deathtouch_lifelink  |r1m8t1p1flag=
+|r1m8t1p2= Jaaq |r1m8t1p2flag= |r1m8t1score=W
+|r1m8t2p1=Bye |r1m8t2p1flag=
+|r1m8t2p2=Bye |r1m8t2p2flag= |r1m8t2score=-
+|r1m8win=1
+
+
+|r1m9t1p1=X1  |r1m9t1p1flag=gb
+|r1m9t1p2= Laurster |r1m9t1p2flag= |r1m9t1score=W
+|r1m9t2p1=Bye |r1m9t2p1flag=
+|r1m9t2p2=Bye |r1m9t2p2flag= |r1m9t2score=-
+|r1m9win=1
+
+
+|r1m10t1p1=Shark Sorbet  |r1m10t1p1flag=
+|r1m10t1p2= P1N6 |r1m10t1p2flag= |r1m10t1score=2
+|r1m10t2p1=Moby Duck  |r1m10t2p1flag=
+|r1m10t2p2= Louis |r1m10t2p2flag= |r1m10t2score=0
+|r1m10win=1
+
+
+|r1m11t1p1=g00fballz  |r1m11t1p1flag=
+|r1m11t1p2= Dr_Dimension |r1m11t1p2flag= |r1m11t1score=W
+|r1m11t2p1=Bye |r1m11t2p1flag=
+|r1m11t2p2=Bye |r1m11t2p2flag= |r1m11t2score=-
+|r1m11win=1
+
+
+|r1m12t1p1=Fayt  |r1m12t1p1flag=
+|r1m12t1p2= Kaikara |r1m12t1p2flag= |r1m12t1score=W
+|r1m12t2p1=Bye |r1m12t2p1flag=
+|r1m12t2p2=Bye |r1m12t2p2flag= |r1m12t2score=-
+|r1m12win=1
+
+
+|r1m13t1p1=Sylveon  |r1m13t1p1flag=gb
+|r1m13t1p2= Pripps |r1m13t1p2flag=se |r1m13t1score=W
+|r1m13t2p1=Bye |r1m13t2p1flag=
+|r1m13t2p2=Bye |r1m13t2p2flag= |r1m13t2score=-
+|r1m13win=1
+
+
+|r1m14t1p1=Can~D  |r1m14t1p1flag=
+|r1m14t1p2= Twig |r1m14t1p2flag= |r1m14t1score=W
+|r1m14t2p1=Bye |r1m14t2p1flag=
+|r1m14t2p2=Bye |r1m14t2p2flag= |r1m14t2score=-
+|r1m14win=1
+
+
+|r1m15t1p1=SHIP  |r1m15t1p1flag=
+|r1m15t1p2= HoorayForJay |r1m15t1p2flag= |r1m15t1score=W
+|r1m15t2p1=Bye |r1m15t2p1flag=
+|r1m15t2p2=Bye |r1m15t2p2flag= |r1m15t2score=-
+|r1m15win=1
+
+
+|r1m16t1p1=Stan Sasquatch  |r1m16t1p1flag=
+|r1m16t1p2= Sgt. Snuggles |r1m16t1p2flag= |r1m16t1score=W
+|r1m16t2p1=Bye |r1m16t2p1flag=
+|r1m16t2p2=Bye |r1m16t2p2flag= |r1m16t2score=-
+|r1m16win=1
+
+
+|r2m1t1p1=VA  |r2m1t1p1flag=gb
+|r2m1t1p2= R23 |r2m1t1p2flag=gb |r2m1t1score=2
+|r2m1t2p1=Aphex  |r2m1t2p1flag=
+|r2m1t2p2= Lean |r2m1t2p2flag= |r2m1t2score=0
+|r2m1win=1
+
+
+|r2m2t1p1=Hero  |r2m2t1p1flag=
+|r2m2t1p2= CPU1 |r2m2t1p2flag= |r2m2t1score=2
+|r2m2t2p1=Lorenzo  |r2m2t2p1flag=
+|r2m2t2p2= SuperSmashDan |r2m2t2p2flag= |r2m2t2score=0
+|r2m2win=1
+
+
+|r2m3t1p1=Boggle  |r2m3t1p1flag=gb
+|r2m3t1p2= Oytun |r2m3t1p2flag=gb |r2m3t1score=2
+|r2m3t2p1=El Capitan  |r2m3t2p1flag=
+|r2m3t2p2= Guts |r2m3t2p2flag= |r2m3t2score=0
+|r2m3win=1
+
+
+|r2m4t1p1=Frenzy  |r2m4t1p1flag=
+|r2m4t1p2= Aiken |r2m4t1p2flag= |r2m4t1score=0
+|r2m4t2p1=deathtouch_lifelink  |r2m4t2p1flag=
+|r2m4t2p2= Jaaq |r2m4t2p2flag= |r2m4t2score=2
+|r2m4win=2
+
+
+|r2m5t1p1=X1  |r2m5t1p1flag=gb
+|r2m5t1p2= Laurster |r2m5t1p2flag= |r2m5t1score=2
+|r2m5t2p1=Shark Sorbet  |r2m5t2p1flag=
+|r2m5t2p2= P1N6 |r2m5t2p2flag= |r2m5t2score=0
+|r2m5win=1
+
+
+|r2m6t1p1=g00fballz  |r2m6t1p1flag=
+|r2m6t1p2= Dr_Dimension |r2m6t1p2flag= |r2m6t1score=2
+|r2m6t2p1=Fayt  |r2m6t2p1flag=
+|r2m6t2p2= Kaikara |r2m6t2p2flag= |r2m6t2score=0
+|r2m6win=1
+
+
+|r2m7t1p1=Sylveon  |r2m7t1p1flag=gb
+|r2m7t1p2= Pripps |r2m7t1p2flag=se |r2m7t1score=2
+|r2m7t2p1=Can~D  |r2m7t2p1flag=
+|r2m7t2p2= Twig |r2m7t2p2flag= |r2m7t2score=0
+|r2m7win=1
+
+
+|r2m8t1p1=SHIP  |r2m8t1p1flag=
+|r2m8t1p2= HoorayForJay |r2m8t1p2flag= |r2m8t1score=2
+|r2m8t2p1=Stan Sasquatch  |r2m8t2p1flag=
+|r2m8t2p2= Sgt. Snuggles |r2m8t2p2flag= |r2m8t2score=0
+|r2m8win=1
+
+
+|r3m1t1p1=VA  |r3m1t1p1flag=gb
+|r3m1t1p2= R23 |r3m1t1p2flag=gb |r3m1t1score=2
+|r3m1t2p1=Hero  |r3m1t2p1flag=
+|r3m1t2p2= CPU1 |r3m1t2p2flag= |r3m1t2score=0
+|r3m1win=1
+
+
+|r3m2t1p1=Boggle  |r3m2t1p1flag=gb
+|r3m2t1p2= Oytun |r3m2t1p2flag=gb |r3m2t1score=2
+|r3m2t2p1=deathtouch_lifelink  |r3m2t2p1flag=
+|r3m2t2p2= Jaaq |r3m2t2p2flag= |r3m2t2score=0
+|r3m2win=1
+
+
+|r3m3t1p1=X1  |r3m3t1p1flag=gb
+|r3m3t1p2= Laurster |r3m3t1p2flag= |r3m3t1score=2
+|r3m3t2p1=g00fballz  |r3m3t2p1flag=
+|r3m3t2p2= Dr_Dimension |r3m3t2p2flag= |r3m3t2score=0
+|r3m3win=1
+
+
+|r3m4t1p1=Sylveon  |r3m4t1p1flag=gb
+|r3m4t1p2= Pripps |r3m4t1p2flag=se |r3m4t1score=2
+|r3m4t2p1=SHIP  |r3m4t2p1flag=
+|r3m4t2p2= HoorayForJay |r3m4t2p2flag= |r3m4t2score=0
+|r3m4win=1
+
+
+|r4m1t1p1=VA  |r4m1t1p1flag=gb
+|r4m1t1p2= R23 |r4m1t1p2flag=gb |r4m1t1score=3
+|r4m1t2p1=Boggle  |r4m1t2p1flag=gb
+|r4m1t2p2= Oytun |r4m1t2p2flag=gb |r4m1t2score=0
+|r4m1win=1
+
+
+|r4m2t1p1=X1  |r4m2t1p1flag=gb
+|r4m2t1p2= Laurster |r4m2t1p2flag= |r4m2t1score=3
+|r4m2t2p1=Sylveon  |r4m2t2p1flag=gb
+|r4m2t2p2= Pripps |r4m2t2p2flag=se |r4m2t2score=1
+|r4m2win=1
+
+}}
+
+==Losers Bracket==
+{{32DEDoublesLBracketA
+|l1m1t1p1=Bye |l1m1t1p1flag=
+|l1m1t1p2=Bye |l1m1t1p2flag= |l1m1t1score=-
+|l1m1t2p1=Goldie  |l1m1t2p1flag=
+|l1m1t2p2= Goose |l1m1t2p2flag= |l1m1t2score=W
+|l1m1win=2
+
+
+|l1m2t1p1=Bye |l1m2t1p1flag=
+|l1m2t1p2=Bye |l1m2t1p2flag= |l1m2t1score=-
+|l1m2t2p1=Bye |l1m2t2p1flag=
+|l1m2t2p2=Bye |l1m2t2p2flag= |l1m2t2score=W
+|l1m2win=
+
+
+|l1m3t1p1=Bye |l1m3t1p1flag=
+|l1m3t1p2=Bye |l1m3t1p2flag= |l1m3t1score=-
+|l1m3t2p1=Bye |l1m3t2p1flag=
+|l1m3t2p2=Bye |l1m3t2p2flag= |l1m3t2score=W
+|l1m3win=
+
+
+|l1m4t1p1=Bye |l1m4t1p1flag=
+|l1m4t1p2=Bye |l1m4t1p2flag= |l1m4t1score=-
+|l1m4t2p1=Bye |l1m4t2p1flag=
+|l1m4t2p2=Bye |l1m4t2p2flag= |l1m4t2score=W
+|l1m4win=
+
+
+|l1m5t1p1=Bye |l1m5t1p1flag=
+|l1m5t1p2=Bye |l1m5t1p2flag= |l1m5t1score=-
+|l1m5t2p1=Moby Duck  |l1m5t2p1flag=
+|l1m5t2p2= Louis |l1m5t2p2flag= |l1m5t2score=W
+|l1m5win=2
+
+
+|l1m6t1p1=Bye |l1m6t1p1flag=
+|l1m6t1p2=Bye |l1m6t1p2flag= |l1m6t1score=-
+|l1m6t2p1=Bye |l1m6t2p1flag=
+|l1m6t2p2=Bye |l1m6t2p2flag= |l1m6t2score=W
+|l1m6win=
+
+
+|l1m7t1p1=Bye |l1m7t1p1flag=
+|l1m7t1p2=Bye |l1m7t1p2flag= |l1m7t1score=-
+|l1m7t2p1=Bye |l1m7t2p1flag=
+|l1m7t2p2=Bye |l1m7t2p2flag= |l1m7t2score=W
+|l1m7win=
+
+
+|l1m8t1p1=Bye |l1m8t1p1flag=
+|l1m8t1p2=Bye |l1m8t1p2flag= |l1m8t1score=-
+|l1m8t2p1=Bye |l1m8t2p1flag=
+|l1m8t2p2=Bye |l1m8t2p2flag= |l1m8t2score=W
+|l1m8win=
+
+
+|l2m1t1p1=Stan Sasquatch  |l2m1t1p1flag=
+|l2m1t1p2= Sgt. Snuggles |l2m1t1p2flag= |l2m1t1score=2
+|l2m1t2p1=Goldie  |l2m1t2p1flag=
+|l2m1t2p2= Goose |l2m1t2p2flag= |l2m1t2score=0
+|l2m1win=1
+
+
+|l2m2t1p1=Can~D  |l2m2t1p1flag=
+|l2m2t1p2= Twig |l2m2t1p2flag= |l2m2t1score=W
+|l2m2t2p1=Bye |l2m2t2p1flag=
+|l2m2t2p2=Bye |l2m2t2p2flag= |l2m2t2score=-
+|l2m2win=1
+
+
+|l2m3t1p1=Fayt  |l2m3t1p1flag=
+|l2m3t1p2= Kaikara |l2m3t1p2flag= |l2m3t1score=W
+|l2m3t2p1=Bye |l2m3t2p1flag=
+|l2m3t2p2=Bye |l2m3t2p2flag= |l2m3t2score=-
+|l2m3win=1
+
+
+|l2m4t1p1=Shark Sorbet  |l2m4t1p1flag=
+|l2m4t1p2= P1N6 |l2m4t1p2flag= |l2m4t1score=W
+|l2m4t2p1=Bye |l2m4t2p1flag=
+|l2m4t2p2=Bye |l2m4t2p2flag= |l2m4t2score=-
+|l2m4win=1
+
+
+|l2m5t1p1=Frenzy  |l2m5t1p1flag=
+|l2m5t1p2= Aiken |l2m5t1p2flag= |l2m5t1score=2
+|l2m5t2p1=Moby Duck  |l2m5t2p1flag=
+|l2m5t2p2= Louis |l2m5t2p2flag= |l2m5t2score=0
+|l2m5win=1
+
+
+|l2m6t1p1=El Capitan  |l2m6t1p1flag=
+|l2m6t1p2= Guts |l2m6t1p2flag= |l2m6t1score=W
+|l2m6t2p1=Bye |l2m6t2p1flag=
+|l2m6t2p2=Bye |l2m6t2p2flag= |l2m6t2score=-
+|l2m6win=1
+
+
+|l2m7t1p1=Lorenzo  |l2m7t1p1flag=
+|l2m7t1p2= SuperSmashDan |l2m7t1p2flag= |l2m7t1score=W
+|l2m7t2p1=Bye |l2m7t2p1flag=
+|l2m7t2p2=Bye |l2m7t2p2flag= |l2m7t2score=-
+|l2m7win=1
+
+
+|l2m8t1p1=Aphex  |l2m8t1p1flag=
+|l2m8t1p2= Lean |l2m8t1p2flag= |l2m8t1score=W
+|l2m8t2p1=Bye |l2m8t2p1flag=
+|l2m8t2p2=Bye |l2m8t2p2flag= |l2m8t2score=-
+|l2m8win=1
+
+
+|l3m1t1p1=Stan Sasquatch  |l3m1t1p1flag=
+|l3m1t1p2= Sgt. Snuggles |l3m1t1p2flag= |l3m1t1score=1
+|l3m1t2p1=Can~D  |l3m1t2p1flag=
+|l3m1t2p2= Twig |l3m1t2p2flag= |l3m1t2score=2
+|l3m1win=2
+
+
+|l3m2t1p1=Fayt  |l3m2t1p1flag=
+|l3m2t1p2= Kaikara |l3m2t1p2flag= |l3m2t1score=0
+|l3m2t2p1=Shark Sorbet  |l3m2t2p1flag=
+|l3m2t2p2= P1N6 |l3m2t2p2flag= |l3m2t2score=2
+|l3m2win=2
+
+
+|l3m3t1p1=Frenzy  |l3m3t1p1flag=
+|l3m3t1p2= Aiken |l3m3t1p2flag= |l3m3t1score=2
+|l3m3t2p1=El Capitan  |l3m3t2p1flag=
+|l3m3t2p2= Guts |l3m3t2p2flag= |l3m3t2score=1
+|l3m3win=1
+
+
+|l3m4t1p1=Lorenzo  |l3m4t1p1flag=
+|l3m4t1p2= SuperSmashDan |l3m4t1p2flag= |l3m4t1score=2
+|l3m4t2p1=Aphex  |l3m4t2p1flag=
+|l3m4t2p2= Lean |l3m4t2p2flag= |l3m4t2score=0
+|l3m4win=1
+
+
+|l4m1t1p1=deathtouch_lifelink  |l4m1t1p1flag=
+|l4m1t1p2= Jaaq |l4m1t1p2flag= |l4m1t1score=2
+|l4m1t2p1=Can~D  |l4m1t2p1flag=
+|l4m1t2p2= Twig |l4m1t2p2flag= |l4m1t2score=0
+|l4m1win=1
+
+
+|l4m2t1p1=Hero  |l4m2t1p1flag=
+|l4m2t1p2= CPU1 |l4m2t1p2flag= |l4m2t1score=1
+|l4m2t2p1=Shark Sorbet  |l4m2t2p1flag=
+|l4m2t2p2= P1N6 |l4m2t2p2flag= |l4m2t2score=2
+|l4m2win=2
+
+
+|l4m3t1p1=SHIP  |l4m3t1p1flag=
+|l4m3t1p2= HoorayForJay |l4m3t1p2flag= |l4m3t1score=0
+|l4m3t2p1=Frenzy  |l4m3t2p1flag=
+|l4m3t2p2= Aiken |l4m3t2p2flag= |l4m3t2score=2
+|l4m3win=2
+
+
+|l4m4t1p1=g00fballz  |l4m4t1p1flag=
+|l4m4t1p2= Dr_Dimension |l4m4t1p2flag= |l4m4t1score=2
+|l4m4t2p1=Lorenzo  |l4m4t2p1flag=
+|l4m4t2p2= SuperSmashDan |l4m4t2p2flag= |l4m4t2score=1
+|l4m4win=1
+
+
+|l5m1t1p1=deathtouch_lifelink  |l5m1t1p1flag=
+|l5m1t1p2= Jaaq |l5m1t1p2flag= |l5m1t1score=3
+|l5m1t2p1=Shark Sorbet  |l5m1t2p1flag=
+|l5m1t2p2= P1N6 |l5m1t2p2flag= |l5m1t2score=0
+|l5m1win=1
+
+
+|l5m2t1p1=Frenzy  |l5m2t1p1flag=
+|l5m2t1p2= Aiken |l5m2t1p2flag= |l5m2t1score=3
+|l5m2t2p1=g00fballz  |l5m2t2p1flag=
+|l5m2t2p2= Dr_Dimension |l5m2t2p2flag= |l5m2t2score=0
+|l5m2win=1
+
+
+|l6m1t1p1=Sylveon  |l6m1t1p1flag=gb
+|l6m1t1p2= Pripps |l6m1t1p2flag=se |l6m1t1score=3
+|l6m1t2p1=deathtouch_lifelink  |l6m1t2p1flag=
+|l6m1t2p2= Jaaq |l6m1t2p2flag= |l6m1t2score=0
+|l6m1win=1
+
+
+|l6m2t1p1=Boggle  |l6m2t1p1flag=gb
+|l6m2t1p2= Oytun |l6m2t1p2flag=gb |l6m2t1score=3
+|l6m2t2p1=Frenzy  |l6m2t2p1flag=
+|l6m2t2p2= Aiken |l6m2t2p2flag= |l6m2t2score=0
+|l6m2win=1
+
+}}
+
+==Finals Bracket==
+<onlyinclude>
+{{DEFinalDoublesBracket
+<!-- FROM WINNERS -->
+|r1m1t1p1=VA  |r1m1t1p1flag=gb
+|r1m1t1p2= R23 |r1m1t1p2flag=gb |r1m1t1score=3
+|r1m1t2p1=X1  |r1m1t2p1flag=gb
+|r1m1t2p2= Laurster |r1m1t2p2flag= |r1m1t2score=0
+|r1m1win=1
+
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Sylveon  |l1m1t1p1flag=gb
+|l1m1t1p2= Pripps |l1m1t1p2flag=se |l1m1t1score=3
+|l1m1t2p1=Boggle  |l1m1t2p1flag=gb
+|l1m1t2p2= Oytun |l1m1t2p2flag=gb |l1m1t2score=0
+|l1m1win=1
+
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=X1  |r2m1t1p1flag=gb
+|r2m1t1p2= Laurster |r2m1t1p2flag= |r2m1t1score=2
+|r2m1t2p1=Sylveon  |r2m1t2p1flag=gb
+|r2m1t2p2= Pripps |r2m1t2p2flag=se |r2m1t2score=3
+|r2m1win=2
+
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=VA  |r3m1t1p1flag=gb
+|r3m1t1p2= R23 |r3m1t1p2flag=gb |r3m1t1score=3
+|r3m1t2p1=Sylveon  |r3m1t2p1flag=gb
+|r3m1t2p2= Pripps |r3m1t2p2flag=se |r3m1t2score=0
+|r3m1win=1
+
+}}
+</onlyinclude>

@@ -1,0 +1,234 @@
+{{DISPLAYTITLE: Nantarena 16.1: Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Nantarena/16.1
+|name2=Singles Bracket
+|link2=Nantarena/16.1/Singles Bracket
+|name3=Doubles Bracket
+|link3=Nantarena/16.1/Doubles Bracket
+|This=3
+}}<!-- Generated with http://tournament-nub.rhcloud.com/toliquipediadoubles name=nantarena_16_1_team -->
+
+==Winners Bracket==
+{{16DEDoublesWBracketA
+|r1m1t1p1=Willy  |r1m1t1p1flag=fr
+|r1m1t1p2=Djagof |r1m1t1p2flag=fr |r1m1t1score=W
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=-
+|r1m1win=1
+
+
+|r1m2t1p1=Zephyr  |r1m2t1p1flag=
+|r1m2t1p2=Freshmint |r1m2t1p2flag= |r1m2t1score=3
+|r1m2t2p1=Explo  |r1m2t2p1flag=fr
+|r1m2t2p2=KT1 |r1m2t2p2flag= |r1m2t2score=2
+|r1m2win=1
+
+
+|r1m3t1p1=LuK  |r1m3t1p1flag=fr
+|r1m3t1p2=Brog |r1m3t1p2flag=fr |r1m3t1score=3
+|r1m3t2p1=Eis  |r1m3t2p1flag=
+|r1m3t2p2=Ike |r1m3t2p2flag= |r1m3t2score=0
+|r1m3win=1
+
+
+|r1m4t1p1=Hercules  |r1m4t1p1flag=fr
+|r1m4t1p2=Sosuk |r1m4t1p2flag=fr |r1m4t1score=3
+|r1m4t2p1=Elyon  |r1m4t2p1flag=
+|r1m4t2p2=Nydegan |r1m4t2p2flag= |r1m4t2score=1
+|r1m4win=1
+
+
+|r1m5t1p1=Aether  |r1m5t1p1flag=fr
+|r1m5t1p2=Fauster |r1m5t1p2flag=fr |r1m5t1score=W
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=-
+|r1m5win=1
+
+
+|r1m6t1p1=THEO  |r1m6t1p1flag=
+|r1m6t1p2=ZSX |r1m6t1p2flag= |r1m6t1score=0
+|r1m6t2p1=Ishka  |r1m6t2p1flag=fr
+|r1m6t2p2=Kar |r1m6t2p2flag= |r1m6t2score=3
+|r1m6win=2
+
+
+|r1m7t1p1=Aephage  |r1m7t1p1flag=fr
+|r1m7t1p2=Belia |r1m7t1p2flag=fr |r1m7t1score=W
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=-
+|r1m7win=1
+
+
+|r1m8t1p1=Shloub  |r1m8t1p1flag=fr
+|r1m8t1p2=Filty |r1m8t1p2flag= |r1m8t1score=3
+|r1m8t2p1=Jugo  |r1m8t2p1flag=
+|r1m8t2p2=Azutas |r1m8t2p2flag= |r1m8t2score=1
+|r1m8win=1
+
+
+|r2m1t1p1=Willy  |r2m1t1p1flag=fr
+|r2m1t1p2=Djagof |r2m1t1p2flag=fr |r2m1t1score=3
+|r2m1t2p1=Zephyr  |r2m1t2p1flag=
+|r2m1t2p2=Freshmint |r2m1t2p2flag= |r2m1t2score=0
+|r2m1win=1
+
+
+|r2m2t1p1=LuK  |r2m2t1p1flag=fr
+|r2m2t1p2=Brog |r2m2t1p2flag=fr |r2m2t1score=3
+|r2m2t2p1=Hercules  |r2m2t2p1flag=fr
+|r2m2t2p2=Sosuk |r2m2t2p2flag=fr |r2m2t2score=2
+|r2m2win=1
+
+
+|r2m3t1p1=Aether  |r2m3t1p1flag=fr
+|r2m3t1p2=Fauster |r2m3t1p2flag=fr |r2m3t1score=3
+|r2m3t2p1=Ishka  |r2m3t2p1flag=fr
+|r2m3t2p2=Kar |r2m3t2p2flag= |r2m3t2score=0
+|r2m3win=1
+
+
+|r2m4t1p1=Aephage  |r2m4t1p1flag=fr
+|r2m4t1p2=Belia |r2m4t1p2flag=fr |r2m4t1score=3
+|r2m4t2p1=Shloub  |r2m4t2p1flag=fr
+|r2m4t2p2=Filty |r2m4t2p2flag= |r2m4t2score=0
+|r2m4win=1
+
+
+|r3m1t1p1=Willy  |r3m1t1p1flag=fr
+|r3m1t1p2=Djagof |r3m1t1p2flag=fr |r3m1t1score=3
+|r3m1t2p1=LuK  |r3m1t2p1flag=fr
+|r3m1t2p2=Brog |r3m1t2p2flag=fr |r3m1t2score=0
+|r3m1win=1
+
+
+|r3m2t1p1=Aether  |r3m2t1p1flag=fr
+|r3m2t1p2=Fauster |r3m2t1p2flag=fr |r3m2t1score=2
+|r3m2t2p1=Aephage  |r3m2t2p1flag=fr
+|r3m2t2p2=Belia |r3m2t2p2flag=fr |r3m2t2score=3
+|r3m2win=2
+
+}}
+
+==Losers Bracket==
+{{16DEDoublesLBracketA
+|l1m1t1p1=Bye |l1m1t1p1flag=
+|l1m1t1p2=Bye |l1m1t1p2flag= |l1m1t1score=-
+|l1m1t2p1=Explo  |l1m1t2p1flag=fr
+|l1m1t2p2=KT1 |l1m1t2p2flag= |l1m1t2score=W
+|l1m1win=2
+
+
+|l1m2t1p1=Eis  |l1m2t1p1flag=
+|l1m2t1p2=Ike |l1m2t1p2flag= |l1m2t1score=3
+|l1m2t2p1=Elyon  |l1m2t2p1flag=
+|l1m2t2p2=Nydegan |l1m2t2p2flag= |l1m2t2score=0
+|l1m2win=1
+
+
+|l1m3t1p1=Bye |l1m3t1p1flag=
+|l1m3t1p2=Bye |l1m3t1p2flag= |l1m3t1score=-
+|l1m3t2p1=THEO  |l1m3t2p1flag=
+|l1m3t2p2=ZSX |l1m3t2p2flag= |l1m3t2score=W
+|l1m3win=2
+
+
+|l1m4t1p1=Bye |l1m4t1p1flag=
+|l1m4t1p2=Bye |l1m4t1p2flag= |l1m4t1score=-
+|l1m4t2p1=Jugo  |l1m4t2p1flag=
+|l1m4t2p2=Azutas |l1m4t2p2flag= |l1m4t2score=W
+|l1m4win=2
+
+
+|l2m1t1p1=Shloub  |l2m1t1p1flag=fr
+|l2m1t1p2=Filty |l2m1t1p2flag= |l2m1t1score=3
+|l2m1t2p1=Explo  |l2m1t2p1flag=fr
+|l2m1t2p2=KT1 |l2m1t2p2flag= |l2m1t2score=1
+|l2m1win=1
+
+
+|l2m2t1p1=Ishka  |l2m2t1p1flag=fr
+|l2m2t1p2=Kar |l2m2t1p2flag= |l2m2t1score=3
+|l2m2t2p1=Eis  |l2m2t2p1flag=
+|l2m2t2p2=Ike |l2m2t2p2flag= |l2m2t2score=1
+|l2m2win=1
+
+
+|l2m3t1p1=Hercules  |l2m3t1p1flag=fr
+|l2m3t1p2=Sosuk |l2m3t1p2flag=fr |l2m3t1score=3
+|l2m3t2p1=THEO  |l2m3t2p1flag=
+|l2m3t2p2=ZSX |l2m3t2p2flag= |l2m3t2score=0
+|l2m3win=1
+
+
+|l2m4t1p1=Zephyr  |l2m4t1p1flag=
+|l2m4t1p2=Freshmint |l2m4t1p2flag= |l2m4t1score=1
+|l2m4t2p1=Jugo  |l2m4t2p1flag=
+|l2m4t2p2=Azutas |l2m4t2p2flag= |l2m4t2score=3
+|l2m4win=2
+
+
+|l3m1t1p1=Shloub  |l3m1t1p1flag=fr
+|l3m1t1p2=Filty |l3m1t1p2flag= |l3m1t1score=1
+|l3m1t2p1=Ishka  |l3m1t2p1flag=fr
+|l3m1t2p2=Kar |l3m1t2p2flag= |l3m1t2score=3
+|l3m1win=2
+
+
+|l3m2t1p1=Hercules  |l3m2t1p1flag=fr
+|l3m2t1p2=Sosuk |l3m2t1p2flag=fr |l3m2t1score=3
+|l3m2t2p1=Jugo  |l3m2t2p1flag=
+|l3m2t2p2=Azutas |l3m2t2p2flag= |l3m2t2score=1
+|l3m2win=1
+
+
+|l4m1t1p1=LuK  |l4m1t1p1flag=fr
+|l4m1t1p2=Brog |l4m1t1p2flag=fr |l4m1t1score=3
+|l4m1t2p1=Ishka  |l4m1t2p1flag=fr
+|l4m1t2p2=Kar |l4m1t2p2flag= |l4m1t2score=2
+|l4m1win=1
+
+
+|l4m2t1p1=Aether  |l4m2t1p1flag=fr
+|l4m2t1p2=Fauster |l4m2t1p2flag=fr |l4m2t1score=3
+|l4m2t2p1=Hercules  |l4m2t2p1flag=fr
+|l4m2t2p2=Sosuk |l4m2t2p2flag=fr |l4m2t2score=1
+|l4m2win=1
+
+}}
+<onlyinclude>
+==Finals Bracket==
+{{DEFinalDoublesBracket
+<!-- FROM WINNERS -->
+|r1m1t1p1=Willy  |r1m1t1p1flag=fr
+|r1m1t1p2=Djagof |r1m1t1p2flag=fr |r1m1t1score=2
+|r1m1t2p1=Aephage  |r1m1t2p1flag=fr
+|r1m1t2p2=Belia |r1m1t2p2flag=fr |r1m1t2score=3
+|r1m1win=2
+
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=LuK  |l1m1t1p1flag=fr
+|l1m1t1p2=Brog |l1m1t1p2flag=fr |l1m1t1score=0
+|l1m1t2p1=Aether  |l1m1t2p1flag=fr
+|l1m1t2p2=Fauster |l1m1t2p2flag=fr |l1m1t2score=3
+|l1m1win=2
+
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Willy  |r2m1t1p1flag=fr
+|r2m1t1p2=Djagof |r2m1t1p2flag=fr |r2m1t1score=1
+|r2m1t2p1=Aether  |r2m1t2p1flag=fr
+|r2m1t2p2=Fauster |r2m1t2p2flag=fr |r2m1t2score=3
+|r2m1win=2
+
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Aephage  |r3m1t1p1flag=fr
+|r3m1t1p2=Belia |r3m1t1p2flag=fr |r3m1t1score=3
+|r3m1t2p1=Aether  |r3m1t2p1flag=fr
+|r3m1t2p2=Fauster |r3m1t2p2flag=fr |r3m1t2score=1
+|r3m1win=1
+
+}}
+</onlyinclude>

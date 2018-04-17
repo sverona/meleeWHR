@@ -1,0 +1,68 @@
+{{DISPLAYTITLE:Kings of Cali 2: Singles Bracket}}{{SetGame|melee}}{{tabs static
+|name1=Overview
+|link1=Kings of Cali/2
+|name2=Round 1 Pools
+|link2=Kings of Cali/2/Round 1 Pools
+|name3=Round 2 Pools
+|link3=Kings of Cali/2/Round 2 Pools
+|name4=Singles Bracket
+|link4=Kings of Cali/2/Singles Bracket
+|This=4
+}}
+{{:Kings of Cali/2/Winners Bracket}}
+{{:Kings of Cali/2/Losers Bracket}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Kings of Cali/2
+|tourneyname=Kings of Cali 2
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=200
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Shroomed |r1m1p1flag=us |r1m1p1score=1
+|r1m1p2=Mango |r1m1p2flag=us |r1m1p2score=3
+|r1m1win=2
+|r1m1p1char1=dr mario |r1m1p2char1=fox |r1m1p1stock1=0 |r1m1p2stock1=1 |r1m1win1=2 |r1m1stage1=Battlefield
+|r1m1p1char2=dr mario |r1m1p2char2=fox |r1m1p1stock2=0 |r1m1p2stock2=1 |r1m1win2=2 |r1m1stage2=Final Destination
+|r1m1p1char3=dr mario |r1m1p2char3=fox |r1m1p1stock3=2 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Final Destination
+|r1m1p1char4=dr mario |r1m1p2char4=fox |r1m1p1stock4=0 |r1m1p2stock4=2 |r1m1win4=2 |r1m1stage4=Pokémon Stadium
+|r1m1finished=true
+|r1m1details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=CWFDAgAGxxU}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=PewPewU |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Wobbles |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=marth |l1m1p2char1=ice climbers |l1m1p1stock1=0 |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Final Destination
+|l1m1p1char2=marth |l1m1p2char2=ice climbers |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Yoshi's Story
+|l1m1p1char3=marth |l1m1p2char3=ice climbers |l1m1p1stock3=0 |l1m1p2stock3=2 |l1m1win3=2 |l1m1stage3=Pokémon Stadium
+|l1m1finished=true
+|l1m1details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=sVrSx5DYcS4}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Shroomed |r2m1p1flag=us |r2m1p1score=1
+|r2m1p2=Wobbles |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=dr mario |r2m1p2char1=ice climbers |r2m1p1stock1=1 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=dr mario |r2m1p2char2=ice climbers |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Pokémon Stadium
+|r2m1p1char3=dr mario |r2m1p2char3=ice climbers |r2m1p1stock3=0 |r2m1p2stock3=3 |r2m1win3=2 |r2m1stage3=Yoshi's Story
+|r2m1p1char4=dr mario |r2m1p2char4=ice climbers |r2m1p1stock4=0 |r2m1p2stock4=1 |r2m1win4=2 |r2m1stage4=Pokémon Stadium
+|r2m1finished=true
+|r2m1details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=_De7EATC44Q}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Mango |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Wobbles |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=falcon |r3m1p2char1=ice climbers |r3m1p1stock1=1 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Dream Land
+|r3m1p1char2=falcon |r3m1p2char2=ice climbers |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Fountain of Dreams
+|r3m1p1char3=falcon |r3m1p2char3=ice climbers |r3m1p1stock3=1 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Pokémon Stadium
+|r3m1finished=true
+|r3m1details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=rGXCNIbYrhM}}
+}}
+</onlyinclude>

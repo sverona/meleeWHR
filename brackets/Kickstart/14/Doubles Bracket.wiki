@@ -1,0 +1,373 @@
+{{DISPLAYTITLE:Kickstart 14: Doubles Bracket}}{{SetGame|melee}}{{tabs static
+|name1=Overview
+|link1=Kickstart/14
+|name2=Singles Bracket
+|link2=Kickstart/14/Singles Bracket
+|name3=Doubles Bracket
+|link3=Kickstart/14/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{32DEDoublesWBracketA
+|column-width=170
+
+<!-- ROUND 1 -->
+|r1m1t1p1=Trif |r1m1t1p1flag=es
+|r1m1t1p2=Overtriforce |r1m1t1p2flag=es |r1m1t1score={{win}}
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=
+|r1m1win=1
+
+|r1m2t1p1=Molten |r1m2t1p1flag=gb
+|r1m2t1p2=BanBang |r1m2t1p2flag=gb |r1m2t1score=1
+|r1m2t2p1=FileSmile |r1m2t2p1flag=gb
+|r1m2t2p2=Boohbah |r1m2t2p2flag=gb |r1m2t2score=2
+|r1m2win=2
+
+|r1m3t1p1=Okameed |r1m3t1p1flag=gb
+|r1m3t1p2=Reb |r1m3t1p2flag=gb |r1m3t1score={{win}}
+|r1m3t2p1=Bye |r1m3t2p1flag=
+|r1m3t2p2=Bye |r1m3t2p2flag= |r1m3t2score=
+|r1m3win=1
+
+|r1m4t1p1=Roan |r1m4t1p1flag=gb
+|r1m4t1p2=Mordo |r1m4t1p2flag=gb |r1m4t1score={{win}}
+|r1m4t2p1=Bye |r1m4t2p1flag=
+|r1m4t2p2=Bye |r1m4t2p2flag= |r1m4t2score=
+|r1m4win=1
+
+|r1m5t1p1=BrTarolg |r1m5t1p1flag=gb
+|r1m5t1p2=Amsah |r1m5t1p2flag=nl |r1m5t1score={{win}}
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=
+|r1m5win=1
+
+|r1m6t1p1=Skut |r1m6t1p1flag=gb
+|r1m6t1p2=Ewar |r1m6t1p2flag=gb |r1m6t1score={{win}}
+|r1m6t2p1=Bye |r1m6t2p1flag=
+|r1m6t2p2=Bye |r1m6t2p2flag= |r1m6t2score=
+|r1m6win=1
+
+|r1m7t1p1=SaiX |r1m7t1p1flag=es
+|r1m7t1p2=Marah |r1m7t1p2flag=es |r1m7t1score={{win}}
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=
+|r1m7win=1
+
+|r1m8t1p1=WadaWada |r1m8t1p1flag=gb
+|r1m8t1p2=chrisw |r1m8t1p2flag=gb |r1m8t1score={{win}}
+|r1m8t2p1=Bye |r1m8t2p1flag=
+|r1m8t2p2=Bye |r1m8t2p2flag= |r1m8t2score=
+|r1m8win=1
+
+|r1m9t1p1=Professor Pro |r1m9t1p1flag=gb
+|r1m9t1p2=Zgetto |r1m9t1p2flag=nl |r1m9t1score={{win}}
+|r1m9t2p1=Bye |r1m9t2p1flag=
+|r1m9t2p2=Bye |r1m9t2p2flag= |r1m9t2score=
+|r1m9win=1
+
+|r1m10t1p1=Lalzu |r1m10t1p1flag=gb
+|r1m10t1p2=Munx |r1m10t1p2flag=gb |r1m10t1score={{win}}
+|r1m10t2p1=Bye |r1m10t2p1flag=
+|r1m10t2p2=Bye |r1m10t2p2flag= |r1m10t2score=
+|r1m10win=1
+
+|r1m11t1p1=JMYL |r1m11t1p1flag=nl
+|r1m11t1p2=Atlas |r1m11t1p2flag=nl |r1m11t1score={{win}}
+|r1m11t2p1=Bye |r1m11t2p1flag=
+|r1m11t2p2=Bye |r1m11t2p2flag= |r1m11t2score=
+|r1m11win=1
+
+|r1m12t1p1=RashAttack |r1m12t1p1flag=sd
+|r1m12t1p2=Harambe's Avenger |r1m12t1p2flag=gb |r1m12t1score={{win}}
+|r1m12t2p1=Bye |r1m12t2p1flag=
+|r1m12t2p2=Bye |r1m12t2p2flag= |r1m12t2score=
+|r1m12win=1
+
+|r1m13t1p1=HomeMadeWaffles |r1m13t1p1flag=us
+|r1m13t1p2=Druggedfox |r1m13t1p2flag=us |r1m13t1score={{win}}
+|r1m13t2p1=Bye |r1m13t2p1flag=
+|r1m13t2p2=Bye |r1m13t2p2flag= |r1m13t2score=
+|r1m13win=1
+
+|r1m14t1p1=YellooW |r1m14t1p1flag=gb
+|r1m14t1p2=Loto |r1m14t1p2flag=gb |r1m14t1score={{win}}
+|r1m14t2p1=Bye |r1m14t2p1flag=
+|r1m14t2p2=Bye |r1m14t2p2flag= |r1m14t2score=
+|r1m14win=1
+
+|r1m15t1p1=Xardov |r1m15t1p1flag=es
+|r1m15t1p2=Liax |r1m15t1p2flag=es |r1m15t1score={{win}}
+|r1m15t2p1=Bye |r1m15t2p1flag=
+|r1m15t2p2=Bye |r1m15t2p2flag= |r1m15t2score=
+|r1m15win=1
+
+|r1m16t1p1=lord.ape.69 |r1m16t1p1flag=gb
+|r1m16t1p2=Morinth |r1m16t1p2flag=gb |r1m16t1score={{win}}
+|r1m16t2p1=Bye |r1m16t2p1flag=
+|r1m16t2p2=Bye |r1m16t2p2flag= |r1m16t2score=
+|r1m16win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Trif |r2m1t1p1flag=es
+|r2m1t1p2=Overtriforce |r2m1t1p2flag=es |r2m1t1score=2
+|r2m1t2p1=FileSmile |r2m1t2p1flag=gb
+|r2m1t2p2=Boohbah |r2m1t2p2flag=gb |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=Okameed |r2m2t1p1flag=gb
+|r2m2t1p2=Reb |r2m2t1p2flag=gb |r2m2t1score=2
+|r2m2t2p1=Roan |r2m2t2p1flag=gb
+|r2m2t2p2=Mordo |r2m2t2p2flag=gb |r2m2t2score=1
+|r2m2win=1
+
+|r2m3t1p1=BrTarolg |r2m3t1p1flag=gb
+|r2m3t1p2=Amsah |r2m3t1p2flag=nl |r2m3t1score=2
+|r2m3t2p1=Skut |r2m3t2p1flag=gb
+|r2m3t2p2=Ewar |r2m3t2p2flag=gb |r2m3t2score=0
+|r2m3win=1
+
+|r2m4t1p1=SaiX |r2m4t1p1flag=es
+|r2m4t1p2=Marah |r2m4t1p2flag=es |r2m4t1score=2
+|r2m4t2p1=WadaWada |r2m4t2p1flag=gb
+|r2m4t2p2=chrisw |r2m4t2p2flag=gb |r2m4t2score=0
+|r2m4win=1
+
+|r2m5t1p1=Professor Pro |r2m5t1p1flag=gb
+|r2m5t1p2=Zgetto |r2m5t1p2flag=nl |r2m5t1score=2
+|r2m5t2p1=Lalzu |r2m5t2p1flag=gb
+|r2m5t2p2=Munx |r2m5t2p2flag=gb |r2m5t2score=0
+|r2m5win=1
+
+|r2m6t1p1=JMYL |r2m6t1p1flag=nl
+|r2m6t1p2=Atlas |r2m6t1p2flag=nl |r2m6t1score={{win}}
+|r2m6t2p1=RashAttack |r2m6t2p1flag=sd
+|r2m6t2p2=Harambe's Avenger |r2m6t2p2flag=gb |r2m6t2score=DQ
+|r2m6win=1
+
+|r2m7t1p1=HomeMadeWaffles |r2m7t1p1flag=us
+|r2m7t1p2=Druggedfox |r2m7t1p2flag=us |r2m7t1score=2
+|r2m7t2p1=YellooW |r2m7t2p1flag=gb
+|r2m7t2p2=Loto |r2m7t2p2flag=gb |r2m7t2score=0
+|r2m7win=1
+
+|r2m8t1p1=Xardov |r2m8t1p1flag=es
+|r2m8t1p2=Liax |r2m8t1p2flag=es |r2m8t1score=2
+|r2m8t2p1=lord.ape.69 |r2m8t2p1flag=gb
+|r2m8t2p2=Morinth |r2m8t2p2flag=gb |r2m8t2score=0
+|r2m8win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Trif |r3m1t1p1flag=es
+|r3m1t1p2=Overtriforce |r3m1t1p2flag=es |r3m1t1score=2
+|r3m1t2p1=Okameed |r3m1t2p1flag=gb
+|r3m1t2p2=Reb |r3m1t2p2flag=gb |r3m1t2score=0
+|r3m1win=1
+
+|r3m2t1p1=BrTarolg |r3m2t1p1flag=gb
+|r3m2t1p2=Amsah |r3m2t1p2flag=nl |r3m2t1score=2
+|r3m2t2p1=SaiX |r3m2t2p1flag=es
+|r3m2t2p2=Marah |r3m2t2p2flag=es |r3m2t2score=0
+|r3m2win=1
+
+|r3m3t1p1=Professor Pro |r3m3t1p1flag=gb
+|r3m3t1p2=Zgetto |r3m3t1p2flag=nl |r3m3t1score=2
+|r3m3t2p1=JMYL |r3m3t2p1flag=nl
+|r3m3t2p2=Atlas |r3m3t2p2flag=nl |r3m3t2score=0
+|r3m3win=1
+
+|r3m4t1p1=HomeMadeWaffles |r3m4t1p1flag=us
+|r3m4t1p2=Druggedfox |r3m4t1p2flag=us |r3m4t1score=2
+|r3m4t2p1=Xardov |r3m4t2p1flag=es
+|r3m4t2p2=Liax |r3m4t2p2flag=es |r3m4t2score=0
+|r3m4win=1
+
+<!-- ROUND 4 -->
+|r4m1t1p1=Trif |r4m1t1p1flag=es
+|r4m1t1p2=Overtriforce |r4m1t1p2flag=es |r4m1t1score=3
+|r4m1t2p1=BrTarolg |r4m1t2p1flag=gb
+|r4m1t2p2=Amsah |r4m1t2p2flag=nl |r4m1t2score=2
+|r4m1win=1
+
+|r4m2t1p1=Professor Pro |r4m2t1p1flag=gb
+|r4m2t1p2=Zgetto |r4m2t1p2flag=nl |r4m2t1score=3
+|r4m2t2p1=HomeMadeWaffles |r4m2t2p1flag=us
+|r4m2t2p2=Druggedfox |r4m2t2p2flag=us |r4m2t2score=0
+|r4m2win=1
+}}
+==Losers Bracket==
+{{24DEDoublesLBracketSmwA
+|tourneylink=Kickstart/14
+|tourneyname=Kickstart 14
+|l1placement=17-24
+|l2placement=13-16
+|l3placement=9-12
+|l4placement=7-8
+|l5placement=5-6
+|column-width=170
+
+<!-- ROUND 1 -->
+|l1m1t1p1=lord.ape.69 |l1m1t1p1flag=gb
+|l1m1t1p2=Morinth |l1m1t1p2flag=gb |l1m1t1score=0
+|l1m1t2p1=Molten |l1m1t2p1flag=gb
+|l1m1t2p2=BanBang |l1m1t2p2flag=gb |l1m1t2score=2
+|l1m1win=2
+
+|l1m2t1p1=YellooW |l1m2t1p1flag=gb
+|l1m2t1p2=Loto |l1m2t1p2flag=gb |l1m2t1score={{win}}
+|l1m2t2p1=Bye |l1m2t2p1flag=
+|l1m2t2p2=Bye |l1m2t2p2flag= |l1m2t2score=
+|l1m2win=1
+
+|l1m3t1p1=RashAttack |l1m3t1p1flag=sd
+|l1m3t1p2=Harambe's Avenger |l1m3t1p2flag=gb |l1m3t1score={{win}}
+|l1m3t2p1=Bye |l1m3t2p1flag=
+|l1m3t2p2=Bye |l1m3t2p2flag= |l1m3t2score=
+|l1m3win=1
+
+|l1m4t1p1=Lalzu |l1m4t1p1flag=gb
+|l1m4t1p2=Munx |l1m4t1p2flag=gb |l1m4t1score={{win}}
+|l1m4t2p1=Bye |l1m4t2p1flag=
+|l1m4t2p2=Bye |l1m4t2p2flag= |l1m4t2score=
+|l1m4win=1
+
+|l1m5t1p1=WadaWada |l1m5t1p1flag=gb
+|l1m5t1p2=chrisw |l1m5t1p2flag=gb |l1m5t1score={{win}}
+|l1m5t2p1=Bye |l1m5t2p1flag=
+|l1m5t2p2=Bye |l1m5t2p2flag= |l1m5t2score=
+|l1m5win=1
+
+|l1m6t1p1=Skut |l1m6t1p1flag=gb
+|l1m6t1p2=Ewar |l1m6t1p2flag=gb |l1m6t1score={{win}}
+|l1m6t2p1=Bye |l1m6t2p1flag=
+|l1m6t2p2=Bye |l1m6t2p2flag= |l1m6t2score=
+|l1m6win=1
+
+|l1m7t1p1=Roan |l1m7t1p1flag=gb
+|l1m7t1p2=Mordo |l1m7t1p2flag=gb |l1m7t1score={{win}}
+|l1m7t2p1=Bye |l1m7t2p1flag=
+|l1m7t2p2=Bye |l1m7t2p2flag= |l1m7t2score=
+|l1m7win=1
+
+|l1m8t1p1=FileSmile |l1m8t1p1flag=gb
+|l1m8t1p2=Boohbah |l1m8t1p2flag=gb |l1m8t1score={{win}}
+|l1m8t2p1=Bye |l1m8t2p1flag=
+|l1m8t2p2=Bye |l1m8t2p2flag= |l1m8t2score=
+|l1m8win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Molten |l2m1t1p1flag=gb
+|l2m1t1p2=BanBang |l2m1t1p2flag=gb |l2m1t1score=2
+|l2m1t2p1=YellooW |l2m1t2p1flag=gb
+|l2m1t2p2=Loto |l2m1t2p2flag=gb |l2m1t2score=0
+|l2m1win=1
+
+|l2m2t1p1=RashAttack |l2m2t1p1flag=sd
+|l2m2t1p2=Harambe's Avenger |l2m2t1p2flag=gb |l2m2t1score=DQ
+|l2m2t2p1=Lalzu |l2m2t2p1flag=gb
+|l2m2t2p2=Munx |l2m2t2p2flag=gb |l2m2t2score={{win}}
+|l2m2win=2
+
+|l2m3t1p1=WadaWada |l2m3t1p1flag=gb
+|l2m3t1p2=chrisw |l2m3t1p2flag=gb |l2m3t1score=2
+|l2m3t2p1=Skut |l2m3t2p1flag=gb
+|l2m3t2p2=Ewar |l2m3t2p2flag=gb |l2m3t2score=1
+|l2m3win=1
+
+|l2m4t1p1=Roan |l2m4t1p1flag=gb
+|l2m4t1p2=Mordo |l2m4t1p2flag=gb |l2m4t1score=2
+|l2m4t2p1=FileSmile |l2m4t2p1flag=gb
+|l2m4t2p2=Boohbah |l2m4t2p2flag=gb |l2m4t2score=0
+|l2m4win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=SaiX |l3m1t1p1flag=es
+|l3m1t1p2=Marah |l3m1t1p2flag=es |l3m1t1score=2
+|l3m1t2p1=Molten |l3m1t2p1flag=gb
+|l3m1t2p2=BanBang |l3m1t2p2flag=gb |l3m1t2score=0
+|l3m1win=1
+
+|l3m2t1p1=Okameed |l3m2t1p1flag=gb
+|l3m2t1p2=Reb |l3m2t1p2flag=gb |l3m2t1score=2
+|l3m2t2p1=Lalzu |l3m2t2p1flag=gb
+|l3m2t2p2=Munx |l3m2t2p2flag=gb |l3m2t2score=0
+|l3m2win=1
+
+|l3m3t1p1=Xardov |l3m3t1p1flag=es
+|l3m3t1p2=Liax |l3m3t1p2flag=es |l3m3t1score=2
+|l3m3t2p1=WadaWada |l3m3t2p1flag=gb
+|l3m3t2p2=chrisw |l3m3t2p2flag=gb |l3m3t2score=0
+|l3m3win=1
+
+|l3m4t1p1=JMYL |l3m4t1p1flag=nl
+|l3m4t1p2=Atlas |l3m4t1p2flag=nl |l3m4t1score=2
+|l3m4t2p1=Roan |l3m4t2p1flag=gb
+|l3m4t2p2=Mordo |l3m4t2p2flag=gb |l3m4t2score=1
+|l3m4win=1
+
+<!-- ROUND 4 -->
+|l4m1t1p1=SaiX |l4m1t1p1flag=es
+|l4m1t1p2=Marah |l4m1t1p2flag=es |l4m1t1score=1
+|l4m1t2p1=Okameed |l4m1t2p1flag=gb
+|l4m1t2p2=Reb |l4m1t2p2flag=gb |l4m1t2score=2
+|l4m1win=2
+
+|l4m2t1p1=Xardov |l4m2t1p1flag=es
+|l4m2t1p2=Liax |l4m2t1p2flag=es |l4m2t1score=2
+|l4m2t2p1=JMYL |l4m2t2p1flag=nl
+|l4m2t2p2=Atlas |l4m2t2p2flag=nl |l4m2t2score=0
+|l4m2win=1
+
+<!-- ROUND 5 -->
+|l5m1t1p1=HomeMadeWaffles |l5m1t1p1flag=us
+|l5m1t1p2=Druggedfox |l5m1t1p2flag=us |l5m1t1score=3
+|l5m1t2p1=Okameed |l5m1t2p1flag=gb
+|l5m1t2p2=Reb |l5m1t2p2flag=gb |l5m1t2score=0
+|l5m1win=1
+
+|l5m2t1p1=BrTarolg |l5m2t1p1flag=gb
+|l5m2t1p2=Amsah |l5m2t1p2flag=nl |l5m2t1score=3
+|l5m2t2p1=Xardov |l5m2t2p1flag=es
+|l5m2t2p2=Liax |l5m2t2p2flag=es |l5m2t2score=1
+|l5m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink =Kickstart/14
+|tourneyname =Kickstart 14
+|l1placement = 4
+|r2placement = 3
+|r3loserplacement = 2
+|r3winnerplacement = 1
+|column-width=170
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Trif |r1m1t1p1flag=es
+|r1m1t1p2=Overtriforce |r1m1t1p2flag=es |r1m1t1score=2
+|r1m1t2p1=Professor Pro |r1m1t2p1flag=gb
+|r1m1t2p2=Zgetto |r1m1t2p2flag=nl |r1m1t2score=3
+|r1m1win=2
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=HomeMadeWaffles |l1m1t1p1flag=us
+|l1m1t1p2=Druggedfox |l1m1t1p2flag=us |l1m1t1score=3
+|l1m1t2p1=BrTarolg |l1m1t2p1flag=gb
+|l1m1t2p2=Amsah |l1m1t2p2flag=nl |l1m1t2score=1
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Trif |r2m1t1p1flag=es
+|r2m1t1p2=Overtriforce |r2m1t1p2flag=es |r2m1t1score=3
+|r2m1t2p1=HomeMadeWaffles |r2m1t2p1flag=us
+|r2m1t2p2=Druggedfox |r2m1t2p2flag=us |r2m1t2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Professor Pro |r3m1t1p1flag=gb
+|r3m1t1p2=Zgetto |r3m1t1p2flag=nl |r3m1t1score=0 |r3m2t1score=3
+|r3m1t2p1=Trif |r3m1t2p1flag=es
+|r3m1t2p2=Overtriforce |r3m1t2p2flag=es |r3m1t2score=3 |r3m2t2score=0
+|r3m1win=1
+}}
+</onlyinclude>

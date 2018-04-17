@@ -1,0 +1,101 @@
+{{DISPLAYTITLE:Low Tier City 5: ''Melee'' Doubles Pools}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Low Tier City/5/Melee
+|name2=Singles Pools
+|link2=Low Tier City/5/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Low Tier City/5/Melee/Singles Bracket
+|name4=Doubles Pools
+|link4=Low Tier City/5/Melee/Doubles Pools
+|name5=Doubles Bracket
+|link5=Low Tier City/5/Melee/Doubles Bracket
+|This=4
+}}
+==Wave A==
+{{Box|start|padding=2em}}
+==={{HiddenSort|A1}}===
+{{GroupTableStart |Bracket A1|width=300px}}
+{{DoublesGroupTableSlot|p1=Mojo|p1flag=us|p2=Jake13|p2flag=us|win_m=4|lose_m=0|place=1|bg=up|go={{advance|Low Tier City/5/Melee/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=Bobby Frizz|p1flag=us|p2=Unspecial|p2flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|Low Tier City/5/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Jelly|p1flag=us|p2=JPeGImage|p2flag=us|win_m=4|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=Flux|p1flag=us|p2=Dizney|p2flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Krbay|p1flag=us|p2=GibbV|p2flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Funcrazyfish|p1flag=us|p2=Guts|p2flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Marthus|p1flag=us|p2=Hentai Boy|p2flag=|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Coda|p1flag=us|p2=Starr|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Ouija|p1flag=us|p2=Dusk|p2flag=|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Teaspoon|p1flag=us|p2=Blynde|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=TheDormouse|p1flag=us|p2=Bozo the Fox|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Neighbor|p1flag=us|p2=Luca$$|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Doctor Moseley|p1flag=us|p2=happykuma|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=$pud|p1flag=us|p2=pizza|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=Myst|p1flag=us|p2=shinecrime|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=Cilan|p1flag=us|p2=BestfriendJohn|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|A2}}===
+{{GroupTableStart |Bracket A2|width=300px}}
+{{DoublesGroupTableSlot|p1=SFOP|p1flag=us|p2=Nerin|p2flag=us|win_m=4|lose_m=0|place=1|bg=up|go={{advance|Low Tier City/5/Melee/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=Schythed|p1flag=us|p2=Yardo|p2flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|Low Tier City/5/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Cuda|p1flag=us|p2=Profanity|p2flag=us|win_m=5|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=Dragedo|p1flag=us|p2=Reesch|p2flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Brr|p1flag=us|p2=Nihlus|p2flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Scuttles|p1flag=us|p2=Chia|p2flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Sledj|p1flag=us|p2=ewd444|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=cooltigerdude|p1flag=us|p2=Nasty|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=SHwang|p1flag=us|p2=RaulWalrus|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=CPU|p1flag=us|p2=4C|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=sock|p1flag=us|p2=Dawsaroni|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Melo|p1flag=us|p2=Nox|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=JELLO|p1flag=us|p2=Prison Mike|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=Mouf|p1flag=us|p2=hamyojo|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=Pizza|p1flag=us|p2=TheEagle3805|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=Rufio|p1flag=us|p2=CaRai|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}
+
+==Wave B==
+{{Box|start|padding=2em}}
+==={{HiddenSort|B1}}===
+{{GroupTableStart |Bracket B1|width=300px}}
+{{DoublesGroupTableSlot|p1=Lucky|p1flag=us|p2=Alex19|p2flag=us|win_m=4|lose_m=0|place=1|bg=up|go={{advance|Low Tier City/5/Melee/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=ALP|p1flag=us|p2=Die-Lawn|p2flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|Low Tier City/5/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Mijo!|p1flag=us|p2=Pit|p2flag=us|win_m=4|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=MT|p1flag=us|p2=Tirno|p2flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Thunder|p1flag=us|p2=NG_Roytheboi|p2flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Phantom|p1flag=us|p2=ChurchNEOH|p2flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=7Rimz|p1flag=us|p2=Soulster|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Blitzbolt|p1flag=us|p2=Clouded|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Sock|p1flag=us|p2=Grumpy|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=g-RACE|p1flag=us|p2=Citrus|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=TITS|p1flag=us|p2=Oak Trunks|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Park|p1flag=|p2=gh0st|p2flag=|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Amityus|p1flag=us|p2=Blade|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=saltyspitoon|p1flag=us|p2=BeerMelancon|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=Ramrow|p1flag=us|p2=Mayo|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=Graysenpai|p1flag=us|p2=D'artagnan|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|B2}}===
+{{GroupTableStart |Bracket B2|width=300px}}
+{{DoublesGroupTableSlot|p1=Albert|p1flag=us|p2=Tai|p2flag=us|win_m=4|lose_m=0|place=1|bg=up|go={{advance|Low Tier City/5/Melee/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=bluezaft|p1flag=us|p2=Bananas|p2flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|Low Tier City/5/Melee/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Jeff Foxworthy|p1flag=us|p2=SpaceAnimalz.com|p2flag=us|win_m=4|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=Peachy Keen|p1flag=us|p2=Tanooki|p2flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=DUBS|p1flag=us|p2=Mr. Gingey|p2flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=JaggedCole|p1flag=us|p2=GP|p2flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=vyn|p1flag=us|p2=arby|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Daze|p1flag=us|p2=Gabi|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Xane|p1flag=us|p2=Timestop|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Heath|p1flag=us|p2=Dannnnnn|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=ProtagonistG|p1flag=us|p2=Pied|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Nich|p1flag=us|p2=Not Thor|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Tooth|p1flag=us|p2=025|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=Rotor|p1flag=us|p2=Ryebread|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=bobman|p1flag=us|p2=Spriggs|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{DoublesGroupTableSlot|p1=King Koopa|p1flag=us|p2=jrighteous15|p2flag=|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}

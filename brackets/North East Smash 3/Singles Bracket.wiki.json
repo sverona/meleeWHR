@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Socks",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "Willz",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Cpt. Zeppo",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Cpt. Zeppo",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Willz",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p2": "Willz",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "1"
+        },
+        "r3m2": {
+            "p2score": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "GWAG",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "DuckSlayer",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "skrull",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Ducker",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "CPU",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Frenzy",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Suey",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Ac_Anon",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "TimeMuffin",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "DuckSlayer",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "DDiz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Ducker",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Shufu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "CPU",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Hen",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Ac_Anon",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "TimeMuffin",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "DDiz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Shufu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Hen",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Socks",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "TimeMuffin",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Willz",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Shufu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "GWAG",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "DuckSlayer",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Hen",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Shufu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "skrull",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Socks",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Ducker",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Willz",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "CPU",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Frenzy",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "DDiz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Cpt. Zeppo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Suey",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Ac_Anon",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "TimeMuffin",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Hen",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Shufu",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Socks",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Willz",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "DDiz",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Cpt. Zeppo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "TimeMuffin",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Socks",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Willz",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Cpt. Zeppo",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        }
+    }
+}

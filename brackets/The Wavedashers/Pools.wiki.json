@@ -1,0 +1,282 @@
+{
+    "===Finals Bracket===": {
+        "l1m1": {
+            "p1": "Luke_leal",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Joker",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Leso",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Slug",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Slug",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Joker",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Leso",
+            "p1flag": "br",
+            "p1score": "advance",
+            "p2": "Slug",
+            "p2flag": "br",
+            "p2score": "advance",
+            "win": ""
+        }
+    },
+    "===Losers Bracket===": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Dindro",
+            "p2flag": "br",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l2m1": {
+            "p1": "wizzzi",
+            "p1flag": "br",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Quinho",
+            "p1flag": "br",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Geek",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Dindro",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Afro",
+            "p1flag": "br",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "wizzzi",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Quinho",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Dindro",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Afro",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Luke_leal",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Quinho",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Joker",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Afro",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "===Winners Bracket===": {
+        "r1m1": {
+            "p1": "Leso",
+            "p1flag": "br",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Afro",
+            "p1flag": "br",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Luke_leal",
+            "p1flag": "br",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Geek",
+            "p1flag": "br",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Joker",
+            "p1flag": "br",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Dindro",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Quinho",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Slug",
+            "p1flag": "br",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "wizzzi",
+            "p1flag": "br",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Leso",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Afro",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Luke_leal",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Geek",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Joker",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Quinho",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Slug",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "wizzzi",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Leso",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Luke_leal",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Joker",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Slug",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        }
+    },
+    "==Pool A==": {},
+    "==Pool B==": {},
+    "==Pool C==": {},
+    "==Pool D==": {}
+}

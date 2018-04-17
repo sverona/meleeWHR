@@ -1,0 +1,119 @@
+{{DISPLAYTITLE:Pound V.5: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Pound/V.5/Melee
+|name2=Singles Bracket
+|link2=Pound/V.5/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=Pound/V.5/Melee/Doubles Bracket
+|This=2
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{4DE4SSmwBracket
+|tourneylink=Pound/V.5/Melee
+|tourneyname=Pound V.5
+|l1placement=7-8
+|l2placement=5-6
+|l3placement=4
+|l4placement=3
+|r5loserplacement=2
+|r5winnerplacement=1
+|disableheads=true
+|export_score=true
+|column-width=140
+
+<!-- WINNERS BRACKET -->
+|r2m1p1=Mew2King |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Cactuar |r2m1p2flag=us |r2m1p2score=1
+|r2m1win=1
+|r2m1p1char1=sheik |r2m1p2char1=fox |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=marth |r2m1p2char2=fox |r2m1p1stock2=2 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1p1char3=sheik |r2m1p2char3=fox |r2m1p1stock3=1 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Dream Land
+|r2m1p1char4=sheik |r2m1p2char4=fox |r2m1p1stock4=2 |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Dream Land
+|r2m1date=November 9, 2013
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/W9TXYoeTBpY}}
+
+|r2m2p1=Mango |r2m2p1flag=us |r2m2p1score={{win}}
+|r2m2p2=Chillindude |r2m2p2flag=us |r2m2p2score=
+|r2m2win=1
+|r2m2p1char1=cf |r2m2p2char1=fox |r2m2p1stock1=1 |r2m2p2stock1=0 |r2m2win1=1 |r2m2stage1=Dream Land
+|r2m2p1char2=cf |r2m2p2char2=fox |r2m2p1stock2=0 |r2m2p2stock2=1 |r2m2win2=2 |r2m2stage2=Final Destination
+|r2m2p1char3=cf |r2m2p2char3=fox |r2m2p1stock3= |r2m2p2stock3= |r2m2win3= |r2m2stage3=Pokémon Stadium
+|r2m2date=November 9, 2013
+|r2m2details={{BracketMatchDetails|reddit=|comment=The VOD is incomplete.|vod=https://youtu.be/dkiFATCIs5g}}
+
+|r4m1p1=Mew2King |r4m1p1flag=us |r4m1p1score=3
+|r4m1p2=Mango |r4m1p2flag=us |r4m1p2score=0
+|r4m1win=1
+|r4m1date=November 9, 2013
+|r4m1p1char1=sheik |r4m1p2char1=cf |r4m1p1stock1=3 |r4m1p2stock1=0 |r4m1win1=1 |r4m1stage1=Dream Land
+|r4m1p1char2=sheik |r4m1p2char2=cf |r4m1p1stock2=1 |r4m1p2stock2=0 |r4m1win2=1 |r4m1stage2=Dream Land
+|r4m1p1char3=sheik |r4m1p2char3=cf |r4m1p1stock3=4 |r4m1p2stock3=0 |r4m1win3=1 |r4m1stage3=Dream Land
+|r4m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/b3BJD0i8zMo}}
+
+<!-- LOSERS BRACKET -->
+|l1m1p1=Vist |l1m1p1flag=us |l1m1p1score=2
+|l1m1p2=Plank |l1m1p2flag=us |l1m1p2score=1
+|l1m1win=1
+|l1m1p1char1=luigi |l1m1p2char1=sheik |l1m1p1stock1=0 |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Fountain of Dreams
+|l1m1p1char2=luigi |l1m1p2char2=sheik |l1m1p1stock2=3 |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Dream Land
+|l1m1p1char3=luigi |l1m1p2char3=sheik |l1m1p1stock3=1 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Battlefield
+|l1m1date=November 9, 2013
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/gLQRXMD2m4s}}
+
+|l1m2p1=Abate |l1m2p1flag=us |l1m2p1score={{win}}
+|l1m2p2=Mafia |l1m2p2flag=us |l1m2p2score=
+|l1m2win=1
+
+|l2m1p1=Chillindude |l2m1p1flag=us |l2m1p1score=2
+|l2m1p2=Vist |l2m1p2flag=us |l2m1p2score=0
+|l2m1win=1
+|l2m1p1char1=fox |l2m1p2char1=luigi |l2m1p1stock1=2 |l2m1p2stock1=0 |l2m1win1=1 |l2m1stage1=Final Destination
+|l2m1p1char2=fox |l2m1p2char2=luigi |l2m1p1stock2=1 |l2m1p2stock2=0 |l2m1win2=1 |l2m1stage2=Fountain of Dreams
+|l2m1date=November 9, 2013
+|l2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/lENTIihUrUU}}
+
+|l2m2p1=Cactuar |l2m2p1flag=us |l2m2p1score=1
+|l2m2p2=Abate |l2m2p2flag=us |l2m2p2score=2
+|l2m2win=2
+|l2m2p1char1=fox |l2m2p2char1=luigi |l2m2p1stock1=1 |l2m2p2stock1=0 |l2m2win1=1 |l2m2stage1=Yoshi's Story
+|l2m2p1char2=fox |l2m2p2char2=luigi |l2m2p1stock2=0 |l2m2p2stock2=1 |l2m2win2=2 |l2m2stage2=Battlefield
+|l2m2p1char3=fox |l2m2p2char3=luigi |l2m2p1stock3=0 |l2m2p2stock3=1 |l2m2win3=2 |l2m2stage3=Dream Land
+|l2m2date=November 9, 2013
+|l2m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/O4HAlZ0EkXQ}}
+
+|l3m1p1=Chillindude |l3m1p1flag=us |l3m1p1score=3
+|l3m1p2=Abate |l3m1p2flag=us |l3m1p2score=0
+|l3m1win=1
+|l3m1p1char1=fox |l3m1p2char1=luigi |l3m1p1stock1=2 |l3m1p2stock1=0 |l3m1win1=1 |l3m1stage1=Yoshi's Story
+|l3m1p1char2=fox |l3m1p2char2=luigi |l3m1p1stock2=1 |l3m1p2stock2=0 |l3m1win2=1 |l3m1stage2=Battlefield
+|l3m1p1char3=fox |l3m1p2char3=luigi |l3m1p1stock3=1 |l3m1p2stock3=0 |l3m1win3=1 |l3m1stage3=Battlefield
+|l3m1date=November 9, 2013
+|l3m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/Kx-f24du9Fg}}
+
+<!-- LOSERS FINALS -->
+|l4m1p1=Mango |l4m1p1flag=us |l4m1p1score=3
+|l4m1p2=Chillindude |l4m1p2flag=us |l4m1p2score=2
+|l4m1win=1
+|l4m1p1char1=cf |l4m1p2char1=fox |l4m1p1stock1=0 |l4m1p2stock1=1 |l4m1win1=2 |l4m1stage1=Yoshi's Story
+|l4m1p1char2=cf |l4m1p2char2=fox |l4m1p1stock2=0 |l4m1p2stock2=1 |l4m1win2=2 |l4m1stage2=Dream Land
+|l4m1p1char3=marth |l4m1p2char3=fox |l4m1p1stock3=3 |l4m1p2stock3=0 |l4m1win3=1 |l4m1stage3=Yoshi's Story
+|l4m1p1char4=marth |l4m1p2char4=fox |l4m1p1stock4=2 |l4m1p2stock4=0 |l4m1win4=1 |l4m1stage4=Final Destination
+|l4m1p1char5=marth |l4m1p2char5=fox |l4m1p1stock5=1 |l4m1p2stock5=0 |l4m1win5=1 |l4m1stage5=Pokémon Stadium
+|l4m1date=November 9, 2013
+|l4m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/AbArS_xkbCI}}
+
+<!-- GRAND FINALS -->
+|r5m1p1=Mew2King |r5m1p1flag=us |r5m1p1score=3
+|r5m1p2=Mango |r5m1p2flag=us |r5m1p2score=1
+|r5m1win=1
+|r5m1date=November 9, 2013
+|r5m1p1char1=sheik |r5m1p2char1=marth |r5m1p1stock1=1 |r5m1p2stock1=0 |r5m1win1=1 |r5m1stage1=Battlefield
+|r5m1p1char2=sheik |r5m1p2char2=falco |r5m1p1stock2=1 |r5m1p2stock2=0 |r5m1win2=1 |r5m1stage2=Yoshi's Story
+|r5m1p1char3=sheik |r5m1p2char3=falco |r5m1p1stock3=0 |r5m1p2stock3=1 |r5m1win3=2 |r5m1stage3=Yoshi's Story
+|r5m1p1char4=marth |r5m1p2char4=falco |r5m1p1stock4=3 |r5m1p2stock4=0 |r5m1win4=1 |r5m1stage4=Final Destination
+|r5m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/fE1ciQ_GTSM}}
+|r5m1finished=true
+}}
+</onlyinclude>

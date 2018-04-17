@@ -1,0 +1,234 @@
+{{DISPLAYTITLE:Kickstart 2: Doubles Bracket}}{{tabs static
+|name1=Overview
+|link1=Kickstart/2
+|name2=Singles Bracket
+|link2=Kickstart/2/Singles Bracket
+|name3=Doubles Bracket
+|link3=Kickstart/2/Doubles Bracket
+|This=3
+}}
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipediadoubles name=KS2Doubles -->
+ 
+==Winners Bracket==
+{{16DEDoublesWBracketA
+|r1m1t1p1=Professor Pro |r1m1t1p1flag=gb
+|r1m1t1p2=Eikelmann |r1m1t1p2flag=ru |r1m1t1score=W
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=-
+|r1m1win=1
+ 
+ 
+|r1m2t1p1=Lorenzo |r1m2t1p1flag=
+|r1m2t1p2=CptNebula |r1m2t1p2flag= |r1m2t1score=2
+|r1m2t2p1=Kitanamonk |r1m2t2p1flag=
+|r1m2t2p2=MonkeyMut |r1m2t2p2flag= |r1m2t2score=1
+|r1m2win=1
+ 
+ 
+|r1m3t1p1=Deathgazer |r1m3t1p1flag=gb
+|r1m3t1p2=JoMo |r1m3t1p2flag=gb |r1m3t1score=2
+|r1m3t2p1=Chube |r1m3t2p1flag=
+|r1m3t2p2=Star |r1m3t2p2flag= |r1m3t2score=0
+|r1m3win=1
+ 
+ 
+|r1m4t1p1=BrTarolg |r1m4t1p1flag=gb
+|r1m4t1p2=Oytun |r1m4t1p2flag= |r1m4t1score=2
+|r1m4t2p1=Tchuk |r1m4t2p1flag=
+|r1m4t2p2=Kamone |r1m4t2p2flag= |r1m4t2score=0
+|r1m4win=1
+ 
+ 
+|r1m5t1p1=Baxon |r1m5t1p1flag=fr
+|r1m5t1p2=Dev |r1m5t1p2flag=se |r1m5t1score=W
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=-
+|r1m5win=1
+ 
+ 
+|r1m6t1p1=M.M Molgera |r1m6t1p1flag=
+|r1m6t1p2=frugs |r1m6t1p2flag= |r1m6t1score=2
+|r1m6t2p1=Yuppie |r1m6t2p1flag=
+|r1m6t2p2=winty_dono |r1m6t2p2flag= |r1m6t2score=0
+|r1m6win=1
+ 
+ 
+|r1m7t1p1=R23 |r1m7t1p1flag=gb
+|r1m7t1p2=Alpha Dash |r1m7t1p2flag=gb |r1m7t1score=2
+|r1m7t2p1=Rogue |r1m7t2p1flag=
+|r1m7t2p2=G |r1m7t2p2flag= |r1m7t2score=0
+|r1m7win=1
+ 
+ 
+|r1m8t1p1=JMG |r1m8t1p1flag=
+|r1m8t1p2=23 |r1m8t1p2flag= |r1m8t1score=2
+|r1m8t2p1=Moby |r1m8t2p1flag=
+|r1m8t2p2=Dazy |r1m8t2p2flag= |r1m8t2score=0
+|r1m8win=1
+ 
+ 
+|r2m1t1p1=Professor Pro |r2m1t1p1flag=gb
+|r2m1t1p2=Eikelmann |r2m1t1p2flag=ru |r2m1t1score=3
+|r2m1t2p1=Lorenzo |r2m1t2p1flag=
+|r2m1t2p2=CptNebula |r2m1t2p2flag= |r2m1t2score=0
+|r2m1win=1
+ 
+ 
+|r2m2t1p1=Deathgazer |r2m2t1p1flag=gb
+|r2m2t1p2=JoMo |r2m2t1p2flag=gb |r2m2t1score=3
+|r2m2t2p1=BrTarolg |r2m2t2p1flag=gb
+|r2m2t2p2=Oytun |r2m2t2p2flag= |r2m2t2score=1
+|r2m2win=1
+ 
+ 
+|r2m3t1p1=Baxon |r2m3t1p1flag=fr
+|r2m3t1p2=Dev |r2m3t1p2flag=se |r2m3t1score=3
+|r2m3t2p1=M.M Molgera |r2m3t2p1flag=
+|r2m3t2p2=frugs |r2m3t2p2flag= |r2m3t2score=0
+|r2m3win=1
+ 
+ 
+|r2m4t1p1=R23 |r2m4t1p1flag=gb
+|r2m4t1p2=Alpha Dash |r2m4t1p2flag=gb |r2m4t1score=3
+|r2m4t2p1=JMG |r2m4t2p1flag=
+|r2m4t2p2=23 |r2m4t2p2flag= |r2m4t2score=0
+|r2m4win=1
+ 
+ 
+|r3m1t1p1=Professor Pro |r3m1t1p1flag=gb
+|r3m1t1p2=Eikelmann |r3m1t1p2flag=ru |r3m1t1score=3
+|r3m1t2p1=Deathgazer |r3m1t2p1flag=gb
+|r3m1t2p2=JoMo |r3m1t2p2flag=gb |r3m1t2score=0
+|r3m1win=1
+ 
+ 
+|r3m2t1p1=Baxon |r3m2t1p1flag=fr
+|r3m2t1p2=Dev |r3m2t1p2flag=se |r3m2t1score=3
+|r3m2t2p1=R23 |r3m2t2p1flag=gb
+|r3m2t2p2=Alpha Dash |r3m2t2p2flag=gb |r3m2t2score=1
+|r3m2win=1
+ 
+}}
+ 
+==Losers Bracket==
+{{16DEDoublesLBracketA
+|l1m1t1p1=Bye |l1m1t1p1flag=
+|l1m1t1p2=Bye |l1m1t1p2flag= |l1m1t1score=-
+|l1m1t2p1=Kitanamonk |l1m1t2p1flag=
+|l1m1t2p2=MonkeyMut |l1m1t2p2flag= |l1m1t2score=W
+|l1m1win=2
+ 
+ 
+|l1m2t1p1=Chube |l1m2t1p1flag=
+|l1m2t1p2=Star |l1m2t1p2flag= |l1m2t1score=3
+|l1m2t2p1=Tchuk |l1m2t2p1flag=
+|l1m2t2p2=Kamone |l1m2t2p2flag= |l1m2t2score=0
+|l1m2win=1
+ 
+ 
+|l1m3t1p1=Bye |l1m3t1p1flag=
+|l1m3t1p2=Bye |l1m3t1p2flag= |l1m3t1score=-
+|l1m3t2p1=Yuppie |l1m3t2p1flag=
+|l1m3t2p2=winty_dono |l1m3t2p2flag= |l1m3t2score=W
+|l1m3win=2
+ 
+ 
+|l1m4t1p1=Rogue |l1m4t1p1flag=
+|l1m4t1p2=G |l1m4t1p2flag= |l1m4t1score=3
+|l1m4t2p1=Moby |l1m4t2p1flag=
+|l1m4t2p2=Dazy |l1m4t2p2flag= |l1m4t2score=1
+|l1m4win=1
+ 
+ 
+|l2m1t1p1=JMG |l2m1t1p1flag=
+|l2m1t1p2=23 |l2m1t1p2flag= |l2m1t1score=3
+|l2m1t2p1=Kitanamonk |l2m1t2p1flag=
+|l2m1t2p2=MonkeyMut |l2m1t2p2flag= |l2m1t2score=2
+|l2m1win=1
+ 
+ 
+|l2m2t1p1=M.M Molgera |l2m2t1p1flag=
+|l2m2t1p2=frugs |l2m2t1p2flag= |l2m2t1score=3
+|l2m2t2p1=Chube |l2m2t2p1flag=
+|l2m2t2p2=Star |l2m2t2p2flag= |l2m2t2score=2
+|l2m2win=1
+ 
+ 
+|l2m3t1p1=BrTarolg |l2m3t1p1flag=gb
+|l2m3t1p2=Oytun |l2m3t1p2flag= |l2m3t1score=3
+|l2m3t2p1=Yuppie |l2m3t2p1flag=
+|l2m3t2p2=winty_dono |l2m3t2p2flag= |l2m3t2score=1
+|l2m3win=1
+ 
+ 
+|l2m4t1p1=Lorenzo |l2m4t1p1flag=
+|l2m4t1p2=CptNebula |l2m4t1p2flag= |l2m4t1score=0
+|l2m4t2p1=Rogue |l2m4t2p1flag=
+|l2m4t2p2=G |l2m4t2p2flag= |l2m4t2score=3
+|l2m4win=2
+ 
+ 
+|l3m1t1p1=JMG |l3m1t1p1flag=
+|l3m1t1p2=23 |l3m1t1p2flag= |l3m1t1score=3
+|l3m1t2p1=M.M Molgera |l3m1t2p1flag=
+|l3m1t2p2=frugs |l3m1t2p2flag= |l3m1t2score=0
+|l3m1win=1
+ 
+ 
+|l3m2t1p1=BrTarolg |l3m2t1p1flag=gb
+|l3m2t1p2=Oytun |l3m2t1p2flag= |l3m2t1score=3
+|l3m2t2p1=Rogue |l3m2t2p1flag=
+|l3m2t2p2=G |l3m2t2p2flag= |l3m2t2score=0
+|l3m2win=1
+ 
+ 
+|l4m1t1p1=Deathgazer |l4m1t1p1flag=gb
+|l4m1t1p2=JoMo |l4m1t1p2flag=gb |l4m1t1score=3
+|l4m1t2p1=JMG |l4m1t2p1flag=
+|l4m1t2p2=23 |l4m1t2p2flag= |l4m1t2score=0
+|l4m1win=1
+ 
+ 
+|l4m2t1p1=R23 |l4m2t1p1flag=gb
+|l4m2t1p2=Alpha Dash |l4m2t1p2flag=gb |l4m2t1score=3
+|l4m2t2p1=BrTarolg |l4m2t2p1flag=gb
+|l4m2t2p2=Oytun |l4m2t2p2flag= |l4m2t2score=0
+|l4m2win=1
+ 
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesBracket
+<!-- FROM WINNERS -->
+|r1m1t1p1=Professor Pro |r1m1t1p1flag=gb
+|r1m1t1p2=Eikelmann |r1m1t1p2flag=ru |r1m1t1score=3
+|r1m1t2p1=Baxon |r1m1t2p1flag=fr
+|r1m1t2p2=Dev |r1m1t2p2flag=se |r1m1t2score=2
+|r1m1win=1
+ 
+ 
+<!-- FROM LOSERS -->
+|l1m1t1p1=Deathgazer |l1m1t1p1flag=gb
+|l1m1t1p2=JoMo |l1m1t1p2flag=gb |l1m1t1score=1
+|l1m1t2p1=R23 |l1m1t2p1flag=gb
+|l1m1t2p2=Alpha Dash |l1m1t2p2flag=gb |l1m1t2score=3
+|l1m1win=2
+ 
+ 
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Baxon |r2m1t1p1flag=fr
+|r2m1t1p2=Dev |r2m1t1p2flag=se |r2m1t1score=3
+|r2m1t2p1=R23 |r2m1t2p1flag=gb
+|r2m1t2p2=Alpha Dash |r2m1t2p2flag=gb |r2m1t2score=2
+|r2m1win=1
+ 
+ 
+<!-- GRAND FINALS -->
+|r3m1t1p1=Professor Pro |r3m1t1p1flag=gb
+|r3m1t1p2=Eikelmann |r3m1t1p2flag=ru |r3m1t1score=3
+|r3m1t2p1=Baxon |r3m1t2p1flag=fr
+|r3m1t2p2=Dev |r3m1t2p2flag=se |r3m1t2score=2
+|r3m1win=1
+ 
+}}
+</onlyinclude>

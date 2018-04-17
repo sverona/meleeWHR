@@ -1,0 +1,183 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "B-WAR",
+            "t1p1flag": "us",
+            "t1p2": "Qerb",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "MPK",
+            "t2p1flag": "us",
+            "t2p2": "emilywaves",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m1": {
+            "t1p1": "DJ Nintendo",
+            "t1p1flag": "us",
+            "t1p2": "G$",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Atomsk",
+            "t2p1flag": "us",
+            "t2p2": "mayb",
+            "t2p2flag": "us",
+            "t2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "t1p1": "Atomsk",
+            "t1p1flag": "us",
+            "t1p2": "mayb",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "B-WAR",
+            "t2p1flag": "us",
+            "t2p2": "Qerb",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "1"
+        },
+        "r3m2": {
+            "t2score": ""
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "t1p1": "Syrup",
+            "t1p1flag": "us",
+            "t1p2": "JJM",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Son2",
+            "t2p1flag": "us",
+            "t2p2": "Scrandino",
+            "t2p2flag": "us",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l1m2": {
+            "t1p1": "MPK",
+            "t1p1flag": "us",
+            "t1p2": "emilywaves",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "FF",
+            "t2p1flag": "us",
+            "t2p2": "TSB",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "t1p1": "B-WAR",
+            "t1p1flag": "us",
+            "t1p2": "Qerb",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Syrup",
+            "t2p1flag": "us",
+            "t2p2": "JJM",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "t1p1": "Kezzup",
+            "t1p1flag": "us",
+            "t1p2": "Kevorkian",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "MPK",
+            "t2p1flag": "us",
+            "t2p2": "emilywaves",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "t1p1": "DJ Nintendo",
+            "t1p1flag": "us",
+            "t1p2": "G$",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Syrup",
+            "t2p1flag": "us",
+            "t2p2": "JJM",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "t1p1": "Son2",
+            "t1p1flag": "us",
+            "t1p2": "Scrandino",
+            "t1p2flag": "us",
+            "t1score": "1",
+            "t2p1": "Kezzup",
+            "t2p1flag": "us",
+            "t2p2": "Kevorkian",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "t1p1": "Atomsk",
+            "t1p1flag": "us",
+            "t1p2": "mayb",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "MPK",
+            "t2p1flag": "us",
+            "t2p2": "emilywaves",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "t1p1": "B-WAR",
+            "t1p1flag": "us",
+            "t1p2": "Qerb",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "FF",
+            "t2p1flag": "us",
+            "t2p2": "TSB",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "t1p1": "DJ Nintendo",
+            "t1p1flag": "us",
+            "t1p2": "G$",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Kezzup",
+            "t2p1flag": "us",
+            "t2p2": "Kevorkian",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "t1p1": "Atomsk",
+            "t1p1flag": "us",
+            "t1p2": "mayb",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "B-WAR",
+            "t2p1flag": "us",
+            "t2p2": "Qerb",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        }
+    }
+}

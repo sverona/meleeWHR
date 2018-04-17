@@ -1,0 +1,100 @@
+{
+    "===Grand Finals===": {},
+    "===Losers===": {},
+    "===Smash Summit Olympics Points Tiebreaker===": {},
+    "===Winners===": {},
+    "==Crews Bracket==": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "l1m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "l2m1": {
+            "p1": "Team Westballz",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Team Pandabox",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Team Westballz",
+            "p1flag": "us",
+            "p1score": "15",
+            "p2": "Team Pandabox",
+            "p2flag": "us",
+            "p2score": "16",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Team Mango",
+            "p1flag": "us",
+            "p1score": "10",
+            "p2": "Team Pandabox",
+            "p2flag": "us",
+            "p2score": "16",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Team Armada",
+            "p1flag": "",
+            "p1score": "16",
+            "p2": "Team Westballz",
+            "p2flag": "us",
+            "p2score": "11",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Team Mango",
+            "p1flag": "us",
+            "p1score": "16",
+            "p2": "Team Pandabox",
+            "p2flag": "us",
+            "p2score": "12",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Team Armada",
+            "p1flag": "",
+            "p1score": "16",
+            "p2": "Team Mango",
+            "p2flag": "us",
+            "p2score": "14",
+            "win": "1"
+        },
+        "r5m1": {
+            "p1": "Team Armada",
+            "p1flag": "",
+            "p1score": "16",
+            "p2": "Team Pandabox",
+            "p2flag": "us",
+            "p2score": "15",
+            "win": "1"
+        }
+    },
+    "==Details==": {},
+    "==Full Rosters==": {}
+}

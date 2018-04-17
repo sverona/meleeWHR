@@ -1,0 +1,278 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "details": {
+                "vod": "https://youtu.be/t19NWWwqaWU?t=13450"
+            },
+            "p1": "Nukidin",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "seo",
+            "p2flag": "nl",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "KasparV",
+            "p1flag": "nl",
+            "p1score": "3",
+            "p2": "Riff",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Riff",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "seo",
+            "p2flag": "nl",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "win": "1}}</onlyinclude>"
+        },
+        "r3m2": {
+            "p2score": "0"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "WildGeert",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Nukidin",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "KarinBloemen",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "rabbitalex",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "UCAS",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Knullebibs",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "Thimo",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Divinius",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "WildGeert",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Klaas",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Nukidin",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "seo",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "rabbitalex",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Triple A",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Thimo",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Divinius",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Nukidin",
+            "p2flag": "nl",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "seo",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Thimo",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "YARK",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Nukidin",
+            "p2flag": "nl",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Thunder",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "seo",
+            "p2flag": "nl",
+            "p2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "KasparV",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Triple A",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "WildGeert",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "seo",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Nukidin",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "YARK",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "KarinBloemen",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Riff",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "rabbitalex",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Klaas",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "UCAS",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Thunder",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Knullebibs",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Divinius",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Thimo",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "KasparV",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Triple A",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "seo",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "YARK",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Riff",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Klaas",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Thunder",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Divinius",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "KasparV",
+            "p1flag": "nl",
+            "p1score": "3",
+            "p2": "YARK",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Riff",
+            "p1flag": "nl",
+            "p1score": "3",
+            "p2": "Thunder",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

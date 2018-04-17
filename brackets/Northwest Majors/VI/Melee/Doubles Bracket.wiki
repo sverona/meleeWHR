@@ -1,0 +1,423 @@
+{{DISPLAYTITLE:Northwest Majors VI: ''Melee''}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Northwest Majors/VI/Melee
+|name2=Singles Bracket
+|link2=Northwest Majors/VI/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=Northwest Majors/VI/Melee/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{32DEDoublesWBracketA
+|column-width=160
+
+<!-- ROUND 1 -->
+|r1m1t1p1=Mew2King |r1m1t1p1flag=us
+|r1m1t1p2=Bladewise |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=
+|r1m1win=1
+
+|r1m2t1p1=Mayan Ryan |r1m2t1p1flag=us
+|r1m2t1p2=Jizzard |r1m2t1p2flag=us |r1m2t1score={{win}}
+|r1m2t2p1=Souf |r1m2t2p1flag=
+|r1m2t2p2= |r1m2t2p2flag= |r1m2t2score=
+|r1m2win=1
+
+|r1m3t1p1=Iceman |r1m3t1p1flag=us
+|r1m3t1p2=Banana |r1m3t1p2flag= |r1m3t1score={{win}}
+|r1m3t2p1=Dragonglove |r1m3t2p1flag=
+|r1m3t2p2=Chicky |r1m3t2p2flag= |r1m3t2score=
+|r1m3win=1
+
+|r1m4t1p1=Alien |r1m4t1p1flag=
+|r1m4t1p2=Bird |r1m4t1p2flag= |r1m4t1score={{win}}
+|r1m4t2p1=Gregolas |r1m4t2p1flag=
+|r1m4t2p2=JimLi |r1m4t2p2flag= |r1m4t2score=
+|r1m4win=1
+
+|r1m5t1p1=Blunted_Object10 |r1m5t1p1flag=ca
+|r1m5t1p2=NoobKing |r1m5t1p2flag=ca |r1m5t1score={{win}}
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=
+|r1m5win=1
+
+|r1m6t1p1=Lucario Bros |r1m6t1p1flag=
+|r1m6t1p2= |r1m6t1p2flag= |r1m6t1score={{win}}
+|r1m6t2p1=Devin Gets F Smashed |r1m6t2p1flag=
+|r1m6t2p2= |r1m6t2p2flag= |r1m6t2score=
+|r1m6win=1
+
+|r1m7t1p1=Pho Bichuga |r1m7t1p1flag=
+|r1m7t1p2= |r1m7t1p2flag= |r1m7t1score={{win}}
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=
+|r1m7win=1
+
+|r1m8t1p1=Wasabi |r1m8t1p1flag=
+|r1m8t1p2=Ebay |r1m8t1p2flag=us |r1m8t1score={{win}}
+|r1m8t2p1=Kao |r1m8t2p1flag=
+|r1m8t2p2= |r1m8t2p2flag= |r1m8t2score=
+|r1m8win=1
+
+|r1m9t1p1=SFAT |r1m9t1p1flag=us
+|r1m9t1p2=Shroomed |r1m9t1p2flag=us |r1m9t1score={{win}}
+|r1m9t2p1=Bye |r1m9t2p1flag=
+|r1m9t2p2=Bye |r1m9t2p2flag= |r1m9t2score=
+|r1m9win=1
+
+|r1m10t1p1=WATofu |r1m10t1p1flag=
+|r1m10t1p2=Neil D |r1m10t1p2flag= |r1m10t1score=
+|r1m10t2p1=Slurpin Ocean |r1m10t2p1flag=
+|r1m10t2p2= |r1m10t2p2flag= |r1m10t2score={{win}}
+|r1m10win=2
+
+|r1m11t1p1=Winston |r1m11t1p1flag=
+|r1m11t1p2=Vish |r1m11t1p2flag=us |r1m11t1score={{win}}
+|r1m11t2p1=Salvadoc |r1m11t2p1flag=
+|r1m11t2p2=Spidertank |r1m11t2p2flag= |r1m11t2score=
+|r1m11win=1
+
+|r1m12t1p1=Foos Jr |r1m12t1p1flag=us
+|r1m12t1p2=Brick |r1m12t1p2flag=us |r1m12t1score={{win}}
+|r1m12t2p1=Loading |r1m12t2p1flag=
+|r1m12t2p2=Dylan |r1m12t2p2flag= |r1m12t2score=
+|r1m12win=1
+
+|r1m13t1p1=Silent Wolf |r1m13t1p1flag=us
+|r1m13t1p2=Toph |r1m13t1p2flag=us |r1m13t1score={{win}}
+|r1m13t2p1=Bye |r1m13t2p1flag=
+|r1m13t2p2=Bye |r1m13t2p2flag= |r1m13t2score=
+|r1m13win=1
+
+|r1m14t1p1=Saggy Puki |r1m14t1p1flag=
+|r1m14t1p2= |r1m14t1p2flag= |r1m14t1score={{win}}
+|r1m14t2p1=Hot Guru |r1m14t2p1flag=
+|r1m14t2p2= |r1m14t2p2flag= |r1m14t2score=
+|r1m14win=1
+
+|r1m15t1p1=IB |r1m15t1p1flag=ca
+|r1m15t1p2=Yakal |r1m15t1p2flag=ca |r1m15t1score={{win}}
+|r1m15t2p1=Bye |r1m15t2p1flag=
+|r1m15t2p2=Bye |r1m15t2p2flag= |r1m15t2score=
+|r1m15win=1
+
+|r1m16t1p1=Retard Check |r1m16t1p1flag=
+|r1m16t1p2= |r1m16t1p2flag= |r1m16t1score={{win}}
+|r1m16t2p1=The Epitome Of Loss |r1m16t2p1flag=
+|r1m16t2p2=Boy |r1m16t2p2flag= |r1m16t2score=
+|r1m16win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Mew2King |r2m1t1p1flag=us
+|r2m1t1p2=Bladewise |r2m1t1p2flag=us |r2m1t1score={{win}}
+|r2m1t2p1=Mayan Ryan |r2m1t2p1flag=us
+|r2m1t2p2=Jizzard |r2m1t2p2flag=us |r2m1t2score=
+|r2m1win=1
+
+|r2m2t1p1=Iceman |r2m2t1p1flag=us
+|r2m2t1p2=Banana |r2m2t1p2flag= |r2m2t1score=
+|r2m2t2p1=Alien |r2m2t2p1flag=
+|r2m2t2p2=Bird |r2m2t2p2flag= |r2m2t2score={{win}}
+|r2m2win=2
+
+|r2m3t1p1=Blunted_Object10 |r2m3t1p1flag=ca
+|r2m3t1p2=NoobKing |r2m3t1p2flag=ca |r2m3t1score={{win}}
+|r2m3t2p1=Lucario Bros |r2m3t2p1flag=
+|r2m3t2p2= |r2m3t2p2flag= |r2m3t2score=
+|r2m3win=1
+
+|r2m4t1p1=Pho Bichuga |r2m4t1p1flag=
+|r2m4t1p2= |r2m4t1p2flag= |r2m4t1score={{win}}
+|r2m4t2p1=Wasabi |r2m4t2p1flag=
+|r2m4t2p2=Ebay |r2m4t2p2flag=us |r2m4t2score=
+|r2m4win=1
+
+|r2m5t1p1=SFAT |r2m5t1p1flag=us
+|r2m5t1p2=Shroomed |r2m5t1p2flag=us |r2m5t1score={{win}}
+|r2m5t2p1=Slurpin Ocean |r2m5t2p1flag=
+|r2m5t2p2= |r2m5t2p2flag= |r2m5t2score=
+|r2m5win=1
+
+|r2m6t1p1=Winston |r2m6t1p1flag=
+|r2m6t1p2=Vish |r2m6t1p2flag=us |r2m6t1score=
+|r2m6t2p1=Foos Jr |r2m6t2p1flag=us
+|r2m6t2p2=Brick |r2m6t2p2flag=us |r2m6t2score={{win}}
+|r2m6win=2
+
+|r2m7t1p1=Silent Wolf |r2m7t1p1flag=us
+|r2m7t1p2=Toph |r2m7t1p2flag=us |r2m7t1score={{win}}
+|r2m7t2p1=Saggy Puki |r2m7t2p1flag=
+|r2m7t2p2= |r2m7t2p2flag= |r2m7t2score=
+|r2m7win=1
+
+|r2m8t1p1=IB |r2m8t1p1flag=ca
+|r2m8t1p2=Yakal |r2m8t1p2flag=ca |r2m8t1score={{win}}
+|r2m8t2p1=Retard Check |r2m8t2p1flag=
+|r2m8t2p2= |r2m8t2p2flag= |r2m8t2score=
+|r2m8win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Mew2King |r3m1t1p1flag=us
+|r3m1t1p2=Bladewise |r3m1t1p2flag=us |r3m1t1score={{win}}
+|r3m1t2p1=Alien |r3m1t2p1flag=
+|r3m1t2p2=Bird |r3m1t2p2flag= |r3m1t2score=
+|r3m1win=1
+
+|r3m2t1p1=Blunted_Object10 |r3m2t1p1flag=ca
+|r3m2t1p2=NoobKing |r3m2t1p2flag=ca |r3m2t1score={{win}}
+|r3m2t2p1=Pho Bichuga |r3m2t2p1flag=
+|r3m2t2p2= |r3m2t2p2flag= |r3m2t2score=
+|r3m2win=1
+
+|r3m3t1p1=SFAT |r3m3t1p1flag=us
+|r3m3t1p2=Shroomed |r3m3t1p2flag=us |r3m3t1score={{win}}
+|r3m3t2p1=Foos Jr |r3m3t2p1flag=us
+|r3m3t2p2=Brick |r3m3t2p2flag=us |r3m3t2score=
+|r3m3win=1
+
+|r3m4t1p1=Silent Wolf |r3m4t1p1flag=us
+|r3m4t1p2=Toph |r3m4t1p2flag=us |r3m4t1score={{win}}
+|r3m4t2p1=IB |r3m4t2p1flag=ca
+|r3m4t2p2=Yakal |r3m4t2p2flag=ca |r3m4t2score=
+|r3m4win=1
+
+<!-- ROUND 4 -->
+|r4m1t1p1=Mew2King |r4m1t1p1flag=us
+|r4m1t1p2=Bladewise |r4m1t1p2flag=us |r4m1t1score={{win}}
+|r4m1t2p1=Blunted_Object10 |r4m1t2p1flag=ca
+|r4m1t2p2=NoobKing |r4m1t2p2flag=ca |r4m1t2score=
+|r4m1win=1
+
+|r4m2t1p1=SFAT |r4m2t1p1flag=us
+|r4m2t1p2=Shroomed |r4m2t1p2flag=us |r4m2t1score={{win}}
+|r4m2t2p1=Silent Wolf |r4m2t2p1flag=us
+|r4m2t2p2=Toph |r4m2t2p2flag=us |r4m2t2score=
+|r4m2win=1
+}}
+==Losers Bracket==
+{{32DEDoublesLBracketSmwA
+|tourneylink=Northwest Majors/VI/Melee
+|tourneyname=Northwest Majors VI
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+|column-width=160
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Bye |l1m1t1p1flag=
+|l1m1t1p2=Bye |l1m1t1p2flag= |l1m1t1score=
+|l1m1t2p1=Souf |l1m1t2p1flag=
+|l1m1t2p2= |l1m1t2p2flag= |l1m1t2score={{win}}
+|l1m1win=2
+
+|l1m2t1p1=Dragonglove |l1m2t1p1flag=
+|l1m2t1p2=Chicky |l1m2t1p2flag= |l1m2t1score={{win}}
+|l1m2t2p1=Gregolas |l1m2t2p1flag=
+|l1m2t2p2=JimLi |l1m2t2p2flag= |l1m2t2score=
+|l1m2win=1
+
+|l1m3t1p1=Bye |l1m3t1p1flag=
+|l1m3t1p2=Bye |l1m3t1p2flag= |l1m3t1score=
+|l1m3t2p1=Devin Gets F Smashed |l1m3t2p1flag=
+|l1m3t2p2= |l1m3t2p2flag= |l1m3t2score={{win}}
+|l1m3win=2
+
+|l1m4t1p1=Bye |l1m4t1p1flag=
+|l1m4t1p2=Bye |l1m4t1p2flag= |l1m4t1score=
+|l1m4t2p1=Kao |l1m4t2p1flag=
+|l1m4t2p2= |l1m4t2p2flag= |l1m4t2score={{win}}
+|l1m4win=2
+
+|l1m5t1p1=Bye |l1m5t1p1flag=
+|l1m5t1p2=Bye |l1m5t1p2flag= |l1m5t1score=
+|l1m5t2p1=WATofu |l1m5t2p1flag=
+|l1m5t2p2=Neil D |l1m5t2p2flag= |l1m5t2score={{win}}
+|l1m5win=2
+
+|l1m6t1p1=Salvadoc |l1m6t1p1flag=
+|l1m6t1p2=Spidertank |l1m6t1p2flag= |l1m6t1score={{win}}
+|l1m6t2p1=Loading |l1m6t2p1flag=
+|l1m6t2p2=Dylan |l1m6t2p2flag= |l1m6t2score=
+|l1m6win=1
+
+|l1m7t1p1=Bye |l1m7t1p1flag=
+|l1m7t1p2=Bye |l1m7t1p2flag= |l1m7t1score=
+|l1m7t2p1=Hot Guru |l1m7t2p1flag=
+|l1m7t2p2= |l1m7t2p2flag= |l1m7t2score={{win}}
+|l1m7win=2
+
+|l1m8t1p1=Bye |l1m8t1p1flag=
+|l1m8t1p2=Bye |l1m8t1p2flag= |l1m8t1score=
+|l1m8t2p1=The Epitome Of Loss |l1m8t2p1flag=
+|l1m8t2p2=Boy |l1m8t2p2flag= |l1m8t2score={{win}}
+|l1m8win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Retard Check |l2m1t1p1flag=
+|l2m1t1p2= |l2m1t1p2flag= |l2m1t1score=
+|l2m1t2p1=Souf |l2m1t2p1flag=
+|l2m1t2p2= |l2m1t2p2flag= |l2m1t2score={{win}}
+|l2m1win=2
+
+|l2m2t1p1=Saggy Puki |l2m2t1p1flag=
+|l2m2t1p2= |l2m2t1p2flag= |l2m2t1score={{win}}
+|l2m2t2p1=Dragonglove |l2m2t2p1flag=
+|l2m2t2p2=Chicky |l2m2t2p2flag= |l2m2t2score=
+|l2m2win=1
+
+|l2m3t1p1=Winston |l2m3t1p1flag=
+|l2m3t1p2=Vish |l2m3t1p2flag=us |l2m3t1score={{win}}
+|l2m3t2p1=Devin Gets F Smashed |l2m3t2p1flag=
+|l2m3t2p2= |l2m3t2p2flag= |l2m3t2score=
+|l2m3win=1
+
+|l2m4t1p1=Slurpin Ocean |l2m4t1p1flag=
+|l2m4t1p2= |l2m4t1p2flag= |l2m4t1score={{win}}
+|l2m4t2p1=Kao |l2m4t2p1flag=
+|l2m4t2p2= |l2m4t2p2flag= |l2m4t2score=
+|l2m4win=1
+
+|l2m5t1p1=Wasabi |l2m5t1p1flag=
+|l2m5t1p2=Ebay |l2m5t1p2flag=us |l2m5t1score=
+|l2m5t2p1=WATofu |l2m5t2p1flag=
+|l2m5t2p2=Neil D |l2m5t2p2flag= |l2m5t2score={{win}}
+|l2m5win=2
+
+|l2m6t1p1=Lucario Bros |l2m6t1p1flag=
+|l2m6t1p2= |l2m6t1p2flag= |l2m6t1score=
+|l2m6t2p1=Salvadoc |l2m6t2p1flag=
+|l2m6t2p2=Spidertank |l2m6t2p2flag= |l2m6t2score={{win}}
+|l2m6win=2
+
+|l2m7t1p1=Iceman |l2m7t1p1flag=us
+|l2m7t1p2=Banana |l2m7t1p2flag= |l2m7t1score={{win}}
+|l2m7t2p1=Hot Guru |l2m7t2p1flag=
+|l2m7t2p2= |l2m7t2p2flag= |l2m7t2score=
+|l2m7win=1
+
+|l2m8t1p1=Mayan Ryan |l2m8t1p1flag=us
+|l2m8t1p2=Jizzard |l2m8t1p2flag=us |l2m8t1score={{win}}
+|l2m8t2p1=The Epitome Of Loss |l2m8t2p1flag=
+|l2m8t2p2=Boy |l2m8t2p2flag= |l2m8t2score=
+|l2m8win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=Souf |l3m1t1p1flag=
+|l3m1t1p2= |l3m1t1p2flag= |l3m1t1score={{win}}
+|l3m1t2p1=Saggy Puki |l3m1t2p1flag=
+|l3m1t2p2= |l3m1t2p2flag= |l3m1t2score=
+|l3m1win=1
+
+|l3m2t1p1=Winston |l3m2t1p1flag=
+|l3m2t1p2=Vish |l3m2t1p2flag=us |l3m2t1score={{win}}
+|l3m2t2p1=Slurpin Ocean |l3m2t2p1flag=
+|l3m2t2p2= |l3m2t2p2flag= |l3m2t2score=
+|l3m2win=1
+
+|l3m3t1p1=WATofu |l3m3t1p1flag=
+|l3m3t1p2=Neil D |l3m3t1p2flag= |l3m3t1score=
+|l3m3t2p1=Salvadoc |l3m3t2p1flag=
+|l3m3t2p2=Spidertank |l3m3t2p2flag= |l3m3t2score={{win}}
+|l3m3win=2
+
+|l3m4t1p1=Iceman |l3m4t1p1flag=us
+|l3m4t1p2=Banana |l3m4t1p2flag= |l3m4t1score=
+|l3m4t2p1=Mayan Ryan |l3m4t2p1flag=us
+|l3m4t2p2=Jizzard |l3m4t2p2flag=us |l3m4t2score={{win}}
+|l3m4win=2
+
+<!-- ROUND 4 -->
+|l4m1t1p1=Pho Bichuga |l4m1t1p1flag=
+|l4m1t1p2= |l4m1t1p2flag= |l4m1t1score={{win}}
+|l4m1t2p1=Souf |l4m1t2p1flag=
+|l4m1t2p2= |l4m1t2p2flag= |l4m1t2score=
+|l4m1win=1
+
+|l4m2t1p1=Alien |l4m2t1p1flag=
+|l4m2t1p2=Bird |l4m2t1p2flag= |l4m2t1score=
+|l4m2t2p1=Winston |l4m2t2p1flag=
+|l4m2t2p2=Vish |l4m2t2p2flag=us |l4m2t2score={{win}}
+|l4m2win=2
+
+|l4m3t1p1=IB |l4m3t1p1flag=ca
+|l4m3t1p2=Yakal |l4m3t1p2flag=ca |l4m3t1score={{win}}
+|l4m3t2p1=Salvadoc |l4m3t2p1flag=
+|l4m3t2p2=Spidertank |l4m3t2p2flag= |l4m3t2score=
+|l4m3win=1
+
+|l4m4t1p1=Foos Jr |l4m4t1p1flag=us
+|l4m4t1p2=Brick |l4m4t1p2flag=us |l4m4t1score={{win}}
+|l4m4t2p1=Mayan Ryan |l4m4t2p1flag=us
+|l4m4t2p2=Jizzard |l4m4t2p2flag=us |l4m4t2score=
+|l4m4win=1
+
+<!-- ROUND 5 -->
+|l5m1t1p1=Pho Bichuga |l5m1t1p1flag=
+|l5m1t1p2= |l5m1t1p2flag= |l5m1t1score={{win}}
+|l5m1t2p1=Winston |l5m1t2p1flag=
+|l5m1t2p2=Vish |l5m1t2p2flag=us |l5m1t2score=
+|l5m1win=1
+
+|l5m2t1p1=IB |l5m2t1p1flag=ca
+|l5m2t1p2=Yakal |l5m2t1p2flag=ca |l5m2t1score=
+|l5m2t2p1=Foos Jr |l5m2t2p1flag=us
+|l5m2t2p2=Brick |l5m2t2p2flag=us |l5m2t2score={{win}}
+|l5m2win=2
+
+<!-- ROUND 6 -->
+|l6m1t1p1=Silent Wolf |l6m1t1p1flag=us
+|l6m1t1p2=Toph |l6m1t1p2flag=us |l6m1t1score={{win}}
+|l6m1t2p1=Pho Bichuga |l6m1t2p1flag=
+|l6m1t2p2= |l6m1t2p2flag= |l6m1t2score=
+|l6m1win=1
+
+|l6m2t1p1=Blunted_Object10 |l6m2t1p1flag=ca
+|l6m2t1p2=NoobKing |l6m2t1p2flag=ca |l6m2t1score={{win}}
+|l6m2t2p1=Foos Jr |l6m2t2p1flag=us
+|l6m2t2p2=Brick |l6m2t2p2flag=us |l6m2t2score=
+|l6m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Northwest Majors/VI/Melee
+|tourneyname=Northwest Majors VI
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=160
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Mew2King |r1m1t1p1flag=us
+|r1m1t1p2=Bladewise |r1m1t1p2flag=us |r1m1t1score=2
+|r1m1t2p1=SFAT |r1m1t2p1flag=us
+|r1m1t2p2=Shroomed |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Silent Wolf |l1m1t1p1flag=us
+|l1m1t1p2=Toph |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=Blunted_Object10 |l1m1t2p1flag=ca
+|l1m1t2p2=NoobKing |l1m1t2p2flag=ca |l1m1t2score=1
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=SFAT |r2m1t1p1flag=us
+|r2m1t1p2=Shroomed |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Silent Wolf |r2m1t2p1flag=us
+|r2m1t2p2=Toph |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Mew2King |r3m1t1p1flag=us
+|r3m1t1p2=Bladewise |r3m1t1p2flag=us |r3m1t1score=1 |r3m2t1score=3
+|r3m1t2p1=SFAT |r3m1t2p1flag=us
+|r3m1t2p2=Shroomed |r3m1t2p2flag=us |r3m1t2score=3 |r3m2t2score=1
+|r3m1win=1
+}}</onlyinclude>

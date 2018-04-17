@@ -1,0 +1,121 @@
+{{DISPLAYTITLE: Apollo VI: Doubles Bracket}}<!--
+-->{{SetGame|melee}}<!--
+-->{{Tabs static
+|name1=Overview |link1=Apollo/6
+|name2=Singles Pools |link2=Apollo/6/Singles Pools
+|name3=Singles Bracket |link3=Apollo/6/Singles Bracket
+|name4=Doubles Bracket |link4=Apollo/6/Doubles Bracket
+|This=4
+}}
+==Winners Bracket==
+{{8DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=DJ Nintendo |r1m1t1p1flag=us
+|r1m1t1p2=G$ |r1m1t1p2flag=us |r1m1t1score=2
+|r1m1t2p1=Syrup |r1m1t2p1flag=us
+|r1m1t2p2=JJM |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+
+|r1m2t1p1=Son2 |r1m2t1p1flag=us
+|r1m2t1p2=Scrandino |r1m2t1p2flag=us |r1m2t1score=1
+|r1m2t2p1=Kezzup |r1m2t2p1flag=us
+|r1m2t2p2=Kevorkian |r1m2t2p2flag=us |r1m2t2score=2
+|r1m2win=2
+
+|r1m3t1p1=Atomsk |r1m3t1p1flag=us
+|r1m3t1p2=mayb |r1m3t1p2flag=us |r1m3t1score=2
+|r1m3t2p1=MPK |r1m3t2p1flag=us
+|r1m3t2p2=emilywaves |r1m3t2p2flag=us |r1m3t2score=0
+|r1m3win=1
+
+|r1m4t1p1=B-WAR |r1m4t1p1flag=us
+|r1m4t1p2=Qerb |r1m4t1p2flag=us |r1m4t1score=2
+|r1m4t2p1=FF |r1m4t2p1flag=us
+|r1m4t2p2=TSB |r1m4t2p2flag=us |r1m4t2score=0
+|r1m4win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=DJ Nintendo |r2m1t1p1flag=us
+|r2m1t1p2=G$ |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Kezzup |r2m1t2p1flag=us
+|r2m1t2p2=Kevorkian |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=Atomsk |r2m2t1p1flag=us
+|r2m2t1p2=mayb |r2m2t1p2flag=us |r2m2t1score=2
+|r2m2t2p1=B-WAR |r2m2t2p1flag=us
+|r2m2t2p2=Qerb |r2m2t2p2flag=us |r2m2t2score=0
+|r2m2win=1
+}}
+==Losers Bracket==
+{{8DEDoublesLBracketSmwA
+|tourneylink=Apollo/6
+|tourneyname=Apollo VI
+|l1placement=7-8
+|l2placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Syrup |l1m1t1p1flag=us
+|l1m1t1p2=JJM |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=Son2 |l1m1t2p1flag=us
+|l1m1t2p2=Scrandino |l1m1t2p2flag=us |l1m1t2score=1
+|l1m1win=1
+
+|l1m2t1p1=MPK |l1m2t1p1flag=us
+|l1m2t1p2=emilywaves |l1m2t1p2flag=us |l1m2t1score=2
+|l1m2t2p1=FF |l1m2t2p1flag=us
+|l1m2t2p2=TSB |l1m2t2p2flag=us |l1m2t2score=0
+|l1m2win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=B-WAR |l2m1t1p1flag=us
+|l2m1t1p2=Qerb |l2m1t1p2flag=us |l2m1t1score=2
+|l2m1t2p1=Syrup |l2m1t2p1flag=us
+|l2m1t2p2=JJM |l2m1t2p2flag=us |l2m1t2score=0
+|l2m1win=1
+
+|l2m2t1p1=Kezzup |l2m2t1p1flag=us
+|l2m2t1p2=Kevorkian |l2m2t1p2flag=us |l2m2t1score=0
+|l2m2t2p1=MPK |l2m2t2p1flag=us
+|l2m2t2p2=emilywaves |l2m2t2p2flag=us |l2m2t2score=2
+|l2m2win=2
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Apollo/6
+|tourneyname=Apollo VI
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=DJ Nintendo |r1m1t1p1flag=us
+|r1m1t1p2=G$ |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=Atomsk |r1m1t2p1flag=us
+|r1m1t2p2=mayb |r1m1t2p2flag=us |r1m1t2score=1
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=B-WAR |l1m1t1p1flag=us
+|l1m1t1p2=Qerb |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=MPK |l1m1t2p1flag=us
+|l1m1t2p2=emilywaves |l1m1t2p2flag=us |l1m1t2score=0
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Atomsk |r2m1t1p1flag=us
+|r2m1t1p2=mayb |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=B-WAR |r2m1t2p1flag=us
+|r2m1t2p2=Qerb |r2m1t2p2flag=us |r2m1t2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=DJ Nintendo |r3m1t1p1flag=us
+|r3m1t1p2=G$ |r3m1t1p2flag=us |r3m1t1score=3 |r3m2t1score=
+|r3m1t2p1=Atomsk |r3m1t2p1flag=us
+|r3m1t2p2=mayb |r3m1t2p2flag=us |r3m1t2score=2 |r3m2t2score=
+|r3m1win=1
+}}
+</onlyinclude>

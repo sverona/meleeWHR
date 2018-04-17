@@ -1,0 +1,84 @@
+{{DISPLAYTITLE:I'm Not Yelling!: The Melee Games}}
+{{tabs static
+|name1=Overview
+|link1=I'm Not Yelling!
+|name2=Attendees
+|link2=I'm Not Yelling!/Attendees
+|name3=Singles Pools
+|link3=I'm Not Yelling!/Singles Pools
+|name4=Singles Bracket Top 128
+|link4=I'm Not Yelling!/Singles Bracket Top 128
+|name5=Singles Bracket
+|link5=I'm Not Yelling!/Singles Bracket
+|name6=Doubles Bracket
+|link6=I'm Not Yelling!/Doubles Bracket
+|name7=The Melee Games
+|link7=I'm Not Yelling!/The Melee Games
+|This=7
+}}
+
+==TMG NorCal Finals==
+{{TeamMatch
+|team1literal='''UC Berkeley''' {{flag/us}} 
+|team2literal={{flag/us}} '''UC Santa Cruz'''
+|preview=
+|date=April 11, 2015
+|finished=
+|live=
+|vod=
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=210
+
+|team1matches=5
+|team2matches=4
+|team1stocks=2
+|team2stocks=0
+
+|m1p1=Delphiki |m1p1char=ice climbers |m1p1s1=4 |m1p1s2=0 |m1p2=PewPewU |m1p2char=marth |m1p2s1=4 |m1p2s2=1 |m1win=2 |m1stage=Final Destination
+|m2p1=Ralph |m2p1char=falco |m2p1s1=4 |m2p1s2=3 |m2p2=PewPewU |m2p2char=marth |m2p2s1=1 |m2p2s2=0 |m2win=1 |m2stage=Yoshi's Story
+|m3p1=Ralph |m3p1char=falco |m3p1s1=3 |m3p1s2=1 |m3p2=Baise |m3p2char=fox |m3p2s1=4 |m3p2s2=0 |m3win=1 |m3stage=Battlefield
+|m4p1=Ralph |m4p1char=falco |m4p1s1=1 |m4p1s2=0 |m4p2=Erik |m4p2char=pikachu |m4p2s1=4 |m4p2s2=3 |m4win=2 |m4stage=Fountain of Dreams
+|m5p1=Warwick Foe |m5p1char=jigglypuff |m5p1s1=4 |m5p1s2=0 |m5p2=Erik |m5p2char=pikachu |m5p2s1=3 |m5p2s2=1 |m5win=2 |m5stage=Battlefield
+|m6p1=Glitter |m6p1char=fox |m6p1s1=4 |m6p1s2=4 |m6p2=Erik |m6p2char=pikachu |m6p2s1=1 |m6p2s2=0 |m6win=1 |m6stage=Battlefield
+|m7p1=Glitter |m7p1char=fox |m7p1s1=4 |m7p1s2=0 |m7p2=Paul Chen |m7p2char=captain falcon |m7p2s1=4 |m7p2s2=2 |m7win=2 |m7stage=Battlefield
+|m8p1=Nimzo |m8p1char=falco |m8p1s1=4 |m8p1s2=3 |m8p2=Paul Chen |m8p2char=captain falcon |m8p2s1=2 |m8p2s2=0 |m8win=1 |m8stage=Final Destination
+|m9p1=Nimzo |m9p1char=falco |m9p1s1=3 |m9p1s2=2 |m9p2=Dikboi94 |m9p2char=fox |m9p2s1=4 |m9p2s2=0 |m9win=1 |m9stage=Yoshi's Story
+|m10p1= |m10p1char= |m10p1s1= |m10p1s2= |m10p2= |m10p2char= |m10p2s1= |m10p2s2= |m10win= |m10stage=
+}}
+
+==TMG West Coast Finals (NorCal vs. SoCal)==
+<small>The winning crew will be flown out to [[Super Nebulous 3]] to face off against the winner of the TMG East Coast Finals.</small>
+
+{{TeamMatch
+|team1literal='''UC Berkeley''' {{flag/us}} 
+|team2literal={{flag/us}} '''UC Irvine'''
+|preview=
+|date=April 11, 2015
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=ODZuzowYU6s
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=250
+
+|team1matches=5
+|team2matches=4
+|team1stocks=2
+|team2stocks=0
+
+|m1p1=Glitter |m1p1char=fox |m1p1s1=4 |m1p1s2=0 |m1p2=Victor Abdul Latif |m1p2char=falco |m1p2s1=4 |m1p2s2=2 |m1win=2 |m1stage=Battlefield
+|m2p1=Delphiki |m2p1char=ice climbers |m2p1s1=4 |m2p1s2=3 |m2p2=Victor Abdul Latif |m2p2char=falco |m2p2s1=2 |m2p2s2=0 |m2win=1 |m2stage=Final Destination
+|m3p1=Delphiki |m3p1char=ice climbers |m3p1s1=3 |m3p1s2=1 |m3p2=Santiago |m3p2char=falco |m3p2s1=4 |m3p2s2=0 |m3win=1 |m3stage=Battlefield
+|m4p1=Delphiki |m4p1char=ice climbers |m4p1s1=1 |m4p1s2=0 |m4p2=Squid |m4p2char=falco |m4p2s1=4 |m4p2s2=4 |m4win=2 |m4stage=Battlefield
+|m5p1=Nimzo |m5p1char=falco |m5p1s1=4 |m5p1s2=1 |m5p2=Squid |m5p2char=falco |m5p2s1=4 |m5p2s2=0 |m5win=1 |m5stage=Battlefield
+|m6p1=Nimzo |m6p1char=falco |m6p1s1=1 |m6p1s2=0 |m6p2=Captain Faceroll |m6p2char=sheik |m6p2s1=4 |m6p2s2=3 |m6win=2 |m6stage=Dream Land
+|m7p1=Warwick Foe |m7p1char=jigglypuff |m7p1s1=4 |m7p1s2=2 |m7p2=Captain Faceroll |m7p2char=sheik |m7p2s1=3 |m7p2s2=0 |m7win=1 |m7stage=Dream Land
+|m8p1=Warwick Foe |m8p1char=jigglypuff |m8p1s1=2 |m8p1s2=0 |m8p2=Sherigami |m8p2char=sheik |m8p2s1=4 |m8p2s2=3 |m8win=2 |m8stage=Battlefield
+|m9p1=Ralph |m9p1char=falco |m9p1s1=4 |m9p1s2=2 |m9p2=Sherigami |m9p2char=sheik |m9p2s1=3 |m9p2s2=0 |m9win=1 |m9stage=Final Destination
+|m10p1= |m10p1char= |m10p1s1= |m10p1s2= |m10p2= |m10p2char= |m10p2s1= |m10p2s2= |m10win= |m10stage=
+}}

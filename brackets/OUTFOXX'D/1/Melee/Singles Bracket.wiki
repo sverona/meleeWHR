@@ -1,0 +1,177 @@
+{{DISPLAYTITLE:OUTFOXX'D: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=OUTFOXX'D/1/Melee
+|name2=Singles Bracket
+|link2=OUTFOXX'D/1/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=OUTFOXX'D/1/Melee/Doubles Bracket
+|This=2
+}}
+==Winners Bracket==
+{{16DEWBracketA2
+<!-- Ro16 -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=2
+|r1m1p2=Cob |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+
+|r1m2p1=Shinobi |r1m2p1flag=us |r1m2p1score=2
+|r1m2p2=Lanceinthepants |r1m2p2flag=us |r1m2p2score=0
+|r1m2win=1
+
+|r1m3p1=Darkatma |r1m3p1flag=us |r1m3p1score=2
+|r1m3p2=LuigigoShard |r1m3p2flag=us |r1m3p2score=0
+|r1m3win=1
+
+|r1m4p1=Prince Abu |r1m4p1flag=us |r1m4p1score=2
+|r1m4p2=voorhese |r1m4p2flag=us |r1m4p2score=0
+|r1m4win=1
+
+|r1m5p1=HugS |r1m5p1flag=us |r1m5p1score=2
+|r1m5p2=tm |r1m5p2flag=us |r1m5p2score=0
+|r1m5win=1
+
+|r1m6p1=Captain Faceroll |r1m6p1flag=us |r1m6p1score=2
+|r1m6p2=Reeve |r1m6p2flag=us |r1m6p2score=0
+|r1m6win=1
+
+|r1m7p1=KJH |r1m7p1flag=us |r1m7p1score=2
+|r1m7p2=Amida |r1m7p2flag=us |r1m7p2score=0
+|r1m7win=1
+
+|r1m8p1=Drephen |r1m8p1flag=us |r1m8p1score=2
+|r1m8p2=Rik |r1m8p2flag=us |r1m8p2score=1
+|r1m8win=1
+
+<!-- QUARTERFINALS -->
+|r2m1p1=Mew2King |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=Shinobi |r2m1p2flag=us |r2m1p2score=0
+|r2m1win=1
+
+|r2m2p1=Darkatma |r2m2p1flag=us |r2m2p1score=0
+|r2m2p2=Prince Abu |r2m2p2flag=us |r2m2p2score=2
+|r2m2win=2
+
+|r2m3p1=HugS |r2m3p1flag=us |r2m3p1score=0
+|r2m3p2=Captain Faceroll |r2m3p2flag=us |r2m3p2score=2
+|r2m3win=2
+
+|r2m4p1=KJH |r2m4p1flag=us |r2m4p1score=2
+|r2m4p2=Drephen |r2m4p2flag=us |r2m4p2score=1
+|r2m4win=1
+
+<!-- SEMIFINALS -->
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Prince Abu |r3m1p2flag=us |r3m1p2score=2
+|r3m1win=1
+
+|r3m2p1=Captain Faceroll |r3m2p1flag=us |r3m2p1score=3
+|r3m2p2=KJH |r3m2p2flag=us |r3m2p2score=2
+|r3m2win=1
+}}
+==Losers Bracket==
+{{32DELBracketSmwA
+|tourneylink=OUTFOXX'D/1/Melee
+|tourneyname=OUTFOXX'D
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+|column-width=160
+
+|l1m1p1=Home |l1m1p1flag=us |l1m1p1score=2 |l1m1win=1
+|l1m1p2=HopE |l1m1p2flag=us |l1m1p2score=1
+|l1m2p1=Papa |l1m2p1flag=us |l1m2p1score=2 |l1m2win=1
+|l1m2p2=Peanut |l1m2p2flag=us |l1m2p2score=1
+|l1m3p1=Kyari |l1m3p1flag=us |l1m3p1score=0 |l1m3win=2
+|l1m3p2=weeaboo |l1m3p2flag=us |l1m3p2score=2
+|l1m4p1=Yordy |l1m4p1flag=us |l1m4p1score=2 |l1m4win=1
+|l1m4p2=Colonel Dog |l1m4p2flag=us |l1m4p2score=0
+|l1m5p1=Stringer |l1m5p1flag=us |l1m5p1score=0 |l1m5win=2
+|l1m5p2=Thexy |l1m5p2flag=us |l1m5p2score=2
+|l1m6p1=Gracen |l1m6p1flag=us |l1m6p1score=2 |l1m6win=1
+|l1m6p2=Jerry |l1m6p2flag=us |l1m6p2score=1
+|l1m7p1=Hunt |l1m7p1flag=us |l1m7p1score=1 |l1m7win=2
+|l1m7p2=Ferriswheel |l1m7p2flag=us |l1m7p2score=2
+|l1m8p1=J |l1m8p1flag=us |l1m8p1score=2 |l1m8win=1
+|l1m8p2=indy |l1m8p2flag=us |l1m8p2score=0
+
+|l2m1p1=Cob |l2m1p1flag=us |l2m1p1score=1 |l2m1win=2
+|l2m1p2=Home |l2m1p2flag=us |l2m1p2score=2
+|l2m2p1=Lanceinthepants |l2m2p1flag=us |l2m2p1score=2 |l2m2win=1
+|l2m2p2=Papa |l2m2p2flag=us |l2m2p2score=1
+|l2m3p1=LuigigoShard |l2m3p1flag=us |l2m3p1score=2 |l2m3win=1
+|l2m3p2=weeaboo |l2m3p2flag=us |l2m3p2score=0
+|l2m4p1=voorhese |l2m4p1flag=us |l2m4p1score=2 |l2m4win=1
+|l2m4p2=Yordy |l2m4p2flag=us |l2m4p2score=0
+|l2m5p1=tm |l2m5p1flag=us |l2m5p1score=2 |l2m5win=1
+|l2m5p2=Thexy |l2m5p2flag=us |l2m5p2score=0
+|l2m6p1=Reeve |l2m6p1flag=us |l2m6p1score=2 |l2m6win=1
+|l2m6p2=Gracen |l2m6p2flag=us |l2m6p2score=1
+|l2m7p1=Amida |l2m7p1flag=us |l2m7p1score=2 |l2m7win=1
+|l2m7p2=Ferriswheel |l2m7p2flag=us |l2m7p2score=0
+|l2m8p1=Rik |l2m8p1flag=us |l2m8p1score=2 |l2m8win=1
+|l2m8p2=J |l2m8p2flag=us |l2m8p2score=0
+
+|l3m1p1=Home |l3m1p1flag=us |l3m1p1score=1 |l3m1win=2
+|l3m1p2=Lanceinthepants |l3m1p2flag=us |l3m1p2score=2
+|l3m2p1=LuigigoShard |l3m2p1flag=us |l3m2p1score=0 |l3m2win=2
+|l3m2p2=voorhese |l3m2p2flag=us |l3m2p2score=2
+|l3m3p1=tm |l3m3p1flag=us |l3m3p1score=0 |l3m3win=2
+|l3m3p2=Reeve |l3m3p2flag=us |l3m3p2score=2
+|l3m4p1=Amida |l3m4p1flag=us |l3m4p1score=0 |l3m4win=2
+|l3m4p2=Rik |l3m4p2flag=us |l3m4p2score=2
+
+|l4m1p1=Drephen |l4m1p1flag=us |l4m1p1score=2 |l4m1win=1
+|l4m1p2=Lanceinthepants |l4m1p2flag=us |l4m1p2score=0
+|l4m2p1=HugS |l4m2p1flag=us |l4m2p1score=2 |l4m2win=1
+|l4m2p2=voorhese |l4m2p2flag=us |l4m2p2score=0
+|l4m3p1=Darkatma |l4m3p1flag=us |l4m3p1score=2 |l4m3win=1
+|l4m3p2=Reeve |l4m3p2flag=us |l4m3p2score=0
+|l4m4p1=Shinobi |l4m4p1flag=us |l4m4p1score=1 |l4m4win=2
+|l4m4p2=Rik |l4m4p2flag=us |l4m4p2score=2
+
+|l5m1p1=Drephen |l5m1p1flag=us |l5m1p1score=3 |l5m1win=1
+|l5m1p2=HugS |l5m1p2flag=us |l5m1p2score=2
+|l5m2p1=Darkatma |l5m2p1flag=us |l5m2p1score=3 |l5m2win=1
+|l5m2p2=Rik |l5m2p2flag=us |l5m2p2score=2
+
+|l6m1p1=Prince Abu |l6m1p1flag=us |l6m1p1score=2 |l6m1win=2
+|l6m1p2=Drephen |l6m1p2flag=us |l6m1p2score=3
+|l6m2p1=KJH |l6m2p1flag=us |l6m2p1score=3 |l6m2win=1
+|l6m2p2=Darkatma |l6m2p2flag=us |l6m2p2score=1
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=OUTFOXX'D/1/Melee
+|tourneyname=OUTFOXX'D
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Captain Faceroll |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1p1=Drephen |l1m1p1flag=us |l1m1p1score=1
+|l1m1p2=KJH |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Captain Faceroll |r2m1p1flag=us |r2m1p1score=1
+|r2m1p2=KJH |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=KJH |r3m1p2flag=us |r3m1p2score=1
+|r3m1win=1
+}}
+</onlyinclude>

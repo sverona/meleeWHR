@@ -1,0 +1,40 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Cactuar",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Wizzrobe",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Hax",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Hax",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Wizzrobe",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Hax",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        }
+    }
+}

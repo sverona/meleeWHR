@@ -1,0 +1,170 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "NMW",
+            "t1p1flag": "us",
+            "t1p2": "L",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "Westballz",
+            "t2p1flag": "us",
+            "t2p2": "Lucky",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "t1p1": "Rocky",
+            "t1p1flag": "us",
+            "t1p2": "Spark",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "Ralph",
+            "t2p1flag": "us",
+            "t2p2": "Wavebringer",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "t1p1": "Rocky",
+            "t1p1flag": "us",
+            "t1p2": "Spark",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Westballz",
+            "t2p1flag": "us",
+            "t2p2": "Lucky",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "win": "1"
+        },
+        "r3m2": {
+            "t2score": ""
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "t1p1": "silentspectre",
+            "t1p1flag": "us",
+            "t1p2": "Tang",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "NMW",
+            "t2p1flag": "us",
+            "t2p2": "L",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "t1p1": "Darkatma",
+            "t1p1flag": "us",
+            "t1p2": "Kalamazhu",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Toph",
+            "t2p1flag": "us",
+            "t2p2": "Dr. Z",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "t1p1": "Nintendude",
+            "t1p1flag": "us",
+            "t1p2": "Cactuar",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Laudandus",
+            "t2p1flag": "us",
+            "t2p2": "Azusa",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "t1p1": "dizzkidboogie",
+            "t1p1flag": "us",
+            "t1p2": "Kevbot",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "ARMY",
+            "t2p1flag": "us",
+            "t2p2": "Captain Faceroll",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "t1p1": "NMW",
+            "t1p1flag": "us",
+            "t1p2": "L",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Darkatma",
+            "t2p1flag": "us",
+            "t2p2": "Kalamazhu",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "t1p1": "Nintendude",
+            "t1p1flag": "us",
+            "t1p2": "Cactuar",
+            "t1p2flag": "us",
+            "t1score": "1",
+            "t2p1": "dizzkidboogie",
+            "t2p1flag": "us",
+            "t2p2": "Kevbot",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "t1p1": "HomeMadeWaffles",
+            "t1p1flag": "us",
+            "t1p2": "Reno",
+            "t1p2flag": "us",
+            "t1score": "1",
+            "t2p1": "NMW",
+            "t2p1flag": "us",
+            "t2p2": "L",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "l3m2": {
+            "t1p1": "Westballz",
+            "t1p1flag": "us",
+            "t1p2": "Lucky",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "dizzkidboogie",
+            "t2p1flag": "us",
+            "t2p2": "Kevbot",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "t1p1": "Westballz",
+            "t1p1flag": "us",
+            "t1p2": "Lucky",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "Ralph",
+            "t2p1flag": "us",
+            "t2p2": "Wavebringer",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        }
+    }
+}

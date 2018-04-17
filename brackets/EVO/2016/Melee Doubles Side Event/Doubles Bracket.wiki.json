@@ -1,0 +1,118 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "Alan",
+            "t1p1flag": "us",
+            "t1p2": "Shroomed",
+            "t1p2flag": "us",
+            "t1score": "win",
+            "t2p1": "Reno",
+            "t2p1flag": "us",
+            "t2p2": "Lucky",
+            "t2p2flag": "us",
+            "t2score": "",
+            "win": "1"
+        },
+        "r1m1": {
+            "t1p1": "Mew2King",
+            "t1p1flag": "us",
+            "t1p2": "Hungrybox",
+            "t1p2flag": "us",
+            "t1score": "",
+            "t2p1": "PewPewU",
+            "t2p1flag": "us",
+            "t2p2": "SFAT",
+            "t2p2flag": "us",
+            "t2score": "win",
+            "win": "2"
+        },
+        "r2m1": {
+            "t1p1": "Mew2King",
+            "t1p1flag": "us",
+            "t1p2": "Hungrybox",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Alan",
+            "t2p1flag": "us",
+            "t2p2": "Shroomed",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "1}}</onlyinclude>"
+        },
+        "r3m2": {
+            "t2score": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "t1p1": "Druggedfox",
+            "t1p1flag": "us",
+            "t1p2": "SleepyK",
+            "t1p2flag": "us",
+            "t1score": "",
+            "t2p1": "Darkatma",
+            "t2p1flag": "us",
+            "t2p2": "Frootloop",
+            "t2p2flag": "us",
+            "t2score": "win",
+            "win": "2"
+        },
+        "l1m2": {
+            "t1p1": "Bladewise",
+            "t1p1flag": "us",
+            "t1p2": "JAVI",
+            "t1p2flag": "mx",
+            "t1score": "",
+            "t2p1": "Reno",
+            "t2p1flag": "us",
+            "t2p2": "Lucky",
+            "t2p2flag": "us",
+            "t2score": "win",
+            "win": "2"
+        },
+        "l2m1": {
+            "t1p1": "Alan",
+            "t1p1flag": "us",
+            "t1p2": "Shroomed",
+            "t1p2flag": "us",
+            "t1score": "win",
+            "t2p1": "Darkatma",
+            "t2p1flag": "us",
+            "t2p2": "Frootloop",
+            "t2p2flag": "us",
+            "t2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "t1p1": "ChuDat",
+            "t1p1flag": "us",
+            "t1p2": "Chillindude",
+            "t1p2flag": "us",
+            "t1score": "",
+            "t2p1": "Reno",
+            "t2p1flag": "us",
+            "t2p2": "Lucky",
+            "t2p2flag": "us",
+            "t2score": "win",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "t1p1": "PewPewU",
+            "t1p1flag": "us",
+            "t1p2": "SFAT",
+            "t1p2flag": "us",
+            "t1score": "win",
+            "t2p1": "ChuDat",
+            "t2p1flag": "us",
+            "t2p2": "Chillindude",
+            "t2p2flag": "us",
+            "t2score": "",
+            "win": "1"
+        }
+    }
+}

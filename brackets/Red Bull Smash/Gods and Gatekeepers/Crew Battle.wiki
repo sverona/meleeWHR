@@ -1,0 +1,472 @@
+{{DISPLAYTITLE:Red Bull Smash: Gods and Gatekeepers - The Battle of Gods and Gatekeepers}}{{SetGame|melee}}
+{{Gods and Gatekeepers Tabs |This=5}}
+==Teams==
+{{Box|start|padding=1em}}
+{{NotableStart|nbcol=1|title=Team Mew2King|entrywidth=220}}
+{{Notable|Mew2King|flag=us|chars=marth,sheik,fox}}
+{{Notable|Duck|flag=us|chars=samus}}
+{{Notable|Shroomed|flag=us|chars=sheik,marth}}
+{{Notable|Zhu|flag=us|chars=falco}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=Team Wizzrobe|entrywidth=220}}
+{{Notable|Wizzrobe|flag=us|chars=cf}}
+{{Notable|Druggedfox|flag=us|chars=fox}}
+{{Notable|MacD|flag=us|chars=peach}}
+{{Notable|HugS|flag=us|chars=samus}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=Team Leffen|entrywidth=220}}
+{{Notable|Leffen|flag=se|chars=fox}}
+{{Notable|Ice|flag=de|chars=fox}}
+{{Notable|Lucky|flag=us|chars=fox}}
+{{Notable|Bladewise|flag=us|chars=peach}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=Team ChuDat|entrywidth=220}}
+{{Notable|ChuDat|flag=us|chars=ic}}
+{{Notable|Westballz|flag=us|chars=falco}}
+{{Notable|MikeHaze|flag=us|chars=fox}}
+{{Notable|Fiction|flag=us|chars=marth,fox}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=Team Mango|entrywidth=220}}
+{{Notable|Mango|flag=us|chars=fox,falco}}
+{{Notable|S2J|flag=us|chars=cf}}
+{{Notable|n0ne|flag=ni|chars=cf}}
+{{Notable|Eddy Mexico|flag=mx|chars=luigi}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=Team Axe|entrywidth=220}}
+{{Notable|Axe|flag=us|chars=pikachu}}
+{{Notable|aMSa|flag=jp|chars=yoshi}}
+{{Notable|Medz|flag=us|chars=fox,marth}}
+{{Notable|Tai|flag=us|chars=marth}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=Team Plup|entrywidth=220}}
+{{Notable|Plup|flag=us|chars=sheik, fox, samus}}
+{{Notable|Swedish Delight|flag=us|chars=sheik}}
+{{Notable|Crush|flag=us|chars=fox}}
+{{Notable|El Fuego|flag=us|chars=falco}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=Team SFAT|entrywidth=220}}
+{{Notable|SFAT|flag=us|chars=fox}}
+{{Notable|PewPewU|flag=us|chars=marth}}
+{{Notable|Ryan Ford|flag=ca|chars=fox}}
+{{Notable|ARMY|flag=us|chars=ic}}
+{{NotableEnd}}
+{{Box|end}}
+
+==Bracket==
+===Winners Bracket===
+{{8DEWBracketA
+|column-width=150
+
+<!-- Quarterfinals -->
+|r1m1p1=Team Mew2King |r1m1p1flag= |r1m1p1score=2
+|r1m1p2=Team Wizzrobe |r1m1p2flag= |r1m1p2score=3
+|r1m1win=2
+
+|r1m2p1=Team Plup |r1m2p1flag= |r1m2p1score=0
+|r1m2p2=Team SFAT |r1m2p2flag= |r1m2p2score=3
+|r1m2win=2
+
+|r1m3p1=Team Leffen |r1m3p1flag= |r1m3p1score=2
+|r1m3p2=Team ChuDat |r1m3p2flag= |r1m3p2score=3
+|r1m3win=2
+
+|r1m4p1=Team Mango |r1m4p1flag= |r1m4p1score=0
+|r1m4p2=Team Axe |r1m4p2flag= |r1m4p2score=3
+|r1m4win=2
+
+<!-- SEMIFINALS -->
+|r2m1p1=Team Wizzrobe |r2m1p1flag= |r2m1p1score=2
+|r2m1p2=Team SFAT |r2m1p2flag= |r2m1p2score=3
+|r2m1win=2
+
+|r2m2p1=Team ChuDat |r2m2p1flag= |r2m2p1score=3
+|r2m2p2=Team Axe |r2m2p2flag= |r2m2p2score=1
+|r2m2win=1
+}}
+
+===Losers Bracket===
+{{8DELBracketA
+|column-width=150
+
+<!-- Round 1 -->
+|l1m1p1=Team Mew2King |l1m1p1flag= |l1m1p1score=3
+|l1m1p2=Team Plup |l1m1p2flag= |l1m1p2score=1
+|l1m1win=1
+
+|l1m2p1=Team Leffen |l1m2p1flag= |l1m2p1score=3
+|l1m2p2=Team Mango |l1m2p2flag= |l1m2p2score=2
+|l1m2win=1
+
+<!-- Round 2 -->
+|l2m1p1=Team  Axe |l2m1p1flag= |l2m1p1score=0
+|l2m1p2=Team Mew2King |l2m1p2flag= |l2m1p2score=3
+|l2m1win=2
+
+|l2m2p1=Team Wizzrobe |l2m2p1flag= |l2m2p1score=3
+|l2m2p2=Team Leffen |l2m2p2flag= |l2m2p2score=2
+|l2m2win=1
+}}
+
+===Final Bracket===
+<onlyinclude>{{DEFinalBracket
+|column-width=150
+
+<!-- FROM WINNERS -->
+|r1m1p1=Team SFAT |r1m1p1flag= |r1m1p1score=3
+|r1m1p2=Team ChuDat |r1m1p2flag= |r1m1p2score=2
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1p1=Team Mew2King |l1m1p1flag= |l1m1p1score=3
+|l1m1p2=Team Wizzrobe |l1m1p2flag= |l1m1p2score=0
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Team ChuDat |r2m1p1flag= |r2m1p1score=1
+|r2m1p2=Team Mew2King |r2m1p2flag= |r2m1p2score=3
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1p1=Team SFAT |r3m1p1flag= |r3m1p1score=0 |r3m2p1score=0
+|r3m1p2=Team Mew2King |r3m1p2flag= |r3m1p2score=3 |r3m2p2score=3
+|r3m1win=2
+}}</onlyinclude>
+
+==Matches==
+===Winners Bracket===
+====Quarterfinals====
+{{Box|start|padding=1em}}
+{{TeamMatch/start
+|team1literal='''Team Mew2King'''
+|team2literal='''Team Wizzrobe'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=2
+|team2matches=3
+|teamwin=2
+}}
+{{TeamMatch/row |p1=Shroomed |p1char=sheik |p1s2=0 |p2=Wizzrobe |p2char=cf |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Zhu |p1char=falco |p1s2=0 |p2=Druggedfox |p2char=fox |p2s2=1 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mew2King |p1char=sheik |p1s2=2 |p2=HugS |p2char=samus |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Duck |p1char=samus |p1s2=1 |p2=MacD |p2char=peach |p2s2=0 |win=1 |stage=Fountain of Dreams}}
+{{TeamMatch/doublesrow |t1p1=Mew2King |t1p1char=fox |t1p1s2=0
+                       |t1p2=Shroomed |t1p2char=sheik |t1p2s2=0
+                       |t2p1=Druggedfox |t2p1char=fox |t2p1s2=1
+                       |t2p2=MacD |t2p2char=peach |t2p2s2=1
+                       |win=2 |stage=Dream Land}}
+{{TeamMatch/end |reddit=https://www.reddit.com/r/smashbros/comments/6xuwjf/red_bull_smash_gods_team_mew2king_vs_team_wizzrobe/|vod=}}
+
+{{Box|break|padding=1em}}
+{{TeamMatch/start
+|team1literal='''Team Plup'''
+|team2literal='''Team SFAT'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=0
+|team2matches=3
+|teamwin=2
+}}
+{{TeamMatch/row |p1=Crush |p1char=fox |p1s2=0 |p2=PewPewU |p2char=marth |p2s2=2 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=El Fuego |p1char=falco |p1s2=0 |p2=ARMY |p2char=ic |p2s2=1 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Swedish Delight |p1char=sheik |p1s2=0 |p2=SFAT |p2char=fox |p2s2=2 |win=2 |stage=Dream Land}}
+{{TeamMatch/end |reddit=https://www.reddit.com/r/smashbros/comments/6xutup/red_bull_smash_gods_team_plup_vs_team_sfat/|vod=}}
+
+{{Box|break|padding=1em}}
+{{TeamMatch/start
+|team1literal='''Team Leffen'''
+|team2literal='''Team ChuDat'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=2
+|team2matches=3
+|teamwin=2
+}}
+{{TeamMatch/row |p1=Ice |p1char=fox |p1s2=0 |p2=ChuDat |p2char=ic |p2s2=2 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Lucky |p1char=fox |p1s2=2 |p2=Fiction |p2char=fox |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Bladewise |p1char=peach |p1s2=0 |p2=MikeHaze |p2char=fox |p2s2=2 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Leffen |p1char=fox |p1s2=2 |p2=Westballz |p2char=falco |p2s2=0 |win=1 |stage=Fountain of Dreams}}
+{{TeamMatch/doublesrow |t1p1=Leffen |t1p1char=fox |t1p1s2=0
+                       |t1p2=Ice |t1p2char=fox |t1p2s2=0
+                       |t2p1=ChuDat |t2p1char=ic |t2p1s2=1
+                       |t2p2=Westballz |t2p2char=falco |t2p2s2=1
+                       |win=2 |stage=Dream Land}}
+{{TeamMatch/end |reddit=https://www.reddit.com/r/smashbros/comments/6xv4vl/red_bull_smash_gods_winners_round_1_team_leffen/|vod=}}
+
+{{Box|break|padding=1em}}
+{{TeamMatch/start
+|team1literal='''Team Mango'''
+|team2literal='''Team Axe'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=0
+|team2matches=3
+|teamwin=2
+}}
+{{TeamMatch/row |p1=Eddy Mexico |p1char=luigi |p1s2=0 |p2=Axe |p2char=pikachu |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=falco |p1s2=0 |p2=AMSa |p2char=yoshi |p2s2=3 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=n0ne |p1char=cf |p1s2=0 |p2=Medz |p2char=marth |p2s2=1 |win=2 |stage=Dream Land}}
+
+{{TeamMatch/end |reddit=https://www.reddit.com/r/smashbros/comments/6xvfh4/red_bull_smash_gods_crews_winners_round_1_team/|vod=}}
+{{Box|end}}
+
+====Semifinals====
+{{Box|start|padding=1em}}
+{{TeamMatch/start
+|team1literal='''Team Wizzrobe'''
+|team2literal='''Team SFAT'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=2
+|team2matches=3
+|teamwin=2
+}}
+{{TeamMatch/row |p1=Wizzrobe |p1char=cf |p1s2=2 |p2=Ryan Ford |p2char=fox |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Druggedfox |p1char=fox |p1s2=1 |p2=ARMY |p2char=ic |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=HugS |p1char=samus |p1s2=0 |p2=SFAT |p2char=fox |p2s2=2 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=MacD |p1char=peach |p1s2=0 |p2=PewPewU |p2char=marth |p2s2=1 |win=2 |stage=Fountain of Dreams}}
+{{TeamMatch/doublesrow |t1p1=Druggedfox |t1p1char=fox |t1p1s2=0
+                       |t1p2=MacD |t1p2char=peach |t1p2s2=0
+                       |t2p1=SFAT |t2p1char=fox |t2p1s2=1
+                       |t2p2=PewPewU |t2p2char=marth |t2p2s2=3
+                       |win=2 |stage=Final Destination}}
+{{TeamMatch/end |reddit=https://www.reddit.com/r/smashbros/comments/6xvx1q/red_bull_smash_gods_winners_semis_team_wizzrobe/|vod=}}
+
+{{Box|break|padding=1em}}
+{{TeamMatch/start
+|team1literal='''Team ChuDat'''
+|team2literal='''Team Axe'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=3
+|team2matches=1
+|teamwin=1
+}}
+{{TeamMatch/row |p1=ChuDat |p1char=ic |p1s2=1 |p2=Medz |p2char=marth |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Fiction |p1char=fox |p1s2=1 |p2=aMSa |p2char=yoshi |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=MikeHaze |p1char=fox |p1s2=0 |p2=Axe |p2char=pikachu |p2s2=1 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Westballz |p1char=falco |p1s2=1 |p2=Tai |p2char=marth |p2s2=0 |win=1 |stage=Fountain of Dreams}}
+{{TeamMatch/end |reddit=https://www.reddit.com/r/smashbros/comments/6xwclv/red_bull_smash_gods_crews_winners_semis_team/|vod=}}
+{{Box|end}}
+
+===Losers Bracket===
+====Losers Round 1====
+{{Box|start|padding=1em}}
+{{TeamMatch/start
+|team1literal='''Team Mew2King'''
+|team2literal='''Team Plup'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=3
+|team2matches=1
+|teamwin=1
+}}
+{{TeamMatch/row |p1=Duck |p1char=samus |p1s2=2 |p2=El Fuego |p2char=falco |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Shroomed |p1char=marth |p1s2=1 |p2=Crush |p2char=fox |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Zhu |p1char=falco |p1s2=0 |p2=Plup |p2char=sheik |p2s2=1 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Mew2King |p1char=sheik |p1s2=2 |p2=Swedish Delight |p2char=sheik |p2s2=0 |win=1 |stage=Fountain of Dreams}}
+
+{{TeamMatch/end |reddit=https://www.reddit.com/r/smashbros/comments/6xvkot/red_bull_smash_gods_crews_losers_round_1_team/|vod=}}
+
+{{Box|break|padding=1em}}
+{{TeamMatch/start
+|team1literal='''Team Leffen'''
+|team2literal='''Team Mango'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=3
+|team2matches=2
+|teamwin=1
+}}
+{{TeamMatch/row |p1=Leffen |p1char=fox |p1s2=1 |p2=n0ne |p2char=cf |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Bladewise |p1char=peach |p1s2=0 |p2=Mango |p2char=falco |p2s2=3 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Lucky |p1char=fox |p1s2=2 |p2=S2J |p2char=cf |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Ice |p1char=fox |p1s2=0 |p2=Eddy Mexico |p2char=luigi |p2s2=3 |win=2 |stage=Fountain of Dreams}}
+{{TeamMatch/doublesrow |t1p1=Leffen |t1p1char=fox |t1p1s2=1
+                       |t1p2=Ice |t1p2char=fox |t1p2s2=1
+                       |t2p1=Mango |t2p1char=falco |t2p1s2=0
+                       |t2p2=S2J |t2p2char=cf |t2p2s2=0
+                       |win=1 |stage=Pokémon Stadium}}
+{{TeamMatch/end |reddit=https://www.reddit.com/r/smashbros/comments/6xvqre/red_bull_smash_gods_crews_losers_round_1_team/|vod=}}
+{{Box|end}}
+
+====Losers Round 2====
+{{Box|start|padding=1em}}
+{{TeamMatch/start
+|team1literal='''Team Axe'''
+|team2literal='''Team Mew2King'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=0
+|team2matches=3
+|teamwin=2
+}}
+{{TeamMatch/row |p1=Tai |p1char=marth |p1s2=0 |p2=Duck |p2char=samus |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=aMSa |p1char=yoshi |p1s2=0 |p2=Zhu |p2char=falco |p2s2=2 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Medz |p1char=fox |p1s2=0 |p2=Mew2King |p2char=sheik |p2s2=2 |win=2 |stage=Dream Land}}
+{{TeamMatch/end |reddit=|vod=}}
+
+{{Box|break|padding=1em}}
+{{TeamMatch/start
+|team1literal='''Team Wizzrobe'''
+|team2literal='''Team Leffen'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=3
+|team2matches=2
+|teamwin=1
+}}
+{{TeamMatch/row |p1=HugS |p1char=samus |p1s2=0 |p2=Bladewise |p2char=peach |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Druggedfox |p1char=fox |p1s2=2 |p2=Lucky |p2char=fox |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Wizzrobe |p1char=cf |p1s2=3 |p2=Ice |p2char=fox |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=MacD |p1char=peach |p1s2=0 |p2=Leffen |p2char=fox |p2s2=3 |win=2 |stage=Fountain of Dreams}}
+{{TeamMatch/doublesrow |t1p1=Druggedfox |t1p1char=fox |t1p1s2=1
+                       |t1p2=MacD |t1p2char=peach |t1p2s2=0
+                       |t2p1=Leffen |t2p1char=fox |t2p1s2=0
+                       |t2p2=Ice |t2p2char=fox |t2p2s2=0
+                       |win=1 |stage=Final Destination}}
+{{TeamMatch/end |reddit=|vod=}}
+{{Box|end}}
+
+===Final Bracket===
+{{Box|start|padding=1em}}
+====Winners Final====
+{{TeamMatch/start
+|team1literal='''Team SFAT'''
+|team2literal='''Team ChuDat'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=3
+|team2matches=2
+|teamwin=1
+}}
+{{TeamMatch/row |p1=SFAT |p1char=fox |p1s2=0 |p2=Westballz |p2char=falco |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=ARMY |p1char=ic |p1s2=0 |p2=Fiction |p2char=fox |p2s2=2 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=PewPewU |p1char=marth |p1s2=1 |p2=ChuDat |p2char=ic |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Ryan Ford |p1char=fox |p1s2=1 |p2=MikeHaze |p2char=fox |p2s2=0 |win=1 |stage=Fountain of Dreams}}
+{{TeamMatch/doublesrow |t1p1=SFAT |t1p1char=fox |t1p1s2=1
+                       |t1p2=PewPewU |t1p2char=marth |t1p2s2=1
+                       |t2p1=ChuDat |t2p1char=ic |t2p1s2=0
+                       |t2p2=Westballz |t2p2char=falco |t2p2s2=0
+                       |win=1 |stage=Battlefield}}
+{{TeamMatch/end |reddit=|vod=}}
+
+{{Box|break|padding=1em}}
+
+====Losers Semifinals====
+{{TeamMatch/start
+|team1literal='''Team Mew2King'''
+|team2literal='''Team Wizzrobe'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=3
+|team2matches=0
+|teamwin=1
+}}
+{{TeamMatch/row |p1=Zhu |p1char=falco |p1s2=2 |p2=HugS |p2char=samus |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Shroomed |p1char=marth |p1s2=1 |p2=Druggedfox |p2char=fox |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mew2King |p1char=sheik |p1s2=2 |p2=MacD |p2char=peach |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/end |reddit=|vod=}}
+
+{{Box|break|padding=1em}}
+
+====Losers Finals====
+{{TeamMatch/start
+|team1literal='''Team ChuDat'''
+|team2literal='''Team Mew2King'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=1
+|team2matches=3
+|teamwin=2
+}}
+{{TeamMatch/row |p1=Westballz |p1char=falco |p1s2=1 |p2=Zhu |p2char=falco |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=MikeHaze |p1char=fox |p1s2=0 |p2=Mew2King |p2char=marth |p2s2=2 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Fiction |p1char=fox |p1s2=0 |p2=Shroomed |p2char=marth |p2s2=2 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=ChuDat |p1char=ic |p1s2=0 |p2=Duck |p2char=samus |p2s2=1 |win=2 |stage=Fountain of Dreams}}
+{{TeamMatch/end |reddit=|vod=}}
+
+{{Box|break|padding=1em}}
+
+====Grand Finals====
+{{TeamMatch/start
+|team1literal='''Team SFAT'''
+|team2literal='''Team Mew2King'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=0
+|team2matches=3
+|teamwin=2
+}}
+{{TeamMatch/row |p1=PewPewU |p1char=marth |p1s2=0 |p2=Duck |p2char=samus |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=SFAT |p1char=fox |p1s2=0 |p2=Shroomed |p2char=marth |p2s2=1 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Ryan Ford |p1char=fox |p1s2=0 |p2=Zhu |p2char=falco |p2s2=1 |win=2 |stage=Dream Land}}
+{{TeamMatch/end |reddit=|vod=}}
+
+{{Box|break|padding=2em}}
+====Grand Finals Set 2====
+{{TeamMatch/start
+|team1literal='''Team SFAT'''
+|team2literal='''Team Mew2King'''
+|date=September 3, 2017
+|width=220
+|startingstocks=4
+|disablecarryover=true
+
+|team1matches=0
+|team2matches=3
+|teamwin=2
+}}
+{{TeamMatch/row |p1=SFAT |p1char=fox |p1s2=0 |p2=Duck |p2char=samus |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=ARMY |p1char=ic |p1s2=0 |p2=Zhu |p2char=falco |p2s2=2 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Ryan Ford |p1char=fox |p1s2=0 |p2=Shroomed |p2char=sheik |p2s2=2 |win=2 |stage=Dream Land}}
+{{TeamMatch/end |reddit=|vod=}}
+{{Box|end}}

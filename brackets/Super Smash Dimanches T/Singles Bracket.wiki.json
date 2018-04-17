@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "StorMyu",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "BeLia",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Baxon",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Makenshi",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Baxon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "BeLia",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "p2": "Baxon",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "1"
+        },
+        "r3m2": {
+            "p2score": "0"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Victothor",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Ryosuke",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Bouboo",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Yohss",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Baku",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Tobide",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "OtaK_",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Damo",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Guilu",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Ryosuke",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Explo",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Bouboo",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Jambon",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "Tobide",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "CaptainLove",
+            "p1flag": "au",
+            "p1score": "1",
+            "p2": "Damo",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Guilu",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Explo",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Tobide",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Damo",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "StorMyu",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Guilu",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Damo",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Baxon",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Victothor",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "CaptainLove",
+            "p1flag": "au",
+            "p1score": "2",
+            "p2": "Ryosuke",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "StorMyu",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Bouboo",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Jambon",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Yohss",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Baku",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Explo",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Tobide",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Makenshi",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "OtaK_",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Damo",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Guilu",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Baxon",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "CaptainLove",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "StorMyu",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Jambon",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Explo",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Makenshi",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Guilu",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Baxon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "StorMyu",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Makenshi",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

@@ -1,0 +1,417 @@
+{
+    "===Final Bracket===": {
+        "l1m1": {
+            "p1": "gaR",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Alan",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m1": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/S8Ka_NmfpH0"
+            },
+            "p1": "SFAT",
+            "p1char1": "fox",
+            "p1char2": "fox",
+            "p1char3": "fox",
+            "p1flag": "us",
+            "p1score": "3",
+            "p1stock1": "2",
+            "p1stock2": "1",
+            "p1stock3": "3",
+            "p2": "Lucien",
+            "p2char1": "sheik",
+            "p2char2": "sheik",
+            "p2char3": "sheik",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "p2stock3": "0",
+            "stage1": "Battlefield",
+            "stage2": "Battlefield",
+            "stage3": "Battlefield",
+            "win": "1",
+            "win1": "1",
+            "win2": "1",
+            "win3": "1"
+        },
+        "r2m1": {
+            "p1": "Lucien",
+            "p1flag": "us",
+            "p1score": "advance",
+            "p2": "gaR",
+            "p2flag": "us",
+            "p2score": "advance"
+        },
+        "r3m1": {
+            "p1": "SFAT",
+            "p1flag": "us",
+            "p1score": "advance",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": ""
+        }
+    },
+    "===Losers Bracket===": {
+        "l1m1": {
+            "p1": "Bassel",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Signia",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Sam Becker",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Golf",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Fong",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Berble",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bassel",
+            "p2flag": "",
+            "p2score": "DQ",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "JFly",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Signia",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "Falcomist",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Golf",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "The Realest67",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Fong",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Berble",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Signia",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Falcomist",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Fong",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "gaR",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Signia",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Alan",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Falcomist",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "===Winners Bracket===": {
+        "r1m1": {
+            "p1": "SFAT",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Bassel",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "The Realest67",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m3": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/9ZrhZvZftc0"
+            },
+            "p1": "Falcomist",
+            "p1char1": "marth",
+            "p1char2": "falco",
+            "p1char3": "marth",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "1",
+            "p1stock2": "0",
+            "p1stock3": "1",
+            "p2": "Signia",
+            "p2char1": "marth",
+            "p2char2": "marth",
+            "p2char3": "marth",
+            "p2flag": "",
+            "p2score": "1",
+            "p2stock1": "0",
+            "p2stock2": "1",
+            "p2stock3": "0",
+            "stage1": "Final Destination",
+            "stage2": "Battlefield",
+            "stage3": "Battlefield",
+            "win": "1",
+            "win1": "1",
+            "win2": "2",
+            "win3": "1"
+        },
+        "r1m4": {
+            "p1": "gaR",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Sam Becker",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Lucien",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Golf",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "JFly",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Alan",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Fong",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Berble",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "SFAT",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "The Realest67",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/wGR6sebV3pI"
+            },
+            "p1": "Falcomist",
+            "p1char1": "falco",
+            "p1char2": "fox",
+            "p1flag": "us",
+            "p1score": "0",
+            "p1stock1": "0",
+            "p1stock2": "0",
+            "p2": "gaR",
+            "p2char1": "sheik",
+            "p2char2": "sheik",
+            "p2flag": "us",
+            "p2score": "2",
+            "p2stock1": "3",
+            "p2stock2": "1",
+            "stage1": "Battlefield",
+            "stage2": "Pok\u00e9mon Stadium",
+            "win": "2",
+            "win1": "2",
+            "win2": "2"
+        },
+        "r2m3": {
+            "p1": "Lucien",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "JFly",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Alan",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Berble",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/kzDC4I49nWc"
+            },
+            "p1": "SFAT",
+            "p1char1": "fox",
+            "p1char2": "fox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "1",
+            "p1stock2": "2",
+            "p2": "gaR",
+            "p2char1": "sheik",
+            "p2char2": "sheik",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Battlefield",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r3m2": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/GPasoIUF3KA"
+            },
+            "p1": "Lucien",
+            "p1char1": "sheik",
+            "p1char2": "sheik",
+            "p1char3": "sheik",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "0",
+            "p1stock2": "1",
+            "p1stock3": "2",
+            "p2": "Alan",
+            "p2char1": "peach",
+            "p2char2": "peach",
+            "p2char3": "peach",
+            "p2flag": "us",
+            "p2score": "1",
+            "p2stock1": "1",
+            "p2stock2": "0",
+            "p2stock3": "0",
+            "stage1": "Final Destination",
+            "stage2": "Pok\u00e9mon Stadium",
+            "stage3": "Fountain of Dreams",
+            "win": "1",
+            "win1": "2",
+            "win2": "1",
+            "win3": "1"
+        }
+    },
+    "==Pool A==": {},
+    "==Pool B==": {},
+    "==Pool C==": {},
+    "==Pool D==": {},
+    "==Top 12==": {
+        "r1m1": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/TYRQP8J7cWA"
+            },
+            "p1": "Dr. Z",
+            "p1char1": "jigglypuff",
+            "p1char2": "jigglypuff",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "2",
+            "p1stock2": "1",
+            "p2": "Ky",
+            "p2char1": "marth",
+            "p2char2": "fox",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Fountain of Dreams",
+            "stage2": "Pok\u00e9mon Stadium",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        }
+    }
+}

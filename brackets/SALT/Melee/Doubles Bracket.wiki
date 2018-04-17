@@ -1,0 +1,225 @@
+{{DISPLAYTITLE: SALT: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=SALT/Melee
+|name2=Singles Bracket
+|link2=SALT/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=SALT/Melee/Doubles Bracket
+|This=3
+}}
+
+==Winners Bracket==
+{{16DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=Mahie |r1m1t1p1flag=fr
+|r1m1t1p2=Samplay |r1m1t1p2flag=fr |r1m1t1score=2
+|r1m1t2p1=junkyCat |r1m1t2p1flag=fr
+|r1m1t2p2=Baby |r1m1t2p2flag=fr |r1m1t2score=0
+|r1m1win=1
+
+|r1m2t1p1=Bobi |r1m2t1p1flag=fr
+|r1m2t1p2=Kafka |r1m2t1p2flag=us |r1m2t1score=2
+|r1m2t2p1=Sath |r1m2t2p1flag=fr
+|r1m2t2p2=Max |r1m2t2p2flag=fr |r1m2t2score=0
+|r1m2win=1
+
+|r1m3t1p1=Leon |r1m3t1p1flag=fr
+|r1m3t1p2=quiK |r1m3t1p2flag=de |r1m3t1score=2
+|r1m3t2p1=FunkyDonkey |r1m3t2p1flag=fr
+|r1m3t2p2=SwankySharky |r1m3t2p2flag=fr |r1m3t2score=0
+|r1m3win=1
+
+|r1m4t1p1=RAOUL |r1m4t1p1flag=fr
+|r1m4t1p2=Jerem |r1m4t1p2flag=fr |r1m4t1score=2
+|r1m4t2p1=CookieSpy |r1m4t2p1flag=fr
+|r1m4t2p2=Plisko |r1m4t2p2flag=fr |r1m4t2score=0
+|r1m4win=1
+
+|r1m5t1p1=Wily |r1m5t1p1flag=fr
+|r1m5t1p2=Tekk |r1m5t1p2flag=fr |r1m5t1score=2
+|r1m5t2p1=HanK |r1m5t2p1flag=fr
+|r1m5t2p2=asworghal |r1m5t2p2flag=fr |r1m5t2score=0
+|r1m5win=1
+
+|r1m6t1p1=yogui |r1m6t1p1flag=fr
+|r1m6t1p2=Hercules |r1m6t1p2flag=fr |r1m6t1score=2
+|r1m6t2p1=OtaK_ |r1m6t2p1flag=fr
+|r1m6t2p2=Solo |r1m6t2p2flag=fr |r1m6t2score=0
+|r1m6win=1
+
+|r1m7t1p1=beLia |r1m7t1p1flag=fr
+|r1m7t1p2=Meljin |r1m7t1p2flag=fr |r1m7t1score=2
+|r1m7t2p1=Spotty Len |r1m7t2p1flag=fr
+|r1m7t2p2=Follow |r1m7t2p2flag=fr |r1m7t2score=0
+|r1m7win=1
+
+|r1m8t1p1=Rach |r1m8t1p1flag=fr
+|r1m8t1p2=CaptainJack |r1m8t1p2flag=jp |r1m8t1score=2
+|r1m8t2p1=Psylo |r1m8t2p1flag=fr
+|r1m8t2p2=eL-Cancer |r1m8t2p2flag=fr |r1m8t2score=0
+|r1m8win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Mahie |r2m1t1p1flag=fr
+|r2m1t1p2=Samplay |r2m1t1p2flag=fr |r2m1t1score=2
+|r2m1t2p1=Bobi |r2m1t2p1flag=fr
+|r2m1t2p2=Kafka |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=Leon |r2m2t1p1flag=fr
+|r2m2t1p2=quiK |r2m2t1p2flag=de |r2m2t1score=3
+|r2m2t2p1=RAOUL |r2m2t2p1flag=fr
+|r2m2t2p2=Jerem |r2m2t2p2flag=fr |r2m2t2score=0
+|r2m2win=1
+
+|r2m3t1p1=Wily |r2m3t1p1flag=fr
+|r2m3t1p2=Tekk |r2m3t1p2flag=fr |r2m3t1score=3
+|r2m3t2p1=yogui |r2m3t2p1flag=fr
+|r2m3t2p2=Hercules |r2m3t2p2flag=fr |r2m3t2score=1
+|r2m3win=1
+
+|r2m4t1p1=beLia |r2m4t1p1flag=fr
+|r2m4t1p2=Meljin |r2m4t1p2flag=fr |r2m4t1score=3
+|r2m4t2p1=Rach |r2m4t2p1flag=fr
+|r2m4t2p2=CaptainJack |r2m4t2p2flag=jp |r2m4t2score=1
+|r2m4win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Mahie |r3m1t1p1flag=fr
+|r3m1t1p2=Samplay |r3m1t1p2flag=fr |r3m1t1score=0
+|r3m1t2p1=Leon |r3m1t2p1flag=fr
+|r3m1t2p2=quiK |r3m1t2p2flag=de |r3m1t2score=3
+|r3m1win=2
+
+|r3m2t1p1=Wily |r3m2t1p1flag=fr
+|r3m2t1p2=Tekk |r3m2t1p2flag=fr |r3m2t1score=3
+|r3m2t2p1=beLia |r3m2t2p1flag=fr
+|r3m2t2p2=Meljin |r3m2t2p2flag=fr |r3m2t2score=1
+|r3m2win=1
+}}
+
+==Losers Bracket==
+{{16DEDoublesLBracketSmwA
+|tourneylink=SALT/Melee
+|tourneyname=SALT
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=junkyCat |l1m1t1p1flag=fr
+|l1m1t1p2=Baby |l1m1t1p2flag=fr |l1m1t1score=1
+|l1m1t2p1=Sath |l1m1t2p1flag=fr
+|l1m1t2p2=Max |l1m1t2p2flag=fr |l1m1t2score=2
+|l1m1win=2
+
+|l1m2t1p1=FunkyDonkey |l1m2t1p1flag=fr
+|l1m2t1p2=SwankySharky |l1m2t1p2flag=fr |l1m2t1score=2
+|l1m2t2p1=CookieSpy |l1m2t2p1flag=fr
+|l1m2t2p2=Plisko |l1m2t2p2flag=fr |l1m2t2score=0
+|l1m2win=1
+
+|l1m3t1p1=HanK |l1m3t1p1flag=fr
+|l1m3t1p2=asworghal |l1m3t1p2flag=fr |l1m3t1score=0
+|l1m3t2p1=OtaK_ |l1m3t2p1flag=fr
+|l1m3t2p2=Solo |l1m3t2p2flag=fr |l1m3t2score=2
+|l1m3win=2
+
+|l1m4t1p1=Spotty Len |l1m4t1p1flag=fr
+|l1m4t1p2=Follow |l1m4t1p2flag=fr |l1m4t1score=1
+|l1m4t2p1=Psylo |l1m4t2p1flag=fr
+|l1m4t2p2=eL-Cancer |l1m4t2p2flag=fr |l1m4t2score=2
+|l1m4win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Rach |l2m1t1p1flag=fr
+|l2m1t1p2=CaptainJack |l2m1t1p2flag=jp |l2m1t1score=2
+|l2m1t2p1=Sath |l2m1t2p1flag=fr
+|l2m1t2p2=Max |l2m1t2p2flag=fr |l2m1t2score=0
+|l2m1win=1
+
+|l2m2t1p1=yogui |l2m2t1p1flag=fr
+|l2m2t1p2=Hercules |l2m2t1p2flag=fr |l2m2t1score=3
+|l2m2t2p1=FunkyDonkey |l2m2t2p1flag=fr
+|l2m2t2p2=SwankySharky |l2m2t2p2flag=fr |l2m2t2score=0
+|l2m2win=1
+
+|l2m3t1p1=RAOUL |l2m3t1p1flag=fr
+|l2m3t1p2=Jerem |l2m3t1p2flag=fr |l2m3t1score=2
+|l2m3t2p1=OtaK_ |l2m3t2p1flag=fr
+|l2m3t2p2=Solo |l2m3t2p2flag=fr |l2m3t2score=0
+|l2m3win=1
+
+|l2m4t1p1=Bobi |l2m4t1p1flag=fr
+|l2m4t1p2=Kafka |l2m4t1p2flag=us |l2m4t1score=2
+|l2m4t2p1=Psylo |l2m4t2p1flag=fr
+|l2m4t2p2=eL-Cancer |l2m4t2p2flag=fr |l2m4t2score=0
+|l2m4win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=Rach |l3m1t1p1flag=fr
+|l3m1t1p2=CaptainJack |l3m1t1p2flag=jp |l3m1t1score=3
+|l3m1t2p1=yogui |l3m1t2p1flag=fr
+|l3m1t2p2=Hercules |l3m1t2p2flag=fr |l3m1t2score=1
+|l3m1win=1
+
+|l3m2t1p1=RAOUL |l3m2t1p1flag=fr
+|l3m2t1p2=Jerem |l3m2t1p2flag=fr |l3m2t1score=3
+|l3m2t2p1=Bobi |l3m2t2p1flag=fr
+|l3m2t2p2=Kafka |l3m2t2p2flag=us |l3m2t2score=1
+|l3m2win=1
+
+<!-- ROUND 4 -->
+|l4m1t1p1=Mahie |l4m1t1p1flag=fr
+|l4m1t1p2=Samplay |l4m1t1p2flag=fr |l4m1t1score=3
+|l4m1t2p1=Rach |l4m1t2p1flag=fr
+|l4m1t2p2=CaptainJack |l4m1t2p2flag=jp |l4m1t2score=0
+|l4m1win=1
+
+|l4m2t1p1=beLia |l4m2t1p1flag=fr
+|l4m2t1p2=Meljin |l4m2t1p2flag=fr |l4m2t1score=3
+|l4m2t2p1=RAOUL |l4m2t2p1flag=fr
+|l4m2t2p2=Jerem |l4m2t2p2flag=fr |l4m2t2score=1
+|l4m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=SALT/Melee
+|tourneyname=SALT
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Leon |r1m1t1p1flag=fr
+|r1m1t1p2=quiK |r1m1t1p2flag=de |r1m1t1score=3
+|r1m1t2p1=Wily |r1m1t2p1flag=fr
+|r1m1t2p2=Tekk |r1m1t2p2flag=fr |r1m1t2score=1
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Mahie |l1m1t1p1flag=fr
+|l1m1t1p2=Samplay |l1m1t1p2flag=fr |l1m1t1score=3
+|l1m1t2p1=beLia |l1m1t2p1flag=fr
+|l1m1t2p2=Meljin |l1m1t2p2flag=fr |l1m1t2score=1
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Wily |r2m1t1p1flag=fr
+|r2m1t1p2=Tekk |r2m1t1p2flag=fr |r2m1t1score=0
+|r2m1t2p1=Mahie |r2m1t2p1flag=fr
+|r2m1t2p2=Samplay |r2m1t2p2flag=fr |r2m1t2score=3
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Leon |r3m1t1p1flag=fr
+|r3m1t1p2=quiK |r3m1t1p2flag=de |r3m1t1score=0 |r3m2t1score=1
+|r3m1t2p1=Mahie |r3m1t2p1flag=fr
+|r3m1t2p2=Samplay |r3m1t2p2flag=fr |r3m1t2score=3 |r3m2t2score=3
+|r3m1win=2
+}}
+</onlyinclude>

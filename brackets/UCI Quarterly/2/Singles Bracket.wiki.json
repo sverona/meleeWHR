@@ -1,0 +1,419 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "LuigiKid",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Captain Smuckers",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Captain Faceroll",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Captain Faceroll",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Captain Smuckers",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "win": "2"
+        },
+        "r3m2": {
+            "p2score": "3"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Punk",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "AdamCS",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "FanOfHugsFan",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "ff3",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Tristan's Rule",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "DonB",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Jago",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Guluheend",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Daddy",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Mchi",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "YAMS",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Neeco",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Combofest",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Sway",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "BlueBuddy",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Dolla bill Bill",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Anto",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Punk",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "Pajama Sam",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "ff3",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "Zeo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "DonB",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Videowaffles",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Guluheend",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Trichael Man",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Daddy",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Oli",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Neeco",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "PsychoMidget",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Combofest",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Hulka",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Dolla bill Bill",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Punk",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "ff3",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Zeo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Guluheend",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Trichael Man",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Oli",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "PsychoMidget",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Hulka",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Dr. Light",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Punk",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "LuigiKid",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Zeo",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "KoopaTroopa895",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Trichael Man",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Squid",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "PsychoMidget",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Dr. Light",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "LuigiKid",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "KoopaTroopa895",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "PsychoMidget",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "ARMY",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "LuigiKid",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m2": {
+            "p1": "Captain Smuckers",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "PsychoMidget",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Videowaffles",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Zeo",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "KoopaTroopa895",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Squid",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Pajama Sam",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "ARMY",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Anto",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Captain Faceroll",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Hulka",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "PsychoMidget",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Dr. Light",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Captain Smuckers",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Oli",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "LuigiKid",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Trichael Man",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "KoopaTroopa895",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Squid",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "ARMY",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Captain Faceroll",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Dr. Light",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Captain Smuckers",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "LuigiKid",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "ARMY",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Captain Faceroll",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Captain Smuckers",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        }
+    }
+}

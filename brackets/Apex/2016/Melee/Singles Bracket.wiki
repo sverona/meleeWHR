@@ -1,0 +1,96 @@
+{{SetGame|melee}}{{DISPLAYTITLE:Apex 2016: ''Melee'' Singles Bracket}}
+{{Apex 2016 Tabs |This=3}}
+
+{{:Apex/2016/Melee/Singles Bracket/Winners}}
+{{:Apex/2016/Melee/Singles Bracket/Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Apex/2016/Melee
+|tourneyname=Apex 2016
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=200
+
+<!-- FROM WINNERS -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=The Moon |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=sheik |r1m1p1stock1=2 |r1m1p2char1=marth |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield 
+|r1m1p1char2=marth |r1m1p1stock2=2 |r1m1p2char2=marth |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1p1char3=marth |r1m1p1stock3=2 |r1m1p2char3=marth |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Final Destination
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=https://youtu.be/LqfFMU1Jrq4
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Mafia |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=DJ Nintendo |l1m1p2flag=us |l1m1p2score=1
+|l1m1win=1
+|l1m1p1char1=peach |l1m1p1stock1=1 |l1m1p2char1=fox |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1p1char2=peach |l1m1p1stock2=3 |l1m1p2char2=fox |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Pokémon Stadium
+|l1m1p1char3=peach |l1m1p1stock3=0 |l1m1p2char3=pikachu |l1m1p2stock3=1 |l1m1win3=2 |l1m1stage3=Battlefield
+|l1m1p1char4=peach |l1m1p1stock4=2 |l1m1p2char4=mario |l1m1p2stock4=0 |l1m1win4=1 |l1m1stage4=Fountain of Dreams
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=https://youtu.be/Gf8mdR53jac
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=The Moon |r2m1p1flag=us |r2m1p1score=1
+|r2m1p2=Mafia |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=marth |r2m1p1stock1=1 |r2m1p2char1=peach |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=marth |r2m1p1stock2=0 |r2m1p2char2=peach |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Dream Land
+|r2m1p1char3=marth |r2m1p1stock3=0 |r2m1p2char3=peach |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Pokémon Stadium
+|r2m1p1char4=marth |r2m1p1stock4=0 |r2m1p2char4=peach |r2m1p2stock4=1 |r2m1win4=2 |r2m1stage4=Pokémon Stadium
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=https://youtu.be/s5kAq1kg6Oo
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Mafia |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+|export_score=true
+|r3m1p1char1=marth |r3m1p1stock1=1 |r3m1p2char1=peach |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield 
+|r3m1p1char2=marth |r3m1p1stock2=3 |r3m1p2char2=peach |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Battlefield
+|r3m1p1char3=marth |r3m1p1stock3=2 |r3m1p2char3=peach |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Dream Land
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=https://youtu.be/U_el_nC8uUY
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

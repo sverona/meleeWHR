@@ -1,0 +1,105 @@
+__NOTOC__{{DISPLAYTITLE: Apollo VI: Singles Pools}}<!--
+-->{{SetGame|melee}}<!--
+-->{{Tabs static
+|name1=Overview |link1=Apollo/6
+|name2=Singles Pools |link2=Apollo/6/Singles Pools
+|name3=Singles Bracket |link3=Apollo/6/Singles Bracket
+|name4=Doubles Bracket |link4=Apollo/6/Doubles Bracket
+|This=2
+}}
+==Pools Overview==
+Singles Pools are Double Elimination Bracket Pools. Four players advance from each pool in total; two from Winners, and two from Losers.
+==Pools==
+{{Box|start|padding=2em}}
+==={{HiddenSort|1}}===
+{{GroupTableStart |Bracket 1|width=300px}}
+{{GroupTableSlot|Ryobeat|flag=us|win_m=3|lose_m=0|place=3|bg=up |go={{advance|Apollo/6/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|Swedish Delight|flag=us|win_m=3|lose_m=0|place=3|bg=up |go={{advance|Apollo/6/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|Kalvar|flag=us|win_m=3|lose_m=1|place=4|bg=stay |go={{advance|Apollo/6/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Sunn|flag=us|win_m=3|lose_m=1|place=4|bg=stay |go={{advance|Apollo/6/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|JLo|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Green Ranger|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Relyk|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Matat0|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Son2|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Scrandino|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|andonuts|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Way Past Nice|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Lil'Pastry|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Fla$h Money|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Geodude|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|yunbo|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|PepperJack|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Ogre|flag=|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|2}}===
+{{GroupTableStart |Bracket 2|width=300px}}
+{{GroupTableSlot|Slox|flag=us|win_m=3|lose_m=0|place=3|bg=up |go={{advance|Apollo/6/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|Beerman|flag=us|win_m=3|lose_m=0|place=3|bg=up |go={{advance|Apollo/6/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|tazio|flag=us|win_m=4|lose_m=1|place=4|bg=stay |go={{advance|Apollo/6/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Kaeon|flag=us|win_m=3|lose_m=1|place=4|bg=stay |go={{advance|Apollo/6/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|JJM|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Atomsk|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|B-WAR|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Miso|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Kezzup|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Grrg|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|a-on|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Moburu|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|jdubbbz|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|JetFall|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Telemonic|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|BlueEco|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|mcducats|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Henry|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|3}}===
+{{GroupTableStart |Bracket 3|width=300px}}
+{{GroupTableSlot|mayb|flag=us|win_m=3|lose_m=0|place=3|bg=up |go={{advance|Apollo/6/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|DJ Nintendo|flag=us|win_m=3|lose_m=0|place=3|bg=up |go={{advance|Apollo/6/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|JoJo|flag=us|win_m=4|lose_m=1|place=4|bg=stay |go={{advance|Apollo/6/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Just Jason|flag=us|win_m=3|lose_m=1|place=4|bg=stay |go={{advance|Apollo/6/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Kami|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Rasen|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Qerb|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|lecceo|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|TSB|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|PizzaInACup|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Hoss Delgado|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Syrup|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|BriBri|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Monik|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Abyss_Megalo|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|MPK|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Frugal|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Shiro|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|4}}===
+{{GroupTableStart |Bracket 4|width=300px}}
+{{GroupTableSlot|Zealous5000|flag=us|win_m=3|lose_m=0|place=3|bg=up |go={{advance|Apollo/6/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|2saint|flag=us|win_m=3|lose_m=0|place=3|bg=up |go={{advance|Apollo/6/Singles_Bracket#Winners_Bracket}}}}
+{{GroupTableSlot|Makari|flag=us|win_m=4|lose_m=1|place=4|bg=stay |go={{advance|Apollo/6/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Vino|flag=us|win_m=3|lose_m=1|place=4|bg=stay |go={{advance|Apollo/6/Singles_Bracket#Losers_Bracket}}}}
+{{GroupTableSlot|Kevorkian|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|dudutsai|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|FF|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Emil|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Janky|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|PSai|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Robo|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Lunatic1000|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Louch|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Red Squirrel|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Remi|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Big L|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Q|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Vix|flag=|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Zhalos|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}

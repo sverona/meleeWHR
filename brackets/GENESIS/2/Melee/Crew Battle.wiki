@@ -1,0 +1,90 @@
+{{DISPLAYTITLE:GENESIS 2: ''Melee'' West Coast vs East Coast Crew Battle}}<!--
+-->{{SetGame|melee}}<!--
+-->{{GENESIS 2 Melee Tabs|This=10}}
+==Full Rosters==
+{{box|start|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|West Coast
+|-
+|style="width:160px;"|{{flag/us}} {{head/ice climbers}} [[Wobbles]]
+|-
+|{{flag/us}} {{head/samus}} [[HugS]]
+|-
+|{{flag/us}} {{head/fox}} [[lucky]]
+|-
+|{{flag/us}} {{head/dr mario}} [[Shroomed]]
+|-
+|{{flag/us}} {{head/pikachu}} [[Axe]]
+|-
+|{{flag/us}} {{head/sheik}} [[Lucien]]
+|-
+|{{flag/us}} {{head/ice climbers}} [[Fly Amanita]]
+|-
+|{{flag/us}} {{head/fox}} [[Silent Wolf]]
+|-
+|{{flag/us}} {{head/fox}} [[Lovage]]
+|-
+|{{flag/us}} {{head/falco}} [[Mango]]
+|-
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|East Coast
+|-
+|style="width:160px;"|{{flag/us}} {{head/marth}} [[G$]]
+|-
+|{{flag/us}} {{head/samus}} [[IHaveSpaceBalls]]
+|-
+|{{flag/us}} {{head/fox}} [[Cyrain]]
+|-
+|{{flag/us}} {{head/jigglypuff}} [[Hungrybox]]
+|-
+|{{flag/us}} {{head/captain falcon}} [[Hax]]
+|-
+|{{flag/us}} {{head/marth}} [[Mew2King]]
+|-
+|{{flag/us}} {{head/peach}} [[DoH]]
+|-
+|{{flag/us}} {{head/sheik}}  [[Tope]]
+|-
+|{{flag/us}} {{head/marth}} [[Dart!]]
+|-
+|{{flag/us}} {{head/falco}} [[Dr. PP]]
+|-
+|}
+{{box|end}}
+<onlyinclude>
+{{TeamMatch/start
+|team1literal='''West Coast''' {{flag/us}} 
+|team2literal={{flag/us}} '''East Coast'''
+|date=
+|width=235
+|startingstocks=4
+
+|team1matches=10
+|team2matches=9
+|team1stocks=2
+|team2stocks=0
+|teamwin=1
+}}
+{{TeamMatch/row |p1=Wobbles |p1char=ic |p1s2=3 |p2=G$ |p2char=marth |p2s2=0 |win=1 |stage=Fountain of Dreams}}
+{{TeamMatch/row |p1=Wobbles |p1char=ic |p1s2=1 |p2=IHaveSpaceBalls |p2char=samus |p2s2=0 |win=1 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=Wobbles |p1char=ic |p1s2=0 |p2=Cyrain |p2char=fox |p2s2=3 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=HugS |p1char=samus |p1s2=1 |p2=Cyrain |p2char=fox |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=HugS |p1char=samus |p1s2=0 |p2=Hungrybox |p2char=puff |p2s2=4 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Lucky |p1char=fox |p1s2=0 |p2=Hungrybox |p2char=puff |p2s2=3 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Shroomed |p1char=doc |p1s2=1 |p2=Hungrybox |p2char=puff |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Shroomed |p1char=doc |p1s2=0 |p2=Hax |p2char=cf |p2s2=4 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Axe |p1char=pika |p1s2=0 |p2=Hax |p2char=cf |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Lucien |p1char=sheik |p1s2=2 |p2=Hax |p2char=cf |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Lucien |p1char=sheik |p1s2=0 |p2=Mew2King |p2char=marth |p2s2=3 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Fly Amanita |p1char=ic |p1s2=3 |p2=Mew2King |p2char=marth |p2s2=0 |win=1 |stage=Final Destination}}
+{{TeamMatch/row |p1=Fly Amanita |p1char=ic |p1s2=1 |p2=DoH |p2char=peach |p2s2=0 |win=1 |stage=Fountain of Dreams}}
+{{TeamMatch/row |p1=Fly Amanita |p1char=ic |p1s2=0 |p2=Tope |p2char=sheik |p2s2=4 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Silent Wolf |p1char=fox |p1s2=0 |p2=Tope |p2char=sheik |p2s2=2 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Lovage |p1char=fox |p1s2=2 |p2=Tope |p2char=sheik |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Lovage |p1char=fox |p1s2=0 |p2=Dart! |p2char=marth |p2s2=2 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=falco |p1s2=4 |p2=Dart! |p2char=marth |p2s2=0 |win=1 |stage=Fountain of Dreams}}
+{{TeamMatch/row |p1=Mango |p1char=falco |p1s2=2 |p2=Dr. PP |p2char=falco |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=B18EuHxBn1w}}
+</onlyinclude>

@@ -1,0 +1,563 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Android",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Mayhem",
+            "p2flag": "fi",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Leffen",
+            "p2flag": "se",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Leffen",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Android",
+            "p2flag": "se",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "1"
+        },
+        "r3m2": {
+            "p2score": ""
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Loota",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Jon_ass",
+            "p2flag": "de",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Ijuka",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "VJ",
+            "p2flag": "se",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Novi",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Taukki",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Deg",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "saska",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "\u00dcber",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Tukaani",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "kalzu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "WMK",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m7": {
+            "p1": "Zumma",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "hopo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "RT",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "HippiEetu",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Beat",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "Jon_ass",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "MasterTK",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "VJ",
+            "p2flag": "se",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Paju",
+            "p1flag": "fi",
+            "p1score": "2",
+            "p2": "Novi",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "B\u00cbst",
+            "p1flag": "fi",
+            "p1score": "1",
+            "p2": "saska",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Zoler",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "\u00dcber",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Jadde",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "kalzu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Kuja",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "Zumma",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Salevits",
+            "p1flag": "fi",
+            "p1score": "2",
+            "p2": "RT",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Beat",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "MasterTK",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Paju",
+            "p1flag": "fi",
+            "p1score": "3",
+            "p2": "saska",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Zoler",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Jadde",
+            "p2flag": "se",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "Kuja",
+            "p1flag": "se",
+            "p1score": "0",
+            "p2": "Salevits",
+            "p2flag": "fi",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "peki",
+            "p1flag": "fi",
+            "p1score": "0",
+            "p2": "Beat",
+            "p2flag": "se",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "NamiNami",
+            "p1flag": "fi",
+            "p1score": "0",
+            "p2": "Paju",
+            "p2flag": "fi",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Mayhem",
+            "p1flag": "fi",
+            "p1score": "3",
+            "p2": "Zoler",
+            "p2flag": "se",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Rocky",
+            "p1flag": "se",
+            "p1score": "0",
+            "p2": "Salevits",
+            "p2flag": "fi",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Beat",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Paju",
+            "p2flag": "fi",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Mayhem",
+            "p1flag": "fi",
+            "p1score": "3",
+            "p2": "Salevits",
+            "p2flag": "fi",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Android",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Beat",
+            "p2flag": "se",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Dev",
+            "p1flag": "se",
+            "p1score": "1",
+            "p2": "Mayhem",
+            "p2flag": "fi",
+            "p2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "Loota",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "B\u00cbst",
+            "p1flag": "fi",
+            "p1score": "2",
+            "p2": "Tukaani",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Rocky",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "kalzu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Paju",
+            "p1flag": "fi",
+            "p1score": "2",
+            "p2": "WMK",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Android",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "Zumma",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "MasterTK",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "hopo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Mayhem",
+            "p1flag": "fi",
+            "p1score": "2",
+            "p2": "RT",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Beat",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "HippiEetu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Jon_ass",
+            "p1flag": "de",
+            "p1score": "1",
+            "p2": "Salevits",
+            "p2flag": "fi",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "NamiNami",
+            "p1flag": "fi",
+            "p1score": "2",
+            "p2": "Ijuka",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "VJ",
+            "p1flag": "se",
+            "p1score": "1",
+            "p2": "Kuja",
+            "p2flag": "se",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "peki",
+            "p1flag": "fi",
+            "p1score": "2",
+            "p2": "Novi",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Jadde",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "Taukki",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Dev",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "Deg",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Zoler",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "saska",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Leffen",
+            "p1flag": "se",
+            "p1score": "2",
+            "p2": "\u00dcber",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Salevits",
+            "p2flag": "fi",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "NamiNami",
+            "p1flag": "fi",
+            "p1score": "3",
+            "p2": "Kuja",
+            "p2flag": "se",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "peki",
+            "p1flag": "fi",
+            "p1score": "3",
+            "p2": "Jadde",
+            "p2flag": "se",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Dev",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Zoler",
+            "p2flag": "se",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Leffen",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "B\u00cbst",
+            "p2flag": "fi",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Rocky",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Paju",
+            "p2flag": "fi",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Android",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "MasterTK",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Mayhem",
+            "p1flag": "fi",
+            "p1score": "3",
+            "p2": "Beat",
+            "p2flag": "se",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "NamiNami",
+            "p2flag": "fi",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "peki",
+            "p1flag": "fi",
+            "p1score": "2",
+            "p2": "Dev",
+            "p2flag": "se",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "Leffen",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Rocky",
+            "p2flag": "se",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Android",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Mayhem",
+            "p2flag": "fi",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Dev",
+            "p2flag": "se",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Leffen",
+            "p1flag": "se",
+            "p1score": "3",
+            "p2": "Android",
+            "p2flag": "se",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

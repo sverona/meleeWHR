@@ -1,0 +1,203 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Ryobeat",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Kalvar",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Junebug",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Ryobeat",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "1}}</onlyinclude>"
+        },
+        "r3m2": {
+            "p2score": ""
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "DrLobster",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "ctrlaltdefeat",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "PudgyPanda",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "BIG KID",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "FMB5k",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Wassabi",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Lunchables",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "47",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Ryobeat",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "DrLobster",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Atomsk",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "PudgyPanda",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "Kalvar",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "FMB5k",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "bonfire10",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Lunchables",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Ryobeat",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "PudgyPanda",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Kalvar",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "bonfire10",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "DJ Nintendo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Ryobeat",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Stango",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Kalvar",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "bonfire10",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "DJ Nintendo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Kalvar",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Junebug",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Atomsk",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Stango",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Ryobeat",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "DJ Nintendo",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Junebug",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Stango",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        }
+    }
+}

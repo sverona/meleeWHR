@@ -1,0 +1,307 @@
+{
+    "====Losers Bracket====": {
+        "l1m1": {
+            "p1": "Reeve",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bowzer_bro",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Nox",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Webs",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Parzival",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Pooch",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Dirtboy",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Tenrye",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Hindawg",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Reeve",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Rik",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Nox",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "AnDaLe",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Pooch",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Cheato",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Tenrye",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Hindawg",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Rik",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "AnDaLe",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Cheato",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "PRZ",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Rik",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Captain Faceroll",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "AnDaLe",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "====Top 16 Seeding Matches====": {
+        "r1m1": {
+            "details": {
+                "comment": "",
+                "interview": "",
+                "live": "box",
+                "lrthread": "",
+                "preview": "",
+                "recap": "",
+                "vod": ""
+            },
+            "p1": "Rik",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Captain Faceroll",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        }
+    },
+    "====Winners Bracket====": {
+        "r1m1": {
+            "p1": "Kels",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Reeve",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Cheato",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bowzer_bro",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "PRZ",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Nox",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "AnDaLe",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Webs",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Darkrain",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Parzival",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "r1m6": {
+            "p1": "Pooch",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Rik",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Hindawg",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Dirtboy",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Captain Faceroll",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Tenrye",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Kels",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Cheato",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "PRZ",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "AnDaLe",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Darkrain",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Rik",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Hindawg",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Captain Faceroll",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m1": {
+            "date": "June 14, 2015",
+            "details": {
+                "comment": "",
+                "interview": "",
+                "lrthread": "",
+                "preview": "",
+                "recap": "",
+                "vod": "https://youtu.be/vIZkXN9JObY"
+            },
+            "p1": "Kels",
+            "p1char1": "fox",
+            "p1char2": "fox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "3",
+            "p1stock2": "1",
+            "p2": "PRZ",
+            "p2char1": "fox",
+            "p2char2": "fox",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Final Destination",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r3m2": {
+            "date": "June 14, 2015",
+            "details": {
+                "comment": "",
+                "interview": "",
+                "lrthread": "",
+                "preview": "",
+                "recap": "",
+                "vod": "https://youtu.be/X_BeWM7kDko"
+            },
+            "p1": "Darkrain",
+            "p1char1": "cf",
+            "p1char2": "cf",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "2",
+            "p1stock2": "2",
+            "p2": "Captain Faceroll",
+            "p2char1": "sheik",
+            "p2char2": "sheik",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Fountain of Dreams",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        }
+    },
+    "===Pool 1===": {},
+    "===Pool 2===": {},
+    "===Pool 3===": {},
+    "===Pool 4===": {},
+    "==Round 2 Pools==": {}
+}

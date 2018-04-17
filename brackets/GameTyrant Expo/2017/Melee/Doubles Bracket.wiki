@@ -1,0 +1,265 @@
+{{DISPLAYTITLE:GameTyrant Expo 2017: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{GTX 2017 Melee Tabs|This=5}}
+==Winners Bracket==
+{{8DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=Android |r1m1t1p1flag=se
+|r1m1t1p2=Armada |r1m1t1p2flag=se |r1m1t1score=2
+|r1m1t2p1=Swedish Delight |r1m1t2p1flag=us
+|r1m1t2p2=MikeHaze |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+
+|r1m2t1p1=Bladewise |r1m2t1p1flag=us
+|r1m2t1p2=n0ne |r1m2t1p2flag=ni |r1m2t1score=0
+|r1m2t2p1=Hungrybox |r1m2t2p1flag=us
+|r1m2t2p2=ChuDat |r1m2t2p2flag=us |r1m2t2score=2
+|r1m2win=2
+
+|r1m3t1p1=SFAT |r1m3t1p1flag=us
+|r1m3t1p2=PewPewU |r1m3t1p2flag=us |r1m3t1score=2
+|r1m3t2p1=La Luna |r1m3t2p1flag=us
+|r1m3t2p2=Lucky |r1m3t2p2flag=us |r1m3t2score=1
+|r1m3win=1
+|r1m3t1p1char1=fox |r1m3t1p1stock1=1 |r1m3t1p2char1=marth |r1m3t1p2stock1=1
+|r1m3t2p1char1=fox |r1m3t2p1stock1=0 |r1m3t2p2char1=fox |r1m3t2p2stock1=0 |r1m3win1=1 |r1m3stage1=Battlefield
+|r1m3t1p1char2=fox |r1m3t1p1stock2=0 |r1m3t1p2char2=marth |r1m3t1p2stock2=0
+|r1m3t2p1char2=fox |r1m3t2p1stock2=1 |r1m3t2p2char2=fox |r1m3t2p2stock2=1 |r1m3win2=2 |r1m3stage2=Pokémon Stadium
+|r1m3t1p1char3=fox |r1m3t1p1stock3=1 |r1m3t1p2char3=marth |r1m3t1p2stock3=1
+|r1m3t2p1char3=fox |r1m3t2p1stock3=0 |r1m3t2p2char3=fox |r1m3t2p2stock3=0 |r1m3win3=1 |r1m3stage3=Yoshi's Story
+|r1m3date=September 29, 2017
+|r1m3details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r1m4t1p1=Plup |r1m4t1p1flag=us
+|r1m4t1p2=Mew2King |r1m4t1p2flag=us |r1m4t1score=2
+|r1m4t2p1=MacD |r1m4t2p1flag=us
+|r1m4t2p2=Crush |r1m4t2p2flag=us |r1m4t2score=0
+|r1m4win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Android |r2m1t1p1flag=se
+|r2m1t1p2=Armada |r2m1t1p2flag=se |r2m1t1score=3
+|r2m1t2p1=Hungrybox |r2m1t2p1flag=us
+|r2m1t2p2=ChuDat |r2m1t2p2flag=us |r2m1t2score=2
+|r2m1win=1
+|r2m1t1p1char1=sheik |r2m1t1p1stock1=0 |r2m1t1p2char1=fox |r2m1t1p2stock1=0
+|r2m1t2p1char1=puff |r2m1t2p1stock1=1 |r2m1t2p2char1=ic |r2m1t2p2stock1=1 |r2m1win1=2 |r2m1stage1=Final Destination
+|r2m1t1p1char2=sheik |r2m1t1p1stock2=0 |r2m1t1p2char2=fox |r2m1t1p2stock2=0
+|r2m1t2p1char2=puff |r2m1t2p1stock2=1 |r2m1t2p2char2=ic |r2m1t2p2stock2=1 |r2m1win2=2 |r2m1stage2=Pokémon Stadium
+|r2m1t1p1char3=sheik |r2m1t1p1stock3=1 |r2m1t1p2char3=fox |r2m1t1p2stock3=1
+|r2m1t2p1char3=puff |r2m1t2p1stock3=0 |r2m1t2p2char3=ic |r2m1t2p2stock3=0 |r2m1win3=1 |r2m1stage3=Pokémon Stadium
+|r2m1t1p1char4=sheik |r2m1t1p1stock4=1 |r2m1t1p2char4=fox |r2m1t1p2stock4=1
+|r2m1t2p1char4=puff |r2m1t2p1stock4=0 |r2m1t2p2char4=ic |r2m1t2p2stock4=0 |r2m1win4=1 |r2m1stage4=Dream Land
+|r2m1t1p1char5=sheik |r2m1t1p1stock5=0 |r2m1t1p2char5=fox |r2m1t1p2stock5=1
+|r2m1t2p1char5=puff |r2m1t2p1stock5=0 |r2m1t2p2char5=ic |r2m1t2p2stock5=0 |r2m1win5=1 |r2m1stage5=Battlefield
+|r2m1date=September 29, 2017
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|r2m2t1p1=SFAT |r2m2t1p1flag=us
+|r2m2t1p2=PewPewU |r2m2t1p2flag=us |r2m2t1score=3
+|r2m2t2p1=Plup |r2m2t2p1flag=us
+|r2m2t2p2=Mew2King |r2m2t2p2flag=us |r2m2t2score=0
+|r2m2win=1
+|r2m2t1p1char1=fox |r2m2t1p1stock1=1 |r2m2t1p2char1=marth |r2m2t1p2stock1=1
+|r2m2t2p1char1=fox |r2m2t2p1stock1=0 |r2m2t2p2char1=sheik |r2m2t2p2stock1=0 |r2m2win1=1 |r2m2stage1=Yoshi's Story
+|r2m2t1p1char2=fox |r2m2t1p1stock2=1 |r2m2t1p2char2=marth |r2m2t1p2stock2=0
+|r2m2t2p1char2=fox |r2m2t2p1stock2=0 |r2m2t2p2char2=sheik |r2m2t2p2stock2=0 |r2m2win2=1 |r2m2stage2=Dream Land
+|r2m2t1p1char3=fox |r2m2t1p1stock3=1 |r2m2t1p2char3=marth |r2m2t1p2stock3=2
+|r2m2t2p1char3=fox |r2m2t2p1stock3=0 |r2m2t2p2char3=fox |r2m2t2p2stock3=0 |r2m2win3=1 |r2m2stage3=Pokémon Stadium
+|r2m2date=September 29, 2017
+|r2m2details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+==Losers Bracket==
+{{16DEDoublesLBracketSmwA
+|column-width=170
+|tourneylink=GameTyrant Expo/2017/Melee
+|tourneyname=GameTyrant Expo 2017
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=MegaChristmas |l1m1t1p1flag=us
+|l1m1t1p2=ARMY |l1m1t1p2flag=us |l1m1t1score=0
+|l1m1t2p1=dizzkidboogie |l1m1t2p1flag=us
+|l1m1t2p2=Druggedfox |l1m1t2p2flag=us |l1m1t2score=2
+|l1m1win=2
+
+|l1m2t1p1=Dr. Z |l1m2t1p1flag=us
+|l1m2t1p2=MattDotZeb |l1m2t1p2flag=us |l1m2t1score=0
+|l1m2t2p1=Fizz |l1m2t2p1flag=us
+|l1m2t2p2=Eikelmann |l1m2t2p2flag=ru |l1m2t2score=2
+|l1m2win=2
+
+|l1m3t1p1=DSJ |l1m3t1p1flag=us
+|l1m3t1p2=WizP |l1m3t1p2flag=us |l1m3t1score=0
+|l1m3t2p1=Professor Pro |l1m3t2p1flag=gb
+|l1m3t2p2=Amsah |l1m3t2p2flag=nl |l1m3t2score=2
+|l1m3win=2
+
+|l1m4t1p1=Jet |l1m4t1p1flag=us
+|l1m4t1p2=OkayP. |l1m4t1p2flag=us |l1m4t1score=0
+|l1m4t2p1=Syrox |l1m4t2p1flag=us
+|l1m4t2p2=Westballz |l1m4t2p2flag=us |l1m4t2score=2
+|l1m4win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=MacD |l2m1t1p1flag=us
+|l2m1t1p2=Crush |l2m1t1p2flag=us |l2m1t1score=2
+|l2m1t2p1=dizzkidboogie |l2m1t2p1flag=us
+|l2m1t2p2=Druggedfox |l2m1t2p2flag=us |l2m1t2score=0
+|l2m1win=1
+
+|l2m2t1p1=La Luna |l2m2t1p1flag=us
+|l2m2t1p2=Lucky |l2m2t1p2flag=us |l2m2t1score=2
+|l2m2t2p1=Fizz |l2m2t2p1flag=us
+|l2m2t2p2=Eikelmann |l2m2t2p2flag=ru |l2m2t2score=1
+|l2m2win=1
+
+|l2m3t1p1=Bladewise |l2m3t1p1flag=us
+|l2m3t1p2=n0ne |l2m3t1p2flag=ni |l2m3t1score=1
+|l2m3t2p1=Professor Pro |l2m3t2p1flag=gb
+|l2m3t2p2=Amsah |l2m3t2p2flag=nl |l2m3t2score=2
+|l2m3win=2
+
+|l2m4t1p1=Swedish Delight |l2m4t1p1flag=us
+|l2m4t1p2=MikeHaze |l2m4t1p2flag=us |l2m4t1score=0
+|l2m4t2p1=Syrox |l2m4t2p1flag=us
+|l2m4t2p2=Westballz |l2m4t2p2flag=us |l2m4t2score=2
+|l2m4win=2
+
+<!-- ROUND 3 -->
+|l3m1t1p1=MacD |l3m1t1p1flag=us
+|l3m1t1p2=Crush |l3m1t1p2flag=us |l3m1t1score=3
+|l3m1t2p1=La Luna |l3m1t2p1flag=us
+|l3m1t2p2=Lucky |l3m1t2p2flag=us |l3m1t2score=0
+|l3m1win=1
+
+|l3m2t1p1=Professor Pro |l3m2t1p1flag=gb
+|l3m2t1p2=Amsah |l3m2t1p2flag=nl |l3m2t1score=0
+|l3m2t2p1=Syrox |l3m2t2p1flag=us
+|l3m2t2p2=Westballz |l3m2t2p2flag=us |l3m2t2score=3
+|l3m2win=2
+|l3m2t1p1char1=fox |l3m2t1p1stock1=0 |l3m2t1p2char1=sheik |l3m2t1p2stock1=0
+|l3m2t2p1char1=fox |l3m2t2p1stock1=1 |l3m2t2p2char1=falco |l3m2t2p2stock1=1 |l3m2win1=2 |l3m2stage1=Yoshi's Story
+|l3m2t1p1char2=fox |l3m2t1p1stock2=0 |l3m2t1p2char2=sheik |l3m2t1p2stock2=0
+|l3m2t2p1char2=fox |l3m2t2p1stock2=2 |l3m2t2p2char2=falco |l3m2t2p2stock2=1 |l3m2win2=2 |l3m2stage2=Battlefield
+|l3m2t1p1char3=fox |l3m2t1p1stock3=0 |l3m2t1p2char3=sheik |l3m2t1p2stock3=0
+|l3m2t2p1char3=fox |l3m2t2p1stock3=1 |l3m2t2p2char3=falco |l3m2t2p2stock3=1 |l3m2win3=2 |l3m2stage3=Battlefield
+|l3m2date=September 29, 2017
+|l3m2details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- ROUND 4 -->
+|l4m1t1p1=Hungrybox |l4m1t1p1flag=us
+|l4m1t1p2=ChuDat |l4m1t1p2flag=us |l4m1t1score=3
+|l4m1t2p1=MacD |l4m1t2p1flag=us
+|l4m1t2p2=Crush |l4m1t2p2flag=us |l4m1t2score=0
+|l4m1win=1
+|l4m1t1p1char1=puff |l4m1t1p1stock1=2 |l4m1t1p2char1=ic |l4m1t1p2stock1=2
+|l4m1t2p1char1=peach |l4m1t2p1stock1=0 |l4m1t2p2char1=fox |l4m1t2p2stock1=0 |l4m1win1=1 |l4m1stage1=Final Destination
+|l4m1t1p1char2=puff |l4m1t1p1stock2=1 |l4m1t1p2char2=ic |l4m1t1p2stock2=1
+|l4m1t2p1char2=peach |l4m1t2p1stock2=0 |l4m1t2p2char2=fox |l4m1t2p2stock2=0 |l4m1win2=1 |l4m1stage2=Yoshi's Story
+|l4m1t1p1char3=puff |l4m1t1p1stock3=1 |l4m1t1p2char3=ic |l4m1t1p2stock3=0
+|l4m1t2p1char3=peach |l4m1t2p1stock3=0 |l4m1t2p2char3=fox |l4m1t2p2stock3=0 |l4m1win3=1 |l4m1stage3=Yoshi's Story
+|l4m1date=September 29, 2017
+|l4m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|l4m2t1p1=Plup |l4m2t1p1flag=us
+|l4m2t1p2=Mew2King |l4m2t1p2flag=us |l4m2t1score=3
+|l4m2t2p1=Syrox |l4m2t2p1flag=us
+|l4m2t2p2=Westballz |l4m2t2p2flag=us |l4m2t2score=0
+|l4m2win=1
+|l4m2t1p1char1=fox |l4m2t1p1stock1=1 |l4m2t1p2char1=sheik |l4m2t1p2stock1=1
+|l4m2t2p1char1=fox |l4m2t2p1stock1=0 |l4m2t2p2char1=falco |l4m2t2p2stock1=0 |l4m2win1=1 |l4m2stage1=Battlefield
+|l4m2t1p1char2=fox |l4m2t1p1stock2=1 |l4m2t1p2char2=marth |l4m2t1p2stock2=1
+|l4m2t2p1char2=fox |l4m2t2p1stock2=0 |l4m2t2p2char2=falco |l4m2t2p2stock2=0 |l4m2win2=1 |l4m2stage2=Final Destination
+|l4m2t1p1char3=fox |l4m2t1p1stock3=1 |l4m2t1p2char3=marth |l4m2t1p2stock3=1
+|l4m2t2p1char3=fox |l4m2t2p1stock3=0 |l4m2t2p2char3=falco |l4m2t2p2stock3=0 |l4m2win3=1 |l4m2stage3=Final Destination
+|l4m2date=September 29, 2017
+|l4m2details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=GameTyrant Expo/2017/Melee
+|tourneyname=GameTyrant Expo 2017
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Android |r1m1t1p1flag=se
+|r1m1t1p2=Armada |r1m1t1p2flag=se |r1m1t1score=1
+|r1m1t2p1=SFAT |r1m1t2p1flag=us
+|r1m1t2p2=PewPewU |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+|r1m1t1p1char1=sheik |r1m1t1p1stock1=2 |r1m1t1p2char1=fox |r1m1t1p2stock1=2
+|r1m1t2p1char1=fox |r1m1t2p1stock1=0 |r1m1t2p2char1=marth |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Pokémon Stadium
+|r1m1t1p1char2=sheik |r1m1t1p1stock2=0 |r1m1t1p2char2=fox |r1m1t1p2stock2=0
+|r1m1t2p1char2=fox |r1m1t2p1stock2=1 |r1m1t2p2char2=marth |r1m1t2p2stock2=0 |r1m1win2=2 |r1m1stage2=Yoshi's Story
+|r1m1t1p1char3=sheik |r1m1t1p1stock3=0 |r1m1t1p2char3=fox |r1m1t1p2stock3=0
+|r1m1t2p1char3=fox |r1m1t2p1stock3=1 |r1m1t2p2char3=marth |r1m1t2p2stock3=0 |r1m1win3=2 |r1m1stage3=Dream Land
+|r1m1t1p1char4=sheik |r1m1t1p1stock4=0 |r1m1t1p2char4=fox |r1m1t1p2stock4=0
+|r1m1t2p1char4=fox |r1m1t2p1stock4=1 |r1m1t2p2char4=marth |r1m1t2p2stock4=1 |r1m1win4=2 |r1m1stage4=Dream Land
+|r1m1date=September 29, 2017
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Hungrybox |l1m1t1p1flag=us
+|l1m1t1p2=ChuDat |l1m1t1p2flag=us |l1m1t1score=0
+|l1m1t2p1=Plup |l1m1t2p1flag=us
+|l1m1t2p2=Mew2King |l1m1t2p2flag=us |l1m1t2score=3
+|l1m1win=2
+|l1m1t1p1char1=puff |l1m1t1p1stock1=0 |l1m1t1p2char1=ic |l1m1t1p2stock1=0
+|l1m1t2p1char1=fox |l1m1t2p1stock1=1 |l1m1t2p2char1=sheik |l1m1t2p2stock1=3 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1t1p1char2=puff |l1m1t1p1stock2=0 |l1m1t1p2char2=ic |l1m1t1p2stock2=0
+|l1m1t2p1char2=fox |l1m1t2p1stock2=1 |l1m1t2p2char2=marth |l1m1t2p2stock2=3 |l1m1win2=2 |l1m1stage2=Final Destination
+|l1m1t1p1char3=puff |l1m1t1p1stock3=0 |l1m1t1p2char3=ic |l1m1t1p2stock3=0
+|l1m1t2p1char3=fox |l1m1t2p1stock3=1 |l1m1t2p2char3=marth |l1m1t2p2stock3=0 |l1m1win3=2 |l1m1stage3=Final Destination
+|l1m1date=September 29, 2017
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Android |r2m1t1p1flag=se
+|r2m1t1p2=Armada |r2m1t1p2flag=se |r2m1t1score=3
+|r2m1t2p1=Plup |r2m1t2p1flag=us
+|r2m1t2p2=Mew2King |r2m1t2p2flag=us |r2m1t2score=1
+|r2m1win=1
+|r2m1t1p1char1=sheik |r2m1t1p1stock1=0 |r2m1t1p2char1=peach |r2m1t1p2stock1=1
+|r2m1t2p1char1=fox |r2m1t2p1stock1=0 |r2m1t2p2char1=sheik |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1t1p1char2=sheik |r2m1t1p1stock2=0 |r2m1t1p2char2=peach |r2m1t1p2stock2=0
+|r2m1t2p1char2=fox |r2m1t2p1stock2=1 |r2m1t2p2char2=marth |r2m1t2p2stock2=1 |r2m1win2=2 |r2m1stage2=Pokémon Stadium
+|r2m1t1p1char3=sheik |r2m1t1p1stock3=1 |r2m1t1p2char3=peach |r2m1t1p2stock3=1
+|r2m1t2p1char3=fox |r2m1t2p1stock3=0 |r2m1t2p2char3=sheik |r2m1t2p2stock3=0 |r2m1win3=1 |r2m1stage3=Dream Land
+|r2m1t1p1char4=sheik |r2m1t1p1stock4=2 |r2m1t1p2char4=peach |r2m1t1p2stock4=2
+|r2m1t2p1char4=fox |r2m1t2p1stock4=0 |r2m1t2p2char4=marth |r2m1t2p2stock4=0 |r2m1win4=1 |r2m1stage4=Final Destination
+|r2m1date=September 29, 2017
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=SFAT |r3m1t1p1flag=us
+|r3m1t1p2=PewPewU |r3m1t1p2flag=us |r3m1t1score=1 |r3m2t1score=1
+|r3m1t2p1=Android |r3m1t2p1flag=se
+|r3m1t2p2=Armada |r3m1t2p2flag=se |r3m1t2score=3 |r3m2t2score=3
+|r3m1win=2
+|r3m1t1p1char1=fox |r3m1t1p1stock1=0 |r3m1t1p2char1=marth |r3m1t1p2stock1=0
+|r3m1t2p1char1=sheik |r3m1t2p1stock1=1 |r3m1t2p2char1=fox |r3m1t2p2stock1=1 |r3m1win1=2 |r3m1stage1=Yoshi's Story
+|r3m1t1p1char2=fox |r3m1t1p1stock2=0 |r3m1t1p2char2=marth |r3m1t1p2stock2=0
+|r3m1t2p1char2=sheik |r3m1t2p1stock2=1 |r3m1t2p2char2=fox |r3m1t2p2stock2=1 |r3m1win2=2 |r3m1stage2=Battlefield
+|r3m1t1p1char3=fox |r3m1t1p1stock3=1 |r3m1t1p2char3=marth |r3m1t1p2stock3=2
+|r3m1t2p1char3=sheik |r3m1t2p1stock3=0 |r3m1t2p2char3=fox |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Battlefield
+|r3m1t1p1char4=fox |r3m1t1p1stock4=0 |r3m1t1p2char4=marth |r3m1t1p2stock4=0
+|r3m1t2p1char4=sheik |r3m1t2p1stock4=1 |r3m1t2p2char4=peach |r3m1t2p2stock4=1 |r3m1win4=2 |r3m1stage4=Dream Land
+|r3m1date=September 29, 2017
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+|r3m2t1p1char1=fox |r3m2t1p1stock1=0 |r3m2t1p2char1=marth |r3m2t1p2stock1=0
+|r3m2t2p1char1=sheik |r3m2t2p1stock1=0 |r3m2t2p2char1=fox |r3m2t2p2stock1=1 |r3m2win1=2 |r3m2stage1=Yoshi's Story
+|r3m2t1p1char2=fox |r3m2t1p1stock2=0 |r3m2t1p2char2=marth |r3m2t1p2stock2=0
+|r3m2t2p1char2=sheik |r3m2t2p1stock2=1 |r3m2t2p2char2=fox |r3m2t2p2stock2=1 |r3m2win2=2 |r3m2stage2=Battlefield
+|r3m2t1p1char3=fox |r3m2t1p1stock3=2 |r3m2t1p2char3=marth |r3m2t1p2stock3=1
+|r3m2t2p1char3=sheik |r3m2t2p1stock3=0 |r3m2t2p2char3=fox |r3m2t2p2stock3=0 |r3m2win3=1 |r3m2stage3=Battlefield
+|r3m2t1p1char4=fox |r3m2t1p1stock4=0 |r3m2t1p2char4=marth |r3m2t1p2stock4=0
+|r3m2t2p1char4=sheik |r3m2t2p1stock4=1 |r3m2t2p2char4=peach |r3m2t2p2stock4=1 |r3m2win4=2 |r3m2stage4=Dream Land
+}}
+</onlyinclude>

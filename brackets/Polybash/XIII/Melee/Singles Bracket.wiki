@@ -1,0 +1,388 @@
+{{SetGame|melee}}{{DISPLAYTITLE:Polybash XIII: ''Melee'' Singles Bracket}}
+{{tabs static
+|name1=Overview
+|link1=Polybash/XIII/Melee
+|name2=Singles Pools
+|link2=Polybash/XIII/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Polybash/XIII/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=Polybash/XIII/Melee/Doubles Bracket
+|This=3
+}}
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia name=polymelee32 -->
+==Winners Bracket==
+{{32DEWBracketA
+|tourneylink=Polybash/XIII/Melee
+|tourneyname=Polybash XIII
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=2 |r1m1win=1
+|r1m1p2=Rice |r1m1p2flag=ca |r1m1p2score=0
+|r1m1p1char1=marth |r1m1p2char1=marth |r1m1p1stock1=3 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Final Destination
+|r1m1p1char2=cf |r1m1p2char2=marth |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Battlefield
+|r1m1date=March 2, 2014
+|r1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=fu3hXipaipU}}
+
+|r1m2p1=Jethrotex |r1m2p1flag=ca |r1m2p1score=2 |r1m2win=1
+|r1m2p2=Pest |r1m2p2flag=ca |r1m2p2score=1
+|r1m2p1char1=peach |r1m2p2char1=falco |r1m2p1stock1=0 |r1m2p2stock1=1 |r1m2win1=2 |r1m2stage1=Battlefield
+|r1m2p1char2=peach |r1m2p2char2=falco |r1m2p1stock2=2 |r1m2p2stock2=0 |r1m2win2=1 |r1m2stage2=Dream Land
+|r1m2p1char3=peach |r1m2p2char3=falco |r1m2p1stock3=1 |r1m2p2stock3=0 |r1m2win3=1 |r1m2stage3=Pokémon Stadium
+|r1m2date=March 2, 2014
+|r1m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=XI1tbCQnJkE}}
+
+|r1m3p1=Erayz |r1m3p1flag=ca |r1m3p1score={{win}} |r1m3win=1
+|r1m3p2=Ginamudkipz |r1m3p2flag=ca |r1m3p2score=DQ
+
+|r1m4p1=SAUS |r1m4p1flag=ca |r1m4p1score={{win}} |r1m4win=1
+|r1m4p2=Jih |r1m4p2flag= |r1m4p2score=DQ
+
+|r1m5p1=Bam |r1m5p1flag=ca |r1m5p1score={{win}} |r1m5win=1
+|r1m5p2=HP |r1m5p2flag=ca |r1m5p2score=DQ
+
+|r1m6p1=Chibo |r1m6p1flag=us |r1m6p1score=0 |r1m6win=2
+|r1m6p2=MasterBen |r1m6p2flag= |r1m6p2score=2
+
+|r1m7p1=Kage |r1m7p1flag=ca |r1m7p1score={{win}} |r1m7win=1
+|r1m7p2=Techiyo |r1m7p2flag=ca |r1m7p2score=DQ
+
+|r1m8p1=Loki |r1m8p1flag=jp |r1m8p1score=2 |r1m8win=1
+|r1m8p2=Cemo |r1m8p2flag=ca |r1m8p2score=0
+
+|r1m9p1=Vwins |r1m9p1flag=ca |r1m9p1score=2 |r1m9win=1
+|r1m9p2=Thatguy |r1m9p2flag= |r1m9p2score=0
+
+|r1m10p1=TheWaz |r1m10p1flag=ca |r1m10p1score=2 |r1m10win=1
+|r1m10p2=HandsomeTom |r1m10p2flag=ca |r1m10p2score=1
+
+|r1m11p1=Diakonos |r1m11p1flag=ca |r1m11p1score=2 |r1m11win=1
+|r1m11p2=SSF |r1m11p2flag=ca |r1m11p2score=1
+|r1m11p1char1=marth |r1m11p2char1=cf |r1m11p1stock1=3 |r1m11p2stock1=0 |r1m11win1=1 |r1m11stage1=Yoshi's Story
+|r1m11p1char2=marth |r1m11p2char2=cf |r1m11p1stock2=0 |r1m11p2stock2=3 |r1m11win2=2 |r1m11stage2=Battlefield
+|r1m11p1char3=sheik |r1m11p2char3=cf |r1m11p1stock3=2 |r1m11p2stock3=0 |r1m11win3=1 |r1m11stage3=Fountain of Dreams
+|r1m11date=March 2, 2014
+|r1m11details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=JROzcjdbw0M}}
+
+|r1m12p1=Vivec |r1m12p1flag= |r1m12p1score={{win}} |r1m12win=1
+|r1m12p2=Kev |r1m12p2flag=ca |r1m12p2score=DQ
+
+|r1m13p1=KirbyKaze |r1m13p1flag=ca |r1m13p1score=2 |r1m13win=1
+|r1m13p2=Than |r1m13p2flag= |r1m13p2score=0
+
+|r1m14p1=Lampadaires |r1m14p1flag=ca |r1m14p1score=2 |r1m14win=1
+|r1m14p2=Leon |r1m14p2flag=fr |r1m14p2score=0
+
+|r1m15p1=Mifune |r1m15p1flag=ca |r1m15p1score=2 |r1m15win=1
+|r1m15p2=Hero |r1m15p2flag= |r1m15p2score=0
+
+|r1m16p1=Vrud |r1m16p1flag=ca |r1m16p1score=1 |r1m16win=2
+|r1m16p2=Jarc |r1m16p2flag=ca |r1m16p2score=2
+
+|r2m1p1=Mew2King |r2m1p1flag=us |r2m1p1score=2 |r2m1win=1
+|r2m1p2=Jethrotex |r2m1p2flag=ca |r2m1p2score=0
+|r2m1p1char1=sheik |r2m1p2char1=peach |r2m1p1stock1=3 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=sheik |r2m1p2char2=peach |r2m1p1stock2=3 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Fountain of Dreams
+|r2m1date=March 2, 2014
+|r2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=CtHAjUWB1-8}}
+
+|r2m2p1=Erayz |r2m2p1flag=ca |r2m2p1score=2 |r2m2win=1
+|r2m2p2=SAUS |r2m2p2flag=ca |r2m2p2score=1
+
+|r2m3p1=Bam |r2m3p1flag=ca |r2m3p1score=2 |r2m3win=1
+|r2m3p2=MasterBen |r2m3p2flag= |r2m3p2score=0
+
+|r2m4p1=Kage |r2m4p1flag=ca |r2m4p1score=2 |r2m4win=1
+|r2m4p2=Loki |r2m4p2flag=jp |r2m4p2score=0
+|r2m4p1char1=cf |r2m4p2char1=ganon |r2m4p1stock1=3 |r2m4p2stock1=0 |r2m4win1=1 |r2m4stage1=Battlefield
+|r2m4p1char2=cf |r2m4p2char2=ganon |r2m4p1stock2=2 |r2m4p2stock2=0 |r2m4win2=1 |r2m4stage2=Yoshi's Story
+|r2m4date=March 2, 2014
+|r2m4details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=KRk9kraurvE}}
+
+|r2m5p1=Vwins |r2m5p1flag=ca |r2m5p1score=2 |r2m5win=1
+|r2m5p2=TheWaz |r2m5p2flag=ca |r2m5p2score=0
+|r2m5p1char1=peach |r2m5p2char1=sheik |r2m5p1stock1=2 |r2m5p2stock1=0 |r2m5win1=1 |r2m5stage1=Battlefield
+|r2m5p1char2=peach |r2m5p2char2=sheik |r2m5p1stock2=2 |r2m5p2stock2=0 |r2m5win2=1 |r2m5stage2=Battlefield
+|r2m5date=March 2, 2014
+|r2m5details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=9T5a2_8BZf4}}
+
+|r2m6p1=Diakonos |r2m6p1flag=ca |r2m6p1score=2 |r2m6win=1
+|r2m6p2=Vivec |r2m6p2flag= |r2m6p2score=0
+
+|r2m7p1=KirbyKaze |r2m7p1flag=ca |r2m7p1score=2 |r2m7win=1
+|r2m7p2=Lampadaires |r2m7p2flag=ca |r2m7p2score=0
+
+|r2m8p1=Mifune |r2m8p1flag=ca |r2m8p1score=2 |r2m8win=1
+|r2m8p2=Jarc |r2m8p2flag=ca |r2m8p2score=0
+
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score=2 |r3m1win=1
+|r3m1p2=Erayz |r3m1p2flag=ca |r3m1p2score=0
+|r3m1p1char1=sheik |r3m1p2char1=fox |r3m1p1stock1=3 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Dream Land
+|r3m1p1char2=fox |r3m1p2char2=fox |r3m1p1stock2=3 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1date=March 2, 2014
+|r3m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=The Challonge bracket incorrectly lists the score as 3-0.|live=|vod=https://www.youtube.com/watch?v=KfNSaphN80U}}
+
+|r3m2p1=Bam |r3m2p1flag=ca |r3m2p1score=2 |r3m2win=1
+|r3m2p2=Kage |r3m2p2flag=ca |r3m2p2score=1
+|r3m2p1char1=falco |r3m2p2char1=fox |r3m2p1stock1=2 |r3m2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2p1char2=falco |r3m2p2char2=ganon |r3m2p1stock2=0 |r3m2p2stock2=1 |r3m2win2=2 |r3m2stage2=Yoshi's Story
+|r3m2p1char3=falco |r3m2p2char3=ganon |r3m2p1stock3=1 |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Pokémon Stadium
+|r3m2date=March 2, 2014
+|r3m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=wxhO573N3xs}}
+
+|r3m3p1=Vwins |r3m3p1flag=ca |r3m3p1score=2 |r3m3win=1
+|r3m3p2=Diakonos |r3m3p2flag=ca |r3m3p2score=0
+|r3m3p1char1=peach |r3m3p2char1=marth |r3m3p1stock1=1 |r3m3p2stock1=0 |r3m3win1=1 |r3m3stage1=Final Destination
+|r3m3p1char2=peach |r3m3p2char2=marth |r3m3p1stock2=2 |r3m3p2stock2=0 |r3m3win2=1 |r3m3stage2=Fountain of Dreams
+|r3m3date=March 2, 2014
+|r3m3details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=bKqQXOteBC0}}
+
+|r3m4p1=KirbyKaze |r3m4p1flag=ca |r3m4p1score=2 |r3m4win=1
+|r3m4p2=Mifune |r3m4p2flag=ca |r3m4p2score=0
+|r3m4p1char1=sheik |r3m4p2char1=fox |r3m4p1stock1=3 |r3m4p2stock1=0 |r3m4win1=1 |r3m4stage1=Battlefield
+|r3m4p1char2=fox |r3m4p2char2=fox |r3m4p1stock2=3 |r3m4p2stock2=0 |r3m4win2=1 |r3m4stage2=Pokémon Stadium
+|r3m4date=March 2, 2014
+|r3m4details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=h5j-9CdbkcI}}
+
+|r4m1p1=Mew2King |r4m1p1flag=us |r4m1p1score=3 |r4m1win=1
+|r4m1p2=Bam |r4m1p2flag=ca |r4m1p2score=0
+|r4m1p1char1=sheik |r4m1p2char1=falco |r4m1p1stock1=3 |r4m1p2stock1=0 |r4m1win1=1 |r4m1stage1=Dream Land
+|r4m1p1char2=fox |r4m1p2char2=falco |r4m1p1stock2=3 |r4m1p2stock2=0 |r4m1win2=1 |r4m1stage2=Pokémon Stadium
+|r4m1p1char3=fox |r4m1p2char3=falco |r4m1p1stock3=2 |r4m1p2stock3=0 |r4m1win3=1 |r4m1stage3=Final Destination
+|r4m1date=March 2, 2014
+|r4m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=0FHP17SA-S4}}
+
+|r4m2p1=Vwins |r4m2p1flag=ca |r4m2p1score=0 |r4m2win=2
+|r4m2p2=KirbyKaze |r4m2p2flag=ca |r4m2p2score=3
+|r4m2p1char1=peach |r4m2p2char1=sheik |r4m2p1stock1=0 |r4m2p2stock1=2 |r4m2win1=2 |r4m2stage1=Battlefield
+|r4m2p1char2=peach |r4m2p2char2=sheik |r4m2p1stock2=0 |r4m2p2stock2=2 |r4m2win2=2 |r4m2stage2=Dream Land
+|r4m2p1char3=peach |r4m2p2char3=sheik |r4m2p1stock3=0 |r4m2p2stock3=2 |r4m2win3=2 |r4m2stage3=Dream Land
+|r4m2date=March 2, 2014
+|r4m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=jssU3557itw}}
+}}
+
+==Losers Bracket==
+{{32DELBracketSmwA
+|tourneylink=Polybash/XIII/Melee
+|tourneyname=Polybash XIII
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+
+|l1m1p1=Rice |l1m1p1flag=ca |l1m1p1score=0 |l1m1win=2
+|l1m1p2=Pest |l1m1p2flag=ca |l1m1p2score=2
+
+|l1m2p1=Ginamudkipz |l1m2p1flag=ca |l1m2p1score=DQ |l1m2win=2
+|l1m2p2=Jih |l1m2p2flag= |l1m2p2score={{win}}
+
+|l1m3p1=HP |l1m3p1flag=ca |l1m3p1score=DQ |l1m3win=2
+|l1m3p2=Chibo |l1m3p2flag=us |l1m3p2score={{win}}
+
+|l1m4p1=Techiyo |l1m4p1flag=ca |l1m4p1score=DQ |l1m4win=2
+|l1m4p2=Cemo |l1m4p2flag=ca |l1m4p2score={{win}}
+
+|l1m5p1=Thatguy |l1m5p1flag= |l1m5p1score=1 |l1m5win=2
+|l1m5p2=HandsomeTom |l1m5p2flag=ca |l1m5p2score=2
+
+|l1m6p1=SSF |l1m6p1flag=ca |l1m6p1score={{win}} |l1m6win=1
+|l1m6p2=Kev |l1m6p2flag=ca |l1m6p2score=DQ
+
+|l1m7p1=Than |l1m7p1flag= |l1m7p1score=1 |l1m7win=2
+|l1m7p2=Leon |l1m7p2flag=fr |l1m7p2score=2
+
+|l1m8p1=Hero |l1m8p1flag= |l1m8p1score=0 |l1m8win=2
+|l1m8p2=Vrud |l1m8p2flag=ca |l1m8p2score=2
+
+|l2m1p1=Jarc |l2m1p1flag=ca |l2m1p1score=0 |l2m1win=2
+|l2m1p2=Pest |l2m1p2flag=ca |l2m1p2score=2
+
+|l2m2p1=Lampadaires |l2m2p1flag=ca |l2m2p1score={{win}} |l2m2win=1
+|l2m2p2=Jih |l2m2p2flag= |l2m2p2score=DQ
+
+|l2m3p1=Vivec |l2m3p1flag= |l2m3p1score=2 |l2m3win=1
+|l2m3p2=Chibo |l2m3p2flag=us |l2m3p2score=1
+
+|l2m4p1=TheWaz |l2m4p1flag=ca |l2m4p1score=2 |l2m4win=1
+|l2m4p2=Cemo |l2m4p2flag=ca |l2m4p2score=1
+
+|l2m5p1=Loki |l2m5p1flag=jp |l2m5p1score=2 |l2m5win=1
+|l2m5p2=HandsomeTom |l2m5p2flag=ca |l2m5p2score=0
+
+|l2m6p1=MasterBen |l2m6p1flag= |l2m6p1score=0 |l2m6win=2
+|l2m6p2=SSF |l2m6p2flag=ca |l2m6p2score=2
+
+|l2m7p1=SAUS |l2m7p1flag=ca |l2m7p1score=2 |l2m7win=1
+|l2m7p2=Leon |l2m7p2flag=fr |l2m7p2score=0
+
+|l2m8p1=Jethrotex |l2m8p1flag=ca |l2m8p1score=2 |l2m8win=1
+|l2m8p2=Vrud |l2m8p2flag=ca |l2m8p2score=0
+
+|l3m1p1=Pest |l3m1p1flag=ca |l3m1p1score=0 |l3m1win=2
+|l3m1p2=Lampadaires |l3m1p2flag=ca |l3m1p2score=2
+|l3m1p1char1=falco |l3m1p2char1=marth |l3m1p1stock1=0 |l3m1p2stock1=3 |l3m1win1=2 |l3m1stage1=Dream Land
+|l3m1p1char2=falco |l3m1p2char2=marth |l3m1p1stock2=0 |l3m1p2stock2=3 |l3m1win2=2 |l3m1stage2=Yoshi's Story
+|l3m1date=March 2, 2014
+|l3m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=2piZ3PYzP9Q}}
+
+|l3m2p1=Vivec |l3m2p1flag= |l3m2p1score=0 |l3m2win=2
+|l3m2p2=TheWaz |l3m2p2flag=ca |l3m2p2score=2
+
+|l3m3p1=Loki |l3m3p1flag=jp |l3m3p1score=2 |l3m3win=1
+|l3m3p2=SSF |l3m3p2flag=ca |l3m3p2score=0
+|l3m3p1char1=ganon |l3m3p2char1=cf |l3m3p1stock1=2 |l3m3p2stock1=0 |l3m3win1=1 |l3m3stage1=Battlefield
+|l3m3p1char2=ganon |l3m3p2char2=cf |l3m3p1stock2=1 |l3m3p2stock2=0 |l3m3win2=1 |l3m3stage2=Final Destination
+|l3m3date=March 2, 2014
+|l3m3details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=DUZaE4aCnh8}}
+
+|l3m4p1=SAUS |l3m4p1flag=ca |l3m4p1score=2 |l3m4win=1
+|l3m4p2=Jethrotex |l3m4p2flag=ca |l3m4p2score=0
+
+|l4m1p1=Kage |l4m1p1flag=ca |l4m1p1score=0 |l4m1win=2
+|l4m1p2=Lampadaires |l4m1p2flag=ca |l4m1p2score=2
+|l4m1p1char1=cf |l4m1p2char1=sheik |l4m1p1stock1=0 |l4m1p2stock1=2 |l4m1win1=2 |l4m1stage1=Yoshi's Story
+|l4m1p1char2=ganon |l4m1p2char2=sheik |l4m1p1stock2=0 |l4m1p2stock2=1 |l4m1win2=2 |l4m1stage2=Yoshi's Story
+|l4m1date=March 2, 2014
+|l4m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=7hO14MSai3I}}
+
+|l4m2p1=Erayz |l4m2p1flag=ca |l4m2p1score=2 |l4m2win=1
+|l4m2p2=TheWaz |l4m2p2flag=ca |l4m2p2score=1
+|l4m2p1char1=fox |l4m2p2char1=sheik |l4m2p1stock1=2 |l4m2p2stock1=0 |l4m2win1=1 |l4m2stage1=Battlefield
+|l4m2p1char2=fox |l4m2p2char2=sheik |l4m2p1stock2=0 |l4m2p2stock2=1 |l4m2win2=2 |l4m2stage2=Battlefield
+|l4m2p1char3=fox |l4m2p2char3=sheik |l4m2p1stock3=1 |l4m2p2stock3=0 |l4m2win3=1 |l4m2stage3=Pokémon Stadium
+|l4m2date=March 2, 2014
+|l4m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=RFUx_En3N9g}}
+
+|l4m3p1=Mifune |l4m3p1flag=ca |l4m3p1score=0 |l4m3win=2
+|l4m3p2=Loki |l4m3p2flag=jp |l4m3p2score=2
+|l4m3p1char1=fox |l4m3p2char1=ganon |l4m3p1stock1=0 |l4m3p2stock1=1 |l4m3win1=2 |l4m3stage1=Battlefield
+|l4m3p1char2=fox |l4m3p2char2=ganon |l4m3p1stock2=0 |l4m3p2stock2=1 |l4m3win2=2 |l4m3stage2=Pokémon Stadium
+|l4m3date=March 2, 2014
+|l4m3details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=nl9oWuopFgw}}
+
+|l4m4p1=Diakonos |l4m4p1flag=ca |l4m4p1score=2 |l4m4win=1
+|l4m4p2=SAUS |l4m4p2flag=ca |l4m4p2score=1
+
+|l5m1p1=Lampadaires |l5m1p1flag=ca |l5m1p1score=2 |l5m1win=1
+|l5m1p2=Erayz |l5m1p2flag=ca |l5m1p2score=0
+|l5m1p1char1=marth |l5m1p2char1=fox |l5m1p1stock1=2 |l5m1p2stock1=0 |l5m1win1=1 |l5m1stage1=Yoshi's Story
+|l5m1p1char2=fox |l5m1p2char2=fox |l5m1p1stock2=1 |l5m1p2stock2=0 |l5m1win2=1 |l5m1stage2=Dream Land
+|l5m1date=March 2, 2014
+|l5m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=IBtxX0PZhUs}}
+
+|l5m2p1=Loki |l5m2p1flag=jp |l5m2p1score=1 |l5m2win=2
+|l5m2p2=Diakonos |l5m2p2flag=ca |l5m2p2score=2
+|l5m2p1char1=ganon |l5m2p2char1=marth |l5m2p1stock1=0 |l5m2p2stock1=2 |l5m2win1=2 |l5m2stage1=Final Destination
+|l5m2p1char2=ganon |l5m2p2char2=marth |l5m2p1stock2=1 |l5m2p2stock2=0 |l5m2win2=1 |l5m2stage2=Yoshi's Story
+|l5m2p1char3=ganon |l5m2p2char3=marth |l5m2p1stock3=0 |l5m2p2stock3=1 |l5m2win3=2 |l5m2stage3=Fountain of Dreams
+|l5m2date=March 2, 2014
+|l5m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=o_JuzLViSF8}}
+
+|l6m1p1=Vwins |l6m1p1flag=ca |l6m1p1score=3 |l6m1win=1
+|l6m1p2=Lampadaires |l6m1p2flag=ca |l6m1p2score=1
+|l6m1p1char1=peach |l6m1p2char1=sheik |l6m1p1stock1=1 |l6m1p2stock1=0 |l6m1win1=1 |l6m1stage1=Battlefield
+|l6m1p1char2=peach |l6m1p2char2=sheik |l6m1p1stock2=0 |l6m1p2stock2=2 |l6m1win2=2 |l6m1stage2=Yoshi's Story
+|l6m1p1char3=peach |l6m1p2char3=sheik |l6m1p1stock3=1 |l6m1p2stock3=0 |l6m1win3=1 |l6m1stage3=Final Destination
+|l6m1p1char4=peach |l6m1p2char4=sheik |l6m1p1stock4=1 |l6m1p2stock4=0 |l6m1win4=1 |l6m1stage4=Pokémon Stadium
+|l6m1date=March 2, 2014
+|l6m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=The Challonge bracket incorrectly lists the score as 3-2.|live=|vod=https://www.youtube.com/watch?v=Ir3C9yz06dc}}
+
+|l6m2p1=Bam |l6m2p1flag=ca |l6m2p1score=3 |l6m2win=1
+|l6m2p2=Diakonos |l6m2p2flag=ca |l6m2p2score=1
+|l6m2p1char1=falco |l6m2p2char1=marth |l6m2p1stock1=1 |l6m2p2stock1=0 |l6m2win1=1 |l6m2stage1=Final Destination
+|l6m2p1char2=falco |l6m2p2char2=marth |l6m2p1stock2=1 |l6m2p2stock2=0 |l6m2win2=1 |l6m2stage2=Yoshi's Story
+|l6m2p1char3=falco |l6m2p2char3=marth |l6m2p1stock3=0 |l6m2p2stock3=1 |l6m2win3=2 |l6m2stage3=Pokémon Stadium
+|l6m2p1char4=falco |l6m2p2char4=marth |l6m2p1stock4=2 |l6m2p2stock4=0 |l6m2win4=1 |l6m2stage4=Pokémon Stadium
+|l6m2date=March 2, 2014
+|l6m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://www.youtube.com/watch?v=EJ0ZGkD4vwc}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Polybash/XIII/Melee
+|tourneyname=Polybash XIII
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=175
+
+<!-- FROM WINNERS -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=KirbyKaze |r1m1p2flag=ca |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1=sheik |r1m1p1stock1=0 |r1m1p2char1=sheik |r1m1p2stock1=2 |r1m1win1=2 |r1m1stage1=Dream Land 
+|r1m1p1char2=sheik |r1m1p1stock2=2 |r1m1p2char2=sheik |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1p1char3=sheik |r1m1p1stock3=2 |r1m1p2char3=sheik |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Battlefield
+|r1m1p1char4=sheik |r1m1p1stock4=3 |r1m1p2char4=sheik |r1m1p2stock4=0 |r1m1win4=1 |r1m1stage4=Pokémon Stadium
+|r1m1date=March 2, 2014
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=YyUpzk7vAxA
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Vwins |l1m1p1flag=ca |l1m1p1score=1
+|l1m1p2=Bam |l1m1p2flag=ca |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=peach |l1m1p1stock1=0 |l1m1p2char1=fox |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Final Destination 
+|l1m1p1char2=peach |l1m1p1stock2=0 |l1m1p2char2=fox |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Dream Land
+|l1m1p1char3=peach |l1m1p1stock3=1 |l1m1p2char3=fox |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Fountain of Dreams
+|l1m1p1char4=peach |l1m1p1stock4=0 |l1m1p2char4=fox |l1m1p2stock4=2 |l1m1win4=2 |l1m1stage4=Pokémon Stadium
+|l1m1date=March 2, 2014
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=M5hokLLs1kQ
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=The Challonge bracket incorrectly lists the score as 3-2.
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=KirbyKaze |r2m1p1flag=ca |r2m1p1score=3
+|r2m1p2=Bam |r2m1p2flag=ca |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=sheik |r2m1p1stock1=1 |r2m1p2char1=falco |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield 
+|r2m1p1char2=sheik |r2m1p1stock2=2 |r2m1p2char2=falco |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1p1char3=sheik |r2m1p1stock3=3 |r2m1p2char3=fox |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Final Destination
+|r2m1date=March 2, 2014
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=ChYCmK-1360
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score=3 |export_score=true
+|r3m1p2=KirbyKaze |r3m1p2flag=ca |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=sheik |r3m1p1stock1=2 |r3m1p2char1=sheik |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Yoshi's Story 
+|r3m1p1char2=sheik |r3m1p1stock2=1 |r3m1p2char2=sheik |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=sheik |r3m1p1stock3=3 |r3m1p2char3=sheik |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Dream Land
+|r3m1date=March 2, 2014
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=gLQcJqafnNo
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

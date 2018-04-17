@@ -1,0 +1,566 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Bam",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Chester01",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Vwins",
+            "p1flag": "ca",
+            "p1score": "3",
+            "p2": "Weon-X",
+            "p2flag": "cl",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Weon-X",
+            "p1flag": "cl",
+            "p1score": "2",
+            "p2": "Bam",
+            "p2flag": "ca",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Vwins",
+            "p1flag": "ca",
+            "p1score": "3",
+            "p2": "Bam",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Lotsacats",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Toast",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "HP",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "ZergG",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "TM",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Moonpanda",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Fugu",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "Yogi",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Jager",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Lawnmower Kev",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "Rudo",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Vrud",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "EC",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Jarc",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "Hello",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Rice",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Zelmar",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Toast",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "SSF",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "HP",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Cemo",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Moonpanda",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Handsome Tom",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Yogi",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Waz",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Jager",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "SAUS",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Vrud",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "GoDiegoGo",
+            "p1flag": "ve",
+            "p1score": "1",
+            "p2": "EC",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m8": {
+            "p1": "Kyle",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Hello",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Zelmar",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "SSF",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Cemo",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Handsome Tom",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Waz",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "SAUS",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "EC",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Kyle",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "HHH",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "SSF",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Mifune",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Cemo",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Erayz",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "Waz",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "Coffeeblack",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Kyle",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "HHH",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Cemo",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Waz",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Coffeeblack",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Bam",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "HHH",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Chester01",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Waz",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Kyle",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Lotsacats",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Handsome Tom",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Lawnmower Kev",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Cemo",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Rudo",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Coffeeblack",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Vrud",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Weon-X",
+            "p1flag": "cl",
+            "p1score": "2",
+            "p2": "EC",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "SSF",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Jarc",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Zelmar",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Hello",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Erayz",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Rice",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Mifune",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Toast",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "HP",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "GoDiegoGo",
+            "p2flag": "ve",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "Chester01",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "ZergG",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "SAUS",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "TM",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Vwins",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Moonpanda",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "HHH",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Fugu",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Waz",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Yogi",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Bam",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Jager",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Kyle",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Mifune",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m2": {
+            "p1": "GoDiegoGo",
+            "p1flag": "ve",
+            "p1score": "0",
+            "p2": "Chester01",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "SAUS",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Vwins",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m4": {
+            "p1": "HHH",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Waz",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Bam",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Handsome Tom",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Cemo",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Coffeeblack",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "Weon-X",
+            "p1flag": "cl",
+            "p1score": "2",
+            "p2": "SSF",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Zelmar",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "Erayz",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Mifune",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Chester01",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m2": {
+            "p1": "Vwins",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "HHH",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "Bam",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Coffeeblack",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Weon-X",
+            "p1flag": "cl",
+            "p1score": "2",
+            "p2": "Erayz",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Chester01",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Vwins",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m2": {
+            "p1": "Bam",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Weon-X",
+            "p2flag": "cl",
+            "p2score": "2",
+            "win": "2"
+        }
+    }
+}

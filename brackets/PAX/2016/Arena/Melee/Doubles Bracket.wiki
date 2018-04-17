@@ -1,0 +1,215 @@
+{{DISPLAYTITLE: PAX Arena 2016: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=PAX/2016/Arena/Melee
+|name2=Singles Bracket
+|link2=PAX/2016/Arena/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=PAX/2016/Arena/Melee/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{8DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=Mew2King |r1m1t1p1flag=us
+|r1m1t1p2=Hungrybox |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Tafokints |r1m1t2p1flag=us
+|r1m1t2p2=Arc |r1m1t2p2flag=us |r1m1t2score=DQ
+|r1m1win=1
+
+|r1m2t1p1=Westballz |r1m2t1p1flag=us
+|r1m2t1p2=Wizzrobe |r1m2t1p2flag=us |r1m2t1score={{win}}
+|r1m2t2p1=Valdo |r1m2t2p1flag=mx
+|r1m2t2p2=Rael |r1m2t2p2flag=mx |r1m2t2score=DQ
+|r1m2win=1
+
+|r1m3t1p1=Mang0 |r1m3t1p1flag=us
+|r1m3t1p2=S2J |r1m3t1p2flag=us |r1m3t1score={{win}}
+|r1m3t2p1=Jake13 |r1m3t2p1flag=us
+|r1m3t2p2=Uncle mojo |r1m3t2p2flag=us |r1m3t2score=DQ
+|r1m3win=1
+
+|r1m4t1p1=SFAT |r1m4t1p1flag=us
+|r1m4t1p2=Shroomed |r1m4t1p2flag=us |r1m4t1score={{win}}
+|r1m4t2p1=Axe |r1m4t2p1flag=us
+|r1m4t2p2=Gahtzu |r1m4t2p2flag=us |r1m4t2score=DQ
+|r1m4win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Mew2King |r2m1t1p1flag=us
+|r2m1t1p2=Hungrybox |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Westballz |r2m1t2p1flag=us
+|r2m1t2p2=Wizzrobe |r2m1t2p2flag=us |r2m1t2score=1
+|r2m1win=1
+
+|r2m2t1p1=Mang0 |r2m2t1p1flag=us
+|r2m2t1p2=S2J |r2m2t1p2flag=us |r2m2t1score=2
+|r2m2t2p1=SFAT |r2m2t2p1flag=us
+|r2m2t2p2=Shroomed |r2m2t2p2flag=us |r2m2t2score=3
+|r2m2win=2
+}}
+==Losers Bracket==
+{{8DEDoublesLBracketSmwA
+|tourneylink=PAX/2016/Arena/Melee
+|tourneyname=PAX Arena 2016
+|l1placement=7-8
+|l2placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Tafokints |l1m1t1p1flag=us
+|l1m1t1p2=Arc |l1m1t1p2flag=us |l1m1t1score=0
+|l1m1t2p1=Valdo |l1m1t2p1flag=mx
+|l1m1t2p2=Rael |l1m1t2p2flag=mx |l1m1t2score=3
+|l1m1win=2
+
+|l1m2t1p1=Jake13 |l1m2t1p1flag=us
+|l1m2t1p2=Uncle mojo |l1m2t1p2flag=us |l1m2t1score=2
+|l1m2t2p1=Axe |l1m2t2p1flag=us
+|l1m2t2p2=Gahtzu |l1m2t2p2flag=us |l1m2t2score=3
+|l1m2win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Mang0 |l2m1t1p1flag=us
+|l2m1t1p2=S2J |l2m1t1p2flag=us |l2m1t1score=3
+|l2m1t2p1=Valdo |l2m1t2p1flag=mx
+|l2m1t2p2=Rael |l2m1t2p2flag=mx |l2m1t2score=0
+|l2m1win=1
+
+|l2m2t1p1=Westballz |l2m2t1p1flag=us
+|l2m2t1p2=Wizzrobe |l2m2t1p2flag=us |l2m2t1score=1
+|l2m2t2p1=Axe |l2m2t2p1flag=us
+|l2m2t2p2=Gahtzu |l2m2t2p2flag=us |l2m2t2score=3
+|l2m2win=2
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=PAX/2016/Arena/Melee
+|tourneyname=PAX Arena 2016
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Mew2King |r1m1t1p1flag=us
+|r1m1t1p2=Hungrybox |r1m1t1p2flag=us |r1m1t1score=2
+|r1m1t2p1=Shroomed |r1m1t2p1flag=us
+|r1m1t2p2=SFAT |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+|r1m1t1p1char1=sheik |r1m1t1p1stock1=1 |r1m1t1p2char1=puff |r1m1t1p2stock1=1
+|r1m1t2p1char1=sheik |r1m1t2p1stock1=0 |r1m1t2p2char1=fox |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1t1p1char2=sheik |r1m1t1p1stock2=0 |r1m1t1p2char2=puff |r1m1t1p2stock2=0
+|r1m1t2p1char2=sheik |r1m1t2p1stock2=1 |r1m1t2p2char2=fox |r1m1t2p2stock2=1 |r1m1win2=2 |r1m1stage2=Battlefield
+|r1m1t1p1char3=sheik |r1m1t1p1stock3=0 |r1m1t1p2char3=puff |r1m1t1p2stock3=0
+|r1m1t2p1char3=sheik |r1m1t2p1stock3=1 |r1m1t2p2char3=fox |r1m1t2p2stock3=1 |r1m1win3=2 |r1m1stage3=Dream Land
+|r1m1t1p1char4=sheik |r1m1t1p1stock4=1 |r1m1t1p2char4=puff |r1m1t1p2stock4=1
+|r1m1t2p1char4=sheik |r1m1t2p1stock4=0 |r1m1t2p2char4=fox |r1m1t2p2stock4=0 |r1m1win4=1 |r1m1stage4=Dream Land
+|r1m1t1p1char5=sheik |r1m1t1p1stock5=0 |r1m1t1p2char5=puff |r1m1t1p2stock5=0
+|r1m1t2p1char5=sheik |r1m1t2p1stock5=1 |r1m1t2p2char5=fox |r1m1t2p2stock5=1 |r1m1win5=2 |r1m1stage5=Yoshi's Story
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+<!-- FROM LOSERS -->
+|l1m1t1p1=Mango |l1m1t1p1flag=us
+|l1m1t1p2=S2J |l1m1t1p2flag=us |l1m1t1score=3
+|l1m1t2p1=Axe |l1m1t2p1flag=us
+|l1m1t2p2=Gahtzu |l1m1t2p2flag=us |l1m1t2score=1
+|l1m1win=1
+|l1m1t1p1char1=fox |l1m1t1p1stock1=3 |l1m1t1p2char1=cf |l1m1t1p2stock1=1
+|l1m1t2p1char1=pikachu |l1m1t2p1stock1=0 |l1m1t2p2char1=cf |l1m1t2p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1t1p1char2=fox |l1m1t1p1stock2=2 |l1m1t1p2char2=cf |l1m1t1p2stock2=2
+|l1m1t2p1char2=pikachu |l1m1t2p1stock2=0 |l1m1t2p2char2=cf |l1m1t2p2stock2=0 |l1m1win2=1 |l1m1stage2=Dream Land
+|l1m1t1p1char3=fox |l1m1t1p1stock3=0 |l1m1t1p2char3=cf |l1m1t1p2stock3=0
+|l1m1t2p1char3=pikachu |l1m1t2p1stock3=1 |l1m1t2p2char3=cf |l1m1t2p2stock3=0 |l1m1win3=2 |l1m1stage3=Dream Land
+|l1m1t1p1char4=fox |l1m1t1p1stock4=2 |l1m1t1p2char4=cf |l1m1t1p2stock4=1
+|l1m1t2p1char4=pikachu |l1m1t2p1stock4=0 |l1m1t2p2char4=cf |l1m1t2p2stock4=0 |l1m1win4=1 |l1m1stage4=Yoshi's Story
+|l1m1t1p1char5= |l1m1t1p1stock5= |l1m1t1p2char5= |l1m1t1p2stock5=
+|l1m1t2p1char5= |l1m1t2p1stock5= |l1m1t2p2char5= |l1m1t2p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Mew2King |r2m1t1p1flag=us
+|r2m1t1p2=Hungrybox |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Mango |r2m1t2p1flag=us
+|r2m1t2p2=S2J |r2m1t2p2flag=us |r2m1t2score=2
+|r2m1win=1
+|r2m1t1p1char1=sheik |r2m1t1p1stock1=0 |r2m1t1p2char1=puff |r2m1t1p2stock1=0
+|r2m1t2p1char1=fox |r2m1t2p1stock1=2 |r2m1t2p2char1=cf |r2m1t2p2stock1=3 |r2m1win1=2 |r2m1stage1=Final Destination
+|r2m1t1p1char2=sheik |r2m1t1p1stock2=1 |r2m1t1p2char2=puff |r2m1t1p2stock2=1
+|r2m1t2p1char2=fox |r2m1t2p1stock2=0 |r2m1t2p2char2=cf |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Dream Land
+|r2m1t1p1char3=fox |r2m1t1p1stock3=1 |r2m1t1p2char3=puff |r2m1t1p2stock3=2
+|r2m1t2p1char3=fox |r2m1t2p1stock3=0 |r2m1t2p2char3=cf |r2m1t2p2stock3=0 |r2m1win3=1 |r2m1stage3=Pokémon Stadium
+|r2m1t1p1char4=fox |r2m1t1p1stock4=0 |r2m1t1p2char4=puff |r2m1t1p2stock4=0
+|r2m1t2p1char4=fox |r2m1t2p1stock4=2 |r2m1t2p2char4=cf |r2m1t2p2stock4=2 |r2m1win4=2 |r2m1stage4=Pokémon Stadium
+|r2m1t1p1char5=sheik |r2m1t1p1stock5=1 |r2m1t1p2char5=puff |r2m1t1p2stock5=1
+|r2m1t2p1char5=fox |r2m1t2p1stock5=0 |r2m1t2p2char5=cf |r2m1t2p2stock5=0 |r2m1win5=1 |r2m1stage5=Battlefield
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+<!-- GRAND FINALS -->
+|r3m1t1p1=Shroomed |r3m1t1p1flag=us
+|r3m1t1p2=SFAT |r3m1t1p2flag=us |r3m1t1score=1 |r3m2t1score=3
+|r3m1t2p1=Mew2King |r3m1t2p1flag=us
+|r3m1t2p2=Hungrybox |r3m1t2p2flag=us |r3m1t2score=3 |r3m2t2score=2
+|r3m1win=1
+|r3m1t1p1char1=sheik |r3m1t1p1stock1=0 |r3m1t1p2char1=fox |r3m1t1p2stock1=0
+|r3m1t2p1char1=sheik |r3m1t2p1stock1=2 |r3m1t2p2char1=puff |r3m1t2p2stock1=2 |r3m1win1=2 |r3m1stage1=Battlefield
+|r3m1t1p1char2=sheik |r3m1t1p1stock2=1 |r3m1t1p2char2=fox |r3m1t1p2stock2=1
+|r3m1t2p1char2=sheik |r3m1t2p1stock2=0 |r3m1t2p2char2=puff |r3m1t2p2stock2=0 |r3m1win2=1 |r3m1stage2=Battlefield
+|r3m1t1p1char3=sheik |r3m1t1p1stock3=0 |r3m1t1p2char3=fox |r3m1t1p2stock3=0
+|r3m1t2p1char3=sheik |r3m1t2p1stock3=2 |r3m1t2p2char3=puff |r3m1t2p2stock3=1 |r3m1win3=2 |r3m1stage3=Final Destination
+|r3m1t1p1char4=sheik |r3m1t1p1stock4=0 |r3m1t1p2char4=fox |r3m1t1p2stock4=0
+|r3m1t2p1char4=sheik |r3m1t2p1stock4=1 |r3m1t2p2char4=puff |r3m1t2p2stock4=2 |r3m1win4=2 |r3m1stage4=Yoshi's Story
+|r3m1t1p1char5= |r3m1t1p1stock5= |r3m1t1p2char5= |r3m1t1p2stock5=
+|r3m1t2p1char5= |r3m1t2p1stock5= |r3m1t2p2char5= |r3m1t2p2stock5= |r3m1win5= |r3m1stage5=
+
+<!-- Bracket Reset (if needed) -->
+|r3m2t1p1char1=sheik |r3m2t1p1stock1=1 |r3m2t1p2char1=fox |r3m2t1p2stock1=1
+|r3m2t2p1char1=sheik |r3m2t2p1stock1=0 |r3m2t2p2char1=puff |r3m2t2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2t1p1char2=sheik |r3m2t1p1stock2=0 |r3m2t1p2char2=fox |r3m2t1p2stock2=0
+|r3m2t2p1char2=sheik |r3m2t2p1stock2=1 |r3m2t2p2char2=puff |r3m2t2p2stock2=1 |r3m2win2=2 |r3m2stage2=Final Destination
+|r3m2t1p1char3=sheik |r3m2t1p1stock3=1 |r3m2t1p2char3=fox |r3m2t1p2stock3=1
+|r3m2t2p1char3=sheik |r3m2t2p1stock3=0 |r3m2t2p2char3=puff |r3m2t2p2stock3=0 |r3m2win3=1 |r3m2stage3=Dream Land
+|r3m2t1p1char4=sheik |r3m2t1p1stock4=0 |r3m2t1p2char4=fox |r3m2t1p2stock4=0
+|r3m2t2p1char4=sheik |r3m2t2p1stock4=1 |r3m2t2p2char4=puff |r3m2t2p2stock4=1 |r3m2win4=2 |r3m2stage4=Battlefield
+|r3m2t1p1char5=sheik |r3m2t1p1stock5=1 |r3m2t1p2char5=fox |r3m2t1p2stock5=1
+|r3m2t2p1char5=sheik |r3m2t2p1stock5=0 |r3m2t2p2char5=puff |r3m2t2p2stock5=0 |r3m2win5=1 |r3m2stage5=Pokémon Stadium
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

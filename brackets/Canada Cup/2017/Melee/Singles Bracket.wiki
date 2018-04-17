@@ -1,0 +1,339 @@
+{{DISPLAYTITLE:Canada Cup 2017: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Canada Cup/2017/Melee
+|name2=Singles Pools
+|link2=Canada Cup/2017/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Canada Cup/2017/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=Canada Cup/2017/Melee/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{16DEWBracketA2
+|tourneylink=Canada Cup/2017/Melee
+|tourneyname=Canada Cup 2017
+|column-width=180
+<!-- Ro16 -->
+|r1m1p1=Armada |r1m1p1flag=se |r1m1p1score=3
+|r1m1p2=Moky |r1m1p2flag=ca |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=peach |r1m1p2char1=fox |r1m1p1stock1=3 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Fountain of Dreams
+|r1m1p1char2=peach |r1m1p2char2=fox |r1m1p1stock2=2 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokemon Stadium
+|r1m1p1char3=peach |r1m1p2char3=fox |r1m1p1stock3=3 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Pokemon Stadium
+|r1m1date=October 28, 2017
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=m7s1VP_KtlM|comment=}}
+
+|r1m2p1=KirbyKaze |r1m2p1flag=ca |r1m2p1score=3
+|r1m2p2=Prince Abu |r1m2p2flag=us |r1m2p2score=0
+|r1m2win=1
+
+|r1m3p1=n0ne |r1m3p1flag=ni |r1m3p1score=3
+|r1m3p2=Ginger |r1m3p2flag=us |r1m3p2score=1
+|r1m3win=1
+|r1m3p1char1=cf |r1m3p2char1=falco |r1m3p1stock1=1 |r1m3p2stock1=0 |r1m3win1=1 |r1m3stage1=Fountain of Dreams
+|r1m3p1char2=cf |r1m3p2char2=falco |r1m3p1stock2=1 |r1m3p2stock2=0 |r1m3win2=1 |r1m3stage2=Final Destination
+|r1m3p1char3=cf |r1m3p2char3=falco |r1m3p1stock3=0 |r1m3p2stock3=2 |r1m3win3=2 |r1m3stage3=Final Destination
+|r1m3p1char4=cf |r1m3p2char4=falco |r1m3p1stock4=1 |r1m3p2stock4=0 |r1m3win4=1 |r1m3stage4=Dream Land
+|r1m3date=October 28, 2017
+|r1m3details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/79cn5f/canada_cup_2017_winners_top_32_ginger_vs_n0ne/|comment=|vod=https://www.youtube.com/watch?v=bw2BEN2IJA8}}
+
+|r1m4p1=Duck |r1m4p1flag=us |r1m4p1score=3
+|r1m4p2=Trulliam |r1m4p2flag=ca |r1m4p2score=2
+|r1m4win=1
+|r1m4p1char1=samus |r1m4p2char1=falco |r1m4p1stock1=0 |r1m4p2stock1=3 |r1m4win1=2 |r1m4stage1=Battlefield
+|r1m4p1char2=samus |r1m4p2char2=falco |r1m4p1stock2=1 |r1m4p2stock2=0 |r1m4win2=1 |r1m4stage2=Fountain of Dreams
+|r1m4p1char3=samus |r1m4p2char3=falco |r1m4p1stock3=0 |r1m4p2stock3=2 |r1m4win3=2 |r1m4stage3=Yoshi's Story
+|r1m4p1char4=samus |r1m4p2char4=falco |r1m4p1stock4=2 |r1m4p2stock4=0 |r1m4win4=1 |r1m4stage4=Dream Land
+|r1m4p1char5=samus |r1m4p2char5=falco |r1m4p1stock5=1 |r1m4p2stock5=0 |r1m4win5=1 |r1m4stage5=Final Destination
+|r1m4date=October 28, 2017
+|r1m4details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/79ck4o/canada_cup_2017_winners_top_32_duck_vs_trulliam/|comment=|vod=https://www.youtube.com/watch?v=05WPj5oxOhk}}
+
+|r1m5p1=Mew2King |r1m5p1flag=us |r1m5p1score=3
+|r1m5p2=Weon-X |r1m5p2flag=cl |r1m5p2score=0
+|r1m5win=1
+
+|r1m6p1=KJH |r1m6p1flag=us |r1m6p1score=3
+|r1m6p2=Kage |r1m6p2flag=ca |r1m6p2score=0
+|r1m6win=1
+
+|r1m7p1=Leffen |r1m7p1flag=se |r1m7p1score=3
+|r1m7p2=Coffeeblack |r1m7p2flag=ca |r1m7p2score=0
+|r1m7win=1
+|r1m7p1char1=fox |r1m7p2char1=cf |r1m7p1stock1=3 |r1m7p2stock1=0 |r1m7win1=1 |r1m7stage1=Yoshi's Story
+|r1m7p1char2=fox |r1m7p2char2=cf |r1m7p1stock2=3 |r1m7p2stock2=0 |r1m7win2=1 |r1m7stage2=Pokemon Stadium
+|r1m7p1char3=fox |r1m7p2char3=dk |r1m7p1stock3=3 |r1m7p2stock3=0 |r1m7win3=1 |r1m7stage3=Final Destination
+|r1m7date=October 28, 2017
+|r1m7details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=cb4pjA4kyrY|comment=}}
+
+|r1m8p1=Ryan Ford |r1m8p1flag=ca |r1m8p1score=3
+|r1m8p2=Android |r1m8p2flag=se |r1m8p2score=2
+|r1m8win=1
+
+<!-- QUARTERFINALS -->
+|r2m1p1=Armada |r2m1p1flag=se |r2m1p1score=3
+|r2m1p2=KirbyKaze |r2m1p2flag=ca |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=peach |r2m1p2char1=sheik |r2m1p1stock1=3 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=peach |r2m1p2char2=sheik |r2m1p1stock2=2 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1p1char3=peach |r2m1p2char3=sheik |r2m1p1stock3=2 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Final Destination
+|r2m1date=October 28, 2017
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=9CHRrjyI6jg|comment=}}
+
+|r2m2p1=n0ne |r2m2p1flag=ni |r2m2p1score=3
+|r2m2p2=Duck |r2m2p2flag=us |r2m2p2score=1
+|r2m2win=1
+|r2m2p1char1=cf |r2m2p2char1=samus |r2m2p1stock1=1 |r2m2p2stock1=0 |r2m2win1=1 |r2m2stage1=Battlefield
+|r2m2p1char2=cf |r2m2p2char2=samus |r2m2p1stock2=2 |r2m2p2stock2=0 |r2m2win2=1 |r2m2stage2=Fountain of Dreams
+|r2m2p1char3=cf |r2m2p2char3=samus |r2m2p1stock3=0 |r2m2p2stock3=1 |r2m2win3=2 |r2m2stage3=Fountain of Dreams
+|r2m2p1char4=ganon |r2m2p2char4=samus |r2m2p1stock4=1 |r2m2p2stock4=0 |r2m2win4=1 |r2m2stage4=Yoshi's Story
+|r2m2date=October 28, 2017
+|r2m2details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=g2_dr3kOJcQ|comment=}}
+
+
+|r2m3p1=Mew2King |r2m3p1flag=us |r2m3p1score=3
+|r2m3p2=KJH |r2m3p2flag=us |r2m3p2score=0
+|r2m3win=1
+|r2m3p1char1=marth |r2m3p2char1=fox |r2m3p1stock1=3 |r2m3p2stock1=0 |r2m3win1=1 |r2m3stage1=Fountain of Dreams
+|r2m3p1char2=sheik |r2m3p2char2=fox |r2m3p1stock2=1 |r2m3p2stock2=0 |r2m3win2=1 |r2m3stage2=Dream Land
+|r2m3p1char3=marth |r2m3p2char3=fox |r2m3p1stock3=2 |r2m3p2stock3=0 |r2m3win3=1 |r2m3stage3=Yoshi's Story
+|r2m3date=October 28, 2017
+|r2m3details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=DNmlU5J-YJM|comment=}}
+
+|r2m4p1=Leffen |r2m4p1flag=se |r2m4p1score=3
+|r2m4p2=Ryan Ford |r2m4p2flag=ca |r2m4p2score=0
+|r2m4win=1
+|r2m4p1char1=fox |r2m4p2char1=fox |r2m4p1stock1=3 |r2m4p2stock1=0 |r2m4win1=1 |r2m4stage1=Battlefield
+|r2m4p1char2=fox |r2m4p2char2=falco |r2m4p1stock2=3 |r2m4p2stock2=0 |r2m4win2=1 |r2m4stage2=Fountain of Dreams
+|r2m4p1char3=fox |r2m4p2char3=falco |r2m4p1stock3=1 |r2m4p2stock3=0 |r2m4win3=1 |r2m4stage3=Fountain of Dreams
+|r2m4date=October 28, 2017
+|r2m4details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=2f87ZnXRwd4|comment=}}
+
+<!-- SEMIFINALS -->
+|r3m1p1=Armada |r3m1p1flag=se |r3m1p1score=3
+|r3m1p2=n0ne |r3m1p2flag=ni |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=peach |r3m1p2char1=cf |r3m1p1stock1=1 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Dream Land
+|r3m1p1char2=peach |r3m1p2char2=cf |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=peach |r3m1p2char3=cf |r3m1p1stock3=2 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Yoshi's Story
+|r3m1date=October 29, 2017
+|r3m1details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/79j69i/canada_cup_2017_winners_semis_armada_vs_n0ne/|comment=|vod=https://youtu.be/1wfPzpTC95k?t=18386}}
+
+|r3m2p1=Mew2King |r3m2p1flag=us |r3m2p1score=1
+|r3m2p2=Leffen |r3m2p2flag=se |r3m2p2score=3
+|r3m2win=2
+|r3m2p1char1=marth |r3m2p2char1=fox |r3m2p1stock1=0 |r3m2p2stock1=1 |r3m2win1=2 |r3m2stage1=Fountain of Dreams
+|r3m2p1char2=marth |r3m2p2char2=fox |r3m2p1stock2=1 |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Final Destination
+|r3m2p1char3=marth |r3m2p2char3=fox |r3m2p1stock3=0 |r3m2p2stock3=2 |r3m2win3=2 |r3m2stage3=Dream Land
+|r3m2p1char4=marth |r3m2p2char4=fox |r3m2p1stock4=0 |r3m2p2stock4=3 |r3m2win4=2 |r3m2stage4=Pokémon Stadium
+|r3m2date=October 29, 2017
+|r3m2details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/79j9hg/canada_cup_2017_winners_semis_mew2king_vs_leffen/|comment=|vod=https://youtu.be/1wfPzpTC95k?t=19625}}
+}}
+
+==Losers Bracket==
+{{32DELBracketSmwA
+|tourneylink=Canada_Cup/2017/Melee
+|tourneyname=Canada Cup 2017
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+
+|l1m1p1=Luka |l1m1p1flag=ca |l1m1p1score=0 |l1m1win=2
+|l1m1p2=Heartstrings |l1m1p2flag=us |l1m1p2score=3
+|l1m2p1=Vino |l1m2p1flag=us |l1m2p1score=3 |l1m2win=1
+|l1m2p2=Hyprid |l1m2p2flag=us |l1m2p2score=2
+|l1m3p1=Kao |l1m3p1flag=us |l1m3p1score=1 |l1m3win=2
+|l1m3p2=JKJ |l1m3p2flag=us |l1m3p2score=3
+|l1m4p1=Poop |l1m4p1flag=ca |l1m4p1score=1 |l1m4win=2
+|l1m4p2=Nightmare |l1m4p2flag=ca |l1m4p2score=3
+|l1m5p1=Zuppy |l1m5p1flag=ca |l1m5p1score=3 |l1m5win=1
+|l1m5p2=SpaceGhost |l1m5p2flag=ca |l1m5p2score=2
+|l1m6p1=Plum |l1m6p1flag=uz |l1m6p1score=3 |l1m6win=1
+|l1m6p2=Platty |l1m6p2flag=ca |l1m6p2score=2
+|l1m7p1=DarkGenex |l1m7p1flag=us |l1m7p1score=0 |l1m7win=2
+|l1m7p2=Hex |l1m7p2flag=ca |l1m7p2score=3
+|l1m8p1=Bolvelt |l1m8p1flag=ca |l1m8p1score=0 |l1m8win=2
+|l1m8p2=Tranimal |l1m8p2flag=ca |l1m8p2score=3
+
+|l2m1p1=Android |l2m1p1flag=se |l2m1p1score=3 |l2m1win=1
+|l2m1p2=Heartstrings |l2m1p2flag=us |l2m1p2score=2
+|l2m2p1=Coffeeblack |l2m2p1flag=ca |l2m2p1score=2 |l2m2win=2
+|l2m2p2=Vino |l2m2p2flag=us |l2m2p2score=3
+|l2m3p1=Kage |l2m3p1flag=ca |l2m3p1score=3 |l2m3win=1
+|l2m3p2=JKJ |l2m3p2flag=us |l2m3p2score=0
+|l2m4p1=Weon-X |l2m4p1flag=cl |l2m4p1score=3 |l2m4win=1
+|l2m4p2=Nightmare |l2m4p2flag=ca |l2m4p2score=1
+|l2m5p1=Trulliam |l2m5p1flag=ca |l2m5p1score=3 |l2m5win=1
+|l2m5p2=Zuppy |l2m5p2flag=ca |l2m5p2score=0
+|l2m6p1=Ginger |l2m6p1flag=us |l2m6p1score=2 |l2m6win=2
+|l2m6p2=Plum |l2m6p2flag=uz |l2m6p2score=3
+|l2m7p1=Prince Abu |l2m7p1flag=us |l2m7p1score=3 |l2m7win=1
+|l2m7p2=Hex |l2m7p2flag=ca |l2m7p2score=0
+|l2m8p1=Moky |l2m8p1flag=ca |l2m8p1score=3 |l2m8win=1
+|l2m8p2=Tranimal |l2m8p2flag=ca |l2m8p2score=2
+
+|l3m1p1=Android |l3m1p1flag=se |l3m1p1score=3 |l3m1win=1
+|l3m1p2=Vino |l3m1p2flag=us |l3m1p2score=0
+
+|l3m2p1=Kage |l3m2p1flag=ca |l3m2p1score=3 |l3m2win=1
+|l3m2p2=Weon-X |l3m2p2flag=cl |l3m2p2score=1
+|l3m2p1char1=ganon |l3m2p2char1=marth |l3m2p1stock1=1 |l3m2p2stock1=0 |l3m2win1=1 |l3m2stage1=Battlefield
+|l3m2p1char2=ganon |l3m2p2char2=marth |l3m2p1stock2=0 |l3m2p2stock2=2 |l3m2win2=2 |l3m2stage2=Fountain of Dreams
+|l3m2p1char3=ganon |l3m2p2char3=marth |l3m2p1stock3=3 |l3m2p2stock3=0 |l3m2win3=1 |l3m2stage3=Dream Land
+|l3m2p1char4=ganon |l3m2p2char4=marth |l3m2p1stock4=1 |l3m2p2stock4=0 |l3m2win4=1 |l3m2stage4=Yoshi's Story
+|l3m2date=October 28, 2017
+|l3m2details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=d11cgH-XFds|comment=}}
+
+|l3m3p1=Trulliam |l3m3p1flag=ca |l3m3p1score=3 |l3m3win=1
+|l3m3p2=Plum |l3m3p2flag=uz |l3m3p2score=0
+|l3m3p1char1=falco |l3m3p2char1=cf |l3m3p1stock1=2 |l3m3p2stock1=0 |l3m3win1=1 |l3m3stage1=Yoshi's Story
+|l3m3p1char2=falco |l3m3p2char2=cf |l3m3p1stock2=1 |l3m3p2stock2=0 |l3m3win2=1 |l3m3stage2=Dream Land
+|l3m3p1char3=falco |l3m3p2char3=cf |l3m3p1stock3=1 |l3m3p2stock3=0 |l3m3win3=1 |l3m3stage3=Pokémon Stadium
+|l3m3date=October 28, 2017
+|l3m3details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=NbNC6WGVlwo|comment=}}
+
+|l3m4p1=Prince Abu |l3m4p1flag=us |l3m4p1score=3 |l3m4win=1
+|l3m4p2=Moky |l3m4p2flag=ca |l3m4p2score=1
+
+|l4m1p1=Duck |l4m1p1flag=us |l4m1p1score=0 |l4m1win=2
+|l4m1p2=Android |l4m1p2flag=se |l4m1p2score=3
+|l4m1p1char1=samus |l4m1p2char1=sheik |l4m1p1stock1=0 |l4m1p2stock1=2 |l4m1win1=2 |l4m1stage1=Battlefield
+|l4m1p1char2=samus |l4m1p2char2=sheik |l4m1p1stock2=0 |l4m1p2stock2=1 |l4m1win2=2 |l4m1stage2=Fountain of Dreams
+|l4m1p1char3=samus |l4m1p2char3=sheik |l4m1p1stock3=0 |l4m1p2stock3=1 |l4m1win3=2 |l4m1stage3=Fountain of Dreams
+|l4m1date=October 28, 2017
+|l4m1details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/79dby0/canada_cup_top_12_losers_android_vs_duck/|comment=|vod=https://www.youtube.com/watch?v=8JxhvJCobaI}}
+
+|l4m2p1=KirbyKaze |l4m2p1flag=ca |l4m2p1score=1 |l4m2win=2
+|l4m2p2=Kage |l4m2p2flag=ca |l4m2p2score=3
+|l4m2p1char1=sheik |l4m2p2char1=ganon |l4m2p1stock1=0 |l4m2p2stock1=1 |l4m2win1=2 |l4m2stage1=Battlefield
+|l4m2p1char2=sheik |l4m2p2char2=ganon |l4m2p1stock2=3 |l4m2p2stock2=0 |l4m2win2=1 |l4m2stage2=Final Destination
+|l4m2p1char3=sheik |l4m2p2char3=ganon |l4m2p1stock3=0 |l4m2p2stock3=1 |l4m2win3=2 |l4m2stage3=Yoshi's Story
+|l4m2p1char4=sheik |l4m2p2char4=ganon |l4m2p1stock4=0 |l4m2p2stock4=1 |l4m2win4=2 |l4m2stage4=Dream Land
+|l4m2date=October 28, 2017
+|l4m2finished=
+|l4m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=nqrtkKglz2s|interview=|recap=}}
+
+|l4m3p1=Ryan Ford |l4m3p1flag=ca |l4m3p1score=0 |l4m3win=2
+|l4m3p2=Trulliam |l4m3p2flag=ca |l4m3p2score=3
+|l4m3p1char1=fox |l4m3p2char1=falco |l4m3p1stock1=0 |l4m3p2stock1=2 |l4m3win1=2 |l4m3stage1=Yoshi's Story
+|l4m3p1char2=fox |l4m3p2char2=falco |l4m3p1stock2=0 |l4m3p2stock2=1 |l4m3win2=2 |l4m3stage2=Fountain of Dreams
+|l4m3p1char3=fox |l4m3p2char3=falco |l4m3p1stock3=0 |l4m3p2stock3=3 |l4m3win3=2 |l4m3stage3=Fountain of Dreams
+|l4m3date=October 28, 2017
+|l4m3finished=
+|l4m3details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=puKMcgiK6ZQ|interview=|recap=}}
+
+|l4m4p1=KJH |l4m4p1flag=us |l4m4p1score=3 |l4m4win=1
+|l4m4p2=Prince Abu |l4m4p2flag=us |l4m4p2score=0
+|l4m4p1char1=fox |l4m4p2char1=puff |l4m4p1stock1=3 |l4m4p2stock1=0 |l4m4win1=1 |l4m4stage1=Fountain of Dreams
+|l4m4p1char2=fox |l4m4p2char2=puff |l4m4p1stock2=1 |l4m4p2stock2=0 |l4m4win2=1 |l4m4stage2=Dream Land
+|l4m4p1char3=fox |l4m4p2char3=puff |l4m4p1stock3=3 |l4m4p2stock3=0 |l4m4win3=1 |l4m4stage3=Dream Land
+|l4m4date=October 28, 2017
+|l4m4finished=
+|l4m4details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=kZWp9VTHMHE|interview=|recap=}}
+
+|l5m1p1=Android |l5m1p1flag=se |l5m1p1score=1 |l5m1win=2
+|l5m1p2=Kage |l5m1p2flag=ca |l5m1p2score=3
+|l5m1p1char1=sheik |l5m1p2char1=ganon |l5m1p1stock1=0 |l5m1p2stock1=1 |l5m1win1=2 |l5m1stage1=Battlefield
+|l5m1p1char2=sheik |l5m1p2char2=ganon |l5m1p1stock2=0 |l5m1p2stock2=1 |l5m1win2=2 |l5m1stage2=Final Destination
+|l5m1p1char3=sheik |l5m1p2char3=ganon |l5m1p1stock3=1 |l5m1p2stock3=0 |l5m1win3=1 |l5m1stage3=Final Destination
+|l5m1p1char4=sheik |l5m1p2char4=ganon |l5m1p1stock4=0 |l5m1p2stock4=2 |l5m1win4=2 |l5m1stage4=Yoshi's Story
+|l5m1date=October 29, 2017
+|l5m1details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/79j0e0/canada_cup_2017_losers_top_8_android_vs_kage/|comment=|vod=https://youtu.be/1wfPzpTC95k?t=17411}}
+
+|l5m2p1=Trulliam |l5m2p1flag=ca |l5m2p1score=2 |l5m2win=2
+|l5m2p2=KJH |l5m2p2flag=us |l5m2p2score=3
+|l5m2p1char1=falco |l5m2p2char1=fox |l5m2p1stock1=1 |l5m2p2stock1=0 |l5m2win1=1 |l5m2stage1=Dream Land
+|l5m2p1char2=falco |l5m2p2char2=fox |l5m2p1stock2=0 |l5m2p2stock2=2 |l5m2win2=2 |l5m2stage2=Yoshi's Story
+|l5m2p1char3=falco |l5m2p2char3=fox |l5m2p1stock3=1 |l5m2p2stock3=0 |l5m2win3=1 |l5m2stage3=Battlefield
+|l5m2p1char4=falco |l5m2p2char4=fox |l5m2p1stock4=0 |l5m2p2stock4=1 |l5m2win4=2 |l5m2stage4=Dream Land
+|l5m2p1char5=falco |l5m2p2char5=fox |l5m2p1stock5=0 |l5m2p2stock5=3 |l5m2win5=2 |l5m2stage5=Pokémon Stadium
+|l5m2date=October 29, 2017
+|l5m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/1wfPzpTC95k?t=15764}}
+
+|l6m1p1=Mew2King |l6m1p1flag=us |l6m1p1score=3 |l6m1win=1
+|l6m1p2=Kage |l6m1p2flag=ca |l6m1p2score=0
+|l6m1p1char1=sheik |l6m1p2char1=ganon |l6m1p1stock1=2 |l6m1p2stock1=0 |l6m1win1=1 |l6m1stage1=Dream Land
+|l6m1p1char2=sheik |l6m1p2char2=ganon |l6m1p1stock2=2 |l6m1p2stock2=0 |l6m1win2=1 |l6m1stage2=Yoshi's Story
+|l6m1p1char3=sheik |l6m1p2char3=ganon |l6m1p1stock3=1 |l6m1p2stock3=0 |l6m1win3=1 |l6m1stage3=Yoshi's Story
+|l6m1date=October 29, 2017
+|l6m1details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/79jhlu/canada_cup_2017_losers_quarters_mew2king_vs_kage/|comment=|vod=https://youtu.be/1wfPzpTC95k?t=21630}}
+
+|l6m2p1=n0ne |l6m2p1flag=ni |l6m2p1score=3 |l6m2win=1
+|l6m2p2=KJH |l6m2p2flag=us |l6m2p2score=2
+|l6m2p1char1=cf |l6m2p2char1=fox |l6m2p1stock1=2 |l6m2p2stock1=0 |l6m2win1=1 |l6m2stage1=Final Destination
+|l6m2p1char2=cf |l6m2p2char2=fox |l6m2p1stock2=0 |l6m2p2stock2=1 |l6m2win2=2 |l6m2stage2=Yoshi's Story
+|l6m2p1char3=cf |l6m2p2char3=fox |l6m2p1stock3=1 |l6m2p2stock3=0 |l6m2win3=1 |l6m2stage3=Battlefield
+|l6m2p1char4=cf |l6m2p2char4=fox |l6m2p1stock4=0 |l6m2p2stock4=1 |l6m2win4=2 |l6m2stage4=Fountain of Dreams
+|l6m2p1char5=cf |l6m2p2char5=fox |l6m2p1stock5=1 |l6m2p2stock5=0 |l6m2win5=1 |l6m2stage5=Dream Land
+|l6m2date=October 29, 2017
+|l6m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/1wfPzpTC95k?t=20554}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Canada Cup/2017/Melee
+|tourneyname=Canada Cup 2017
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=200
+|column-width-finals=240
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Armada |r1m1p1flag=se |r1m1p1score=0
+|r1m1p2=Leffen |r1m1p2flag=se |r1m1p2score=3
+|r1m1win=2
+|r1m1p1char1=fox |r1m1p2char1=fox |r1m1p1stock1=0 |r1m1p2stock1=1 |r1m1win1=2 |r1m1stage1=Yoshi's Story
+|r1m1p1char2=fox |r1m1p2char2=fox |r1m1p1stock2=0 |r1m1p2stock2=1 |r1m1win2=2 |r1m1stage2=Dream Land
+|r1m1p1char3=fox |r1m1p2char3=fox |r1m1p1stock3=0 |r1m1p2stock3=1 |r1m1win3=2 |r1m1stage3=Dream Land
+|r1m1date=October 29, 2017
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/1wfPzpTC95k?t=22423}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Mew2King |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=n0ne |l1m1p2flag=ni |l1m1p2score=1
+|l1m1win=1
+|l1m1p1char1=sheik |l1m1p2char1=cf |l1m1p1stock1=2 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Dream Land
+|l1m1p1char2=marth |l1m1p2char2=cf |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Pokémon Stadium
+|l1m1p1char3=sheik |l1m1p2char3=cf |l1m1p1stock3=1 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Fountain of Dreams
+|l1m1p1char4=sheik |l1m1p2char4=cf |l1m1p1stock4=1 |l1m1p2stock4=0 |l1m1win4=1 |l1m1stage4=Battlefield
+|l1m1date=October 29, 2017
+|l1m1details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/79jmy7/canada_cup_2017_losers_semis_n0ne_vs_mew2king/|comment=|vod=https://youtu.be/1wfPzpTC95k?t=23292}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Armada |r2m1p1flag=se |r2m1p1score=2
+|r2m1p2=Mew2King |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=peach |r2m1p2char1=marth |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=peach |r2m1p2char2=marth |r2m1p1stock2=1 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Dream Land
+|r2m1p1char3=peach |r2m1p2char3=marth |r2m1p1stock3=0 |r2m1p2stock3=2 |r2m1win3=2 |r2m1stage3=Final Destination
+|r2m1p1char4=peach |r2m1p2char4=marth |r2m1p1stock4=3 |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Pokémon Stadium
+|r2m1p1char5=peach |r2m1p2char5=marth |r2m1p1stock5=0 |r2m1p2stock5=2 |r2m1win5=2 |r2m1stage5=Fountain of Dreams
+|r2m1date=October 29, 2017
+|r2m1details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/79jqpo/canada_cup_2017_losers_finals_armada_vs_mew2king/|comment=|vod=https://youtu.be/1wfPzpTC95k?t=24466}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Leffen |r3m1p1flag=se |r3m1p1score=0 |r3m2p1score=2
+|r3m1p2=Mew2King |r3m1p2flag=us |r3m1p2score=3 |r3m2p2score=3
+|r3m1win=2
+|r3m1p1char1=fox |r3m1p2char1=marth |r3m1p1stock1=0 |r3m1p2stock1=2 |r3m1win1=2 |r3m1stage1=Fountain of Dreams
+|r3m1p1char2=fox |r3m1p2char2=marth |r3m1p1stock2=0 |r3m1p2stock2=2 |r3m1win2=2 |r3m1stage2=Dream Land
+|r3m1p1char3=fox |r3m1p2char3=marth |r3m1p1stock3=0 |r3m1p2stock3=2 |r3m1win3=2 |r3m1stage3=Dream Land
+
+|r3m2p1char1=fox |r3m2p2char1=marth |r3m2p1stock1=0 |r3m2p2stock1=2 |r3m2win1=2 |r3m2stage1=Fountain of Dreams
+|r3m2p1char2=fox |r3m2p2char2=marth |r3m2p1stock2=0 |r3m2p2stock2=1 |r3m2win2=2 |r3m2stage2=Dream Land
+|r3m2p1char3=fox |r3m2p2char3=marth |r3m2p1stock3=1 |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Dream Land
+|r3m2p1char4=fox |r3m2p2char4=marth |r3m2p1stock4=1 |r3m2p2stock4=0 |r3m2win4=1 |r3m2stage4=Final Destination
+|r3m2p1char5=fox |r3m2p2char5=marth |r3m2p1stock5=0 |r3m2p2stock5=3 |r3m2win5=2 |r3m2stage5=Final Destination
+|r3m1date=October 29, 2017
+|r3m1details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/79jyqt/canada_cup_2017_grand_finals_tsm_rb_leffen_vs_fox/|comment=|vod=https://youtu.be/1wfPzpTC95k?t=26515}}
+}}
+</onlyinclude>

@@ -1,0 +1,229 @@
+{{DISPLAYTITLE:SoCal Colosseum #9: Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=SoCal Colosseum/9
+|name2=Singles Pools
+|link2=SoCal Colosseum/9/Singles Pools
+|name3=Singles Bracket
+|link3=SoCal Colosseum/9/Singles Bracket
+|name4=Doubles Bracket
+|link4=SoCal Colosseum/9/Doubles Bracket
+|This=4
+}}
+==Winners Bracket==
+{{16DEDoublesWBracketA
+|column-width=160
+
+<!-- ROUND 1 -->
+|r1m1t1p1=Jace |r1m1t1p1flag=us
+|r1m1t1p2=Pajama Sam |r1m1t1p2flag=us |r1m1t1score=2
+|r1m1t2p1=DrWhooves |r1m1t2p1flag=us
+|r1m1t2p2=Jolf |r1m1t2p2flag= |r1m1t2score=0
+|r1m1win=1
+
+|r1m2t1p1=CaPEM |r1m2t1p1flag=us
+|r1m2t1p2=BillyBoPeep |r1m2t1p2flag=us |r1m2t1score=1
+|r1m2t2p1=Cinnamon Apple Oatmeal |r1m2t2p1flag=us
+|r1m2t2p2=Fallennova |r1m2t2p2flag=us |r1m2t2score=2
+|r1m2win=2
+
+|r1m3t1p1=Motoko |r1m3t1p1flag=us
+|r1m3t1p2=Daddy |r1m3t1p2flag=us |r1m3t1score=2
+|r1m3t2p1=butts |r1m3t2p1flag=us
+|r1m3t2p2=RD |r1m3t2p2flag=us |r1m3t2score=1
+|r1m3win=1
+
+|r1m4t1p1=Mair |r1m4t1p1flag=us
+|r1m4t1p2=Grape |r1m4t1p2flag=us |r1m4t1score=2
+|r1m4t2p1=Youngblood |r1m4t2p1flag=us
+|r1m4t2p2=Gooms |r1m4t2p2flag=us |r1m4t2score=0
+|r1m4win=1
+
+|r1m5t1p1=AmericanDragon DavidChong |r1m5t1p1flag=us
+|r1m5t1p2=Sergio |r1m5t1p2flag=us |r1m5t1score=2
+|r1m5t2p1=Guth |r1m5t2p1flag=us
+|r1m5t2p2=El Cancel |r1m5t2p2flag=us |r1m5t2score=0
+|r1m5win=1
+
+|r1m6t1p1=Slime |r1m6t1p1flag=us
+|r1m6t1p2=dankrooster |r1m6t1p2flag=us |r1m6t1score=2
+|r1m6t2p1=Oli |r1m6t2p1flag=us
+|r1m6t2p2=Heisenberg |r1m6t2p2flag=us |r1m6t2score=1
+|r1m6win=1
+
+|r1m7t1p1=Vavez |r1m7t1p1flag=us
+|r1m7t1p2=myfishcantswim |r1m7t1p2flag=us |r1m7t1score=2
+|r1m7t2p1=Chestnut |r1m7t2p1flag=us
+|r1m7t2p2=Duwang |r1m7t2p2flag=us |r1m7t2score=0
+|r1m7win=1
+
+|r1m8t1p1=DonB |r1m8t1p1flag=au
+|r1m8t1p2=Mister Dawson |r1m8t1p2flag=us |r1m8t1score=2
+|r1m8t2p1=topkek |r1m8t2p1flag=us
+|r1m8t2p2=Flonominal |r1m8t2p2flag=us |r1m8t2score=0
+|r1m8win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Jace |r2m1t1p1flag=us
+|r2m1t1p2=Pajama Sam |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Cinnamon Apple Oatmeal |r2m1t2p1flag=us
+|r2m1t2p2=Fallennova |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=Motoko |r2m2t1p1flag=us
+|r2m2t1p2=Daddy |r2m2t1p2flag=us |r2m2t1score=0
+|r2m2t2p1=Mair |r2m2t2p1flag=us
+|r2m2t2p2=Grape |r2m2t2p2flag=us |r2m2t2score=2
+|r2m2win=2
+
+|r2m3t1p1=AmericanDragon DavidChong |r2m3t1p1flag=us
+|r2m3t1p2=Sergio |r2m3t1p2flag=us |r2m3t1score=2
+|r2m3t2p1=Slime |r2m3t2p1flag=us
+|r2m3t2p2=dankrooster |r2m3t2p2flag=us |r2m3t2score=0
+|r2m3win=1
+
+|r2m4t1p1=Vavez |r2m4t1p1flag=us
+|r2m4t1p2=myfishcantswim |r2m4t1p2flag=us |r2m4t1score=2
+|r2m4t2p1=DonB |r2m4t2p1flag=au
+|r2m4t2p2=Mister Dawson |r2m4t2p2flag=us |r2m4t2score=0
+|r2m4win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Jace |r3m1t1p1flag=us
+|r3m1t1p2=Pajama Sam |r3m1t1p2flag=us |r3m1t1score=0
+|r3m1t2p1=Mair |r3m1t2p1flag=us
+|r3m1t2p2=Grape |r3m1t2p2flag=us |r3m1t2score=3
+|r3m1win=2
+
+|r3m2t1p1=AmericanDragon DavidChong |r3m2t1p1flag=us
+|r3m2t1p2=Sergio |r3m2t1p2flag=us |r3m2t1score=2
+|r3m2t2p1=Vavez |r3m2t2p1flag=us
+|r3m2t2p2=myfishcantswim |r3m2t2p2flag=us |r3m2t2score=0
+|r3m2win=1
+}}
+==Losers Bracket==
+{{16DEDoublesLBracketSmwA
+|tourneylink=SoCal Colosseum/9
+|tourneyname=SoCal Colosseum #9
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+|column-width=160
+
+<!-- ROUND 1 -->
+|l1m1t1p1=DrWhooves |l1m1t1p1flag=us
+|l1m1t1p2=Jolf |l1m1t1p2flag= |l1m1t1score=1
+|l1m1t2p1=CaPEM |l1m1t2p1flag=us
+|l1m1t2p2=BillyBoPeep |l1m1t2p2flag=us |l1m1t2score=2
+|l1m1win=2
+
+|l1m2t1p1=butts |l1m2t1p1flag=us
+|l1m2t1p2=RD |l1m2t1p2flag=us |l1m2t1score=1
+|l1m2t2p1=Youngblood |l1m2t2p1flag=us
+|l1m2t2p2=Gooms |l1m2t2p2flag=us |l1m2t2score=2
+|l1m2win=2
+
+|l1m3t1p1=Guth |l1m3t1p1flag=us
+|l1m3t1p2=El Cancel |l1m3t1p2flag=us |l1m3t1score=2
+|l1m3t2p1=Oli |l1m3t2p1flag=us
+|l1m3t2p2=Heisenberg |l1m3t2p2flag=us |l1m3t2score=1
+|l1m3win=1
+
+|l1m4t1p1=Chestnut |l1m4t1p1flag=us
+|l1m4t1p2=Duwang |l1m4t1p2flag=us |l1m4t1score=0
+|l1m4t2p1=topkek |l1m4t2p1flag=us
+|l1m4t2p2=Flonominal |l1m4t2p2flag=us |l1m4t2score=2
+|l1m4win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=DonB |l2m1t1p1flag=au
+|l2m1t1p2=Mister Dawson |l2m1t1p2flag=us |l2m1t1score=1
+|l2m1t2p1=CaPEM |l2m1t2p1flag=us
+|l2m1t2p2=BillyBoPeep |l2m1t2p2flag=us |l2m1t2score=2
+|l2m1win=2
+
+|l2m2t1p1=Slime |l2m2t1p1flag=us
+|l2m2t1p2=dankrooster |l2m2t1p2flag=us |l2m2t1score=0
+|l2m2t2p1=Youngblood |l2m2t2p1flag=us
+|l2m2t2p2=Gooms |l2m2t2p2flag=us |l2m2t2score=2
+|l2m2win=2
+
+|l2m3t1p1=Motoko |l2m3t1p1flag=us
+|l2m3t1p2=Daddy |l2m3t1p2flag=us |l2m3t1score=2
+|l2m3t2p1=Guth |l2m3t2p1flag=us
+|l2m3t2p2=El Cancel |l2m3t2p2flag=us |l2m3t2score=0
+|l2m3win=1
+
+|l2m4t1p1=Cinnamon Apple Oatmeal |l2m4t1p1flag=us
+|l2m4t1p2=Fallennova |l2m4t1p2flag=us |l2m4t1score=2
+|l2m4t2p1=topkek |l2m4t2p1flag=us
+|l2m4t2p2=Flonominal |l2m4t2p2flag=us |l2m4t2score=1
+|l2m4win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=CaPEM |l3m1t1p1flag=us
+|l3m1t1p2=BillyBoPeep |l3m1t1p2flag=us |l3m1t1score=2
+|l3m1t2p1=Youngblood |l3m1t2p1flag=us
+|l3m1t2p2=Gooms |l3m1t2p2flag=us |l3m1t2score=0
+|l3m1win=1
+
+|l3m2t1p1=Motoko |l3m2t1p1flag=us
+|l3m2t1p2=Daddy |l3m2t1p2flag=us |l3m2t1score=2
+|l3m2t2p1=Cinnamon Apple Oatmeal |l3m2t2p1flag=us
+|l3m2t2p2=Fallennova |l3m2t2p2flag=us |l3m2t2score=0
+|l3m2win=1
+
+<!-- ROUND 4 -->
+|l4m1t1p1=Jace |l4m1t1p1flag=us
+|l4m1t1p2=Pajama Sam |l4m1t1p2flag=us |l4m1t1score=2
+|l4m1t2p1=CaPEM |l4m1t2p1flag=us
+|l4m1t2p2=BillyBoPeep |l4m1t2p2flag=us |l4m1t2score=0
+|l4m1win=1
+
+|l4m2t1p1=Vavez |l4m2t1p1flag=us
+|l4m2t1p2=myfishcantswim |l4m2t1p2flag=us |l4m2t1score=2
+|l4m2t2p1=Motoko |l4m2t2p1flag=us
+|l4m2t2p2=Daddy |l4m2t2p2flag=us |l4m2t2score=0
+|l4m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=SoCal Colosseum/9
+|tourneyname=SoCal Colosseum #9
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=160
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Mair |r1m1t1p1flag=us
+|r1m1t1p2=Grape |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=AmericanDragon DavidChong |r1m1t2p1flag=us
+|r1m1t2p2=Sergio |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Jace |l1m1t1p1flag=us
+|l1m1t1p2=Pajama Sam |l1m1t1p2flag=us |l1m1t1score=3
+|l1m1t2p1=Vavez |l1m1t2p1flag=us
+|l1m1t2p2=myfishcantswim |l1m1t2p2flag=us |l1m1t2score=2
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=AmericanDragon DavidChong |r2m1t1p1flag=us
+|r2m1t1p2=Sergio |r2m1t1p2flag=us |r2m1t1score=0
+|r2m1t2p1=Jace |r2m1t2p1flag=us
+|r2m1t2p2=Pajama Sam |r2m1t2p2flag=us |r2m1t2score=3
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Mair |r3m1t1p1flag=us
+|r3m1t1p2=Grape |r3m1t1p2flag=us |r3m1t1score=0 |r3m2t1score=3
+|r3m1t2p1=Jace |r3m1t2p1flag=us
+|r3m1t2p2=Pajama Sam |r3m1t2p2flag=us |r3m1t2score=3 |r3m2t2score=1
+|r3m1win=1
+}}
+</onlyinclude>

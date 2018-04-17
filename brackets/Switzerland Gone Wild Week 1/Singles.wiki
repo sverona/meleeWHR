@@ -1,0 +1,79 @@
+{{tabs static
+|name1=Overview
+|link1=Switzerland Gone Wild Week 1
+|name2=Singles
+|link2=Switzerland Gone Wild Week 1/Singles
+|This=2
+}}
+==Pool==
+
+<!-- Generated with http://tournament-nub.rhcloud.com/rrtoliquipedia name=SGW -->
+
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+
+|player1=Inflict |player1flag=ch |player1char=falco |player1link= |player1bg= |player1_w= |player1_l=
+|player2=Shloub |player2flag=fr |player2char=sheik |player2link= |player2bg= |player2_w= |player2_l=
+|player3=Tristan |player3flag=ch |player3char= |player3link= |player3bg= |player3_w= |player3_l=
+|player4=Scriptor |player4flag= |player4char=sheik |player4link= |player4bg= |player4_w= |player4_l=
+|player5=Tom |player5flag=ch |player5char=marth |player5link= |player5bg= |player5_w= |player5_l=
+|player6=S |player6flag=ch |player6char=peach |player6link= |player6bg= |player6_w= |player6_l=
+
+<!--Games of Player 1-->
+|1vs2result=2 |1vs2resultvs=0
+|1vs3result=2 |1vs3resultvs=1
+|1vs4result=2 |1vs4resultvs=0
+|1vs5result=2 |1vs5resultvs=0
+|1vs6result=2 |1vs6resultvs=0
+<!--Games of Player 2-->
+|2vs3result=2 |2vs3resultvs=0
+|2vs4result=2 |2vs4resultvs=0
+|2vs5result=2 |2vs5resultvs=0
+|2vs6result=2 |2vs6resultvs=0
+<!--Games of Player 3-->
+|3vs4result=2 |3vs4resultvs=1
+|3vs5result=2 |3vs5resultvs=0
+|3vs6result=2 |3vs6resultvs=0
+<!--Games of Player 4-->
+|4vs5result=2 |4vs5resultvs=0
+|4vs6result=2 |4vs6resultvs=0
+<!--Games of Player 5-->
+|5vs6result=2 |5vs6resultvs=0
+
+}}
+<onlyinclude>
+==Finals Bracket==
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia name=SGWW1TOP4 -->
+
+{{4SEBracket
+|r1m1p1=Inflict |r1m1p1flag=ch |r1m1p1score=3 |r1m1win=1
+|r1m1p2=Scriptor |r1m1p2flag= |r1m1p2score=1
+
+|r1m2p1=Shloub |r1m2p1flag=fr |r1m2p1score=3 |r1m2win=1
+|r1m2p2=Tristan |r1m2p2flag=ch |r1m2p2score=1
+
+|r2m1p1=Inflict |r2m1p1flag=ch |r2m1p1score=3 |r2m1win=1
+|r2m1p2=Shloub |r2m1p2flag=fr |r2m1p2score=0
+
+<!-- 3RD PLACE MATCH -->
+|l2m1p1=Scriptor |l2m1p1flag= |l2m1p1score=3
+|l2m1p2=Tristan |l2m1p2flag=ch |l2m1p2score=1
+|l2m1win=1
+|l2m1p1char1= |l2m1p2char1= |l2m1p1stock1= |l2m1p2stock1= |l2m1win1= |l2m1stage1=
+|l2m1p1char2= |l2m1p2char2= |l2m1p1stock2= |l2m1p2stock2= |l2m1win2= |l2m1stage2=
+|l2m1p1char3= |l2m1p2char3= |l2m1p1stock3= |l2m1p2stock3= |l2m1win3= |l2m1stage3=
+|l2m1p1char4= |l2m1p2char4= |l2m1p1stock4= |l2m1p2stock4= |l2m1win4= |l2m1stage4=
+|l2m1p1char5= |l2m1p2char5= |l2m1p1stock5= |l2m1p2stock5= |l2m1win5= |l2m1stage5=
+|l2m1date=
+|l2m1finished=
+|l2m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=Note: there is a typo in the Challonge bracket.
+}}
+}}
+</onlyinclude>

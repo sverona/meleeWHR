@@ -1,0 +1,186 @@
+{{DISPLAYTITLE:SoCal Regionals 2014: Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=SoCal Regionals/2014
+|name2=Singles Pools
+|link2=SoCal Regionals/2014/Singles Pools
+|name3=Singles Bracket
+|link3=SoCal Regionals/2014/Singles Bracket
+|name4=Doubles Bracket
+|link4=SoCal Regionals/2014/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{8DEWBracketA
+|tourneylink=SoCal Regionals/2014
+|tourneyname=SoCal Regionals 2014
+<!-- Quarterfinals -->
+|r1m1p1=Shroomed |r1m1p1flag=us |r1m1p1score=2
+|r1m1p2=MacD |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+
+|r1m2p1=Westballz |r1m2p1flag=us |r1m2p1score=2
+|r1m2p2=Dr. Z |r1m2p2flag=us |r1m2p2score=0
+|r1m2win=1
+
+|r1m3p1=S2J |r1m3p1flag=us |r1m3p1score=2
+|r1m3p2=Scar |r1m3p2flag=us |r1m3p2score=0
+|r1m3win=1
+
+|r1m4p1=Axe |r1m4p1flag=us |r1m4p1score=1
+|r1m4p2=SFAT |r1m4p2flag=us |r1m4p2score=2
+|r1m4win=2
+
+<!-- SEMIFINALS -->
+|r2m1p1=Shroomed |r2m1p1flag=us |r2m1p1score=0
+|r2m1p2=Westballz |r2m1p2flag=us |r2m1p2score=2
+|r2m1win=2
+|r2m1p1char1=sheik |r2m1p2char1=falco |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=sheik |r2m1p2char2=falco |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Dream Land
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/zWx78rJkuaQ?t=1596}}
+
+|r2m2p1=S2J |r2m2p1flag=us |r2m2p1score=2
+|r2m2p2=SFAT |r2m2p2flag=us |r2m2p2score=1
+|r2m2win=1
+|r2m2p1char1=cf |r2m2p2char1=fox |r2m2p1stock1=0 |r2m2p2stock1=1 |r2m2win1=2 |r2m2stage1=Battlefield
+|r2m2p1char2=cf |r2m2p2char2=fox |r2m2p1stock2=1 |r2m2p2stock2=0 |r2m2win2=1 |r2m2stage2=Battlefield
+|r2m2p1char3=cf |r2m2p2char3=fox |r2m2p1stock3=1 |r2m2p2stock3=0 |r2m2win3=1 |r2m2stage3=Final Destination
+|r2m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/zWx78rJkuaQ?t=2147}}
+}}
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=SoCal Regionals/2014
+|tourneyname=SoCal Regionals 2014
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+|column-width=160
+
+<!-- Round 1 -->
+|l1m1p1=Mooninite |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Ken |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=2
+
+|l1m2p1=TheCrimsonBlur |l1m2p1flag=us |l1m2p1score=0
+|l1m2p2=Fly Amanita |l1m2p2flag=us |l1m2p2score=2 
+|l1m2win=2
+
+|l1m3p1=DEHF |l1m3p1flag=us |l1m3p1score=2
+|l1m3p2=A Rookie |l1m3p2flag=us |l1m3p2score=0
+|l1m3win=1
+|l1m3p1char1=falco |l1m3p2char1=mario |l1m3p1stock1=2 |l1m3p2stock1=0 |l1m3win1=1 |l1m3stage1=Yoshi's Story
+|l1m3p1char2=falco |l1m3p2char2=mario |l1m3p1stock2=1 |l1m3p2stock2=0 |l1m3win2=1 |l1m3stage2=Pokémon Stadium
+|l1m3details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/h8RD9FieG1U}}
+
+|l1m4p1=Azusa |l1m4p1flag=us |l1m4p1score=0
+|l1m4p2=OkamiBW |l1m4p2flag=us |l1m4p2score=2 
+|l1m4win=2
+
+<!-- Round 2 -->
+|l2m1p1=Axe |l2m1p1flag=us |l2m1p1score=2
+|l2m1p2=Ken |l2m1p2flag=us |l2m1p2score=0
+|l2m1win=1
+
+|l2m2p1=Scar |l2m2p1flag=us |l2m2p1score=2
+|l2m2p2=Fly Amanita |l2m2p2flag=us |l2m2p2score=1
+|l2m2win=1
+
+|l2m3p1=Dr. Z |l2m3p1flag=us |l2m3p1score=0
+|l2m3p2=DEHF |l2m3p2flag=us |l2m3p2score=2
+|l2m3win=2
+
+|l2m4p1=MacD |l2m4p1flag=us |l2m4p1score=0
+|l2m4p2=OkamiBW |l2m4p2flag=us |l2m4p2score=2
+|l2m4win=2
+
+<!-- Round 3 -->
+|l3m1p1=Axe |l3m1p1flag=us |l3m1p1score=2
+|l3m1p2=Scar |l3m1p2flag=us |l3m1p2score=0
+|l3m1win=1
+|l3m1p1char1=cf |l3m1p2char1=pikachu |l3m1p1stock1=0 |l3m1p2stock1=4 |l3m1win1=2 |l3m1stage1=Battlefield
+|l3m1p1char2=cf |l3m1p2char2=pikachu |l3m1p1stock2=0 |l3m1p2stock2=2 |l3m1win2=2 |l3m1stage2=Pokémon Stadium
+|l3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/zWx78rJkuaQ?t=306}}
+
+|l3m2p1=DEHF |l3m2p1flag=us |l3m2p1score=2
+|l3m2p2=OkamiBW |l3m2p2flag=us |l3m2p2score=1
+|l3m2win=1
+|l3m2p1char1=falco |l3m2p2char1=sheik |l3m2p1stock1=0 |l3m2p2stock1=2 |l3m2win1=2 |l3m2stage1=Battlefield
+|l3m2p1char2=falco |l3m2p2char2=sheik |l3m2p1stock2=2 |l3m2p2stock2=0 |l3m2win2=1 |l3m2stage2=Final Destination
+|l3m2p1char3=falco |l3m2p2char3=sheik |l3m2p1stock3=1 |l3m2p2stock3=0 |l3m2win3=1 |l3m2stage3=Fountain of Dreams
+|l3m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/zWx78rJkuaQ?t=712}}
+
+<!-- Round 4 -->
+|l4m1p1=Shroomed |l4m1p1flag=us |l4m1p1score=0
+|l4m1p2=Axe |l4m1p2flag=us |l4m1p2score=2
+|l4m1win=2
+|l4m1p1char1=doc |l4m1p2char1=pikachu |l4m1p1stock1=0 |l4m1p2stock1=1 |l4m1win1=2 |l4m1stage1=Battlefield
+|l4m1p1char2=doc |l4m1p2char2=pikachu |l4m1p1stock2=0 |l4m1p2stock2=1 |l4m1win2=2 |l4m1stage2=Pokémon Stadium
+|l4m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/zWx78rJkuaQ?t=2961}}
+
+|l4m2p1=SFAT |l4m2p1flag=us |l4m2p1score=2
+|l4m2p2=DEHF |l4m2p2flag=us |l4m2p2score=0
+|l4m2win=1
+|l4m2p1char1=fox |l4m2p2char1=falco |l4m2p1stock1=2 |l4m2p2stock1=0 |l4m2win1=1 |l4m2stage1=Battlefield
+|l4m2p1char2=fox |l4m2p2char2=falco |l4m2p1stock2=2 |l4m2p2stock2=0 |l4m2win2=1 |l4m2stage2=Yoshi's Story
+|l4m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/zWx78rJkuaQ?t=3515}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=SoCal Regionals/2014
+|tourneyname=SoCal Regionals 2014
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+|column-width=200
+|column-width-finals=270
+
+<!-- FROM WINNERS -->
+|r1m1p1=Westballz |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=S2J |r1m1p2flag=us |r1m1p2score=2
+|r1m1win=1
+|r1m1p1char1=falco |r1m1p2char1=cf |r1m1p1stock1=0 |r1m1p2stock1=1 |r1m1win1=2 |r1m1stage1=Battlefield
+|r1m1p1char2=falco |r1m1p2char2=cf |r1m1p1stock2=2 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Yoshi's Story
+|r1m1p1char3=falco |r1m1p2char3=cf |r1m1p1stock3=0 |r1m1p2stock3=1 |r1m1win3=2 |r1m1stage3=Final Destination
+|r1m1p1char4=falco |r1m1p2char4=cf |r1m1p1stock4=2 |r1m1p2stock4=0 |r1m1win4=1 |r1m1stage4=Pokémon Stadium
+|r1m1p1char5=falco |r1m1p2char5=cf |r1m1p1stock5=2 |r1m1p2stock5=0 |r1m1win5=1 |r1m1stage5=Battlefield
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/zWx78rJkuaQ?t=4483}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Axe |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=SFAT |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=2
+|l1m1p1char1=pikachu |l1m1p2char1=fox |l1m1p1stock1=0 |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1p1char2=pikachu |l1m1p2char2=fox |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Battlefield
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/zWx78rJkuaQ?t=3968}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=S2J |r2m1p1flag=us |r2m1p1score=1
+|r2m1p2=SFAT |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=cf |r2m1p2char1=fox |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=cf |r2m1p2char2=fox |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Battlefield
+|r2m1p1char3=cf |r2m1p2char3=fox |r2m1p1stock3=2 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Pokémon Stadium
+|r2m1p1char4=cf |r2m1p2char4=fox |r2m1p1stock4=0 |r2m1p2stock4=3 |r2m1win4=2 |r2m1stage4=Fountain of Dreams
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/zWx78rJkuaQ?t=5501}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Westballz |r3m1p1flag=us |r3m1p1score=2 |r3m2p1score=3
+|r3m1p2=SFAT |r3m1p2flag=us |r3m1p2score=3 |r3m2p2score=1
+|r3m1win=1
+|r3m1p1char1=falco |r3m1p2char1=fox |r3m1p1stock1=0 |r3m1p2stock1=2 |r3m1win1=2 |r3m1stage1=Battlefield
+|r3m1p1char2=falco |r3m1p2char2=fox |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Battlefield
+|r3m1p1char3=falco |r3m1p2char3=fox |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Dream Land
+|r3m1p1char4=falco |r3m1p2char4=fox |r3m1p1stock4=1 |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Yoshi's Story
+|r3m1p1char5=falco |r3m1p2char5=fox |r3m1p1stock5=0 |r3m1p2stock5=1 |r3m1win5=2 |r3m1stage5=Final Destination
+
+|r3m2p1char1=falco |r3m2p2char1=fox |r3m2p1stock1=1 |r3m2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2p1char2=falco |r3m2p2char2=fox |r3m2p1stock2=0 |r3m2p2stock2=3 |r3m2win2=2 |r3m2stage2=Battlefield
+|r3m2p1char3=falco |r3m2p2char3=fox |r3m2p1stock3=1 |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Pokémon Stadium
+|r3m2p1char4=falco |r3m2p2char4=fox |r3m2p1stock4=1 |r3m2p2stock4=0 |r3m2win4=1 |r3m2stage4=Dream Land
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/zWx78rJkuaQ?t=6383}}
+}}
+</onlyinclude>

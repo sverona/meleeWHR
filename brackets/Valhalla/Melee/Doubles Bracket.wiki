@@ -1,0 +1,400 @@
+{{DISPLAYTITLE:Valhalla: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Valhalla/Melee
+|name2=Singles Pools
+|link2=Valhalla/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Valhalla/Melee/Singles Bracket
+|name4=Doubles Pools
+|link4=Valhalla/Melee/Doubles Pools
+|name5=Doubles Bracket
+|link5=Valhalla/Melee/Doubles Bracket
+|This=5
+}}
+==Winners Bracket==
+{{32DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=Armada |r1m1t1p1flag=se
+|r1m1t1p2=Android |r1m1t1p2flag=se |r1m1t1score={{win}}
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=
+|r1m1win=1
+
+|r1m2t1p1=Fout NL |r1m2t1p1flag=nl
+|r1m2t1p2=Atlas |r1m2t1p2flag=nl |r1m2t1score=3
+|r1m2t2p1=Stivo |r1m2t2p1flag=de
+|r1m2t2p2=ImperfeCt |r1m2t2p2flag=no |r1m2t2score=1
+|r1m2win=1
+
+|r1m3t1p1=Eagle |r1m3t1p1flag=dk
+|r1m3t1p2=stelzig |r1m3t1p2flag=dk |r1m3t1score={{win}}
+|r1m3t2p1=Bye |r1m3t2p1flag=
+|r1m3t2p2=Bye |r1m3t2p2flag= |r1m3t2score=
+|r1m3win=1
+
+|r1m4t1p1=Poopmaister6000 |r1m4t1p1flag=se
+|r1m4t1p2=Hack |r1m4t1p2flag=se |r1m4t1score=3
+|r1m4t2p1=Niklas2912 |r1m4t2p1flag=no
+|r1m4t2p2=TonyMalone |r1m4t2p2flag=se |r1m4t2score=0
+|r1m4win=1
+
+|r1m5t1p1=Zoler |r1m5t1p1flag=se
+|r1m5t1p2=Daydee |r1m5t1p2flag=se |r1m5t1score={{win}}
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=
+|r1m5win=1
+
+|r1m6t1p1=Jim Morrison |r1m6t1p1flag=nl
+|r1m6t1p2=KasparV |r1m6t1p2flag=nl |r1m6t1score=3
+|r1m6t2p1=Salevits |r1m6t2p1flag=fi
+|r1m6t2p2=Jekku |r1m6t2p2flag=fi |r1m6t2score=1
+|r1m6win=1
+
+|r1m7t1p1=Tomber |r1m7t1p1flag=dk
+|r1m7t1p2=Nicki |r1m7t1p2flag=de |r1m7t1score={{win}}
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=
+|r1m7win=1
+
+|r1m8t1p1=bigM |r1m8t1p1flag=se
+|r1m8t1p2=Pricent |r1m8t1p2flag=no |r1m8t1score=3
+|r1m8t2p1=FA0 |r1m8t2p1flag=se
+|r1m8t2p2=Jack |r1m8t2p2flag=se |r1m8t2score=0
+|r1m8win=1
+
+|r1m9t1p1=Overtriforce |r1m9t1p1flag=es
+|r1m9t1p2=Trif |r1m9t1p2flag=es |r1m9t1score={{win}}
+|r1m9t2p1=Bye |r1m9t2p1flag=
+|r1m9t2p2=Bye |r1m9t2p2flag= |r1m9t2score=
+|r1m9win=1
+
+|r1m10t1p1=NamiNami |r1m10t1p1flag=fi
+|r1m10t1p2=WMK |r1m10t1p2flag=fi |r1m10t1score=3
+|r1m10t2p1=Yuna |r1m10t2p1flag=se
+|r1m10t2p2=RPG |r1m10t2p2flag=se |r1m10t2score=1
+|r1m10win=1
+
+|r1m11t1p1=Stax |r1m11t1p1flag=se
+|r1m11t1p2=Jadde |r1m11t1p2flag=se |r1m11t1score={{win}}
+|r1m11t2p1=Bye |r1m11t2p1flag=
+|r1m11t2p2=Bye |r1m11t2p2flag= |r1m11t2score=
+|r1m11win=1
+
+|r1m12t1p1=Paju |r1m12t1p1flag=fi
+|r1m12t1p2=mayhem |r1m12t1p2flag=fi |r1m12t1score=3
+|r1m12t2p1=maxsimon123 |r1m12t2p1flag=no
+|r1m12t2p2=Rich |r1m12t2p2flag=no |r1m12t2score=0
+|r1m12win=1
+
+|r1m13t1p1=Professor Pro |r1m13t1p1flag=gb
+|r1m13t1p2=Frenzy |r1m13t1p2flag=gb |r1m13t1score={{win}}
+|r1m13t2p1=Bye |r1m13t2p1flag=
+|r1m13t2p2=Bye |r1m13t2p2flag= |r1m13t2score=
+|r1m13win=1
+
+|r1m14t1p1=Nils |r1m14t1p1flag=se
+|r1m14t1p2=rax |r1m14t1p2flag=se |r1m14t1score=1
+|r1m14t2p1=Moe |r1m14t2p1flag=dk
+|r1m14t2p2=Eleven |r1m14t2p2flag=dk |r1m14t2score=3
+|r1m14win=2
+
+|r1m15t1p1=Sverre |r1m15t1p1flag=no
+|r1m15t1p2=voffe |r1m15t1p2flag=no |r1m15t1score={{win}}
+|r1m15t2p1=Bye |r1m15t2p1flag=
+|r1m15t2p2=Bye |r1m15t2p2flag= |r1m15t2score=
+|r1m15win=1
+
+|r1m16t1p1=Pipsqueak |r1m16t1p1flag=se
+|r1m16t1p2=Zaik |r1m16t1p2flag=se |r1m16t1score=3
+|r1m16t2p1=Gardex |r1m16t2p1flag=no
+|r1m16t2p2=TheRedSock |r1m16t2p2flag=no |r1m16t2score=2
+|r1m16win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Armada |r2m1t1p1flag=se
+|r2m1t1p2=Android |r2m1t1p2flag=se |r2m1t1score=3
+|r2m1t2p1=Fout NL |r2m1t2p1flag=nl
+|r2m1t2p2=Atlas |r2m1t2p2flag=nl |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=Eagle |r2m2t1p1flag=dk
+|r2m2t1p2=stelzig |r2m2t1p2flag=dk |r2m2t1score=3
+|r2m2t2p1=Poopmaister6000 |r2m2t2p1flag=se
+|r2m2t2p2=Hack |r2m2t2p2flag=se |r2m2t2score=0
+|r2m2win=1
+
+|r2m3t1p1=Zoler |r2m3t1p1flag=se
+|r2m3t1p2=Daydee |r2m3t1p2flag=se |r2m3t1score=3
+|r2m3t2p1=Jim Morrison |r2m3t2p1flag=nl
+|r2m3t2p2=KasparV |r2m3t2p2flag=nl |r2m3t2score=0
+|r2m3win=1
+
+|r2m4t1p1=Tomber |r2m4t1p1flag=dk
+|r2m4t1p2=Nicki |r2m4t1p2flag=de |r2m4t1score=1
+|r2m4t2p1=bigM |r2m4t2p1flag=se
+|r2m4t2p2=Pricent |r2m4t2p2flag=no |r2m4t2score=3
+|r2m4win=2
+
+|r2m5t1p1=Overtriforce |r2m5t1p1flag=es
+|r2m5t1p2=Trif |r2m5t1p2flag=es |r2m5t1score=3
+|r2m5t2p1=NamiNami |r2m5t2p1flag=fi
+|r2m5t2p2=WMK |r2m5t2p2flag=fi |r2m5t2score=0
+|r2m5win=1
+
+|r2m6t1p1=Stax |r2m6t1p1flag=se
+|r2m6t1p2=Jadde |r2m6t1p2flag=se |r2m6t1score=0
+|r2m6t2p1=Paju |r2m6t2p1flag=fi
+|r2m6t2p2=mayhem |r2m6t2p2flag=fi |r2m6t2score=3
+|r2m6win=2
+
+|r2m7t1p1=Professor Pro |r2m7t1p1flag=gb
+|r2m7t1p2=Frenzy |r2m7t1p2flag=gb |r2m7t1score=3
+|r2m7t2p1=Moe |r2m7t2p1flag=dk
+|r2m7t2p2=Eleven |r2m7t2p2flag=dk |r2m7t2score=0
+|r2m7win=1
+
+|r2m8t1p1=Sverre |r2m8t1p1flag=no
+|r2m8t1p2=voffe |r2m8t1p2flag=no |r2m8t1score=3
+|r2m8t2p1=Pipsqueak |r2m8t2p1flag=se
+|r2m8t2p2=Zaik |r2m8t2p2flag=se |r2m8t2score=2
+|r2m8win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Armada |r3m1t1p1flag=se
+|r3m1t1p2=Android |r3m1t1p2flag=se |r3m1t1score=3
+|r3m1t2p1=Eagle |r3m1t2p1flag=dk
+|r3m1t2p2=stelzig |r3m1t2p2flag=dk |r3m1t2score=0
+|r3m1win=1
+
+|r3m2t1p1=Zoler |r3m2t1p1flag=se
+|r3m2t1p2=Daydee |r3m2t1p2flag=se |r3m2t1score=3
+|r3m2t2p1=bigM |r3m2t2p1flag=se
+|r3m2t2p2=Pricent |r3m2t2p2flag=no |r3m2t2score=0
+|r3m2win=1
+
+|r3m3t1p1=Overtriforce |r3m3t1p1flag=es
+|r3m3t1p2=Trif |r3m3t1p2flag=es |r3m3t1score=3
+|r3m3t2p1=Paju |r3m3t2p1flag=fi
+|r3m3t2p2=mayhem |r3m3t2p2flag=fi |r3m3t2score=0
+|r3m3win=1
+
+|r3m4t1p1=Professor Pro |r3m4t1p1flag=gb
+|r3m4t1p2=Frenzy |r3m4t1p2flag=gb |r3m4t1score=3
+|r3m4t2p1=Sverre |r3m4t2p1flag=no
+|r3m4t2p2=voffe |r3m4t2p2flag=no |r3m4t2score=0
+|r3m4win=1
+
+<!-- ROUND 4 -->
+|r4m1t1p1=Armada |r4m1t1p1flag=se
+|r4m1t1p2=Android |r4m1t1p2flag=se |r4m1t1score=3
+|r4m1t2p1=Zoler |r4m1t2p1flag=se
+|r4m1t2p2=Daydee |r4m1t2p2flag=se |r4m1t2score=0
+|r4m1win=1
+
+|r4m2t1p1=Overtriforce |r4m2t1p1flag=es
+|r4m2t1p2=Trif |r4m2t1p2flag=es |r4m2t1score=3
+|r4m2t2p1=Professor Pro |r4m2t2p1flag=gb
+|r4m2t2p2=Frenzy |r4m2t2p2flag=gb |r4m2t2score=0
+|r4m2win=1
+}}
+==Losers Bracket==
+{{24DEDoublesLBracketSmwA
+|tourneylink=Valhalla/Melee
+|tourneyname=Valhalla
+|l1placement=17-24
+|l2placement=13-16
+|l3placement=9-12
+|l4placement=7-8
+|l5placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Pipsqueak |l1m1t1p1flag=se
+|l1m1t1p2=Zaik |l1m1t1p2flag=se |l1m1t1score=3
+|l1m1t2p1=Stivo |l1m1t2p1flag=de
+|l1m1t2p2=ImperfeCt |l1m1t2p2flag=no |l1m1t2score=1
+|l1m1win=1
+
+|l1m2t1p1=Moe |l1m2t1p1flag=dk
+|l1m2t1p2=Eleven |l1m2t1p2flag=dk |l1m2t1score=3
+|l1m2t2p1=Niklas2912 |l1m2t2p1flag=no
+|l1m2t2p2=TonyMalone |l1m2t2p2flag=se |l1m2t2score=0
+|l1m2win=1
+
+|l1m3t1p1=Stax |l1m3t1p1flag=se
+|l1m3t1p2=Jadde |l1m3t1p2flag=se |l1m3t1score=3
+|l1m3t2p1=Salevits |l1m3t2p1flag=fi
+|l1m3t2p2=Jekku |l1m3t2p2flag=fi |l1m3t2score=1
+|l1m3win=1
+
+|l1m4t1p1=NamiNami |l1m4t1p1flag=fi
+|l1m4t1p2=WMK |l1m4t1p2flag=fi |l1m4t1score=1
+|l1m4t2p1=FA0 |l1m4t2p1flag=se
+|l1m4t2p2=Jack |l1m4t2p2flag=se |l1m4t2score=3
+|l1m4win=2
+
+|l1m5t1p1=Tomber |l1m5t1p1flag=dk
+|l1m5t1p2=Nicki |l1m5t1p2flag=de |l1m5t1score=3
+|l1m5t2p1=Yuna |l1m5t2p1flag=se
+|l1m5t2p2=RPG |l1m5t2p2flag=se |l1m5t2score=1
+|l1m5win=1
+
+|l1m6t1p1=Jim Morrison |l1m6t1p1flag=nl
+|l1m6t1p2=KasparV |l1m6t1p2flag=nl |l1m6t1score=3
+|l1m6t2p1=maxsimon123 |l1m6t2p1flag=no
+|l1m6t2p2=Rich |l1m6t2p2flag=no |l1m6t2score=0
+|l1m6win=1
+
+|l1m7t1p1=Poopmaister6000 |l1m7t1p1flag=se
+|l1m7t1p2=Hack |l1m7t1p2flag=se |l1m7t1score=3
+|l1m7t2p1=Nils |l1m7t2p1flag=se
+|l1m7t2p2=rax |l1m7t2p2flag=se |l1m7t2score=1
+|l1m7win=1
+
+|l1m8t1p1=Fout NL |l1m8t1p1flag=nl
+|l1m8t1p2=Atlas |l1m8t1p2flag=nl |l1m8t1score=3
+|l1m8t2p1=Gardex |l1m8t2p1flag=no
+|l1m8t2p2=TheRedSock |l1m8t2p2flag=no |l1m8t2score=0
+|l1m8win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Pipsqueak |l2m1t1p1flag=se
+|l2m1t1p2=Zaik |l2m1t1p2flag=se |l2m1t1score=3
+|l2m1t2p1=Moe |l2m1t2p1flag=dk
+|l2m1t2p2=Eleven |l2m1t2p2flag=dk |l2m1t2score=1
+|l2m1win=1
+
+|l2m2t1p1=Stax |l2m2t1p1flag=se
+|l2m2t1p2=Jadde |l2m2t1p2flag=se |l2m2t1score=2
+|l2m2t2p1=FA0 |l2m2t2p1flag=se
+|l2m2t2p2=Jack |l2m2t2p2flag=se |l2m2t2score=3
+|l2m2win=2
+
+|l2m3t1p1=Tomber |l2m3t1p1flag=dk
+|l2m3t1p2=Nicki |l2m3t1p2flag=de |l2m3t1score=2
+|l2m3t2p1=Jim Morrison |l2m3t2p1flag=nl
+|l2m3t2p2=KasparV |l2m3t2p2flag=nl |l2m3t2score=3
+|l2m3win=2
+
+|l2m4t1p1=Poopmaister6000 |l2m4t1p1flag=se
+|l2m4t1p2=Hack |l2m4t1p2flag=se |l2m4t1score=2
+|l2m4t2p1=Fout NL |l2m4t2p1flag=nl
+|l2m4t2p2=Atlas |l2m4t2p2flag=nl |l2m4t2score=3
+|l2m4win=2
+
+<!-- ROUND 3 -->
+|l3m1t1p1=bigM |l3m1t1p1flag=se
+|l3m1t1p2=Pricent |l3m1t1p2flag=no |l3m1t1score=3
+|l3m1t2p1=Pipsqueak |l3m1t2p1flag=se
+|l3m1t2p2=Zaik |l3m1t2p2flag=se |l3m1t2score=1
+|l3m1win=1
+
+|l3m2t1p1=Eagle |l3m2t1p1flag=dk
+|l3m2t1p2=stelzig |l3m2t1p2flag=dk |l3m2t1score=3
+|l3m2t2p1=FA0 |l3m2t2p1flag=se
+|l3m2t2p2=Jack |l3m2t2p2flag=se |l3m2t2score=1
+|l3m2win=1
+
+|l3m3t1p1=Sverre |l3m3t1p1flag=no
+|l3m3t1p2=voffe |l3m3t1p2flag=no |l3m3t1score=3
+|l3m3t2p1=Jim Morrison |l3m3t2p1flag=nl
+|l3m3t2p2=KasparV |l3m3t2p2flag=nl |l3m3t2score=2
+|l3m3win=1
+
+|l3m4t1p1=Paju |l3m4t1p1flag=fi
+|l3m4t1p2=mayhem |l3m4t1p2flag=fi |l3m4t1score=3
+|l3m4t2p1=Fout NL |l3m4t2p1flag=nl
+|l3m4t2p2=Atlas |l3m4t2p2flag=nl |l3m4t2score=0
+|l3m4win=1
+
+<!-- ROUND 4 -->
+|l4m1t1p1=bigM |l4m1t1p1flag=se
+|l4m1t1p2=Pricent |l4m1t1p2flag=no |l4m1t1score=3
+|l4m1t2p1=Eagle |l4m1t2p1flag=dk
+|l4m1t2p2=stelzig |l4m1t2p2flag=dk |l4m1t2score=0
+|l4m1win=1
+
+|l4m2t1p1=Sverre |l4m2t1p1flag=no
+|l4m2t1p2=voffe |l4m2t1p2flag=no |l4m2t1score=3
+|l4m2t2p1=Paju |l4m2t2p1flag=fi
+|l4m2t2p2=mayhem |l4m2t2p2flag=fi |l4m2t2score=1
+|l4m2win=1
+
+<!-- ROUND 5 -->
+|l5m1t1p1=Professor Pro |l5m1t1p1flag=gb
+|l5m1t1p2=Frenzy |l5m1t1p2flag=gb |l5m1t1score=3
+|l5m1t2p1=bigM |l5m1t2p1flag=se
+|l5m1t2p2=Pricent |l5m1t2p2flag=no |l5m1t2score=0
+|l5m1win=1
+
+|l5m2t1p1=Zoler |l5m2t1p1flag=se
+|l5m2t1p2=Daydee |l5m2t1p2flag=se |l5m2t1score=3
+|l5m2t2p1=Sverre |l5m2t2p1flag=no
+|l5m2t2p2=voffe |l5m2t2p2flag=no |l5m2t2score=2
+|l5m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Valhalla/Melee
+|tourneyname=Valhalla
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Armada |r1m1t1p1flag=se
+|r1m1t1p2=Android |r1m1t1p2flag=se |r1m1t1score=3
+|r1m1t2p1=Overtriforce |r1m1t2p1flag=es
+|r1m1t2p2=Trif |r1m1t2p2flag=es |r1m1t2score=0
+|r1m1win=1
+|r1m1t1p1char1=peach |r1m1t1p1stock1=3 |r1m1t1p2char1=sheik |r1m1t1p2stock1=3
+|r1m1t2p1char1=sheik |r1m1t2p1stock1=0 |r1m1t2p2char1=peach |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Final Destination
+|r1m1t1p1char2=peach |r1m1t1p1stock2=1 |r1m1t1p2char2=sheik |r1m1t1p2stock2=1
+|r1m1t2p1char2=sheik |r1m1t2p1stock2=0 |r1m1t2p2char2=peach |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Yoshi's Story
+|r1m1t1p1char3=peach |r1m1t1p1stock3=2 |r1m1t1p2char3=sheik |r1m1t1p2stock3=1
+|r1m1t2p1char3=sheik |r1m1t2p1stock3=0 |r1m1t2p2char3=peach |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Yoshi's Story
+|r1m1date=
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=GN0kOjmWJBI}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Professor Pro |l1m1t1p1flag=gb
+|l1m1t1p2=Frenzy |l1m1t1p2flag=gb |l1m1t1score=3
+|l1m1t2p1=Zoler |l1m1t2p1flag=se
+|l1m1t2p2=Daydee |l1m1t2p2flag=se |l1m1t2score=1
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Overtriforce |r2m1t1p1flag=es
+|r2m1t1p2=Trif |r2m1t1p2flag=es |r2m1t1score=3
+|r2m1t2p1=Professor Pro |r2m1t2p1flag=gb
+|r2m1t2p2=Frenzy |r2m1t2p2flag=gb |r2m1t2score=1
+|r2m1win=1
+|r2m1t1p1char1=sheik |r2m1t1p1stock1=0 |r2m1t1p2char1=peach |r2m1t1p2stock1=1
+|r2m1t2p1char1=fox |r2m1t2p1stock1=0 |r2m1t2p2char1=falco |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1t1p1char2=sheik |r2m1t1p1stock2=1 |r2m1t1p2char2=peach |r2m1t1p2stock2=1
+|r2m1t2p1char2=fox |r2m1t2p1stock2=0 |r2m1t2p2char2=falco |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1t1p1char3=sheik |r2m1t1p1stock3=0 |r2m1t1p2char3=peach |r2m1t1p2stock3=0
+|r2m1t2p1char3=fox |r2m1t2p1stock3=1 |r2m1t2p2char3=falco |r2m1t2p2stock3=1 |r2m1win3=2 |r2m1stage3=Battlefield
+|r2m1t1p1char4=sheik |r2m1t1p1stock4=1 |r2m1t1p2char4=peach |r2m1t1p2stock4=1
+|r2m1t2p1char4=fox |r2m1t2p1stock4=0 |r2m1t2p2char4=falco |r2m1t2p2stock4=0 |r2m1win4=1 |r2m1stage4=Dream Land
+|r2m1date=
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=Jn3y4a5KdQQ}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Armada |r3m1t1p1flag=se
+|r3m1t1p2=Android |r3m1t1p2flag=se |r3m1t1score=3 |r3m2t1score=
+|r3m1t2p1=Overtriforce |r3m1t2p1flag=es
+|r3m1t2p2=Trif |r3m1t2p2flag=es |r3m1t2score=0 |r3m2t2score=
+|r3m1win=1
+|r3m1t1p1char1=peach |r3m1t1p1stock1=1 |r3m1t1p2char1=sheik |r3m1t1p2stock1=1
+|r3m1t2p1char1=sheik |r3m1t2p1stock1=0 |r3m1t2p2char1=peach |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Pokémon Stadium
+|r3m1t1p1char2=peach |r3m1t1p1stock2=2 |r3m1t1p2char2=sheik |r3m1t1p2stock2=2
+|r3m1t2p1char2=sheik |r3m1t2p1stock2=0 |r3m1t2p2char2=peach |r3m1t2p2stock2=0 |r3m1win2=1 |r3m1stage2=Yoshi's Story
+|r3m1t1p1char3=peach |r3m1t1p1stock3=2 |r3m1t1p2char3=sheik |r3m1t1p2stock3=1
+|r3m1t2p1char3=sheik |r3m1t2p1stock3=0 |r3m1t2p2char3=peach |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Yoshi's Story
+|r3m1date=
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=StOC2EWBuWU}}
+}}
+</onlyinclude>

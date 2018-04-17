@@ -1,0 +1,388 @@
+{{DISPLAYTITLE:Torneio Maroto de Smash no Sítio 3: Singles Pools}}
+{{tabs static
+|name1=Overview
+|link1=Torneio Maroto de Smash no Sítio 3
+|name2=Singles Pools
+|link2=Torneio Maroto de Smash no Sítio 3/Singles Pools
+|name3=Singles Bracket
+|link3=Torneio Maroto de Smash no Sítio 3/Singles Bracket
+|This=2
+}}
+
+__NOTOC__
+==Groups==
+===Group A===
+{{box|start|padding=2em}}
+====Standings====
+{{GroupTableStart|Group A|width=200px}}
+{{GroupTableSlot|{{flag/br}} [[Izzi]] |team= |place=1 |win_m=5 |lose_m=0 |win_g=10 |lose_g=0 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[dede]] |team= |place=2 |win_m=4 |lose_m=1 |win_g=8 |lose_g=2 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Akira]] |team= |place=3 |win_m=3 |lose_m=2 |win_g=6 |lose_g=4 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[GeekCult]] |team= |place=4 |win_m=2 |lose_m=3 |win_g=4 |lose_g=6 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Kort]] |team= |place=5 |win_m=1 |lose_m=4 |win_g=2 |lose_g=8 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Lorenzo]] |team= |place=6 |win_m=0 |lose_m=5 |win_g=0 |lose_g=10 |bg=down }}
+{{GroupTableEnd}}
+{{box|break|padding=2em}}
+
+====Cross Table====
+{{PlayerCrossTable
+|cell-width=
+|doublerounded=false
+|displaystats=
+|player1=Izzi|player1char=falco|player1flag=br|player1link=|player1bg=|player1_w=|player1_1=
+|player2=dede|player2char=sheik|player2flag=br|player2link=|player2bg=|player2_w=|player2_l=
+|player3=Akira|player3char=ic|player3flag=br|player3link=|player3bg=|player3_w=|player3_l=
+|player4=GeekCult|player4char=sheik|player4flag=br|player4link=|player4bg=|player4_w=|player4_l=
+|player5=Kort|player5char=falco|player5flag=br|player5link=|player5bg=|player5_w=|player5_l=
+|player6=Lorenzo|player6char=dk|player6flag=br|player6link=|player6bg=|player6_w=|player6_l=
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+<!--Games of Player 2-->
+|2vs3result=2|2vs3resultvs=0
+|2vs4result=2|2vs4resultvs=0
+|2vs5result=2|2vs5resultvs=0
+|2vs6result=2|2vs6resultvs=0
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+<!--Games of Player 4-->
+|4vs5result=2|4vs5resultvs=0
+|4vs6result=2|4vs6resultvs=0
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+}}
+{{box|end}}
+
+===Group B===
+{{box|start|padding=2em}}
+====Standings====
+{{GroupTableStart|Group B|width=200px}}
+{{GroupTableSlot|{{flag/br}} [[Godzrage]] |team= |place=1 |win_m=5 |lose_m=0 |win_g=10 |lose_g=1 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Quip]] |team= |place=2 |win_m=4 |lose_m=1 |win_g=9 |lose_g=2 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Túlio]] |team= |place=3 |win_m=3 |lose_m=2 |win_g=6 |lose_g=4 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Dreno]] |team= |place=4 |win_m=2 |lose_m=3 |win_g=4 |lose_g=6 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[MizouSoulX]] |team= |place=5 |win_m=1 |lose_m=4 |win_g=2 |lose_g=8 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Rossi]] |team= |place=6 |win_m=0 |lose_m=5 |win_g=0 |lose_g=10 |bg=down }}
+{{GroupTableEnd}}
+{{box|break|padding=2em}}
+
+====Cross Table====
+{{PlayerCrossTable
+|cell-width=
+|doublerounded=false
+|displaystats=
+|player1=Godzrage|player1char=samus|player1flag=br|player1link=|player1bg=|player1_w=|player1_1=
+|player2=Quip|player2char=falco|player2flag=br|player2link=|player2bg=|player2_w=|player2_l=
+|player3=Túlio|player3char=fox|player3flag=br|player3link=|player3bg=|player3_w=|player3_l=
+|player4=Dreno|player4char=jigglypuff|player4flag=br|player4link=|player4bg=|player4_w=|player4_l=
+|player5=MizouSoulX|player5char=|player5flag=br|player5link=|player5bg=|player5_w=|player5_l=
+|player6=Rossi|player6char=|player6flag=br|player6link=|player6bg=|player6_w=|player6_l=
+<!--Games of Player 1-->
+|1vs2result=|1vs2resultvs=
+|1vs3result=|1vs3resultvs=
+|1vs4result=|1vs4resultvs=
+|1vs5result=|1vs5resultvs=
+|1vs6result=|1vs6resultvs=
+<!--Games of Player 2-->
+|2vs3result=|2vs3resultvs=
+|2vs4result=|2vs4resultvs=
+|2vs5result=|2vs5resultvs=
+|2vs6result=|2vs6resultvs=
+<!--Games of Player 3-->
+|3vs4result=|3vs4resultvs=
+|3vs5result=|3vs5resultvs=
+|3vs6result=|3vs6resultvs=
+<!--Games of Player 4-->
+|4vs5result=|4vs5resultvs=
+|4vs6result=|4vs6resultvs=
+<!--Games of Player 5-->
+|5vs6result=|5vs6resultvs=
+}}
+{{box|end}}
+
+===Group C===
+{{box|start|padding=2em}}
+====Standings====
+{{GroupTableStart|Group C|width=200px}}
+{{GroupTableSlot|{{flag/cl}} [[Gin]] |team= |place=1 |win_m=5 |lose_m=0 |win_g=10 |lose_g=0 |bg=up }}
+{{GroupTableSlot|{{flag/us}} [[Tron]] |team= |place=2 |win_m=4 |lose_m=1 |win_g=8 |lose_g=3 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Red Hairdo]] |team= |place=3 |win_m=3 |lose_m=2 |win_g=6 |lose_g=4 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Jab Air]] |team= |place=4 |win_m=2 |lose_m=3 |win_g=5 |lose_g=6 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Armadinha]] |team= |place=5 |win_m=1 |lose_m=4 |win_g=2 |lose_g=8 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Sgarbi]] |team= |place=6 |win_m=0 |lose_m=5 |win_g=0 |lose_g=10 |bg=down }}
+{{GroupTableEnd}}
+{{box|break|padding=2em}}
+
+====Cross Table====
+{{PlayerCrossTable
+|cell-width=
+|doublerounded=false
+|displaystats=
+|player1=Gin|player1char=falco|player1flag=cl|player1link=|player1bg=|player1_w=|player1_1=
+|player2=Tron|player2char=falco|player2flag=us|player2link=|player2bg=|player2_w=|player2_l=
+|player3=Red Hairdo|player3char=roy|player3flag=br|player3link=|player3bg=|player3_w=|player3_l=
+|player4=Jab Air|player4char=jigglypuff|player4flag=br|player4link=|player4bg=|player4_w=|player4_l=
+|player5=Armadinha|player5char=fox|player5flag=br|player5link=|player5bg=|player5_w=|player5_l=
+|player6=Sgarbi|player6char=falco|player6flag=br|player6link=|player6bg=|player6_w=|player6_l=
+<!--Games of Player 1-->
+|1vs2result=|1vs2resultvs=
+|1vs3result=|1vs3resultvs=
+|1vs4result=|1vs4resultvs=
+|1vs5result=|1vs5resultvs=
+|1vs6result=|1vs6resultvs=
+<!--Games of Player 2-->
+|2vs3result=|2vs3resultvs=
+|2vs4result=|2vs4resultvs=
+|2vs5result=|2vs5resultvs=
+|2vs6result=|2vs6resultvs=
+<!--Games of Player 3-->
+|3vs4result=|3vs4resultvs=
+|3vs5result=|3vs5resultvs=
+|3vs6result=|3vs6resultvs=
+<!--Games of Player 4-->
+|4vs5result=|4vs5resultvs=
+|4vs6result=|4vs6resultvs=
+<!--Games of Player 5-->
+|5vs6result=|5vs6resultvs=
+}}
+{{box|end}}
+
+===Group D===
+{{box|start|padding=2em}}
+====Standings====
+{{GroupTableStart|Group D|width=200px}}
+{{GroupTableSlot|{{flag/br}} [[Acido]] |team= |place=1 |win_m=5 |lose_m=0 |win_g=10 |lose_g=0 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Kizzu]] |team= |place=2 |win_m=4 |lose_m=1 |win_g=8 |lose_g=3 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[McS33]] |team= |place=3 |win_m=3 |lose_m=2 |win_g=7 |lose_g=4 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Rocky]] |team= |place=4 |win_m=2 |lose_m=3 |win_g=4 |lose_g=6 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Luffy]] |team= |place=5 |win_m=1 |lose_m=4 |win_g=2 |lose_g=8 |bg=down }}
+{{GroupTableSlot|{{flag/cl}} [[El Cirujano]] |team= |place=6 |win_m=0 |lose_m=5 |win_g=0 |lose_g=10 |bg=down }}
+{{GroupTableEnd}}
+{{box|break|padding=2em}}
+
+====Cross Table====
+{{PlayerCrossTable
+|cell-width=
+|doublerounded=false
+|displaystats=
+|player1=Acido|player1char=fox|player1flag=br|player1link=|player1bg=|player1_w=|player1_1=
+|player2=Kizzu|player2char=marth|player2flag=br|player2link=|player2bg=|player2_w=|player2_l=
+|player3=McS33|player3char=sheik|player3flag=br|player3link=|player3bg=|player3_w=|player3_l=
+|player4=Rocky|player4char=falco|player4flag=br|player4link=|player4bg=|player4_w=|player4_l=
+|player5=Luffy|player5char=|player5flag=br|player5link=|player5bg=|player5_w=|player5_l=
+|player6=El Cirujano|player6char=|player6flag=cl|player6link=|player6bg=|player6_w=|player6_l=
+<!--Games of Player 1-->
+|1vs2result=|1vs2resultvs=
+|1vs3result=|1vs3resultvs=
+|1vs4result=|1vs4resultvs=
+|1vs5result=|1vs5resultvs=
+|1vs6result=|1vs6resultvs=
+<!--Games of Player 2-->
+|2vs3result=|2vs3resultvs=
+|2vs4result=|2vs4resultvs=
+|2vs5result=|2vs5resultvs=
+|2vs6result=|2vs6resultvs=
+<!--Games of Player 3-->
+|3vs4result=|3vs4resultvs=
+|3vs5result=|3vs5resultvs=
+|3vs6result=|3vs6resultvs=
+<!--Games of Player 4-->
+|4vs5result=|4vs5resultvs=
+|4vs6result=|4vs6resultvs=
+<!--Games of Player 5-->
+|5vs6result=|5vs6resultvs=
+}}
+{{box|end}}
+
+===Group E===
+{{box|start|padding=2em}}
+====Standings====
+{{GroupTableStart|Group E|width=200px}}
+{{GroupTableSlot|{{flag/br}} [[Aisengobay]] |team= |place=1 |win_m=5 |lose_m=0 |win_g=10 |lose_g=0 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Phil]] |team= |place=2 |win_m=4 |lose_m=1 |win_g=8 |lose_g=2 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Druth]] |team= |place=3 |win_m=3 |lose_m=2 |win_g=6 |lose_g=4 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Rith]] |team= |place=4 |win_m=2 |lose_m=3 |win_g=4 |lose_g=7 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Yost]] |team= |place=5 |win_m=1 |lose_m=4 |win_g=3 |lose_g=8 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Cabelo]] |team= |place=6 |win_m=0 |lose_m=5 |win_g=0 |lose_g=10 |bg=down }}
+{{GroupTableEnd}}
+{{box|break|padding=2em}}
+
+====Cross Table====
+{{PlayerCrossTable
+|cell-width=
+|doublerounded=false
+|displaystats=
+|player1=Aisengobay|player1char=fox|player1flag=br|player1link=|player1bg=|player1_w=|player1_1=
+|player2=Phil|player2char=peach|player2flag=br|player2link=|player2bg=|player2_w=|player2_l=
+|player3=Druth|player3char=pikachu|player3flag=br|player3link=|player3bg=|player3_w=|player3_l=
+|player4=Rith|player4char=marth|player4flag=br|player4link=|player4bg=|player4_w=|player4_l=
+|player5=Yost|player5char=falco|player5flag=br|player5link=|player5bg=|player5_w=|player5_l=
+|player6=Cabelo|player6char=|player6flag=br|player6link=|player6bg=|player6_w=|player6_l=
+<!--Games of Player 1-->
+|1vs2result=|1vs2resultvs=
+|1vs3result=|1vs3resultvs=
+|1vs4result=|1vs4resultvs=
+|1vs5result=|1vs5resultvs=
+|1vs6result=|1vs6resultvs=
+<!--Games of Player 2-->
+|2vs3result=|2vs3resultvs=
+|2vs4result=|2vs4resultvs=
+|2vs5result=|2vs5resultvs=
+|2vs6result=|2vs6resultvs=
+<!--Games of Player 3-->
+|3vs4result=|3vs4resultvs=
+|3vs5result=|3vs5resultvs=
+|3vs6result=|3vs6resultvs=
+<!--Games of Player 4-->
+|4vs5result=|4vs5resultvs=
+|4vs6result=|4vs6resultvs=
+<!--Games of Player 5-->
+|5vs6result=|5vs6resultvs=
+}}
+{{box|end}}
+
+===Group F===
+{{box|start|padding=2em}}
+====Standings====
+{{GroupTableStart|Group F|width=200px}}
+{{GroupTableSlot|{{flag/br}} [[Walk]] |team= |place=1 |win_m=5 |lose_m=0 |win_g=10 |lose_g=1 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Hell]] |team= |place=2 |win_m=4 |lose_m=1 |win_g=9 |lose_g=3 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Joker]] |team= |place=3 |win_m=3 |lose_m=2 |win_g=7 |lose_g=4 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Adrian]] |team= |place=4 |win_m=2 |lose_m=3 |win_g=4 |lose_g=6 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Leo Maia]] |team= |place=5 |win_m=1 |lose_m=4 |win_g=2 |lose_g=8 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Aud]] |team= |place=6 |win_m=0 |lose_m=5 |win_g=0 |lose_g=10 |bg=down }}
+{{GroupTableEnd}}
+{{box|break|padding=2em}}
+
+====Cross Table====
+{{PlayerCrossTable
+|cell-width=
+|doublerounded=false
+|displaystats=
+|player1=Walk|player1char=sheik|player1flag=br|player1link=|player1bg=|player1_w=|player1_1=
+|player2=Hell|player2char=samus|player2flag=br|player2link=|player2bg=|player2_w=|player2_l=
+|player3=Joker|player3char=fox|player3flag=br|player3link=|player3bg=|player3_w=|player3_l=
+|player4=Adrian|player4char=falco|player4flag=br|player4link=|player4bg=|player4_w=|player4_l=
+|player5=Leo Maia|player5char=|player5flag=br|player5link=|player5bg=|player5_w=|player5_l=
+|player6=Aud|player6char=|player6flag=br|player6link=|player6bg=|player6_w=|player6_l=
+<!--Games of Player 1-->
+|1vs2result=|1vs2resultvs=
+|1vs3result=|1vs3resultvs=
+|1vs4result=|1vs4resultvs=
+|1vs5result=|1vs5resultvs=
+|1vs6result=|1vs6resultvs=
+<!--Games of Player 2-->
+|2vs3result=|2vs3resultvs=
+|2vs4result=|2vs4resultvs=
+|2vs5result=|2vs5resultvs=
+|2vs6result=|2vs6resultvs=
+<!--Games of Player 3-->
+|3vs4result=|3vs4resultvs=
+|3vs5result=|3vs5resultvs=
+|3vs6result=|3vs6resultvs=
+<!--Games of Player 4-->
+|4vs5result=|4vs5resultvs=
+|4vs6result=|4vs6resultvs=
+<!--Games of Player 5-->
+|5vs6result=|5vs6resultvs=
+}}
+{{box|end}}
+
+===Group G===
+{{box|start|padding=2em}}
+====Standings====
+{{GroupTableStart|Group G|width=200px}}
+{{GroupTableSlot|{{flag/cl}} [[Roche]] |team= |place=1 |win_m=5 |lose_m=0 |win_g=10 |lose_g=0 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Buh]] |team= |place=2 |win_m=4 |lose_m=1 |win_g=8 |lose_g=3 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[DareDevil]] |team= |place=3 |win_m=3 |lose_m=2 |win_g=7 |lose_g=5 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Spot]] |team= |place=4 |win_m=2 |lose_m=3 |win_g=5 |lose_g=6 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Afro]] |team= |place=5 |win_m=1 |lose_m=4 |win_g=2 |lose_g=8 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Super FOG]] |team= |place=6 |win_m=0 |lose_m=5 |win_g=0 |lose_g=10 |bg=down }}
+{{GroupTableEnd}}
+{{box|break|padding=2em}}
+
+====Cross Table====
+{{PlayerCrossTable
+|cell-width=
+|doublerounded=false
+|displaystats=
+|player1=Roche|player1char=marth|player1flag=cl|player1link=|player1bg=|player1_w=|player1_1=
+|player2=Buh|player2char=ic|player2flag=br|player2link=|player2bg=|player2_w=|player2_l=
+|player3=DareDevil|player3char=falco|player3flag=br|player3link=|player3bg=|player3_w=|player3_l=
+|player4=Spot|player4char=falco|player4flag=br|player4link=|player4bg=|player4_w=|player4_l=
+|player5=Afro|player5char=peach|player5flag=br|player5link=|player5bg=|player5_w=|player5_l=
+|player6=Super FOG|player6char=mario|player6flag=br|player6link=|player6bg=|player6_w=|player6_l=
+<!--Games of Player 1-->
+|1vs2result=|1vs2resultvs=
+|1vs3result=|1vs3resultvs=
+|1vs4result=|1vs4resultvs=
+|1vs5result=|1vs5resultvs=
+|1vs6result=|1vs6resultvs=
+<!--Games of Player 2-->
+|2vs3result=|2vs3resultvs=
+|2vs4result=|2vs4resultvs=
+|2vs5result=|2vs5resultvs=
+|2vs6result=|2vs6resultvs=
+<!--Games of Player 3-->
+|3vs4result=|3vs4resultvs=
+|3vs5result=|3vs5resultvs=
+|3vs6result=|3vs6resultvs=
+<!--Games of Player 4-->
+|4vs5result=|4vs5resultvs=
+|4vs6result=|4vs6resultvs=
+<!--Games of Player 5-->
+|5vs6result=|5vs6resultvs=
+}}
+{{box|end}}
+
+===Group H===
+{{box|start|padding=2em}}
+====Standings====
+{{GroupTableStart|Group H|width=200px}}
+{{GroupTableSlot|{{flag/cl}} [[Xinxu]] |team= |place=1 |win_m=5 |lose_m=0 |win_g=10 |lose_g=0 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Leso]] |team= |place=2 |win_m=4 |lose_m=1 |win_g=8 |lose_g=2 |bg=up }}
+{{GroupTableSlot|{{flag/br}} [[Caio Nintendo]] |team= |place=3 |win_m=3 |lose_m=2 |win_g=6 |lose_g=4 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Banze]] |team= |place=4 |win_m=2 |lose_m=3 |win_g=4 |lose_g=7 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[Aprendiz]] |team= |place=5 |win_m=1 |lose_m=4 |win_g=3 |lose_g=8 |bg=down }}
+{{GroupTableSlot|{{flag/br}} [[DJ]] |team= |place=6 |win_m=0 |lose_m=5 |win_g=0 |lose_g=10 |bg=down }}
+{{GroupTableEnd}}
+{{box|break|padding=2em}}
+
+====Cross Table====
+{{PlayerCrossTable
+|cell-width=
+|doublerounded=false
+|displaystats=
+|player1=Xinxu|player1char=fox|player1flag=cl|player1link=|player1bg=|player1_w=|player1_1=
+|player2=Leso|player2char=cf|player2flag=br|player2link=|player2bg=|player2_w=|player2_l=
+|player3=Caio Nintendo|player3char=fox|player3flag=br|player3link=|player3bg=|player3_w=|player3_l=
+|player4=Banze|player4char=sheik|player4flag=br|player4link=|player4bg=|player4_w=|player4_l=
+|player5=Aprendiz|player5char=falco|player5flag=br|player5link=|player5bg=|player5_w=|player5_l=
+|player6=DJ|player6char=|player6flag=br|player6link=|player6bg=|player6_w=|player6_l=
+<!--Games of Player 1-->
+|1vs2result=|1vs2resultvs=
+|1vs3result=|1vs3resultvs=
+|1vs4result=|1vs4resultvs=
+|1vs5result=|1vs5resultvs=
+|1vs6result=|1vs6resultvs=
+<!--Games of Player 2-->
+|2vs3result=|2vs3resultvs=
+|2vs4result=|2vs4resultvs=
+|2vs5result=|2vs5resultvs=
+|2vs6result=|2vs6resultvs=
+<!--Games of Player 3-->
+|3vs4result=|3vs4resultvs=
+|3vs5result=|3vs5resultvs=
+|3vs6result=|3vs6resultvs=
+<!--Games of Player 4-->
+|4vs5result=|4vs5resultvs=
+|4vs6result=|4vs6resultvs=
+<!--Games of Player 5-->
+|5vs6result=|5vs6resultvs=
+}}
+{{box|end}}

@@ -1,0 +1,355 @@
+{{DISPLAYTITLE:Tempest: Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Tempest
+|name2=Singles Bracket
+|link2=Tempest/Singles Bracket
+|name3=Doubles Bracket
+|link3=Tempest/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{32DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=Kage |r1m1t1p1flag=ca
+|r1m1t1p2=Reeve |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=
+|r1m1win=1
+
+|r1m2t1p1=WyLd |r1m2t1p1flag=us
+|r1m2t1p2=Smithic |r1m2t1p2flag=us |r1m2t1score=0
+|r1m2t2p1=Sneker |r1m2t2p1flag=us
+|r1m2t2p2=Zad |r1m2t2p2flag=us |r1m2t2score=2
+|r1m2win=2
+
+|r1m3t1p1=RoBoat |r1m3t1p1flag=us
+|r1m3t1p2=CawRiN |r1m3t1p2flag=us |r1m3t1score={{win}}
+|r1m3t2p1=Bye |r1m3t2p1flag=
+|r1m3t2p2=Bye |r1m3t2p2flag= |r1m3t2score=
+|r1m3win=1
+
+|r1m4t1p1=Tarchwood |r1m4t1p1flag=us
+|r1m4t1p2=Banana Steve |r1m4t1p2flag=us |r1m4t1score={{win}}
+|r1m4t2p1=Bye |r1m4t2p1flag=
+|r1m4t2p2=Bye |r1m4t2p2flag= |r1m4t2score=
+|r1m4win=1
+
+|r1m5t1p1=voorhese |r1m5t1p1flag=us
+|r1m5t1p2=Onisser |r1m5t1p2flag=us |r1m5t1score={{win}}
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=
+|r1m5win=1
+
+|r1m6t1p1=C-Biscuit |r1m6t1p1flag=us
+|r1m6t1p2=Blaster momma |r1m6t1p2flag=us |r1m6t1score={{win}}
+|r1m6t2p1=Bye |r1m6t2p1flag=
+|r1m6t2p2=Bye |r1m6t2p2flag= |r1m6t2score=
+|r1m6win=1
+
+|r1m7t1p1=Wolven |r1m7t1p1flag=us
+|r1m7t1p2=Cantus |r1m7t1p2flag=us |r1m7t1score={{win}}
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=
+|r1m7win=1
+
+|r1m8t1p1=Mahatma |r1m8t1p1flag=us
+|r1m8t1p2=SVG |r1m8t1p2flag=us |r1m8t1score={{win}}
+|r1m8t2p1=Bye |r1m8t2p1flag=
+|r1m8t2p2=Bye |r1m8t2p2flag= |r1m8t2score=
+|r1m8win=1
+
+|r1m9t1p1=Rik |r1m9t1p1flag=us
+|r1m9t1p2=Lanceinthepants |r1m9t1p2flag=us |r1m9t1score={{win}}
+|r1m9t2p1=Bye |r1m9t2p1flag=
+|r1m9t2p2=Bye |r1m9t2p2flag= |r1m9t2score=
+|r1m9win=1
+
+|r1m10t1p1=Pants |r1m10t1p1flag=us
+|r1m10t1p2=RobotNick |r1m10t1p2flag=us |r1m10t1score={{win}}
+|r1m10t2p1=Bye |r1m10t2p1flag=
+|r1m10t2p2=Bye |r1m10t2p2flag= |r1m10t2score=
+|r1m10win=1
+
+|r1m11t1p1=Bench |r1m11t1p1flag=us
+|r1m11t1p2=PKCrescent |r1m11t1p2flag=us |r1m11t1score={{win}}
+|r1m11t2p1=Bye |r1m11t2p1flag=
+|r1m11t2p2=Bye |r1m11t2p2flag= |r1m11t2score=
+|r1m11win=1
+
+|r1m12t1p1=Blahguy |r1m12t1p1flag=us
+|r1m12t1p2=HopE |r1m12t1p2flag=us |r1m12t1score={{win}}
+|r1m12t2p1=Bye |r1m12t2p1flag=
+|r1m12t2p2=Bye |r1m12t2p2flag= |r1m12t2score=
+|r1m12win=1
+
+|r1m13t1p1=Cob |r1m13t1p1flag=us
+|r1m13t1p2=Amida |r1m13t1p2flag=us |r1m13t1score={{win}}
+|r1m13t2p1=Bye |r1m13t2p1flag=
+|r1m13t2p2=Bye |r1m13t2p2flag= |r1m13t2score=
+|r1m13win=1
+
+|r1m14t1p1=King Potato |r1m14t1p1flag=us
+|r1m14t1p2=Gracen |r1m14t1p2flag=us |r1m14t1score={{win}}
+|r1m14t2p1=Bye |r1m14t2p1flag=
+|r1m14t2p2=Bye |r1m14t2p2flag= |r1m14t2score=
+|r1m14win=1
+
+|r1m15t1p1=PhD |r1m15t1p1flag=us
+|r1m15t1p2=Bajef |r1m15t1p2flag=us |r1m15t1score={{win}}
+|r1m15t2p1=Bye |r1m15t2p1flag=
+|r1m15t2p2=Bye |r1m15t2p2flag= |r1m15t2score=
+|r1m15win=1
+
+|r1m16t1p1=Phoenix |r1m16t1p1flag=us
+|r1m16t1p2=Lil K |r1m16t1p2flag=us |r1m16t1score={{win}}
+|r1m16t2p1=Bye |r1m16t2p1flag=
+|r1m16t2p2=Bye |r1m16t2p2flag= |r1m16t2score=
+|r1m16win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Kage |r2m1t1p1flag=ca
+|r2m1t1p2=Reeve |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Sneker |r2m1t2p1flag=us
+|r2m1t2p2=Zad |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=RoBoat |r2m2t1p1flag=us
+|r2m2t1p2=CawRiN |r2m2t1p2flag=us |r2m2t1score=0
+|r2m2t2p1=Tarchwood |r2m2t2p1flag=us
+|r2m2t2p2=Banana Steve |r2m2t2p2flag=us |r2m2t2score=2
+|r2m2win=2
+
+|r2m3t1p1=voorhese |r2m3t1p1flag=us
+|r2m3t1p2=Onisser |r2m3t1p2flag=us |r2m3t1score={{win}}
+|r2m3t2p1=C-Biscuit |r2m3t2p1flag=us
+|r2m3t2p2=Blaster momma |r2m3t2p2flag=us |r2m3t2score=DQ
+|r2m3win=1
+
+|r2m4t1p1=Wolven |r2m4t1p1flag=us
+|r2m4t1p2=Cantus |r2m4t1p2flag=us |r2m4t1score=2
+|r2m4t2p1=Mahatma |r2m4t2p1flag=us
+|r2m4t2p2=SVG |r2m4t2p2flag=us |r2m4t2score=0
+|r2m4win=1
+
+|r2m5t1p1=Rik |r2m5t1p1flag=us
+|r2m5t1p2=Lanceinthepants |r2m5t1p2flag=us |r2m5t1score=2
+|r2m5t2p1=Pants |r2m5t2p1flag=us
+|r2m5t2p2=RobotNick |r2m5t2p2flag=us |r2m5t2score=0
+|r2m5win=1
+
+|r2m6t1p1=Bench |r2m6t1p1flag=us
+|r2m6t1p2=PKCrescent |r2m6t1p2flag=us |r2m6t1score=1
+|r2m6t2p1=Blahguy |r2m6t2p1flag=us
+|r2m6t2p2=HopE |r2m6t2p2flag=us |r2m6t2score=2
+|r2m6win=2
+
+|r2m7t1p1=Cob |r2m7t1p1flag=us
+|r2m7t1p2=Amida |r2m7t1p2flag=us |r2m7t1score=2
+|r2m7t2p1=King Potato |r2m7t2p1flag=us
+|r2m7t2p2=Gracen |r2m7t2p2flag=us |r2m7t2score=0
+|r2m7win=1
+
+|r2m8t1p1=PhD |r2m8t1p1flag=us
+|r2m8t1p2=Bajef |r2m8t1p2flag=us |r2m8t1score=2
+|r2m8t2p1=Phoenix |r2m8t2p1flag=us
+|r2m8t2p2=Lil K |r2m8t2p2flag=us |r2m8t2score=0
+|r2m8win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Kage |r3m1t1p1flag=ca
+|r3m1t1p2=Reeve |r3m1t1p2flag=us |r3m1t1score=2
+|r3m1t2p1=Tarchwood |r3m1t2p1flag=us
+|r3m1t2p2=Banana Steve |r3m1t2p2flag=us |r3m1t2score=1
+|r3m1win=1
+
+|r3m2t1p1=voorhese |r3m2t1p1flag=us
+|r3m2t1p2=Onisser |r3m2t1p2flag=us |r3m2t1score=0
+|r3m2t2p1=Wolven |r3m2t2p1flag=us
+|r3m2t2p2=Cantus |r3m2t2p2flag=us |r3m2t2score=2
+|r3m2win=2
+
+|r3m3t1p1=Rik |r3m3t1p1flag=us
+|r3m3t1p2=Lanceinthepants |r3m3t1p2flag=us |r3m3t1score=2
+|r3m3t2p1=Blahguy |r3m3t2p1flag=us
+|r3m3t2p2=HopE |r3m3t2p2flag=us |r3m3t2score=0
+|r3m3win=1
+
+|r3m4t1p1=Cob |r3m4t1p1flag=us
+|r3m4t1p2=Amida |r3m4t1p2flag=us |r3m4t1score=2
+|r3m4t2p1=PhD |r3m4t2p1flag=us
+|r3m4t2p2=Bajef |r3m4t2p2flag=us |r3m4t2score=0
+|r3m4win=1
+
+<!-- ROUND 4 -->
+|r4m1t1p1=Kage |r4m1t1p1flag=ca
+|r4m1t1p2=Reeve |r4m1t1p2flag=us |r4m1t1score=2
+|r4m1t2p1=Wolven |r4m1t2p1flag=us
+|r4m1t2p2=Cantus |r4m1t2p2flag=us |r4m1t2score=0
+|r4m1win=1
+
+|r4m2t1p1=Rik |r4m2t1p1flag=us
+|r4m2t1p2=Lanceinthepants |r4m2t1p2flag=us |r4m2t1score=2
+|r4m2t2p1=Cob |r4m2t2p1flag=us
+|r4m2t2p2=Amida |r4m2t2p2flag=us |r4m2t2score=0
+|r4m2win=1
+}}
+==Losers Bracket==
+{{24DEDoublesLBracketA
+<!-- ROUND 1 -->
+|l1m1t1p1=Phoenix |l1m1t1p1flag=us
+|l1m1t1p2=Lil K |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=WyLd |l1m1t2p1flag=us
+|l1m1t2p2=Smithic |l1m1t2p2flag=us |l1m1t2score=0
+|l1m1win=1
+
+|l1m2t1p1=King Potato |l1m2t1p1flag=us
+|l1m2t1p2=Gracen |l1m2t1p2flag=us |l1m2t1score={{win}}
+|l1m2t2p1=Bye |l1m2t2p1flag=
+|l1m2t2p2=Bye |l1m2t2p2flag= |l1m2t2score=
+|l1m2win=1
+
+|l1m3t1p1=Bench |l1m3t1p1flag=us
+|l1m3t1p2=PKCrescent |l1m3t1p2flag=us |l1m3t1score={{win}}
+|l1m3t2p1=Bye |l1m3t2p1flag=
+|l1m3t2p2=Bye |l1m3t2p2flag= |l1m3t2score=
+|l1m3win=1
+
+|l1m4t1p1=Pants |l1m4t1p1flag=us
+|l1m4t1p2=RobotNick |l1m4t1p2flag=us |l1m4t1score={{win}}
+|l1m4t2p1=Bye |l1m4t2p1flag=
+|l1m4t2p2=Bye |l1m4t2p2flag= |l1m4t2score=
+|l1m4win=1
+
+|l1m5t1p1=Mahatma |l1m5t1p1flag=us
+|l1m5t1p2=SVG |l1m5t1p2flag=us |l1m5t1score={{win}}
+|l1m5t2p1=Bye |l1m5t2p1flag=
+|l1m5t2p2=Bye |l1m5t2p2flag= |l1m5t2score=
+|l1m5win=1
+
+|l1m6t1p1=C-Biscuit |l1m6t1p1flag=us
+|l1m6t1p2=Blaster momma |l1m6t1p2flag=us |l1m6t1score={{win}}
+|l1m6t2p1=Bye |l1m6t2p1flag=
+|l1m6t2p2=Bye |l1m6t2p2flag= |l1m6t2score=
+|l1m6win=1
+
+|l1m7t1p1=RoBoat |l1m7t1p1flag=us
+|l1m7t1p2=CawRiN |l1m7t1p2flag=us |l1m7t1score={{win}}
+|l1m7t2p1=Bye |l1m7t2p1flag=
+|l1m7t2p2=Bye |l1m7t2p2flag= |l1m7t2score=
+|l1m7win=1
+
+|l1m8t1p1=Sneker |l1m8t1p1flag=us
+|l1m8t1p2=Zad |l1m8t1p2flag=us |l1m8t1score={{win}}
+|l1m8t2p1=Bye |l1m8t2p1flag=
+|l1m8t2p2=Bye |l1m8t2p2flag= |l1m8t2score=
+|l1m8win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Phoenix |l2m1t1p1flag=us
+|l2m1t1p2=Lil K |l2m1t1p2flag=us |l2m1t1score=0
+|l2m1t2p1=King Potato |l2m1t2p1flag=us
+|l2m1t2p2=Gracen |l2m1t2p2flag=us |l2m1t2score=2
+|l2m1win=2
+
+|l2m2t1p1=Bench |l2m2t1p1flag=us
+|l2m2t1p2=PKCrescent |l2m2t1p2flag=us |l2m2t1score=2
+|l2m2t2p1=Pants |l2m2t2p1flag=us
+|l2m2t2p2=RobotNick |l2m2t2p2flag=us |l2m2t2score=0
+|l2m2win=1
+
+|l2m3t1p1=Mahatma |l2m3t1p1flag=us
+|l2m3t1p2=SVG |l2m3t1p2flag=us |l2m3t1score={{win}}
+|l2m3t2p1=C-Biscuit |l2m3t2p1flag=us
+|l2m3t2p2=Blaster momma |l2m3t2p2flag=us |l2m3t2score=DQ
+|l2m3win=1
+
+|l2m4t1p1=RoBoat |l2m4t1p1flag=us
+|l2m4t1p2=CawRiN |l2m4t1p2flag=us |l2m4t1score=2
+|l2m4t2p1=Sneker |l2m4t2p1flag=us
+|l2m4t2p2=Zad |l2m4t2p2flag=us |l2m4t2score=0
+|l2m4win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=voorhese |l3m1t1p1flag=us
+|l3m1t1p2=Onisser |l3m1t1p2flag=us |l3m1t1score=2
+|l3m1t2p1=King Potato |l3m1t2p1flag=us
+|l3m1t2p2=Gracen |l3m1t2p2flag=us |l3m1t2score=0
+|l3m1win=1
+
+|l3m2t1p1=Tarchwood |l3m2t1p1flag=us
+|l3m2t1p2=Banana Steve |l3m2t1p2flag=us |l3m2t1score=0
+|l3m2t2p1=Bench |l3m2t2p1flag=us
+|l3m2t2p2=PKCrescent |l3m2t2p2flag=us |l3m2t2score=2
+|l3m2win=2
+
+|l3m3t1p1=PhD |l3m3t1p1flag=us
+|l3m3t1p2=Bajef |l3m3t1p2flag=us |l3m3t1score=2
+|l3m3t2p1=Mahatma |l3m3t2p1flag=us
+|l3m3t2p2=SVG |l3m3t2p2flag=us |l3m3t2score=0
+|l3m3win=1
+
+|l3m4t1p1=Blahguy |l3m4t1p1flag=us
+|l3m4t1p2=HopE |l3m4t1p2flag=us |l3m4t1score=0
+|l3m4t2p1=RoBoat |l3m4t2p1flag=us
+|l3m4t2p2=CawRiN |l3m4t2p2flag=us |l3m4t2score=2
+|l3m4win=2
+
+<!-- ROUND 4 -->
+|l4m1t1p1=voorhese |l4m1t1p1flag=us
+|l4m1t1p2=Onisser |l4m1t1p2flag=us |l4m1t1score=2
+|l4m1t2p1=Bench |l4m1t2p1flag=us
+|l4m1t2p2=PKCrescent |l4m1t2p2flag=us |l4m1t2score=0
+|l4m1win=1
+
+|l4m2t1p1=PhD |l4m2t1p1flag=us
+|l4m2t1p2=Bajef |l4m2t1p2flag=us |l4m2t1score=0
+|l4m2t2p1=RoBoat |l4m2t2p1flag=us
+|l4m2t2p2=CawRiN |l4m2t2p2flag=us |l4m2t2score=2
+|l4m2win=2
+
+<!-- ROUND 5 -->
+|l5m1t1p1=Cob |l5m1t1p1flag=us
+|l5m1t1p2=Amida |l5m1t1p2flag=us |l5m1t1score=2
+|l5m1t2p1=voorhese |l5m1t2p1flag=us
+|l5m1t2p2=Onisser |l5m1t2p2flag=us |l5m1t2score=1
+|l5m1win=1
+
+|l5m2t1p1=Wolven |l5m2t1p1flag=us
+|l5m2t1p2=Cantus |l5m2t1p2flag=us |l5m2t1score=2
+|l5m2t2p1=RoBoat |l5m2t2p1flag=us
+|l5m2t2p2=CawRiN |l5m2t2p2flag=us |l5m2t2score=0
+|l5m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesBracket
+<!-- FROM WINNERS -->
+|r1m1t1p1=Kage |r1m1t1p1flag=ca
+|r1m1t1p2=Reeve |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=Rik |r1m1t2p1flag=us
+|r1m1t2p2=Lanceinthepants |r1m1t2p2flag=us |r1m1t2score=2
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Cob |l1m1t1p1flag=us
+|l1m1t1p2=Amida |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=Wolven |l1m1t2p1flag=us
+|l1m1t2p2=Cantus |l1m1t2p2flag=us |l1m1t2score=0
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Rik |r2m1t1p1flag=us
+|r2m1t1p2=Lanceinthepants |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Cob |r2m1t2p1flag=us
+|r2m1t2p2=Amida |r2m1t2p2flag=us |r2m1t2score=3
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Kage |r3m1t1p1flag=ca
+|r3m1t1p2=Reeve |r3m1t1p2flag=us |r3m1t1score=3
+|r3m1t2p1=Cob |r3m1t2p1flag=us
+|r3m1t2p2=Amida |r3m1t2p2flag=us |r3m1t2score=1
+|r3m1win=1
+}}
+</onlyinclude>

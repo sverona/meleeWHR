@@ -1,0 +1,118 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "Redact",
+            "t1p1flag": "au",
+            "t1p2": "Dekar",
+            "t1p2flag": "au",
+            "t1score": "1",
+            "t2p1": "sundowns",
+            "t2p1flag": "au",
+            "t2p2": "Spud",
+            "t2p2flag": "nz",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "t1p1": "S.D",
+            "t1p1flag": "au",
+            "t1p2": "Syke",
+            "t1p2flag": "au",
+            "t1score": "3",
+            "t2p1": "Atticus",
+            "t2p1flag": "au",
+            "t2p2": "Splice",
+            "t2p2flag": "au",
+            "t2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "t1p1": "Atticus",
+            "t1p1flag": "au",
+            "t1p2": "Splice",
+            "t1p2flag": "au",
+            "t1score": "3",
+            "t2p1": "sundowns",
+            "t2p1flag": "au",
+            "t2p2": "Spud",
+            "t2p2flag": "nz",
+            "t2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "1"
+        },
+        "r3m2": {
+            "t2score": ""
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "t1p1": "MC",
+            "t1p1flag": "au",
+            "t1p2": "Cunchy",
+            "t1p2flag": "",
+            "t1score": "2",
+            "t2p1": "Redact",
+            "t2p1flag": "au",
+            "t2p2": "Dekar",
+            "t2p2flag": "au",
+            "t2score": "3",
+            "win": "2"
+        },
+        "l1m2": {
+            "t1p1": "sundowns",
+            "t1p1flag": "au",
+            "t1p2": "Spud",
+            "t1p2flag": "nz",
+            "t1score": "3",
+            "t2p1": "Tyler",
+            "t2p1flag": "au",
+            "t2p2": "mask1n",
+            "t2p2flag": "au",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l2m1": {
+            "t1p1": "Kaiza",
+            "t1p1flag": "au",
+            "t1p2": "Rainbow",
+            "t1p2flag": "au",
+            "t1score": "2",
+            "t2p1": "Redact",
+            "t2p1flag": "au",
+            "t2p2": "Dekar",
+            "t2p2flag": "au",
+            "t2score": "3",
+            "win": "2"
+        },
+        "l2m2": {
+            "t1p1": "JBirds",
+            "t1p1flag": "",
+            "t1p2": "smopup",
+            "t1p2flag": "au",
+            "t1score": "2",
+            "t2p1": "sundowns",
+            "t2p1flag": "au",
+            "t2p2": "Spud",
+            "t2p2flag": "nz",
+            "t2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "t1p1": "Atticus",
+            "t1p1flag": "au",
+            "t1p2": "Splice",
+            "t1p2flag": "au",
+            "t1score": "3",
+            "t2p1": "JBirds",
+            "t2p1flag": "",
+            "t2p2": "smopup",
+            "t2p2flag": "au",
+            "t2score": "0",
+            "win": "1"
+        }
+    }
+}

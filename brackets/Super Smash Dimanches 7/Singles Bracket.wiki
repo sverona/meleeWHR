@@ -1,0 +1,69 @@
+{{tabs static
+|name1=Overview
+|link1=Super Smash Dimanches 7
+|name2=Singles Bracket
+|link2=Super Smash Dimanches 7/Singles Bracket
+|name3=Doubles Bracket
+|link3=Super Smash Dimanches 7/Doubles Bracket
+|This=2
+}}
+
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia name=ssd7bracket -->
+
+==Winners Bracket==
+{{8DEWBracketA
+|r1m1p1=Leon |r1m1p1flag=fr |r1m1p1score=3 |r1m1win=1
+|r1m1p2=Damo |r1m1p2flag= |r1m1p2score=0
+
+|r1m2p1=Hiryuu |r1m2p1flag= |r1m2p1score=0 |r1m2win=2
+|r1m2p2=RAOUL |r1m2p2flag=fr |r1m2p2score=3
+
+|r1m3p1=BeLia |r1m3p1flag=fr |r1m3p1score=3 |r1m3win=1
+|r1m3p2=Captain Love |r1m3p2flag=au |r1m3p2score=0
+
+|r1m4p1=Charby |r1m4p1flag= |r1m4p1score=3 |r1m4win=1
+|r1m4p2=Dero |r1m4p2flag=fr |r1m4p2score=1
+
+|r2m1p1=Leon |r2m1p1flag=fr |r2m1p1score=3 |r2m1win=1
+|r2m1p2=RAOUL |r2m1p2flag=fr |r2m1p2score=2
+
+|r2m2p1=BeLia |r2m2p1flag=fr |r2m2p1score=3 |r2m2win=1
+|r2m2p2=Charby |r2m2p2flag= |r2m2p2score=0
+}}
+
+==Losers Bracket==
+{{8DELBracketA
+|l1m1p1=Damo |l1m1p1flag= |l1m1p1score=3 |l1m1win=1
+|l1m1p2=Hiryuu |l1m1p2flag= |l1m1p2score=0
+
+|l1m2p1=Captain Love |l1m2p1flag=au |l1m2p1score=3 |l1m2win=1
+|l1m2p2=Dero |l1m2p2flag=fr |l1m2p2score=0
+
+|l2m1p1=Charby |l2m1p1flag= |l2m1p1score=3 |l2m1win=1
+|l2m1p2=Damo |l2m1p2flag= |l2m1p2score=1
+
+|l2m2p1=RAOUL |l2m2p1flag=fr |l2m2p1score=3 |l2m2win=1
+|l2m2p2=Captain Love |l2m2p2flag=au |l2m2p2score=2
+}}
+<onlyinclude>
+==Finals Bracket==
+{{DEFinalBracket
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Leon |r1m1p1flag=fr |r1m1p1score=3 |r1m1win=1
+|r1m1p2=BeLia |r1m1p2flag=fr |r1m1p2score=1
+
+<!-- FROM LOSERS -->
+|l1m1p1=Charby |l1m1p1flag= |l1m1p1score=0 |l1m1win=2
+|l1m1p2=RAOUL |l1m1p2flag=fr |l1m1p2score=3
+
+<!-- LOSERS FINALS -->
+|r2m1p1=BeLia |r2m1p1flag=fr |r2m1p1score=3 |r2m1win=1
+|r2m1p2=RAOUL |r2m1p2flag=fr |r2m1p2score=0
+
+<!-- GRAND FINALS -->
+|r3m1p1=Leon |r3m1p1flag=fr |r3m1p1score=3 |r3m1win=1
+|r3m1p2=BeLia |r3m1p2flag=fr |r3m1p2score=0
+}}
+</onlyinclude>

@@ -1,0 +1,99 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "win": "1"
+        },
+        "r1m1": {
+            "win": "1"
+        },
+        "r2m1": {
+            "win": "2"
+        },
+        "r3m1": {
+            "win": "2"
+        },
+        "r3m2": {
+            "stage1": "Final Destination",
+            "stage2": "Final Destination",
+            "stage3": "Dream Land",
+            "stage4": "Dream Land",
+            "t1p1char1": "puff",
+            "t1p1char2": "puff",
+            "t1p1char3": "puff",
+            "t1p1char4": "puff",
+            "t1p1stock1": "0",
+            "t1p1stock2": "1",
+            "t1p1stock3": "0",
+            "t1p1stock4": "0",
+            "t1p2char1": "fox",
+            "t1p2char2": "fox",
+            "t1p2char3": "fox",
+            "t1p2char4": "fox",
+            "t1p2stock1": "0",
+            "t1p2stock2": "1",
+            "t1p2stock3": "0",
+            "t1p2stock4": "0",
+            "t1score": "1",
+            "t2p1char1": "fox",
+            "t2p1char2": "fox",
+            "t2p1char3": "sheik",
+            "t2p1char4": "fox",
+            "t2p1stock1": "1",
+            "t2p1stock2": "0",
+            "t2p1stock3": "3",
+            "t2p1stock4": "0",
+            "t2p2char1": "fox",
+            "t2p2char2": "fox",
+            "t2p2char3": "fox",
+            "t2p2char4": "fox",
+            "t2p2stock1": "1",
+            "t2p2stock2": "0",
+            "t2p2stock3": "1",
+            "t2p2stock4": "1",
+            "t2score": "3",
+            "win1": "2",
+            "win2": "1",
+            "win3": "2",
+            "win4": "2"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "win": "2"
+        },
+        "l1m2": {
+            "t1p1": "Tope",
+            "t1p1flag": "us",
+            "t1p2": "Cyrain",
+            "t1p2flag": "us",
+            "t1score": "win",
+            "t2p1": "PewPewU",
+            "t2p1flag": "us",
+            "t2p2": "SFAT",
+            "t2p2flag": "us",
+            "t2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "t1p1": "Mew2King",
+            "t1p1flag": "us",
+            "t1p2": "Hax",
+            "t1p2flag": "us",
+            "t1score": "win",
+            "t2p1": "S2J",
+            "t2p1flag": "us",
+            "t2p2": "Shroomed",
+            "t2p2flag": "us",
+            "t2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "win": "1"
+        }
+    }
+}

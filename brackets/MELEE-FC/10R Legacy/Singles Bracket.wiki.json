@@ -1,0 +1,529 @@
+{
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Drephen",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "CunningKitsune",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "The Good Doctor",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Meta",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Axe",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Swiftbass",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "MattDotZeb",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "G$",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Tink",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "DoH",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Mafia",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Nite",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Jake13",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Vudujin",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "BigD",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "Frootloop",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Shroomed",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "CunningKitsune",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Hax",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Meta",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Mojo",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Axe",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Duck",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "G$",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Darkrain",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "DoH",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Trail",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Nite",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Kage",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Jake13",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "baka4moe",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Frootloop",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Shroomed",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Hax",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Axe",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Duck",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Darkrain",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Trail",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "Kage",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "baka4moe",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Hax",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Little England",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Axe",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "PikaChad",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Darkrain",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "VaNz",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Kage",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Hax",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Axe",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "l5m2": {
+            "p1": "Darkrain",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Kage",
+            "p2flag": "ca",
+            "p2score": "",
+            "win": ""
+        },
+        "l6m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "l6m2": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        }
+    },
+    "==Top 8 Round Robin Finals==": {},
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Drephen",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "DoH",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "PikaChad",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "SFAT",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Mafia",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Nite",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Hax",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m13": {
+            "p1": "VaNz",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Jake13",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Mojo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Vudujin",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Mango",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "BigD",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Frootloop",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Duck",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m2": {
+            "p1": "CunningKitsune",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Darkrain",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Trail",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "The Good Doctor",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Meta",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Chillindude",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "Axe",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Kage",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m6": {
+            "p1": "Little England",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Swiftbass",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Kels",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "MattDotZeb",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "baka4moe",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "G$",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Shroomed",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Tink",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Darkrain",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Trail",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Chillindude",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Kage",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "Little England",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m4": {
+            "p1": "Kels",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "baka4moe",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Shroomed",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "PikaChad",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m6": {
+            "p1": "SFAT",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Hax",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "VaNz",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Mojo",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Mango",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Duck",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": ""
+        },
+        "r3m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Chillindude",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Little England",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Kels",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "PikaChad",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "SFAT",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m4": {
+            "p1": "VaNz",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Mango",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Kels",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "r4m2": {
+            "p1": "SFAT",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Mango",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        }
+    }
+}

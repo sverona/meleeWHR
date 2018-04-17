@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "SpaceGhost",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "M I S O",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "PlamZ",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "flieskiller",
+            "p2flag": "ca",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "PlamZ",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "M I S O",
+            "p2flag": "ca",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p2": "M I S O",
+            "p2flag": "ca",
+            "p2score": "3",
+            "win": "1"
+        },
+        "r3m2": {
+            "p2score": "2"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Bishop",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Mado",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Rubberducky",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Maple",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Savior",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Max",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Orca",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "God",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "SpaceGhost",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Mado",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "TheBootyWarrior",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Maple",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "MadBuck",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Savior",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "La Louige",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Orca",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "SpaceGhost",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Maple",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "MadBuck",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Orca",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Patrick",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "SpaceGhost",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "M I S O",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "MadBuck",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "La Louige",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Bishop",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Mado",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "PlamZ",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Patrick",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Rubberducky",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Maple",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "MadBuck",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "TheBootyWarrior",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Savior",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "M I S O",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Max",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "SpaceGhost",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Orca",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "flieskiller",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "God",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "La Louige",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "PlamZ",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m2": {
+            "p1": "Patrick",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "MadBuck",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "TheBootyWarrior",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "M I S O",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m4": {
+            "p1": "SpaceGhost",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "flieskiller",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "PlamZ",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Patrick",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "M I S O",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "flieskiller",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        }
+    }
+}

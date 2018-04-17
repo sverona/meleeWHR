@@ -1,0 +1,139 @@
+{{DISPLAYTITLE:Valhalla: ''Melee'' Doubles Pools}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Valhalla/Melee
+|name2=Singles Pools
+|link2=Valhalla/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Valhalla/Melee/Singles Bracket
+|name4=Doubles Pools
+|link4=Valhalla/Melee/Doubles Pools
+|name5=Doubles Bracket
+|link5=Valhalla/Melee/Doubles Bracket
+|This=4
+}}
+==Wave A==
+{{Box|start|padding=4em}}
+==={{HiddenSort|A1}}===
+{{GroupTableStart |Bracket A1|width=300px}}
+{{DoublesGroupTableSlot|p1=Armada|p1flag=se|p2=Android|p2flag=se|win_m=4|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=maxsimon123|p1flag=no|p2=Rich|p2flag=no|win_m=3|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=Säpo|p1flag=se|p2=widde|p2flag=se|win_m=2|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=Spitzy|p1flag=se|p2=Erki|p2flag=se|win_m=1|lose_m=3|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Trif|p1flag=dk|p2=Brum|p2flag=dk|win_m=0|lose_m=4|place=5|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|A2}}===
+{{GroupTableStart |Bracket A2|width=300px}}
+{{DoublesGroupTableSlot|p1=Stax|p1flag=se|p2=Jadde|p2flag=se|win_m=4|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=Stivo|p1flag=de|p2=ImperfeCt|p2flag=no|win_m=3|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=Darentei|p1flag=dk|p2=Helio|p2flag=dk|win_m=2|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=Lommemarthen|p1flag=no|p2=Askeflink|p2flag=no|win_m=1|lose_m=3|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=MegaDean|p1flag=gb|p2=Gaia|p2flag=gb|win_m=0|lose_m=4|place=5|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|A3}}===
+{{GroupTableStart |Bracket A3|width=300px}}
+{{DoublesGroupTableSlot|p1=Poopmaister6000|p1flag=se|p2=Hack|p2flag=se|win_m=4|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=NamiNami|p1flag=fi|p2=WMK|p2flag=fi|win_m=3|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=Paf|p1flag=no|p2=Martin|p2flag=no|win_m=2|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=flippy_o|p1flag=dk|p2=VooDoo|p2flag=dk|win_m=1|lose_m=3|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Nekomancer|p1flag=de|p2=Maribo|p2flag=de|win_m=0|lose_m=4|place=5|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}
+
+==Wave B==
+{{Box|start|padding=4em}}
+==={{HiddenSort|B1}}===
+{{GroupTableStart |Bracket B1|width=300px}}
+{{DoublesGroupTableSlot|p1=Overtriforce|p1flag=es|p2=Trif|p2flag=es|win_m=4|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=Niklas2912|p1flag=no|p2=TonyMalone|p2flag=se|win_m=3|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=JohnnyFight|p1flag=se|p2=DINO|p2flag=se|win_m=2|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=TimpZ|p1flag=se|p2=CazQu33n|p2flag=se|win_m=1|lose_m=3|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Parttimenoob|p1flag=de|p2=Speare|p2flag=dk|win_m=0|lose_m=4|place=5|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|B2}}===
+{{GroupTableStart |Bracket B2|width=300px}}
+{{DoublesGroupTableSlot|p1=Sverre|p1flag=no|p2=voffe|p2flag=no|win_m=4|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=Salevits|p1flag=fi|p2=Jekku|p2flag=fi|win_m=3|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=Length Plank|p1flag=no|p2=Oldiz|p2flag=no|win_m=2|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=Kimo|p1flag=dk|p2=Asse|p2flag=dk|win_m=1|lose_m=3|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Irony|p1flag=de|p2=ChuckMorris|p2flag=de|win_m=0|lose_m=4|place=5|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|B3}}===
+{{GroupTableStart |Bracket B3|width=300px}}
+{{DoublesGroupTableSlot|p1=Paju|p1flag=fi|p2=mayhem|p2flag=fi|win_m=4|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=Fout NL|p1flag=nl|p2=Atlas|p2flag=nl|win_m=3|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=Taiki|p1flag=no|p2=NintendOrk|p2flag=no|win_m=2|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=RedLime|p1flag=no|p2=TheLabMaster|p2flag=no|win_m=1|lose_m=3|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Midgeet|p1flag=dk|p2=stuffekarl|p2flag=dk|win_m=0|lose_m=4|place=5|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}
+
+==Wave C==
+{{Box|start|padding=4em}}
+==={{HiddenSort|C1}}===
+{{GroupTableStart |Bracket C1|width=300px}}
+{{DoublesGroupTableSlot|p1=Professor Pro|p1flag=gb|p2=Frenzy|p2flag=gb|win_m=4|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=FA0|p1flag=se|p2=Jack|p2flag=se|win_m=3|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=Mums|p1flag=se|p2=Acid Loveboi|p2flag=se|win_m=2|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=Starski|p1flag=se|p2=RolfLife|p2flag=se|win_m=1|lose_m=3|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Hest|p1flag=dk|p2=Thirup|p2flag=dk|win_m=0|lose_m=4|place=5|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|C2}}===
+{{GroupTableStart |Bracket C2|width=300px}}
+{{DoublesGroupTableSlot|p1=Eagle|p1flag=dk|p2=stelzig|p2flag=dk|win_m=4|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=Yuna|p1flag=se|p2=RPG|p2flag=se|win_m=3|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=Avr|p1flag=se|p2=Laser Thunder|p2flag=se|win_m=2|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=DeeFly|p1flag=se|p2=Nano|p2flag=se|win_m=1|lose_m=3|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Original|p1flag=no|p2=Side B|p2flag=no|win_m=0|lose_m=4|place=5|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|C3}}===
+{{GroupTableStart |Bracket C3|width=300px}}
+{{DoublesGroupTableSlot|p1=Pipsqueak|p1flag=se|p2=Zaik|p2flag=se|win_m=3|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=Jim Morrison|p1flag=nl|p2=KasparV|p2flag=nl|win_m=2|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=MM720|p1flag=no|p2=JohsyJam|p2flag=no|win_m=1|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=Oni Nick|p1flag=dk|p2=Abild|p2flag=dk|win_m=0|lose_m=3|place=4|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}
+
+==Wave D==
+{{Box|start|padding=4em}}
+==={{HiddenSort|D1}}===
+{{GroupTableStart |Bracket D1|width=300px}}
+{{DoublesGroupTableSlot|p1=Zoler|p1flag=se|p2=Daydee|p2flag=se|win_m=3|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=Gardex|p1flag=no|p2=TheRedSock|p2flag=no|win_m=2|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=Janne B|p1flag=se|p2=Tellman|p2flag=se|win_m=1|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=Tristan|p1flag=se|p2=Isbjørn|p2flag=no|win_m=0|lose_m=3|place=4|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|D2}}===
+{{GroupTableStart |Bracket D2|width=300px}}
+{{DoublesGroupTableSlot|p1=Tomber|p1flag=dk|p2=Nicki|p2flag=de|win_m=4|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=Moe|p1flag=dk|p2=Eleven|p2flag=dk|win_m=3|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=Toa|p1flag=no|p2=Howie|p2flag=no|win_m=2|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=StopAGaben|p1flag=no|p2=Badekar|p2flag=no|win_m=1|lose_m=3|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Vclox_|p1flag=gb|p2=Piney|p2flag=gb|win_m=0|lose_m=4|place=5|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|D3}}===
+{{GroupTableStart |Bracket D3|width=300px}}
+{{DoublesGroupTableSlot|p1=bigM|p1flag=se|p2=Pricent|p2flag=no|win_m=4|lose_m=0|place=1|bg=up}}
+{{DoublesGroupTableSlot|p1=Nils|p1flag=se|p2=rax|p2flag=se|win_m=3|lose_m=1|place=2|bg=up}}
+{{DoublesGroupTableSlot|p1=Happymealz|p1flag=nl|p2=Renzo|p2flag=nl|win_m=2|lose_m=2|place=3|bg=down}}
+{{DoublesGroupTableSlot|p1=Flippy|p1flag=se|p2=Ludderix|p2flag=se|win_m=1|lose_m=3|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Leef|p1flag=dk|p2=Stefan|p2flag=dk|win_m=0|lose_m=4|place=5|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}

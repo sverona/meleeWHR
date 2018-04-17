@@ -1,0 +1,419 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Schythed",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Junebug",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Wizzrobe",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Mojo",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Mojo",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Junebug",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "1}}</onlyinclude>"
+        },
+        "r3m2": {
+            "p2score": ""
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Studkip",
+            "p1flag": "us",
+            "p1score": "DQ",
+            "p2": "LDB",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Flux",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Plum Orchid",
+            "p2flag": "",
+            "p2score": "DQ",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Captain Birdman",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "025",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "HyperFlame",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Slippin' Jimmy",
+            "p2flag": "",
+            "p2score": "DQ",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "MajorDuncan",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Tilde",
+            "p2flag": "",
+            "p2score": "DQ",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "Goku",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Pluto_",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m7": {
+            "p1": "Quist",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Novice",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "JAM!",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Sledj",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Iifter",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "LDB",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Silver",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Flux",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Dyl",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Captain Birdman",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Dr. GG",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "HyperFlame",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Profanity",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "MajorDuncan",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Firebolt",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Goku",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m7": {
+            "p1": "Zellpree",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Quist",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Yardo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Sledj",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Iifter",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Silver",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Captain Birdman",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "HyperFlame",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Profanity",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Goku",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Zellpree",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Yardo",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "dansdaman",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Iifter",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Schythed",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "HyperFlame",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "Hazygoose",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Goku",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Junebug",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Yardo",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "dansdaman",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Schythed",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "Hazygoose",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Junebug",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "Bobby Frizz",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Schythed",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m2": {
+            "p1": "Lunchables",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Junebug",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Wizzrobe",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Yardo",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Zellpree",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Schythed",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Lunchables",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Firebolt",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "dansdaman",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Profanity",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Mojo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Dr. GG",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Junebug",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Dyl",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Bobby Frizz",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Silver",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Hazygoose",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Iifter",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Wizzrobe",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Schythed",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Lunchables",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "dansdaman",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Mojo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Junebug",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Bobby Frizz",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Hazygoose",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Wizzrobe",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Lunchables",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Mojo",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Bobby Frizz",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

@@ -1,0 +1,566 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Kris",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Godz",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Quip",
+            "p1flag": "br",
+            "p1score": "3",
+            "p2": "Aisengobay",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Aisengobay",
+            "p1flag": "br",
+            "p1score": "3",
+            "p2": "Kris",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p2": "Aisengobay",
+            "p2flag": "br",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m2": {
+            "p2score": "3"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Mene",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Calvin",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Red Hairdo",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Lipe",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Kinhow",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Mattos",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Lukinhas",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Bahamut",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Kira",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "DD",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Fafa",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Killua",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m7": {
+            "p1": "XxDarkeyexX",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Fallen",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Leso",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Kako",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Lee",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Mene",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Player 7",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Red Hairdo",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Syron",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Kinhow",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Dinis",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Lukinhas",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Dr. Yang Ming",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "DD",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Phoca",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Fafa",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Jorge",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Fallen",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m8": {
+            "p1": "Joker",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Kako",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Lee",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Player 7",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Syron",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Lukinhas",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Dr. Yang Ming",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Phoca",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Fallen",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Joker",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "McS33",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Player 7",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Kris",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Syron",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "Striker",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Phoca",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "Kizzu",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Joker",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "Player 7",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Kris",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "Phoca",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Kizzu",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "dede",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Kris",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l6m2": {
+            "p1": "Godz",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Kizzu",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Godz",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Mene",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "DD",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Dinis",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "Kizzu",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Fafa",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Syron",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Killua",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "dede",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "XxDarkeyexX",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Fallen",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Player 7",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "Leso",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Striker",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m16": {
+            "p1": "Lee",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Kako",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Joker",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Calvin",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Red Hairdo",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Jorge",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "Kris",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Lipe",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Quip",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Kinhow",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Mattos",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Phoca",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Lukinhas",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "McS33",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m8": {
+            "p1": "Dr. Yang Ming",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Bahamut",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Aisengobay",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Kira",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Godz",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Joker",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Jorge",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Kris",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Quip",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Phoca",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "McS33",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Dr. Yang Ming",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Aisengobay",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Dinis",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Kizzu",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Syron",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "dede",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Player 7",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Striker",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Lee",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Godz",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Kris",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Quip",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "McS33",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "Aisengobay",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Kizzu",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "dede",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Striker",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Godz",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Quip",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m2": {
+            "p1": "Aisengobay",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "dede",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "===Final===": {},
+    "===Quarterfinals===": {},
+    "===Semifinals===": {},
+    "==Crew Rosters==": {},
+    "==Crews Bracket==": {
+        "r1m1": {
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://www.youtube.com/watch?v=4VPususXWvE"
+            },
+            "p1": "Team Fox {{head/fox",
+            "p1flag": "us",
+            "p1score": "16",
+            "p2": "Team Peach {{head/peach",
+            "p2flag": "us",
+            "p2score": "14",
+            "win": "1"
+        },
+        "r1m2": {
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://www.youtube.com/watch?v=1zHZgodKKlk"
+            },
+            "p1": "Team Samus {{head/samus",
+            "p1flag": "us",
+            "p1score": "16",
+            "p2": "Team Marth {{head/marth",
+            "p2flag": "us",
+            "p2score": "10",
+            "win": "1"
+        },
+        "r1m3": {
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://www.youtube.com/watch?v=0u0OJCPmjsw"
+            },
+            "p1": "Team Falco {{head/falco",
+            "p1flag": "us",
+            "p1score": "15",
+            "p2": "Team Jigglypuff {{head/puff",
+            "p2flag": "us",
+            "p2score": "16",
+            "win": "2"
+        },
+        "r1m4": {
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://www.youtube.com/watch?v=8m5zfoOpSkA"
+            },
+            "p1": "Team Ice Climbers {{head/ic",
+            "p1flag": "us",
+            "p1score": "15",
+            "p2": "Team Captain Falcon {{head/cf",
+            "p2flag": "us",
+            "p2score": "16",
+            "win": "2"
+        },
+        "r2m1": {
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://www.youtube.com/watch?v=Qg2g6-Rfbc8"
+            },
+            "p1": "Team Fox {{head/fox",
+            "p1flag": "us",
+            "p1score": "16",
+            "p2": "Team Samus {{head/samus",
+            "p2flag": "us",
+            "p2score": "14",
+            "win": "1"
+        },
+        "r2m2": {
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://www.youtube.com/watch?v=He50U15XI_E"
+            },
+            "p1": "Team Jigglypuff {{head/puff",
+            "p1flag": "us",
+            "p1score": "11",
+            "p2": "Team Captain Falcon {{head/cf",
+            "p2flag": "us",
+            "p2score": "16",
+            "win": "2"
+        },
+        "r3m1": {
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://www.youtube.com/watch?v=xNU7ud2x0sw}}}}</onlyinclude>"
+            },
+            "p1": "Team Fox {{head/fox",
+            "p1flag": "us",
+            "p1score": "16",
+            "p2": "Team Captain Falcon {{head/cf",
+            "p2flag": "us",
+            "p2score": "14",
+            "win": "1"
+        }
+    },
+    "==Details==": {},
+    "==Sources==": {}
+}

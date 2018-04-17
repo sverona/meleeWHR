@@ -1,0 +1,271 @@
+{{DISPLAYTITLE:MLG Atlanta 2005: Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=MLG/2005/Atlanta
+|name2=Singles Bracket
+|link2=MLG/2005/Atlanta/Singles Bracket
+|This=2
+}}<br/>
+==Winners Bracket==
+{{16DEWBracketA
+|tourneylink=MLG/2005/Atlanta
+|tourneyname=MLG Atlanta 2005
+|column-width=190
+
+<!-- Ro16 -->
+|r1m1p1=Ken |r1m1p1flag=us |r1m1p1score={{win}}
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=
+|r1m1win=1
+
+|r1m2p1=Mike G |r1m2p1flag=us |r1m2p1score=0
+|r1m2p2=Wife |r1m2p2flag=us |r1m2p2score=3
+|r1m2win=2
+
+|r1m3p1=Husband |r1m3p1flag=us |r1m3p1score={{win}}
+|r1m3p2=Bye |r1m3p2flag= |r1m3p2score=
+|r1m3win=1
+
+|r1m4p1=Azen |r1m4p1flag=us |r1m4p1score={{win}}
+|r1m4p2=Bye |r1m4p2flag= |r1m4p2score=
+|r1m4win=1
+
+|r1m5p1=ChuDat |r1m5p1flag=us |r1m5p1score={{win}}
+|r1m5p2=Bye |r1m5p2flag= |r1m5p2score=
+|r1m5win=1
+
+|r1m6p1=Oro |r1m6p1flag=us |r1m6p1score=3
+|r1m6p2=Tipman |r1m6p2flag=us |r1m6p2score=1
+|r1m6win=1
+
+|r1m7p1=Halo5Guy |r1m7p1flag=us |r1m7p1score=0
+|r1m7p2=Mow |r1m7p2flag=us |r1m7p2score=3
+|r1m7win=2
+
+|r1m8p1=Isai |r1m8p1flag=us |r1m8p1score={{win}}
+|r1m8p2=Bye |r1m8p2flag= |r1m8p2score=
+|r1m8win=1
+
+<!-- QUARTERFINALS -->
+|r2m1p1=Ken |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Wife |r2m1p2flag=us |r2m1p2score=2
+|r2m1win=1
+|r2m1p1char1=marth  |r2m1p2char1=peach |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Rainbow Cruise
+|r2m1p1char2=marth  |r2m1p2char2=peach |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Yoshi's Story
+|r2m1p1char3=fox |r2m1p2char3=peach |r2m1p1stock3=1 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Pokémon Stadium
+|r2m1p1char4=marth  |r2m1p2char4=peach |r2m1p1stock4=2 |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Final Destination
+|r2m1p1char5=marth  |r2m1p2char5=peach |r2m1p1stock5=1 |r2m1p2stock5=0 |r2m1win5=1 |r2m1stage5=Mute City
+|r2m1details={{BracketMatchDetails|reddit=|comment=<ref>{{cite web
+ | url        = http://www.majorleaguegaming.com/news/ssbm-1v1-cc-rd-12-results-2
+ | title      = SSBM 1v1 CC Rd 1&2 Results
+ | author     = 
+ | date       = 2005-11-27
+ | work       = 
+ | publisher  = 
+ | accessdate = 2017-04-07
+}}</ref>|vodgame1=https://youtu.be/YPnmII97uTk|vodgame2=https://youtu.be/Cokw4wm_8p8|vodgame3=https://youtu.be/iG6eOnBvYrk|vodgame4=https://youtu.be/l9iSNfmug-g|vodgame5=https://youtu.be/4X86grLPL5c}}
+
+|r2m2p1=Husband |r2m2p1flag=us |r2m2p1score=FF
+|r2m2p2=Azen |r2m2p2flag=us |r2m2p2score={{win}}
+|r2m2win=2
+
+|r2m3p1=ChuDat |r2m3p1flag=us |r2m3p1score=3
+|r2m3p2=Oro |r2m3p2flag=us |r2m3p2score=1
+|r2m3win=1
+
+|r2m4p1=Mow |r2m4p1flag=us |r2m4p1score=0
+|r2m4p2=Isai |r2m4p2flag=us |r2m4p2score=3
+|r2m4win=2
+
+<!-- SEMIFINALS -->
+|r3m1p1=Ken |r3m1p1flag=us |r3m1p1score=1
+|r3m1p2=Azen |r3m1p2flag=us |r3m1p2score=3
+|r3m1win=2
+|r3m1p1char1=marth |r3m1p2char1=marth |r3m1p1stock1=0 |r3m1p2stock1=1 |r3m1win1=2 |r3m1stage1=Fountain of Dreams
+|r3m1p1char2=marth |r3m1p2char2=marth |r3m1p1stock2=2 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=marth |r3m1p2char3=marth |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Dream Land
+|r3m1p1char4=marth |r3m1p2char4=marth |r3m1p1stock4=0 |r3m1p2stock4=1 |r3m1win4=2 |r3m1stage4=Yoshi's Story
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|lrthread=|vodgame1=https://www.youtube.com/watch?v=xsJxAqu7kqw|vodgame2=https://www.youtube.com/watch?v=p-wZswNJyEQ|vodgame3=https://www.youtube.com/watch?v=2ZHf7uAGLxo|vodgame4=https://www.youtube.com/watch?v=bDbapgmWONA|comment=<ref name="review">[http://www.majorleaguegaming.com/news/mlg-atlanta-review-part-ii MLG Atlanta Review Part II]</ref>}}
+
+|r3m2p1=ChuDat |r3m2p1flag=us |r3m2p1score=3
+|r3m2p2=Isai |r3m2p2flag=us |r3m2p2score=2
+|r3m2win=1
+|r3m2p1char1=ic |r3m2p2char1=fox |r3m2p1stock1=0 |r3m2p2stock1=1 |r3m2win1=2 |r3m2stage1=Poké Floats
+|r3m2p1char2=ic |r3m2p2char2=samus |r3m2p1stock2=2 |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Dream Land
+|r3m2p1char3=ic |r3m2p2char3=marth |r3m2p1stock3=0 |r3m2p2stock3=1 |r3m2win3=2 |r3m2stage3=Pokémon Stadium
+|r3m2p1char4=ic |r3m2p2char4=fox |r3m2p1stock4=2 |r3m2p2stock4=0 |r3m2win4=1 |r3m2stage4=Kongo Jungle
+|r3m2p1char5=ic |r3m2p2char5=marth |r3m2p1stock5=3 |r3m2p2stock5=0 |r3m2win5=1 |r3m2stage5=Battlefield
+|r3m2date=
+|r3m2details={{BracketMatchDetails|reddit=|comment=<ref name="semis">{{cite web
+ | url        = http://www.majorleaguegaming.com/news/ssbm-1v1-cc-winners-bracket-semi-finalsfinals-2
+ | title      = SSBM 1v1 CC Winners’ Bracket Semi-Finals&Finals
+ | author     = 
+ | date       = 2005-11-27
+ | work       = 
+ | publisher  = 
+ | accessdate = 2017-04-07
+}}</ref>}}
+}}
+==Losers Bracket==
+{{12DELBracketSmwA
+|tourneylink=MLG/2005/Atlanta
+|tourneyname=MLG Atlanta 2005
+|l1placement=9-12
+|l2placement=7-8
+|l3placement=5-6
+|column-width=190
+
+<!-- Round 1 -->
+|l1m1p1=Wife |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=Halo5Guy |l1m1p2flag=us |l1m1p2score=0
+|l1m1win=1
+
+|l1m2p1=Husband |l1m2p1flag=us |l1m2p1score=3
+|l1m2p2=Tipman |l1m2p2flag=us |l1m2p2score= 0
+|l1m2win=1
+
+|l1m3p1=Mike G |l1m3p1flag=us |l1m3p1score=3
+|l1m3p2=Mow |l1m3p2flag=us |l1m3p2score=0
+|l1m3win=1
+
+|l1m4p1=Oro |l1m4p1flag=us |l1m4p1score=
+|l1m4p2=Bye |l1m4p2flag= |l1m4p2score= 
+|l1m4win=
+
+<!-- Round 2 -->
+|l2m1p1=Wife |l2m1p1flag=us |l2m1p1score=FF
+|l2m1p2=Husband |l2m1p2flag=us |l2m1p2score={{win}}
+|l2m1win=2
+
+|l2m2p1=Mike G |l2m2p1flag=us |l2m2p1score=3
+|l2m2p2=Oro |l2m2p2flag=us |l2m2p2score=1
+|l2m2win=1
+|l2m2p1char1=peach |l2m2p2char1=samus |l2m2p1stock1= |l2m2p2stock1= |l2m2win1=1 |l2m2stage1=Final Destination
+|l2m2p1char2=peach |l2m2p2char2=samus |l2m2p1stock2=0 |l2m2p2stock2=1 |l2m2win2=2 |l2m2stage2=Fountain of Dreams
+|l2m2p1char3=peach |l2m2p2char3=samus |l2m2p1stock3=0 |l2m2p2stock3=2 |l2m2win3=2 |l2m2stage3=Pokémon Stadium
+|l2m2p1char4=peach |l2m2p2char4=samus |l2m2p1stock4=1 |l2m2p2stock4=1 |l2m2win4=2 |l2m2stage4=Dream Land
+|l2m2date=
+|l2m2details={{BracketMatchDetails|reddit=|comment=Game 4 went to time.<ref name="losers">{{cite web
+ | url        = http://www.majorleaguegaming.com/news/ssbm-1v1-cc-losers-bracket-results-2/
+ | title      = SSBM 1v1 CC Losers’ Bracket Results
+ | author     = 
+ | date       = 2005-11-27
+ | work       = 
+ | publisher  = Major League Gaming
+ | accessdate = 2017-04-07
+}}</ref>|vod=}}
+
+<!-- Round 3 -->
+|l3m1p1=Isai |l3m1p1flag=us |l3m1p1score=3
+|l3m1p2=Husband |l3m1p2flag=us |l3m1p2score=2
+|l3m1win=1
+|l3m1p1char1=cf |l3m1p2char1=marth |l3m1p1stock1=2 |l3m1p2stock1=0 |l3m1win1=1 |l3m1stage1=Pokémon Stadium
+|l3m1p1char2=cf |l3m1p2char2=marth |l3m1p1stock2=0 |l3m1p2stock2=1 |l3m1win2=2 |l3m1stage2=Battlefield
+|l3m1p1char3=cf |l3m1p2char3=marth |l3m1p1stock3=0 |l3m1p2stock3=2 |l3m1win3=2 |l3m1stage3=Dream Land
+|l3m1p1char4=link |l3m1p2char4=marth |l3m1p1stock4=1 |l3m1p2stock4=0 |l3m1win4=1 |l3m1stage4=Final Destination
+|l3m1p1char5=sheik |l3m1p2char5=marth |l3m1p1stock5=3 |l3m1p2stock5=0 |l3m1win5=1 |l3m1stage5=Yoshi's Story
+|l3m1date=
+|l3m1details={{BracketMatchDetails|reddit=|comment=<ref name="losers"/>|vodgame1=https://youtu.be/NMrgv8xQCqE|vodgame2=https://youtu.be/GUhH-cTwhac|vodgame3=https://youtu.be/5Ey-W_IGM6Q|vodgame4=https://youtu.be/kD-Oqx-CcN8|vodgame5=https://youtu.be/dyp1T-kDWdg}}
+
+|l3m2p1=Ken |l3m2p1flag=us |l3m2p1score=3
+|l3m2p2=Oro |l3m2p2flag=us |l3m2p2score=1
+|l3m2win=1
+|l3m2p1char1=marth |l3m2p2char1=samus |l3m2p1stock1=2 |l3m2p2stock1=0 |l3m2win1=1 |l3m2stage1=Fountain of Dreams
+|l3m2p1char2=marth |l3m2p2char2=samus |l3m2p1stock2=0 |l3m2p2stock2=1 |l3m2win2=2 |l3m2stage2=Final Destination
+|l3m2p1char3=marth |l3m2p2char3=samus |l3m2p1stock3=1 |l3m2p2stock3=0 |l3m2win3=1 |l3m2stage3=Pokémon Stadium
+|l3m2p1char4=marth |l3m2p2char4=samus |l3m2p1stock4=3 |l3m2p2stock4=0 |l3m2win4=1 |l3m2stage4=Mushroom Kingdom II
+|l3m2date=
+|l3m2details={{BracketMatchDetails|reddit=|comment=<ref name="losers"/>|vod=}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=MLG/2005/Atlanta
+|tourneyname=MLG Atlanta 2005
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=160
+|column-width-finals=220
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Azen |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=ChuDat |r1m1p2flag=us |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1=cf |r1m1p2char1=gw |r1m1p1stock1=0 |r1m1p2stock1=2 |r1m1win1=2 |r1m1stage1=Final Destination
+|r1m1p1char2=marth |r1m1p2char2=gw |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1p1char3=cf |r1m1p2char3=gw |r1m1p1stock3=2 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Dream Land
+|r1m1p1char4=marth |r1m1p2char4=ic |r1m1p1stock4=2 |r1m1p2stock4=0 |r1m1win4=1 |r1m1stage4=Kongo Jungle
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|lrthread=|vodgame1=https://www.youtube.com/watch?v=k6TYlVM5EKM|vodgame2=https://www.youtube.com/watch?v=NaNvDIIkEtc|vodgame3=https://www.youtube.com/watch?v=3dBhe4C1Lf8|vodgame4=https://youtu.be/2w-h_Jy4Ot0|comment=<ref name="semis">{{cite web
+ | url        = http://www.majorleaguegaming.com/news/ssbm-1v1-cc-winners-bracket-semi-finalsfinals-2
+ | title      = SSBM 1v1 CC Winners’ Bracket Semi-Finals&Finals
+ | author     = 
+ | date       = 2005-11-27
+ | work       = 
+ | publisher  = 
+ | accessdate = 2017-04-07
+}}</ref>}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Isai |l1m1p1flag=us |l1m1p1score=1
+|l1m1p2=Ken |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=sheik |l1m1p2char1=fox |l1m1p1stock1=0 |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Pokémon Stadium
+|l1m1p1char2=cf |l1m1p2char2=fox |l1m1p1stock2=1 |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Dream Land
+|l1m1p1char3=fox |l1m1p2char3=fox |l1m1p1stock3=0 |l1m1p2stock3=2 |l1m1win3=2 |l1m1stage3=Fountain of Dreams
+|l1m1p1char4=marth |l1m1p2char4=fox |l1m1p1stock4=0 |l1m1p2stock4=2 |l1m1win4=2 |l1m1stage4=Battlefield
+|l1m1date=
+|l1m1details={{BracketMatchDetails|reddit=|comment=<ref name="losers">{{cite web
+ | url        = http://www.majorleaguegaming.com/news/ssbm-1v1-cc-losers-bracket-results-2/
+ | title      = SSBM 1v1 CC Losers’ Bracket Results
+ | author     = 
+ | date       = 2005-11-27
+ | work       = 
+ | publisher  = Major League Gaming
+ | accessdate = 2017-04-07
+}}</ref>|vodgame1=https://youtu.be/5-SMakZWZSA|vodgame2=https://youtu.be/d0Z2L4H6myc|vodgame3=https://youtu.be/hjIlaVTfeio|vodgame4=https://youtu.be/gXBVFewidfg}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=ChuDat |r2m1p1flag=us |r2m1p1score=0
+|r2m1p2=Ken |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=gw |r2m1p2char1=marth |r2m1p1stock1=0 |r2m1p2stock1=2 |r2m1win1=2 |r2m1stage1=Poké Floats
+|r2m1p1char2=gw |r2m1p2char2=marth |r2m1p1stock2=0 |r2m1p2stock2=3 |r2m1win2=2 |r2m1stage2=Fountain of Dreams
+|r2m1p1char3=gw |r2m1p2char3=marth |r2m1p1stock3=0 |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Battlefield
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|lrthread=|vod=|comment=<ref name="losers"/>}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Azen |r3m1p1flag=us |r3m1p1score=0 |r3m2p1score=2
+|r3m1p2=Ken |r3m1p2flag=us |r3m1p2score=3 |r3m2p2score=3
+|r3m1win=2
+|r3m1p1char1=marth |r3m1p2char1=marth |r3m1p1stock1=0 |r3m1p2stock1=1 |r3m1win1=2 |r3m1stage1=Final Destination
+|r3m1p1char2=sheik |r3m1p2char2=marth |r3m1p1stock2=0 |r3m1p2stock2=1 |r3m1win2=2 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=marth |r3m1p2char3=marth |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Mute City
+
+|r3m2p1char1=marth |r3m2p2char1=marth |r3m2p1stock1=1 |r3m2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2p1char2=marth |r3m2p2char2=fox |r3m2p1stock2=0 |r3m2p2stock2=2 |r3m2win2=2 |r3m2stage2=Pokémon Stadium
+|r3m2p1char3=marth |r3m2p2char3=marth |r3m2p1stock3=0 |r3m2p2stock3=1 |r3m2win3=2 |r3m2stage3=Final Destination
+|r3m2p1char4=peach |r3m2p2char4=marth |r3m2p1stock4=1 |r3m2p2stock4=0 |r3m2win4=1 |r3m2stage4=Mute City
+|r3m2p1char5=peach |r3m2p2char5=fox |r3m2p1stock5=0 |r3m2p2stock5=1 |r3m2win5=2 |r3m2stage5=Kongo Jungle
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|lrthread=|vod=|comment=<ref name="finals">{{cite web
+ | url        = http://www.majorleaguegaming.com/news/congratulations-to-ken-for-winning-the-ssbm-1v1-cc-in-game-5-of-the-final-set-2
+ | title      = Congratulations to Ken for winning the SSBM 1v1 CC in Game 5 of the Final Set!
+ | author     = 
+ | date       = 2005-11-27
+ | work       = 
+ | publisher  = Major League Gaming
+ | accessdate = 2017-04-07
+}}</ref>}}
+}}
+</onlyinclude>
+==References==
+{{reflist}}

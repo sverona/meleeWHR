@@ -1,0 +1,275 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Dax",
+            "p1flag": "it",
+            "p1score": "1",
+            "p2": "Seretur",
+            "p2flag": "it",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "AvengerAngel",
+            "p1flag": "it",
+            "p1score": "1",
+            "p2": "Isdsar",
+            "p2flag": "gr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "AvengerAngel",
+            "p1flag": "it",
+            "p1score": "3",
+            "p2": "Seretur",
+            "p2flag": "it",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "1"
+        },
+        "r3m2": {
+            "p2score": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Raesak",
+            "p1flag": "it",
+            "p1score": "0",
+            "p2": "Darkie",
+            "p2flag": "it",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Supah0t",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "demLong",
+            "p2flag": "it",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Maneg\u00e0",
+            "p1flag": "it",
+            "p1score": "0",
+            "p2": "Liva",
+            "p2flag": "de",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Saul",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Malekith",
+            "p2flag": "it",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Dax",
+            "p1flag": "it",
+            "p1score": "3",
+            "p2": "Darkie",
+            "p2flag": "it",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "OverLord",
+            "p1flag": "it",
+            "p1score": "3",
+            "p2": "demLong",
+            "p2flag": "it",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Selkie",
+            "p1flag": "it",
+            "p1score": "1",
+            "p2": "Liva",
+            "p2flag": "de",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Mirko",
+            "p1flag": "it",
+            "p1score": "3",
+            "p2": "Saul",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Dax",
+            "p1flag": "it",
+            "p1score": "3",
+            "p2": "OverLord",
+            "p2flag": "it",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Liva",
+            "p1flag": "de",
+            "p1score": "3",
+            "p2": "Mirko",
+            "p2flag": "it",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Soda",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Dax",
+            "p2flag": "it",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Seretur",
+            "p1flag": "it",
+            "p1score": "3",
+            "p2": "Liva",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "AvengerAngel",
+            "p1flag": "it",
+            "p1score": "2",
+            "p2": "Raesak",
+            "p2flag": "it",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Mirko",
+            "p1flag": "it",
+            "p1score": "2",
+            "p2": "Darkie",
+            "p2flag": "it",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Soda",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Supah0t",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "demLong",
+            "p1flag": "it",
+            "p1score": "0",
+            "p2": "Selkie",
+            "p2flag": "it",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "Seretur",
+            "p1flag": "it",
+            "p1score": "2",
+            "p2": "Maneg\u00e0",
+            "p2flag": "it",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Liva",
+            "p1flag": "de",
+            "p1score": "0",
+            "p2": "OverLord",
+            "p2flag": "it",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Isdsar",
+            "p1flag": "gr",
+            "p1score": "2",
+            "p2": "Saul",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Dax",
+            "p1flag": "it",
+            "p1score": "2",
+            "p2": "Malekith",
+            "p2flag": "it",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "AvengerAngel",
+            "p1flag": "it",
+            "p1score": "3",
+            "p2": "Mirko",
+            "p2flag": "it",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Soda",
+            "p1flag": "ca",
+            "p1score": "3",
+            "p2": "Selkie",
+            "p2flag": "it",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Seretur",
+            "p1flag": "it",
+            "p1score": "3",
+            "p2": "OverLord",
+            "p2flag": "it",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Isdsar",
+            "p1flag": "gr",
+            "p1score": "3",
+            "p2": "Dax",
+            "p2flag": "it",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "AvengerAngel",
+            "p1flag": "it",
+            "p1score": "3",
+            "p2": "Soda",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Seretur",
+            "p1flag": "it",
+            "p1score": "1",
+            "p2": "Isdsar",
+            "p2flag": "gr",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

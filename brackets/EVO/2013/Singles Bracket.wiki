@@ -1,0 +1,409 @@
+{{DISPLAYTITLE:EVO 2013: Singles Bracket}}{{SetGame|melee}}{{EVO_2013_Tabs|This=3}}<br/>
+
+==Winners Bracket==
+{{8DEWBracketA
+|tourneylink=EVO/2013
+|tourneyname=EVO 2013
+<!-- Ro16 -->
+|r1m1p1=Mango |r1m1p1flag=us |r1m1p1score=1
+|r1m1p2=Wobbles |r1m1p2flag=us |r1m1p2score=2
+|r1m1win=2
+|r1m1p1char1=Fox |r1m1p2char1=ICs |r1m1p1stock1=0 |r1m1p2stock1=2 |r1m1win1=2 |r1m1stage1=Dream Land
+|r1m1p1char2=Fox |r1m1p2char2=ICs |r1m1p1stock2=2 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1p1char3=Fox |r1m1p2char3=ICs |r1m1p1stock3=0 |r1m1p2stock3=1 |r1m1win3=2 |r1m1stage3=Fountain of Dreams
+|r1m1date=July 13, 2013
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=-CvPKRLPRyY
+}}
+
+|r1m2p1=PPMD |r1m2p1flag=us |r1m2p1score=2
+|r1m2p2=Hax |r1m2p2flag=us |r1m2p2score=1
+|r1m2win=1
+|r1m2p1char1=Falco |r1m2p2char1=Falcon |r1m2p1stock1=2 |r1m2p2stock1=0 |r1m2win1=1 |r1m2stage1=Battlefield
+|r1m2p1char2=Falco |r1m2p2char2=Falcon |r1m2p1stock2=0 |r1m2p2stock2=1 |r1m2win2=2 |r1m2stage2=Battlefield
+|r1m2p1char3=Falco |r1m2p2char3=Falcon |r1m2p1stock3=1 |r1m2p2stock3=0 |r1m2win3=1 |r1m2stage3=Final Destination
+|r1m2date=July 13, 2013
+|r1m2finished=
+|r1m2details={{BracketMatchDetails
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=8D6_x-ARjOc
+}}
+
+|r1m3p1=Hungrybox |r1m3p1flag=us |r1m3p1score=2
+|r1m3p2=Leffen |r1m3p2flag=se |r1m3p2score=0
+|r1m3win=1
+|r1m3p1char1=Jigglypuff |r1m3p2char1=Fox |r1m3p1stock1=1 |r1m3p2stock1=0 |r1m3win1=1 |r1m3stage1=Battlefield
+|r1m3p1char2=Jigglypuff |r1m3p2char2=Fox |r1m3p1stock2=1 |r1m3p2stock2=0 |r1m3win2=1 |r1m3stage2=Final Destination
+|r1m3date=July 13, 2013
+|r1m3finished=
+|r1m3details={{BracketMatchDetails
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=EZt1Y6cDabQ
+}}
+
+|r1m4p1=Mew2King |r1m4p1flag=us |r1m4p1score=2
+|r1m4p2=Silent Wolf |r1m4p2flag=us |r1m4p2score=0
+|r1m4win=1
+|r1m4p1char1=Sheik |r1m4p2char1=Fox |r1m4p1stock1=2 |r1m4p2stock1=0 |r1m4win1=1 |r1m4stage1=Battlefield
+|r1m4p1char2=Sheik |r1m4p2char2=Fox |r1m4p1stock2=1 |r1m4p2stock2=0 |r1m4win2=1 |r1m4stage2=Yoshi's Story
+|r1m4date=July 13, 2013
+|r1m4finished=
+|r1m4details={{BracketMatchDetails
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=-1J5VB6q-uE
+}}
+
+|r2m1p1=Wobbles |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=PPMD |r2m1p2flag=us |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=ICs |r2m1p2char1=Falco |r2m1p1stock1=1 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Fountain of Dreams
+|r2m1p1char2=ICs |r2m1p2char2=Falco |r2m1p1stock2=1 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Battlefield
+|r2m1date=July 14, 2013
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=u1db9ZCqsqY
+}}
+
+|r2m2p1=Hungrybox |r2m2p1flag=us |r2m2p1score=2
+|r2m2p2=Mew2King |r2m2p2flag=us |r2m2p2score=0
+|r2m2win=1
+|r2m2p1char1=Jigglypuff |r2m2p2char1=Fox |r2m2p1stock1=3 |r2m2p2stock1=0 |r2m2win1=1 |r2m2stage1=Dream Land
+|r2m2p1char2=Jigglypuff |r2m2p2char2=Fox |r2m2p1stock2=2 |r2m2p2stock2=0 |r2m2win2=1 |r2m2stage2=Final Destination
+|r2m2date=July 14, 2013
+|r2m2finished=
+|r2m2details={{BracketMatchDetails
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=IXhNLSjsk98
+}}
+}}
+
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=EVO/2013
+|tourneyname=EVO 2013
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+|column-width=160
+
+<!-- Round 1 -->
+|l1m1p1=Shroomed |l1m1p1flag=us |l1m1p1score=2
+|l1m1p2=Axe |l1m1p2flag=us |l1m1p2score=1
+|l1m1win=1
+|l1m1p1char1=Dr Mario |l1m1p2char1=Pikachu |l1m1p1stock1=1 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1p1char2=Dr Mario |l1m1p2char2=Pikachu |l1m1p1stock2=0 |l1m1p2stock2=3 |l1m1win2=2 |l1m1stage2=Battlefield
+|l1m1p1char3=Dr Mario |l1m1p2char3=Pikachu |l1m1p1stock3=2 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Pokémon Stadium
+|l1m1date=July 13, 2013
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=Sj8Hfs-mEJ0
+}}
+
+|l1m2p1=S2J |l1m2p1flag=us |l1m2p1score=0
+|l1m2p2=Armada |l1m2p2flag=se |l1m2p2score=2
+|l1m2win=2
+|l1m2p1char1=Falcon |l1m2p2char1=Peach |l1m2p1stock1=0 |l1m2p2stock1=2 |l1m2win1=2 |l1m2stage1=Dream Land
+|l1m2p1char2=Falcon |l1m2p2char2=Peach |l1m2p1stock2=0 |l1m2p2stock2=2 |l1m2win2=2 |l1m2stage2=Battlefield
+|l1m2date=July 13, 2013
+|l1m2finished=
+|l1m2details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=fetgU79ve-M
+}}
+
+|l1m3p1=Taj |l1m3p1flag=us |l1m3p1score=0
+|l1m3p2=SFAT |l1m3p2flag=us |l1m3p2score=2
+|l1m3win=2
+|l1m3p1char1=Mewtwo |l1m3p2char1=Fox |l1m3p1stock1=0 |l1m3p2stock1=2 |l1m3win1=2 |l1m3stage1=Battlefield
+|l1m3p1char2=Marth |l1m3p2char2=Fox |l1m3p1stock2=0 |l1m3p2stock2=2 |l1m3win2=2 |l1m3stage2=Battlefield
+|l1m3date=July 13, 2013
+|l1m3finished=
+|l1m3details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=TItBmEUcrdE
+}}
+
+|l1m4p1=Lucien |l1m4p1flag=us |l1m4p1score=0
+|l1m4p2=Ice |l1m4p2flag=de |l1m4p2score=2
+|l1m4win=2
+|l1m4p1char1=sheik |l1m4p2char1=sheik |l1m4p1stock1=0 |l1m4p2stock1= |l1m4win1=2 |l1m4stage1=
+|l1m4p1char2=sheik |l1m4p2char2=sheik |l1m4p1stock2=0 |l1m4p2stock2=1 |l1m4win2=2 |l1m4stage2=Battlefield
+|l1m4date=July 13, 2013
+|l1m4finished=
+|l1m4details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=Game 1 was not recorded.
+|vod=https://www.youtube.com/watch?v=L9Am3OFXH50
+}}
+
+<!-- Round 2 -->
+|l2m1p1=Leffen |l2m1p1flag=se |l2m1p1score=0
+|l2m1p2=Shroomed |l2m1p2flag=us |l2m1p2score=2
+|l2m1win=2
+|l2m1p1char1=Fox |l2m1p2char1=Dr Mario |l2m1p1stock1=0 |l2m1p2stock1=1 |l2m1win1=2 |l2m1stage1=Battlefield
+|l2m1p1char2=Fox |l2m1p2char2=Dr Mario |l2m1p1stock2=0 |l2m1p2stock2=2 |l2m1win2=2 |l2m1stage2=Pokémon Stadium
+|l2m1date=July 13, 2013
+|l2m1finished=
+|l2m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=dZ4SOAANywY
+}}
+
+|l2m2p1=Silent Wolf |l2m2p1flag=us |l2m2p1score=2
+|l2m2p2=Armada |l2m2p2flag=se |l2m2p2score=0
+|l2m2win=2
+|l2m2p1char1=Fox |l2m2p2char1=Peach |l2m2p1stock1=0 |l2m2p2stock1=3 |l2m2win1=2 |l2m2stage1=Battlefield
+|l2m2p1char2=Fox |l2m2p2char2=Peach |l2m2p1stock2=0 |l2m2p2stock2=2 |l2m2win2=2 |l2m2stage2=Yoshi's Story
+|l2m2date=July 13, 2013
+|l2m2finished=
+|l2m2details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=WG4loNr8E9M
+}}
+
+|l2m3p1=Mango |l2m3p1flag=us |l2m3p1score=2
+|l2m3p2=SFAT |l2m3p2flag=us |l2m3p2score=1
+|l2m3win=1
+|l2m3p1char1=Falco |l2m3p2char1=Fox |l2m3p1stock1=0 |l2m3p2stock1=1 |l2m3win1=2 |l2m3stage1=Battlefield
+|l2m3p1char2=Falco |l2m3p2char2=Fox |l2m3p1stock2=2 |l2m3p2stock2=0 |l2m3win2=1 |l2m3stage2=Battlefield
+|l2m3p1char3=Falco |l2m3p2char3=Fox |l2m3p1stock3=2 |l2m3p2stock3=0 |l2m3win3=1 |l2m3stage3=Dream Land
+|l2m3date=July 13, 2013
+|l2m3finished=
+|l2m3details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=3fV0lDXqw2M
+}}
+
+|l2m4p1=Hax |l2m4p1flag=us |l2m4p1score=2
+|l2m4p2=Ice |l2m4p2flag=de |l2m4p2score=0
+|l2m4win=2
+|l2m4p1char1=Falcon |l2m4p2char1=Sheik |l2m4p1stock1=0 |l2m4p2stock1=2 |l2m4win1=2 |l2m4stage1=Dream Land
+|l2m4p1char2=Falcon |l2m4p2char2=Sheik |l2m4p1stock2=0 |l2m4p2stock2=1 |l2m4win2=2 |l2m4stage2=Battlefield
+|l2m4date=July 13, 2013
+|l2m4finished=
+|l2m4details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=3fV0lDXqw2M
+}}
+
+<!-- Round 3 -->
+|l3m1p1=Shroomed |l3m1p1flag=us |l3m1p1score=0
+|l3m1p2=Armada |l3m1p2flag=se |l3m1p2score=2
+|l3m1win=2
+|l3m1p1char1=Dr Mario |l3m1p2char1=Peach |l3m1p1stock1=0 |l3m1p2stock1=2 |l3m1win1=2 |l3m1stage1=Battlefield
+|l3m1p1char2=Dr Mario |l3m1p2char2=Peach |l3m1p1stock2=0 |l3m1p2stock2=3 |l3m1win2=2 |l3m1stage2=Battlefield
+|l3m1date=July 13, 2013
+|l3m1finished=
+|l3m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=Qhv1zi9lML8
+}}
+
+|l3m2p1=Mango |l3m2p1flag=us |l3m2p1score=2
+|l3m2p2=Ice |l3m2p2flag=de |l3m2p2score=0
+|l3m2win=1
+|l3m2p1char1=Fox |l3m2p2char1=Sheik |l3m2p1stock1=1 |l3m2p2stock1=0 |l3m2win1=1 |l3m2stage1=Dream Land
+|l3m2p1char2=Fox |l3m2p2char2=Sheik |l3m2p1stock2=2 |l3m2p2stock2=0 |l3m2win2=1 |l3m2stage2=Dream Land
+|l3m2date=July 13, 2013
+|l3m2finished=
+|l3m2details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=kNcEuGB1Vbc
+}}
+
+<!-- Round 4 -->
+|l4m1p1=Mew2King |l4m1p1flag=us |l4m1p1score=0
+|l4m1p2=Armada |l4m1p2flag=se |l4m1p2score=2
+|l4m1win=2
+|l4m1p1char1=Sheik |l4m1p2char1=Peach |l4m1p1stock1=0 |l4m1p2stock1=1 |l4m1win1=2 |l4m1stage1=Dream Land
+|l4m1p1char2=Marth |l4m1p2char2=Peach |l4m1p1stock2=0 |l4m1p2stock2=2 |l4m1win2=2 |l4m1stage2=Pokémon Stadium
+|l4m1date=July 13, 2013
+|l4m1finished=
+|l4m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=_THJ9dn53kk
+}}
+|l4m2p1=PPMD |l4m2p1flag=us |l4m2p1score=0
+|l4m2p2=Mango |l4m2p2flag=us |l4m2p2score=2
+|l4m2win=2
+|l4m2p1char1=Falco |l4m2p2char1=Fox |l4m2p1stock1=0 |l4m2p2stock1=2 |l4m2win1=2 |l4m2stage1=Battlefield
+|l4m2p1char2=Falco |l4m2p2char2=Fox |l4m2p1stock2=0 |l4m2p2stock2=1 |l4m2win2=2 |l4m2stage2=Fountain of Dreams
+|l4m2date=July 13, 2013
+|l4m2finished=
+|l4m2details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|vod=https://www.youtube.com/watch?v=8-eLEta713c
+}}
+}}
+<onlyinclude>
+==Finals Bracket==
+{{DEFinalSmwBracket
+|tourneylink=EVO/2013
+|tourneyname=EVO 2013
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=160
+|column-width-finals=230
+
+<!-- FROM WINNERS -->
+|r1m1p1=Wobbles |r1m1p1flag=us |r1m1p1score=2
+|r1m1p2=Hungrybox |r1m1p2flag=us |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1=ic |r1m1p2char1=jigglypuff |r1m1p1stock1=0 |r1m1p2stock1=1 |r1m1win1=2 |r1m1stage1=Battlefield
+|r1m1p1char2=ic |r1m1p2char2=jigglypuff |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Fountain of Dreams
+|r1m1p1char3=ic |r1m1p2char3=jigglypuff |r1m1p1stock3=1 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Dream Land
+|r1m1date=July 14, 2013
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=aS5nboWJyM8
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Armada |l1m1p1flag=se |l1m1p1score=0 
+|l1m1p2=Mango |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=2
+|l1m1p1char1=peach |l1m1p2char1=fox |l1m1p1stock1=0 |l1m1p2stock1=2 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1p1char2=peach |l1m1p2char2=fox |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Dream Land
+|l1m1date=July 14, 2013
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=38EXis5cWJU
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Hungrybox |r2m1p1flag=us |r2m1p1score=0 
+|r2m1p2=Mango |r2m1p2flag=us |r2m1p2score=2
+|r2m1win=2
+|r2m1p1char1=jigglypuff |r2m1p2char1=fox |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Final Destination
+|r2m1p1char2=jigglypuff |r2m1p2char2=fox |r2m1p1stock2=0 |r2m1p2stock2=2 |r2m1win2=2 |r2m1stage2=Fountain of Dreams
+|r2m1date=July 14, 2013
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=RH8YrQJfwew
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Wobbles |r3m1p1flag=us |r3m1p1score=0 |r3m2p1score=1
+|r3m1p2=Mango |r3m1p2flag=us |r3m1p2score=3 |r3m2p2score=3 
+|r3m1win=2
+|export_score=true
+|r3m1p1char1=ic |r3m1p2char1=fox |r3m1p1stock1=0 |r3m1p2stock1=2 |r3m1win1=2 |r3m1stage1=Dream Land
+|r3m1p1char2=ic |r3m1p2char2=fox |r3m1p1stock2=0 |r3m1p2stock2=2 |r3m1win2=2 |r3m1stage2=Final Destination
+|r3m1p1char3=ic |r3m1p2char3=fox |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Fountain of Dreams
+
+|r3m2p1char1=ic |r3m2p2char1=fox |r3m2p1stock1=0 |r3m2p2stock1=1 |r3m2win1=2 |r3m2stage1=Dream Land
+|r3m2p1char2=ic |r3m2p2char2=fox |r3m2p1stock2=0 |r3m2p2stock2=2 |r3m2win2=2 |r3m2stage2=Dream Land
+|r3m2p1char3=ic |r3m2p2char3=fox |r3m2p1stock3=1 |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Final Destination
+|r3m2p1char4=ic |r3m2p2char4=fox |r3m2p1stock4=0 |r3m2p2stock4=2 |r3m2win4=2 |r3m2stage4=Yoshi's Story
+|r3m1date=July 14, 2013
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=Dg3BYnM9_0k
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}</onlyinclude>
+
+==Sources==
+* [http://evo2013.s3.amazonaws.com/brackets/ssbm_j57.html Official top 16 bracket]
+* [http://evo2013.s3.amazonaws.com/brackets/ssbm_finals.html Official finals bracket]

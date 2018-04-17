@@ -1,0 +1,122 @@
+{{DISPLAYTITLE:NorCal Regionals 2013}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=NorCal Regionals/2013
+|name2=Singles Pools
+|link2=NorCal Regionals/2013/Singles Pools
+|name3=Singles Bracket
+|link3=NorCal Regionals/2013/Singles Bracket
+|This=3
+}}
+<onlyinclude>
+==Final Bracket==
+{{4DE4SSmwBracket
+|tourneylink=NorCal Regionals/2013
+|tourneyname=NorCal Regionals 2013
+|l1placement=7-8
+|l2placement=5-6
+|l3placement=4
+|l4placement=3
+|r5loserplacement=2
+|r5winnerplacement=1
+|disableheads=true
+|column-width=140
+|export_score=true
+
+<!-- WINNERS BRACKET -->
+|r2m1p1=PewPewU |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=Mango |r2m1p2flag=us |r2m1p2score=1
+|r2m1win=1
+|r2m1p1char1=marth |r2m1p2char1=falco |r2m1p1stock1=0 |r2m1p2stock1=2 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=marth |r2m1p2char2=falco |r2m1p1stock2=1 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1p1char3=marth |r2m1p2char3=cf |r2m1p1stock3=1 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Dream Land
+|r2m1date=April 27, 2013
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/-FsDtCQCJRs}}
+
+|r2m2p1=Westballz |r2m2p1flag=us |r2m2p1score=1
+|r2m2p2=Hungrybox |r2m2p2flag=us |r2m2p2score=2
+|r2m2win=2
+|r2m2p1char1=falco |r2m2p2char1=jigglypuff |r2m2p1stock1=0 |r2m2p2stock1=3 |r2m2win1=2 |r2m2stage1=Dream Land
+|r2m2p1char2=fox |r2m2p2char2=jigglypuff |r2m2p1stock2=1 |r2m2p2stock2=0 |r2m2win2=1 |r2m2stage2=Yoshi's Story
+|r2m2p1char3=fox |r2m2p2char3=jigglypuff |r2m2p1stock3=0 |r2m2p2stock3=2 |r2m2win3=2 |r2m2stage3=Fountain of Dreams
+|r2m2date=April 27, 2013
+|r2m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/3JXphir0Rr4}}
+
+|r4m1p1=PewPewU |r4m1p1flag=us |r4m1p1score=0
+|r4m1p2=Hungrybox |r4m1p2flag=us |r4m1p2score=3
+|r4m1win=2
+|r4m1p1char1=marth |r4m1p2char1=jigglypuff |r4m1p1stock1=0 |r4m1p2stock1=1 |r4m1win1=2 |r4m1stage1=Battlefield
+|r4m1p1char2=marth |r4m1p2char2=jigglypuff |r4m1p1stock2=0 |r4m1p2stock2=1 |r4m1win2=2 |r4m1stage2=Yoshi's Story
+|r4m1p1char3=marth |r4m1p2char3=jigglypuff |r4m1p1stock3=0 |r4m1p2stock3=1 |r4m1win3=2 |r4m1stage3=Yoshi's Story
+|r4m1date=April 27, 2013
+|r4m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/rRD4xvaREds}}
+
+<!-- LOSERS BRACKET -->
+|l1m1p1=Zhu |l1m1p1flag=us |l1m1p1score=1
+|l1m1p2=S2J |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=2
+|l1m1p1char1=falco |l1m1p2char1=cf |l1m1p1stock1=0 |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1p1char2=falco |l1m1p2char2=cf |l1m1p1stock2=1 |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Battlefield
+|l1m1p1char3=falco |l1m1p2char3=cf |l1m1p1stock3=0 |l1m1p2stock3=1 |l1m1win3=2 |l1m1stage3=Pokémon Stadium
+|l1m1date=April 27, 2013
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/j3wglCux-eM}}
+
+|l1m2p1=Sung |l1m2p1flag=us |l1m2p1score=0
+|l1m2p2=Fly Amanita |l1m2p2flag=us |l1m2p2score=2
+|l1m2win=2
+|l1m2p1char1=sheik |l1m2p2char1=ic |l1m2p1stock1=0 |l1m2p2stock1=2 |l1m2win1=2 |l1m2stage1=Battlefield
+|l1m2p1char2=sheik |l1m2p2char2=ic |l1m2p1stock2=0 |l1m2p2stock2=2 |l1m2win2=2 |l1m2stage2=Yoshi's Story
+|l1m2date=April 27, 2013
+|l1m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/bo94Y7Ub_CA}}
+
+|l2m1p1=Westballz |l2m1p1flag=us |l2m1p1score=2
+|l2m1p2=S2J |l2m1p2flag=us |l2m1p2score=1
+|l2m1win=1
+|l2m1p1char1=falco |l2m1p2char1=cf |l2m1p1stock1=0 |l2m1p2stock1=1 |l2m1win1=2 |l2m1stage1=Yoshi's Story
+|l2m1p1char2=falco |l2m1p2char2=cf |l2m1p1stock2=1 |l2m1p2stock2=0 |l2m1win2=1 |l2m1stage2=Yoshi's Story
+|l2m1p1char3=falco |l2m1p2char3=cf |l2m1p1stock3=1 |l2m1p2stock3=0 |l2m1win3=1 |l2m1stage3=Battlefield
+|l2m1date=April 27, 2013
+|l2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/xLrsrQ8PTww}}
+
+|l2m2p1=Mango |l2m2p1flag=us |l2m2p1score=2
+|l2m2p2=Fly Amanita |l2m2p2flag=us |l2m2p2score=0
+|l2m2win=1
+|l2m2p1char1=cf |l2m2p2char1=ic |l2m2p1stock1=3 |l2m2p2stock1=0 |l2m2win1=1 |l2m2stage1=Yoshi's Story
+|l2m2p1char2=cf |l2m2p2char2=ic |l2m2p1stock2=2 |l2m2p2stock2=0 |l2m2win2=1 |l2m2stage2=Fountain of Dreams
+|l2m2date=April 27, 2013
+|l2m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/n6H-YE94DeM}}
+
+|l3m1p1=Westballz |l3m1p1flag=us |l3m1p1score=0
+|l3m1p2=Mango |l3m1p2flag=us |l3m1p2score=2
+|l3m1win=2
+|l3m1p1char1=falco |l3m1p2char1=fox |l3m1p1stock1=0 |l3m1p2stock1=2 |l3m1win1=2 |l3m1stage1=Yoshi's Story
+|l3m1p1char2=falco |l3m1p2char2=fox |l3m1p1stock2=0 |l3m1p2stock2=1 |l3m1win2=2 |l3m1stage2=Yoshi's Story
+|l3m1date=April 27, 2013
+|l3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/ZsxvM9o8DRI}}
+
+|l4m1p1=PewPewU |l4m1p1flag=us |l4m1p1score=0
+|l4m1p2=Mango |l4m1p2flag=us |l4m1p2score=3
+|l4m1win=2
+|l4m1p1char1=marth |l4m1p2char1=fox |l4m1p1stock1=0 |l4m1p2stock1=2 |l4m1win1=2 |l4m1stage1=Battlefield
+|l4m1p1char2=marth |l4m1p2char2=fox |l4m1p1stock2=0 |l4m1p2stock2=1 |l4m1win2=2 |l4m1stage2=Final Destination
+|l4m1p1char3=marth |l4m1p2char3=fox |l4m1p1stock3=0 |l4m1p2stock3=2 |l4m1win3=2 |l4m1stage3=Final Destination
+|l4m1date=April 27, 2013
+|l4m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/KHyB9sN7ZgM}}
+
+<!-- GRAND FINALS -->
+|r5m1p1=Hungrybox |r5m1p1flag=us |r5m1p1score=0 |r5m2p1score=3
+|r5m1p2=Mango |r5m1p2flag=us |r5m1p2score=3 |r5m2p2score=2
+|r5m1win=1
+|r5m1p1char1=jigglypuff |r5m1p2char1=fox |r5m1p1stock1=0 |r5m1p2stock1=2 |r5m1win1=2 |r5m1stage1=Battlefield
+|r5m1p1char2=jigglypuff |r5m1p2char2=fox |r5m1p1stock2=0 |r5m1p2stock2=4 |r5m1win2=2 |r5m1stage2=Fountain of Dreams
+|r5m1p1char3=jigglypuff |r5m1p2char3=fox |r5m1p1stock3=0 |r5m1p2stock3=1 |r5m1win3=2 |r5m1stage3=Dream Land
+
+|r5m2p1char1=jigglypuff |r5m2p2char1=fox |r5m2p1stock1=0 |r5m2p2stock1=1 |r5m2win1=2 |r5m2stage1=Battlefield
+|r5m2p1char2=jigglypuff |r5m2p2char2=fox |r5m2p1stock2=1 |r5m2p2stock2=0 |r5m2win2=1 |r5m2stage2=Dream Land
+|r5m2p1char3=jigglypuff |r5m2p2char3=fox |r5m2p1stock3=0 |r5m2p2stock3=1 |r5m2win3=2 |r5m2stage3=Pokémon Stadium
+|r5m2p1char4=jigglypuff |r5m2p2char4=fox |r5m2p1stock4=1 |r5m2p2stock4=0 |r5m2win4=1 |r5m2stage4=Fountain of Dreams
+|r5m2p1char5=jigglypuff |r5m2p2char5=fox |r5m2p1stock5=2 |r5m2p2stock5=0 |r5m2win5=1 |r5m2stage5=Final Destination
+|r5m1date=April 27, 2013
+|r5m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/ccoTN-kszhU}}
+}}
+</onlyinclude>

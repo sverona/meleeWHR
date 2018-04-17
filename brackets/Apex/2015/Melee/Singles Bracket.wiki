@@ -1,0 +1,132 @@
+{{DISPLAYTITLE:Apex 2015: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{Apex2015 Tabs
+|This=3
+}}
+{{:Apex/2015/Melee/Singles_Winners}}
+{{:Apex/2015/Melee/Singles_Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Apex/2015/Melee
+|tourneyname=Apex 2015
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=180
+|column-width-finals=220
+
+<!-- FROM WINNERS -->
+|r1m1p1=Leffen |r1m1p1flag=se |r1m1p1score=2
+|r1m1p2=PPMD |r1m1p2flag=us |r1m1p2score=3
+|r1m1win=2
+|r1m1p1char1=Fox |r1m1p1stock1=0 |r1m1p2char1=Marth |r1m1p2stock1=1 |r1m1win1=2 |r1m1stage1=Battlefield 
+|r1m1p1char2=Fox |r1m1p1stock2=1 |r1m1p2char2=Marth |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Dream Land
+|r1m1p1char3=Fox |r1m1p1stock3=0 |r1m1p2char3=Marth |r1m1p2stock3=1 |r1m1win3=2 |r1m1stage3=Final Destination
+|r1m1p1char4=Fox |r1m1p1stock4=1 |r1m1p2char4=Marth |r1m1p2stock4=0 |r1m1win4=1 |r1m1stage4=Battlefield
+|r1m1p1char5=Fox |r1m1p1stock5=0 |r1m1p2char5=Marth |r1m1p2stock5=1 |r1m1win5=2 |r1m1stage5=Pokémon Stadium
+|r1m1date=February 2, 2015
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=Gv74JXJBFwk
+|vodgame1=https://www.youtube.com/watch?v=Gv74JXJBFwk
+|vodgame2=https://www.youtube.com/watch?v=Gv74JXJBFwk&t=213s
+|vodgame3=https://www.youtube.com/watch?v=Gv74JXJBFwk&t=410s
+|vodgame4=https://www.youtube.com/watch?v=Gv74JXJBFwk&t=700s
+|vodgame5=https://www.youtube.com/watch?v=Gv74JXJBFwk&t=943s
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Mango |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Armada |l1m1p2flag=se |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=Fox |l1m1p1stock1=0 |l1m1p2char1=Peach |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Fountain of Dreams 
+|l1m1p1char2=Falco |l1m1p1stock2=0 |l1m1p2char2=Fox |l1m1p2stock2=2 |l1m1win2=2 |l1m1stage2=Yoshi's Story
+|l1m1p1char3=Falco |l1m1p1stock3=0 |l1m1p2char3=Fox |l1m1p2stock3=1 |l1m1win3=2 |l1m1stage3=Yoshi's Story
+|l1m1p1char4= |l1m1p1stock4= |l1m1p2char4= |l1m1p2stock4= |l1m1win4= |l1m1stage4=
+|l1m1p1char5= |l1m1p1stock5= |l1m1p2char5= |l1m1p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=February 2, 2015
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=HMUDfLGQ6gE
+|vodgame1=https://www.youtube.com/watch?v=HMUDfLGQ6gE
+|vodgame2=https://www.youtube.com/watch?v=HMUDfLGQ6gE&t=246s
+|vodgame3=https://www.youtube.com/watch?v=HMUDfLGQ6gE&t=428s
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Leffen |r2m1p1flag=se |r2m1p1score=1
+|r2m1p2=Armada |r2m1p2flag=se |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=Fox |r2m1p1stock1=0 |r2m1p2char1=Fox |r2m1p2stock1=2 |r2m1win1=2 |r2m1stage1=Battlefield 
+|r2m1p1char2=Fox |r2m1p1stock2=1 |r2m1p2char2=Fox |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Dream Land
+|r2m1p1char3=Fox |r2m1p1stock3=0 |r2m1p2char3=Fox |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Pokémon Stadium
+|r2m1p1char4=Fox |r2m1p1stock4=0 |r2m1p2char4=Fox |r2m1p2stock4=3 |r2m1win4=2 |r2m1stage4=Battlefield
+|r2m1p1char5= |r2m1p1stock5= |r2m1p2char5= |r2m1p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=February 2, 2015
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=cMsFl4n7Kz4
+|vodgame1=https://www.youtube.com/watch?v=cMsFl4n7Kz4
+|vodgame2=https://www.youtube.com/watch?v=cMsFl4n7Kz4&t=184s
+|vodgame3=https://www.youtube.com/watch?v=cMsFl4n7Kz4&t=398s
+|vodgame4=https://www.youtube.com/watch?v=cMsFl4n7Kz4&t=595s
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=PPMD |r3m1p1flag=us |r3m1p1score=2 |r3m2p1score=3
+|r3m1p2=Armada |r3m1p2flag=se |r3m1p2score=3 |r3m2p2score=0
+|r3m1win=1
+|export_score=true
+|r3m1p1char1=Marth |r3m1p1stock1=0 |r3m1p2char1=Fox |r3m1p2stock1=2 |r3m1win1=2 |r3m1stage1=Battlefield 
+|r3m1p1char2=Marth |r3m1p1stock2=0 |r3m1p2char2=Fox |r3m1p2stock2=1 |r3m1win2=2 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=Falco |r3m1p1stock3=1 |r3m1p2char3=Fox |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Pokémon Stadium
+|r3m1p1char4=Falco |r3m1p1stock4=2 |r3m1p2char4=Fox |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Yoshi's Story
+|r3m1p1char5=Marth |r3m1p1stock5=0 |r3m1p2char5=Fox |r3m1p2stock5=1 |r3m1win5=2 |r3m1stage5=Dream Land
+
+|r3m2p1char1=Marth |r3m2p1stock1=2 |r3m2p2char1=Fox |r3m2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2p1char2=Marth |r3m2p1stock2=1 |r3m2p2char2=Fox |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Dream Land
+|r3m2p1char3=Marth |r3m2p1stock3=1 |r3m2p2char3=Fox |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Dream Land
+|r3m2p1char4= |r3m2p1stock4= |r3m2p2char4= |r3m2p2stock4= |r3m2win4= |r3m2stage4=
+|r3m2p1char5= |r3m2p1stock5= |r3m2p2char5= |r3m2p2stock5= |r3m2win5= |r3m2stage5=
+|r3m1date=February 2, 2015
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=DEsp996TGak
+|vodgame1=https://www.youtube.com/watch?v=DEsp996TGak&t=12s
+|vodgame2=https://www.youtube.com/watch?v=DEsp996TGak&t=270s
+|vodgame3=https://www.youtube.com/watch?v=DEsp996TGak&t=576s
+|vodgame4=https://www.youtube.com/watch?v=DEsp996TGak&t=825s
+|vodgame5=https://www.youtube.com/watch?v=DEsp996TGak&t=1052s
+
+|vod2=https://www.youtube.com/watch?v=K6E6Zp5sYvs
+|vod2game1=https://www.youtube.com/watch?v=K6E6Zp5sYvs
+|vod2game2=https://www.youtube.com/watch?v=K6E6Zp5sYvs&t=160s
+|vod2game3=https://www.youtube.com/watch?v=K6E6Zp5sYvs&t=369s
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

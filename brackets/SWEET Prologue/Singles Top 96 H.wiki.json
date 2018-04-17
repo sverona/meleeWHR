@@ -1,0 +1,528 @@
+{
+    "==Losers==": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Hunt",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Karls Jr",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Casual Friday",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "GenghisKhan",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "SuperMegaWalrus",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "crip hood",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "kinglewi",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "HoneyBaked",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "100%.",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Hunt",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Reeve",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Karls Jr",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "NJA",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Casual Friday",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Thexy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "GenghisKhan",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Egg",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "SuperMegaWalrus",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Iron",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "crip hood",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "EMG {{!}} Coastward",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "kinglewi",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Pyromaniaccident",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "HoneyBaked",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "100%.",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Reeve",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "NJA",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Thexy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Egg",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Iron",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "EMG {{!}} Coastward",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "HoneyBaked",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "5-1.",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Reeve",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Toadster",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "NJA",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Cave Dweller",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Iron",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "OU {{!}} Eggnawg",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "HoneyBaked",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "l5m2": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "l6m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "l6m2": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        }
+    },
+    "==Winners==": {
+        "r1m1": {
+            "p1": "Duck",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "SuperMegaWalrus",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Thexy",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "NJA",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "OU {{!}} Eggnawg",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "crip hood",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "ESI. GG Prince Abu",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Reeve",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "kinglewi",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Cave Dweller",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "HoneyBaked",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "100%.",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m2": {
+            "p1": "Hunt",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Pyromaniaccident",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "EMG {{!}} Coastward",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Toadster",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Karls Jr",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "4%.",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Iron",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Casual Friday",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "5-1.",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "GenghisKhan",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Egg",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m9": {
+            "p1": "Frootloop",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Duck",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Pyromaniaccident",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "EMG {{!}} Coastward",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Toadster",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "4%.",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Iron",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "5-1.",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Egg",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Frootloop",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Thexy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "NJA",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "OU {{!}} Eggnawg",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "ESI. GG Prince Abu",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Reeve",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Cave Dweller",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "100%.",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Duck",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Toadster",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "4%.",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "5-1.",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "Frootloop",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "OU {{!}} Eggnawg",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "ESI. GG Prince Abu",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Cave Dweller",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "r4m2": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        }
+    }
+}

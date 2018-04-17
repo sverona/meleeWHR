@@ -1,0 +1,200 @@
+{{DISPLAYTITLE:NEW FISH: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=NEW FISH/Melee
+|name2=Singles Pools
+|link2=NEW FISH/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=NEW FISH/Melee/Singles Bracket
+|name4=Doubles Pools
+|link4=NEW FISH/Melee/Doubles Pools
+|name5=Doubles Bracket
+|link5=NEW FISH/Melee/Doubles Bracket
+|This=5
+}}
+==Winners Bracket==
+{{16DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=Colbol |r1m1t1p1flag=us
+|r1m1t1p2=Slox |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=
+|r1m1win=1
+
+|r1m2t1p1=trilok |r1m2t1p1flag=us
+|r1m2t1p2=Panzy |r1m2t1p2flag=us |r1m2t1score=0
+|r1m2t2p1=Jmook |r1m2t2p1flag=us
+|r1m2t2p2=Patches |r1m2t2p2flag=us |r1m2t2score=2
+|r1m2win=2
+
+|r1m3t1p1=Pig |r1m3t1p1flag=us
+|r1m3t1p2=GSO |r1m3t1p2flag=us |r1m3t1score={{win}}
+|r1m3t2p1=Bye |r1m3t2p1flag=
+|r1m3t2p2=Bye |r1m3t2p2flag= |r1m3t2score=
+|r1m3win=1
+
+|r1m4t1p1=Jank |r1m4t1p1flag=us
+|r1m4t1p2=PikaPika! |r1m4t1p2flag= |r1m4t1score=2
+|r1m4t2p1=Icylight |r1m4t2p1flag=us
+|r1m4t2p2=Silver Alloy |r1m4t2p2flag= |r1m4t2score=0
+|r1m4win=1
+
+|r1m5t1p1=MikeHaze |r1m5t1p1flag=us
+|r1m5t1p2=Zoso |r1m5t1p2flag=us |r1m5t1score={{win}}
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=
+|r1m5win=1
+
+|r1m6t1p1=LightningJG |r1m6t1p1flag=us
+|r1m6t1p2=darwin |r1m6t1p2flag=us |r1m6t1score=1
+|r1m6t2p1=Accomplice |r1m6t2p1flag=us
+|r1m6t2p2=GoodleShoes |r1m6t2p2flag=us |r1m6t2score=2
+|r1m6win=2
+
+|r1m7t1p1=Hungry Pigeon |r1m7t1p1flag=us
+|r1m7t1p2=vortex |r1m7t1p2flag=us |r1m7t1score={{win}}
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=
+|r1m7win=1
+
+|r1m8t1p1=Rold Gold |r1m8t1p1flag=us
+|r1m8t1p2=Hoodcash |r1m8t1p2flag=us |r1m8t1score=2
+|r1m8t2p1=Syco |r1m8t2p1flag=
+|r1m8t2p2=Poonslayer7 |r1m8t2p2flag=us |r1m8t2score=1
+|r1m8win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Colbol |r2m1t1p1flag=us
+|r2m1t1p2=Slox |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Jmook |r2m1t2p1flag=us
+|r2m1t2p2=Patches |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=Pig |r2m2t1p1flag=us
+|r2m2t1p2=GSO |r2m2t1p2flag=us |r2m2t1score=2
+|r2m2t2p1=Jank |r2m2t2p1flag=us
+|r2m2t2p2=PikaPika! |r2m2t2p2flag= |r2m2t2score=1
+|r2m2win=1
+
+|r2m3t1p1=MikeHaze |r2m3t1p1flag=us
+|r2m3t1p2=Zoso |r2m3t1p2flag=us |r2m3t1score=2
+|r2m3t2p1=Accomplice |r2m3t2p1flag=us
+|r2m3t2p2=GoodleShoes |r2m3t2p2flag=us |r2m3t2score=0
+|r2m3win=1
+
+|r2m4t1p1=Hungry Pigeon |r2m4t1p1flag=us
+|r2m4t1p2=vortex |r2m4t1p2flag=us |r2m4t1score=2
+|r2m4t2p1=Rold Gold |r2m4t2p1flag=us
+|r2m4t2p2=Hoodcash |r2m4t2p2flag=us |r2m4t2score=0
+|r2m4win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Colbol |r3m1t1p1flag=us
+|r3m1t1p2=Slox |r3m1t1p2flag=us |r3m1t1score=2
+|r3m1t2p1=Pig |r3m1t2p1flag=us
+|r3m1t2p2=GSO |r3m1t2p2flag=us |r3m1t2score=0
+|r3m1win=1
+
+|r3m2t1p1=MikeHaze |r3m2t1p1flag=us
+|r3m2t1p2=Zoso |r3m2t1p2flag=us |r3m2t1score=2
+|r3m2t2p1=Hungry Pigeon |r3m2t2p1flag=us
+|r3m2t2p2=vortex |r3m2t2p2flag=us |r3m2t2score=0
+|r3m2win=1
+}}
+==Losers Bracket==
+{{12DEDoublesLBracketSmwA
+|tourneylink=NEW FISH/Melee
+|tourneyname=NEW FISH
+|l1placement=9-12
+|l2placement=7-8
+|l3placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Rold Gold |l1m1t1p1flag=us
+|l1m1t1p2=Hoodcash |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=trilok |l1m1t2p1flag=us
+|l1m1t2p2=Panzy |l1m1t2p2flag=us |l1m1t2score=0
+|l1m1win=1
+
+|l1m2t1p1=Accomplice |l1m2t1p1flag=us
+|l1m2t1p2=GoodleShoes |l1m2t1p2flag=us |l1m2t1score=0
+|l1m2t2p1=Icylight |l1m2t2p1flag=us
+|l1m2t2p2=Silver Alloy |l1m2t2p2flag= |l1m2t2score=2
+|l1m2win=2
+
+|l1m3t1p1=Jank |l1m3t1p1flag=us
+|l1m3t1p2=PikaPika! |l1m3t1p2flag= |l1m3t1score=2
+|l1m3t2p1=LightningJG |l1m3t2p1flag=us
+|l1m3t2p2=darwin |l1m3t2p2flag=us |l1m3t2score=1
+|l1m3win=1
+
+|l1m4t1p1=Jmook |l1m4t1p1flag=us
+|l1m4t1p2=Patches |l1m4t1p2flag=us |l1m4t1score=2
+|l1m4t2p1=Syco |l1m4t2p1flag=
+|l1m4t2p2=Poonslayer7 |l1m4t2p2flag=us |l1m4t2score=1
+|l1m4win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Rold Gold |l2m1t1p1flag=us
+|l2m1t1p2=Hoodcash |l2m1t1p2flag=us |l2m1t1score=2
+|l2m1t2p1=Icylight |l2m1t2p1flag=us
+|l2m1t2p2=Silver Alloy |l2m1t2p2flag= |l2m1t2score=0
+|l2m1win=1
+
+|l2m2t1p1=Jank |l2m2t1p1flag=us
+|l2m2t1p2=PikaPika! |l2m2t1p2flag= |l2m2t1score=1
+|l2m2t2p1=Jmook |l2m2t2p1flag=us
+|l2m2t2p2=Patches |l2m2t2p2flag=us |l2m2t2score=2
+|l2m2win=2
+
+<!-- ROUND 3 -->
+|l3m1t1p1=Pig |l3m1t1p1flag=us
+|l3m1t1p2=GSO |l3m1t1p2flag=us |l3m1t1score=2
+|l3m1t2p1=Rold Gold |l3m1t2p1flag=us
+|l3m1t2p2=Hoodcash |l3m1t2p2flag=us |l3m1t2score=0
+|l3m1win=1
+
+|l3m2t1p1=Hungry Pigeon |l3m2t1p1flag=us
+|l3m2t1p2=vortex |l3m2t1p2flag=us |l3m2t1score=2
+|l3m2t2p1=Jmook |l3m2t2p1flag=us
+|l3m2t2p2=Patches |l3m2t2p2flag=us |l3m2t2score=0
+|l3m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=NEW FISH/Melee
+|tourneyname=NEW FISH
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Colbol |r1m1t1p1flag=us
+|r1m1t1p2=Slox |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=MikeHaze |r1m1t2p1flag=us
+|r1m1t2p2=Zoso |r1m1t2p2flag=us |r1m1t2score=1
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Pig |l1m1t1p1flag=us
+|l1m1t1p2=GSO |l1m1t1p2flag=us |l1m1t1score=0
+|l1m1t2p1=Hungry Pigeon |l1m1t2p1flag=us
+|l1m1t2p2=vortex |l1m1t2p2flag=us |l1m1t2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=MikeHaze |r2m1t1p1flag=us
+|r2m1t1p2=Zoso |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Hungry Pigeon |r2m1t2p1flag=us
+|r2m1t2p2=vortex |r2m1t2p2flag=us |r2m1t2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Colbol |r3m1t1p1flag=us
+|r3m1t1p2=Slox |r3m1t1p2flag=us |r3m1t1score=3 |r3m2t1score=
+|r3m1t2p1=MikeHaze |r3m1t2p1flag=us
+|r3m1t2p2=Zoso |r3m1t2p2flag=us |r3m1t2score=2 |r3m2t2score=
+|r3m1win=1
+}}</onlyinclude>

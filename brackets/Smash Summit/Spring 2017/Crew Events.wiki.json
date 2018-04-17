@@ -1,0 +1,40 @@
+{
+    "====Finals====": {},
+    "====Quarterfinals====": {},
+    "====Semifinals====": {},
+    "===Bracket===": {
+        "r1m1": {
+            "p1": "Team Beer",
+            "p1flag": "",
+            "p1score": "19",
+            "p2": "L o s L e f f o s 2.0",
+            "p2flag": "",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r1m2": {
+            "p1": "Meme Teme",
+            "p1flag": "",
+            "p1score": "20",
+            "p2": "The Armadas",
+            "p2flag": "",
+            "p2score": "18",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "L o s L e f f o s 2.0",
+            "p1flag": "",
+            "p1score": "20",
+            "p2": "Meme Teme",
+            "p2flag": "",
+            "p2score": "18",
+            "win": "1"
+        }
+    },
+    "===Crews===": {},
+    "===Format===": {},
+    "===Match Details===": {},
+    "===Participants===": {},
+    "==Draft Crew Battles==": {},
+    "==Low Tier Iron Man==": {}
+}

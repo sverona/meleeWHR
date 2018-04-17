@@ -1,0 +1,292 @@
+{{DISPLAYTITLE:MLG Long Island 2007: Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=MLG/2007/Long Island
+|name2=Singles Bracket
+|link2=MLG/2007/Long Island/Singles Bracket
+|This=2
+}}<br/>
+==Winners Bracket==
+{{16DEWBracketA2
+|tourneylink=MLG/2007/Long Island
+|tourneyname=MLG Long Island 2007
+|column-width=180
+
+<!-- Ro16 -->
+|r1m1p1=PC Chris |r1m1p1flag=us |r1m1p1score={{win}}
+|r1m1p2=Dave |r1m1p2flag=us |r1m1p2score=
+|r1m1win=1
+
+|r1m2p1=Alejandro P |r1m2p1flag=us |r1m2p1score=
+|r1m2p2=Husband |r1m2p2flag=us |r1m2p2score={{win}}
+|r1m2win=2
+
+|r1m3p1=Isai |r1m3p1flag=us |r1m3p1score=1
+|r1m3p2=Bum |r1m3p2flag=us |r1m3p2score=3
+|r1m3win=2
+|r1m3p1char1=cf |r1m3p2char1=dk |r1m3p1stock1=0 |r1m3p2stock1=2 |r1m3win1=2 |r1m3stage1=Dream Land
+|r1m3p1char2=cf |r1m3p2char2=dk |r1m3p1stock2=1 |r1m3p2stock2=0 |r1m3win2=1 |r1m3stage2=Poké Floats
+|r1m3p1char3=cf |r1m3p2char3=dk |r1m3p1stock3=0 |r1m3p2stock3=2 |r1m3win3=2 |r1m3stage3=Brinstar
+|r1m3p1char4=cf |r1m3p2char4=dk |r1m3p1stock4=0 |r1m3p2stock4=2 |r1m3win4=2 |r1m3stage4=Pokémon Stadium
+|r1m3details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/L_h_Vzv2LEU|vodgame2=https://youtu.be/HsrlqfrIOo0|vodgame3=https://youtu.be/kHFqHbsvLkE|vodgame4=https://youtu.be/b0nGe37g4xw}}
+
+|r1m4p1=Ace Marth |r1m4p1flag=us |r1m4p1score=
+|r1m4p2=Mew2King |r1m4p2flag=us |r1m4p2score={{win}}
+|r1m4win=2
+
+|r1m5p1=KoreanDJ |r1m5p1flag=us |r1m5p1score={{win}}
+|r1m5p2=WarriorKnight |r1m5p2flag=us |r1m5p2score=
+|r1m5win=1
+
+|r1m6p1=DJ Nintendo |r1m6p1flag=us |r1m6p1score=
+|r1m6p2=Plank |r1m6p2flag=us |r1m6p2score={{win}}
+|r1m6win=2
+
+|r1m7p1=Chillin |r1m7p1flag=us |r1m7p1score={{win}}
+|r1m7p2=KillaFox |r1m7p2flag=us |r1m7p2score=
+|r1m7win=1
+
+|r1m8p1=Hayato |r1m8p1flag=us |r1m8p1score=1
+|r1m8p2=ChuDat |r1m8p2flag=us |r1m8p2score=3
+|r1m8win=2
+|r1m8p1char1=sheik |r1m8p2char1=ic |r1m8p1stock1=0 |r1m8p2stock1=2 |r1m8win1=2 |r1m8stage1=Pokémon Stadium
+|r1m8p1char2=doc |r1m8p2char2=pikachu |r1m8p1stock2=1 |r1m8p2stock2=0 |r1m8win2=1 |r1m8stage2=Final Destination
+|r1m8p1char3=doc |r1m8p2char3=ic |r1m8p1stock3=0 |r1m8p2stock3=2 |r1m8win3=2 |r1m8stage3=Final Destination
+|r1m8p1char4=doc |r1m8p2char4=ic |r1m8p1stock4=0 |r1m8p2stock4=1 |r1m8win4=2 |r1m8stage4=Final Destination
+|r1m8details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/iK9b64RSnV0|vodgame2=https://youtu.be/vxZActUZuwo|vodgame3=https://youtu.be/1CkR6ojASl0|vodgame4=https://youtu.be/zpBwCYhnJPU}}
+
+<!-- QUARTERFINALS -->
+|r2m1p1=PC Chris |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Husband |r2m1p2flag=us |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=fox |r2m1p2char1=marth |r2m1p1stock1=2 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=fox |r2m1p2char2=marth |r2m1p1stock2=2 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1p1char3=fox |r2m1p2char3=marth |r2m1p1stock3=1 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Pokémon Stadium
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/To58c9OvVSk|vodgame2=https://youtu.be/cicI0PFLO7w|vodgame3=https://youtu.be/0eld-koUwCY}}
+
+|r2m2p1=Bum |r2m2p1flag=us |r2m2p1score=1
+|r2m2p2=Mew2King |r2m2p2flag=us |r2m2p2score=3
+|r2m2win=2
+|r2m2p1char1=dk |r2m2p2char1=fox |r2m2p1stock1=0 |r2m2p2stock1=1 |r2m2win1=2 |r2m2stage1=Final Destination
+|r2m2p1char2=dk |r2m2p2char2=fox |r2m2p1stock2=0 |r2m2p2stock2=1 |r2m2win2=2 |r2m2stage2=Brinstar
+|r2m2p1char3=dk |r2m2p2char3=fox |r2m2p1stock3=2 |r2m2p2stock3=0 |r2m2win3=1 |r2m2stage3=Kongo Jungle
+|r2m2p1char4=dk |r2m2p2char4=fox |r2m2p1stock4=0 |r2m2p2stock4=1 |r2m2win4=2 |r2m2stage4=Poké Floats
+|r2m2details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/nHwV8L01p54|vodgame2=https://youtu.be/P8kdJ9uNmKo|vodgame3=https://youtu.be/wQmDjnvFr70|vodgame4=https://youtu.be/ac96LgHKKD4}}
+
+|r2m3p1=KoreanDJ |r2m3p1flag=us |r2m3p1score={{win}}
+|r2m3p2=Plank |r2m3p2flag=us |r2m3p2score=
+|r2m3win=1
+
+|r2m4p1=Chillin |r2m4p1flag=us |r2m4p1score=1
+|r2m4p2=ChuDat |r2m4p2flag=us |r2m4p2score=3
+|r2m4win=2
+|r2m4p1char1=fox |r2m4p2char1=ic |r2m4p1stock1=0 |r2m4p2stock1=2 |r2m4win1=2 |r2m4stage1=Dream Land
+|r2m4p1char2=fox |r2m4p2char2=ic |r2m4p1stock2=0 |r2m4p2stock2=2 |r2m4win2=2 |r2m4stage2=Yoshi's Story
+|r2m4p1char3=fox |r2m4p2char3=ic |r2m4p1stock3=2 |r2m4p2stock3=0 |r2m4win3=1 |r2m4stage3=Fountain of Dreams
+|r2m4p1char4=fox |r2m4p2char4=ic |r2m4p1stock4=0 |r2m4p2stock4=2 |r2m4win4=2 |r2m4stage4=Final Destination
+|r2m4details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/0eIZ6k2_d9U|vodgame2=https://youtu.be/EbmV1aHyMgU|vodgame3=https://youtu.be/C4AhqaZ9GEg|vodgame4=https://youtu.be/V2kaicmxcag}}
+
+<!-- SEMIFINALS -->
+|r3m1p1=PC Chris |r3m1p1flag=us |r3m1p1score=0
+|r3m1p2=Mew2King |r3m1p2flag=us |r3m1p2score=3
+|r3m1win=2
+|r3m1p1char1=falco |r3m1p2char1=marth |r3m1p1stock1=0 |r3m1p2stock1=1 |r3m1win1=2 |r3m1stage1=Battlefield
+|r3m1p1char2=falco |r3m1p2char2=marth |r3m1p1stock2=0 |r3m1p2stock2=3 |r3m1win2=2 |r3m1stage2=Yoshi's Story
+|r3m1p1char3=sheik |r3m1p2char3=marth |r3m1p1stock3=0 |r3m1p2stock3=2 |r3m1win3=2 |r3m1stage3=Dream Land
+|r3m1p1char4= |r3m1p2char4= |r3m1p1stock4= |r3m1p2stock4= |r3m1win4= |r3m1stage4=
+|r3m1p1char5= |r3m1p2char5= |r3m1p1stock5= |r3m1p2stock5= |r3m1win5= |r3m1stage5=
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|lrthread=|vodgame1=https://www.youtube.com/watch?v=tuREBIwqbu0|vodgame2=https://www.youtube.com/watch?v=4YPztTWKFkI|vodgame3=https://www.youtube.com/watch?v=QNrGuYYHTyw}}
+
+|r3m2p1=KoreanDJ |r3m2p1flag=us |r3m2p1score=3
+|r3m2p2=ChuDat |r3m2p2flag=us |r3m2p2score=0
+|r3m2win=1
+|r3m2p1char1=marth |r3m2p2char1=ic |r3m2p1stock1=2 |r3m2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2p1char2=marth |r3m2p2char2=pikachu |r3m2p1stock2=2 |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Yoshi's Story
+|r3m2p1char3=marth |r3m2p2char3=ic |r3m2p1stock3=1 |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Final Destination
+|r3m2p1char4= |r3m2p2char4= |r3m2p1stock4= |r3m2p2stock4= |r3m2win4= |r3m2stage4=
+|r3m2p1char5= |r3m2p2char5= |r3m2p1stock5= |r3m2p2stock5= |r3m2win5= |r3m2stage5=
+|r3m2date=
+|r3m2finished=
+|r3m2details={{BracketMatchDetails|lrthread=|vodgame1=https://www.youtube.com/watch?v=sr2fS9-570k|vodgame2=https://www.youtube.com/watch?v=xlFBybaDEK8|vodgame3=https://www.youtube.com/watch?v=SZoqQP9L49Y}}
+}}
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=MLG/2007/Long Island
+|tourneyname=MLG Long Island 2007
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=
+|column-width=190
+
+<!-- Round 1 -->
+|l1m1p1=Dave |l1m1p1flag=us |l1m1p1score=
+|l1m1p2=Alejandro P |l1m1p2flag=us |l1m1p2score={{win}}
+|l1m1win=2
+
+|l1m2p1=Isai |l1m2p1flag=us |l1m2p1score={{win}}
+|l1m2p2=Ace Marth |l1m2p2flag=us |l1m2p2score= 
+|l1m2win=1
+
+|l1m3p1=WarriorKnight |l1m3p1flag=us |l1m3p1score={{win}}
+|l1m3p2=DJ Nintendo |l1m3p2flag=us |l1m3p2score=
+|l1m3win=1
+
+|l1m4p1=KillaFox |l1m4p1flag=us |l1m4p1score={{win}}
+|l1m4p2=Hayato |l1m4p2flag=us |l1m4p2score= 
+|l1m4win=1
+
+<!-- Round 2 -->
+|l2m1p1=Chillin |l2m1p1flag=us |l2m1p1score={{win}}
+|l2m1p2=Alejandro P |l2m1p2flag=us |l2m1p2score=
+|l2m1win=1
+
+|l2m2p1=Plank |l2m2p1flag=us |l2m2p1score=
+|l2m2p2=Isai |l2m2p2flag=us |l2m2p2score={{win}}
+|l2m2win=2
+
+|l2m3p1=Bum |l2m3p1flag=us |l2m3p1score={{win}}
+|l2m3p2=WarriorKnight |l2m3p2flag=us |l2m3p2score=
+|l2m3win=1
+
+|l2m4p1=Husband |l2m4p1flag=us |l2m4p1score=2
+|l2m4p2=KillaFox |l2m4p2flag=us |l2m4p2score=3
+|l2m4win=2
+|l2m4p1char1=marth |l2m4p2char1=fox |l2m4p1stock1=1 |l2m4p2stock1=0 |l2m4win1=1 |l2m4stage1=Dream Land
+|l2m4p1char2=marth |l2m4p2char2=fox |l2m4p1stock2=0 |l2m4p2stock2=1 |l2m4win2=2 |l2m4stage2=Rainbow Cruise
+|l2m4p1char3=marth |l2m4p2char3=fox |l2m4p1stock3=0 |l2m4p2stock3=1 |l2m4win3=2 |l2m4stage3=Final Destination
+|l2m4p1char4=marth |l2m4p2char4=fox |l2m4p1stock4=1 |l2m4p2stock4=0 |l2m4win4=1 |l2m4stage4=Battlefield
+|l2m4p1char5=marth |l2m4p2char5=fox |l2m4p1stock5=0 |l2m4p2stock5=1 |l2m4win5=2 |l2m4stage5=Green Greens
+|l2m4details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/quwGWPUGyHM|vodgame2=https://youtu.be/j5NL3wQ6MaA|vodgame3=https://youtu.be/kFd7UBjwGUA|vodgame4=https://youtu.be/KT0Et5Ilgys|vodgame5=https://youtu.be/FZ19xca2sLw}}
+
+<!-- Round 3 -->
+|l3m1p1=Chillin |l3m1p1flag=us| l3m1p1score={{win}}
+|l3m1p2=Isai |l3m1p2flag=us| l3m1p2score=
+|l3m1win=1
+
+|l3m2p1=Bum |l3m2p1flag=us |l3m2p1score=3
+|l3m2p2=KillaFox |l3m2p2flag=us |l3m2p2score=2
+|l3m2win=1
+|l3m2p1char1=donkey kong |l3m2p2char1=fox |l3m2p1stock1=1 |l3m2p2stock1=0 |l3m2win1=1 |l3m2stage1=Fountain of Dreams
+|l3m2p1char2=donkey kong |l3m2p2char2=fox |l3m2p1stock2=2 |l3m2p2stock2=0 |l3m2win2=1 |l3m2stage2=Yoshi's Story
+|l3m2p1char3=donkey kong |l3m2p2char3=fox |l3m2p1stock3=0 |l3m2p2stock3=2 |l3m2win3=2 |l3m2stage3=Rainbow Cruise
+|l3m2p1char4=donkey kong |l3m2p2char4=fox |l3m2p1stock4=0 |l3m2p2stock4=1 |l3m2win4=2 |l3m2stage4=Dream Land
+|l3m2p1char5=donkey kong |l3m2p2char5=fox |l3m2p1stock5=2 |l3m2p2stock5=0 |l3m2win5=1 |l3m2stage5=Final Destination
+|l3m2date=
+|l3m2finished=
+|l3m2details={{BracketMatchDetails|lrthread=|vodgame1=https://www.youtube.com/watch?v=E3vE_Ec0q5s|vodgame2=https://www.youtube.com/watch?v=SNYMeXs2VIs|vodgame3=https://www.youtube.com/watch?v=pjVkR1vuNGE|vodgame4=https://www.youtube.com/watch?v=cMWRcfx9bKw|vodgame5=https://www.youtube.com/watch?v=tv0X_JLBeV8}}
+
+<!-- Round 4 -->
+|l4m1p1=PC Chris |l4m1p1flag=us |l4m1p1score={{win}}
+|l4m1p2=Chillin |l4m1p2flag=us |l4m1p2score=
+|l4m1win=1
+
+|l4m2p1=ChuDat |l4m2p1flag=us |l4m2p1score=1
+|l4m2p2=Bum |l4m2p2flag=us |l4m2p2score=3
+|l4m2win=2
+|l4m2p1char1=ic |l4m2p2char1=donkey kong |l4m2p1stock1=1 |l4m2p2stock1=0 |l4m2win1=1 |l4m2stage1=Yoshi's Story
+|l4m2p1char2=young link |l4m2p2char2=donkey kong |l4m2p1stock2=0 |l4m2p2stock2=2 |l4m2win2=2 |l4m2stage2=Rainbow Cruise
+|l4m2p1char3=pikachu |l4m2p2char3=donkey kong |l4m2p1stock3=0 |l4m2p2stock3=1 |l4m2win3=2 |l4m2stage3=Final Destination
+|l4m2p1char4=ic |l4m2p2char4=donkey kong |l4m2p1stock4=0 |l4m2p2stock4=2 |l4m2win4=2 |l4m2stage4=Jungle Japes
+|l4m2p1char5= |l4m2p2char5= |l4m2p1stock5= |l4m2p2stock5= |l4m2win5= |l4m2stage5=
+|l4m2date=
+|l4m2finished=
+|l4m2details={{BracketMatchDetails|comment=The VOD for game 4 is mislabeled as game 5.|vodgame1=https://www.youtube.com/watch?v=w-LJ7KAEy-k|vodgame2=https://www.youtube.com/watch?v=Ozs9eYlZKc0|vodgame3=https://www.youtube.com/watch?v=bHL7NBlLEJE|vodgame4=https://www.youtube.com/watch?v=A_EA7PQR55Q}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+===5th Place Match===
+{{2SEBracketSmw
+|tourneylink=MLG/2007/Long Island
+|tourneyname=MLG Long Island 2007
+|r1loserplacement=6
+|r1winnerplacement=5
+|R1=5th Place Match
+|column-width=150
+
+|r1m1p1=Chillin |r1m1p1flag=us |r1m1p1score=
+|r1m1p2=ChuDat |r1m1p2flag=us |r1m1p2score={{win}}
+|r1m1win=2
+}}
+
+===Top 4===
+{{DEFinalSmwBracket
+|tourneylink=MLG/2007/Long Island
+|tourneyname=MLG Long Island 2007
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|disableheads=true
+|column-width=150
+
+<!-- FROM WINNERS -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=0
+|r1m1p2=KoreanDJ |r1m1p2flag=us |r1m1p2score=3
+|r1m1win=2
+|r1m1p1char1=marth |r1m1p2char1=sheik |r1m1p1stock1=0 |r1m1p2stock1=1 |r1m1win1=2 |r1m1stage1=Dream Land
+|r1m1p1char2=marth |r1m1p2char2=sheik |r1m1p1stock2=0 |r1m1p2stock2=2 |r1m1win2=2 |r1m1stage2=Final Destination
+|r1m1p1char3=fox |r1m1p2char3=sheik |r1m1p1stock3=0 |r1m1p2stock3=2 |r1m1win3=2 |r1m1stage3=Final Destination
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|lrthread=|vodgame1=https://www.youtube.com/watch?v=XHgS2wSba5E|vodgame2=https://www.youtube.com/watch?v=fCH5XwufAkQ|vodgame3=https://www.youtube.com/watch?v=H5378H3UXqM}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=PC Chris |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=Bum |l1m1p2flag=us |l1m1p2score=1
+|l1m1win=1
+|l1m1p1char1=falco |l1m1p2char1=donkey kong |l1m1p1stock1=2 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Pokémon Stadium
+|l1m1p1char2=peach |l1m1p2char2=donkey kong |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Brinstar
+|l1m1p1char3=falco |l1m1p2char3=donkey kong |l1m1p1stock3=1 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Yoshi's Story
+|l1m1p1char4=falco |l1m1p2char4=donkey kong |l1m1p1stock4=2 |l1m1p2stock4=0 |l1m1win4=1 |l1m1stage4=Dream Land
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails|lrthread=|vodgame1=https://www.youtube.com/watch?v=ylU7hXB1j2o|vodgame2=https://www.youtube.com/watch?v=wjLRplaAY4Y|vodgame3=https://www.youtube.com/watch?v=RORQiKtEbv0|vodgame4=https://www.youtube.com/watch?v=RKE2ZqkqRK0}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Mew2King|r2m1p1flag=us |r2m1p1score=6
+|r2m1p2=PC Chris|r2m1p2flag=us |r2m1p2score=3
+|r2m1win=1
+|r2m1p1char1=marth |r2m1p2char1=falco |r2m1p1stock1=1 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=marth |r2m1p2char2=peach |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Dream Land
+|r2m1p1char3=marth |r2m1p2char3=cf |r2m1p1stock3=0 |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Yoshi's Story
+|r2m1p1char4=marth |r2m1p2char4=peach |r2m1p1stock4=4 |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Final Destination
+|r2m1p1char5=marth |r2m1p2char5=cf |r2m1p1stock5=0 |r2m1p2stock5=2 |r2m1win5=2 |r2m1stage5=Pokémon Stadium
+|r2m1p1char6=fox |r2m1p2char6=cf |r2m1p1stock6=2 |r2m1p2stock6=0 |r2m1win6=1 |r2m1stage6=Final Destination
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|comment=Mew2King's 3-0 in Winners' Semifinals carried over into a Bo11 series for the rematch, as per MLG rules. Mew2King won Losers' Finals after game 6, as the score was 6-3.|vodgame1=https://www.youtube.com/watch?v=Ewky1ZcpGlU|vodgame2=https://www.youtube.com/watch?v=pBiz5hM1on8|vodgame3=https://www.youtube.com/watch?v=v0cVcJCOmfQ|vodgame4=https://www.youtube.com/watch?v=6b_KiKWfHhQ|vodgame5=https://www.youtube.com/watch?v=YWJj6AzHCHY|vodgame6=https://www.youtube.com/watch?v=hfk2vgePkZs}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=KoreanDJ |r3m1p1flag=us |r3m1p1score=5
+|r3m1p2=Mew2King |r3m1p2flag=us |r3m1p2score=2
+|r3m1win=1
+|r3m1p1char1=sheik |r3m1p2char1=marth |r3m1p1stock1=0 |r3m1p2stock1=1 |r3m1win1=2 |r3m1stage1=Battlefield
+|r3m1p1char2=sheik |r3m1p2char2=marth |r3m1p1stock2=2 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Final Destination
+|r3m1p1char3=sheik |r3m1p2char3=marth |r3m1p1stock3=0 |r3m1p2stock3=2 |r3m1win3=2 |r3m1stage3=Final Destination
+|r3m1p1char4=sheik |r3m1p2char4=marth |r3m1p1stock4=2 |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Pokémon Stadium
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|comment=KoreanDJ's 3-0 win in Winners' Finals carried over into a Bo11 series for the rematch, as per MLG rules. The score after game 4 was 5-2. It is unknown whether the VODs for game 5 onwards are missing or Mew2King forfeited. The match was officially reported as finishing 6-1.<ref>{{cite web
+ | url        = http://www.majorleaguegaming.com/news/smash-series-event-1-singles-summary
+ | title      =  Smash Series Event 1 – Singles Summary 
+ | author     = 
+ | date       = 2007-05-07
+ | work       = 
+ | publisher  = Major League Gaming
+ | accessdate = 2017-03-31
+}}</ref><ref>{{cite web
+ | url        = http://tv.majorleaguegaming.com/news/second-smash-series-event-set-to-kickoff-2
+ | title      = Second Smash Series Event Set to Kickoff
+ | author     = 
+ | date       = 2007-06-15
+ | work       = 
+ | publisher  = Major League Gaming
+ | accessdate = 2017-03-31
+}}</ref>|vodgame1=https://www.youtube.com/watch?v=7ErKCoWO49k|vodgame2=https://www.youtube.com/watch?v=IlC0wlZ0C4w|vodgame3=https://www.youtube.com/watch?v=UIUdUvA_Xwc|vodgame4=https://www.youtube.com/watch?v=35D_J0jRSqE}}
+}}
+</onlyinclude>
+==References==
+{{reflist}}

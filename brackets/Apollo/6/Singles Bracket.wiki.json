@@ -1,0 +1,203 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "mayb",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "DJ Nintendo",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Swedish Delight",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Slox",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "DJ Nintendo",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "win": "1"
+        },
+        "r3m2": {
+            "p2score": ""
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "tazio",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Sunn",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Just Jason",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Makari",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Kalvar",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Kaeon",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Vino",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "JoJo",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "mayb",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Sunn",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Beerman",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Just Jason",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "2saint",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Kaeon",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Ryobeat",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Vino",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "mayb",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Beerman",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "2saint",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Ryobeat",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Zealous5000",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "mayb",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "DJ Nintendo",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "2saint",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Swedish Delight",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Ryobeat",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "2saint",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Zealous5000",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Beerman",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "DJ Nintendo",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "mayb",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Swedish Delight",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Zealous5000",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "DJ Nintendo",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        }
+    }
+}

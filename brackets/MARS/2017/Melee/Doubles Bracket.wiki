@@ -1,0 +1,123 @@
+{{DISPLAYTITLE:MARS 2017: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=MARS/2017/Melee
+|name2=Singles Bracket
+|link2=MARS/2017/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=MARS/2017/Melee/Doubles Bracket
+|This=3
+}}
+
+==Winners Bracket==
+{{8DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=BeLia |r1m1t1p1flag=fr
+|r1m1t1p2=Iñf |r1m1t1p2flag=fr |r1m1t1score=3
+|r1m1t2p1=Squall |r1m1t2p1flag=fr
+|r1m1t2p2=Tchang |r1m1t2p2flag=fr |r1m1t2score=0
+|r1m1win=1
+
+|r1m2t1p1=JiM |r1m2t1p1flag=fr
+|r1m2t1p2=MetalFox |r1m2t1p2flag=fr |r1m2t1score=3
+|r1m2t2p1=yogui |r1m2t2p1flag=fr
+|r1m2t2p2=Bobi |r1m2t2p2flag=fr |r1m2t2score=1
+|r1m2win=1
+
+|r1m3t1p1=Kid Candi |r1m3t1p1flag=fr
+|r1m3t1p2=Etril |r1m3t1p2flag=fr |r1m3t1score=3
+|r1m3t2p1=Bétamèche |r1m3t2p1flag=fr
+|r1m3t2p2=Vinz |r1m3t2p2flag=fr |r1m3t2score=0
+|r1m3win=1
+
+|r1m4t1p1=Jerem |r1m4t1p1flag=fr
+|r1m4t1p2=Meljin |r1m4t1p2flag=fr |r1m4t1score=3
+|r1m4t2p1=Rondelle |r1m4t2p1flag=fr
+|r1m4t2p2=Ezan |r1m4t2p2flag=fr |r1m4t2score=0
+|r1m4win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=BeLia |r2m1t1p1flag=fr
+|r2m1t1p2=Iñf |r2m1t1p2flag=fr |r2m1t1score=3
+|r2m1t2p1=JiM |r2m1t2p1flag=fr
+|r2m1t2p2=MetalFox |r2m1t2p2flag=fr |r2m1t2score=1
+|r2m1win=1
+
+|r2m2t1p1=Kid Candi |r2m2t1p1flag=fr
+|r2m2t1p2=Etril |r2m2t1p2flag=fr |r2m2t1score=3
+|r2m2t2p1=Jerem |r2m2t2p1flag=fr
+|r2m2t2p2=Meljin |r2m2t2p2flag=fr |r2m2t2score=1
+|r2m2win=1
+}}
+==Losers Bracket==
+{{8DEDoublesLBracketSmwA
+|tourneylink=MARS/2017/Melee
+|tourneyname=MARS 2017
+|l1placement=7-8
+|l2placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Squall |l1m1t1p1flag=fr
+|l1m1t1p2=Tchang |l1m1t1p2flag=fr |l1m1t1score=0
+|l1m1t2p1=yogui |l1m1t2p1flag=fr
+|l1m1t2p2=Bobi |l1m1t2p2flag=fr |l1m1t2score=3
+|l1m1win=2
+
+|l1m2t1p1=Bétamèche |l1m2t1p1flag=fr
+|l1m2t1p2=Vinz |l1m2t1p2flag=fr |l1m2t1score=1
+|l1m2t2p1=Rondelle |l1m2t2p1flag=fr
+|l1m2t2p2=Ezan |l1m2t2p2flag=fr |l1m2t2score=3
+|l1m2win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Jerem |l2m1t1p1flag=fr
+|l2m1t1p2=Meljin |l2m1t1p2flag=fr |l2m1t1score=3
+|l2m1t2p1=yogui |l2m1t2p1flag=fr
+|l2m1t2p2=Bobi |l2m1t2p2flag=fr |l2m1t2score=2
+|l2m1win=1
+
+|l2m2t1p1=JiM |l2m2t1p1flag=fr
+|l2m2t1p2=MetalFox |l2m2t1p2flag=fr |l2m2t1score=3
+|l2m2t2p1=Rondelle |l2m2t2p1flag=fr
+|l2m2t2p2=Ezan |l2m2t2p2flag=fr |l2m2t2score=0
+|l2m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=MARS/2017/Melee
+|tourneyname=MARS 2017
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=BeLia |r1m1t1p1flag=fr
+|r1m1t1p2=Iñf |r1m1t1p2flag=fr |r1m1t1score=3
+|r1m1t2p1=Kid Candi |r1m1t2p1flag=fr
+|r1m1t2p2=Etril |r1m1t2p2flag=fr |r1m1t2score=1
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Jerem |l1m1t1p1flag=fr
+|l1m1t1p2=Meljin |l1m1t1p2flag=fr |l1m1t1score=0
+|l1m1t2p1=JiM |l1m1t2p1flag=fr
+|l1m1t2p2=MetalFox |l1m1t2p2flag=fr |l1m1t2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Kid Candi |r2m1t1p1flag=fr
+|r2m1t1p2=Etril |r2m1t1p2flag=fr |r2m1t1score=3
+|r2m1t2p1=JiM |r2m1t2p1flag=fr
+|r2m1t2p2=MetalFox |r2m1t2p2flag=fr |r2m1t2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=BeLia |r3m1t1p1flag=fr
+|r3m1t1p2=Iñf |r3m1t1p2flag=fr |r3m1t1score=3
+|r3m1t2p1=Kid Candi |r3m1t2p1flag=fr
+|r3m1t2p2=Etril |r3m1t2p2flag=fr |r3m1t2score=2
+|r3m1win=1
+}}
+</onlyinclude>

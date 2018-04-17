@@ -1,0 +1,224 @@
+{{DISPLAYTITLE:UCI Quarterly 2: Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=UCI Quarterly/2
+|name2=Singles Bracket
+|link2=UCI Quarterly/2/Singles Bracket
+|name3=Doubles Bracket
+|link3=UCI Quarterly/2/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{16DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=MacD |r1m1t1p1flag=us
+|r1m1t1p2=Mchi |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=
+|r1m1win=1
+
+|r1m2t1p1=Guluheend |r1m2t1p1flag=us
+|r1m2t1p2=ff3 |r1m2t1p2flag=us |r1m2t1score=2
+|r1m2t2p1=Shrimp |r1m2t2p1flag=us
+|r1m2t2p2=Dom |r1m2t2p2flag=us |r1m2t2score=0
+|r1m2win=1
+
+|r1m3t1p1=Pajama Sam |r1m3t1p1flag=us
+|r1m3t1p2=ARMY |r1m3t1p2flag=us |r1m3t1score=2
+|r1m3t2p1=Ace |r1m3t2p1flag=us
+|r1m3t2p2=Liang |r1m3t2p2flag=us |r1m3t2score=0
+|r1m3win=1
+
+|r1m4t1p1=Sway |r1m4t1p1flag=us
+|r1m4t1p2=Jr |r1m4t1p2flag=us |r1m4t1score=2
+|r1m4t2p1=Karmageddon |r1m4t2p1flag=us
+|r1m4t2p2=Manny396 |r1m4t2p2flag= |r1m4t2score=0
+|r1m4win=1
+
+|r1m5t1p1=PsychoMidget |r1m5t1p1flag=us
+|r1m5t1p2=Squid |r1m5t1p2flag=us |r1m5t1score={{win}}
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=
+|r1m5win=1
+
+|r1m6t1p1=Punk |r1m6t1p1flag=us
+|r1m6t1p2=Dr. Light |r1m6t1p2flag=us |r1m6t1score=2
+|r1m6t2p1=MoistRock |r1m6t2p1flag=us
+|r1m6t2p2=vertiqued |r1m6t2p2flag=us |r1m6t2score=0
+|r1m6win=1
+
+|r1m7t1p1=Captain Smuckers |r1m7t1p1flag=us
+|r1m7t1p2=DonB |r1m7t1p2flag=au |r1m7t1score=2
+|r1m7t2p1=Trah |r1m7t2p1flag=us
+|r1m7t2p2=scoop |r1m7t2p2flag=us |r1m7t2score=0
+|r1m7win=1
+
+|r1m8t1p1=BlueBuddy |r1m8t1p1flag=us
+|r1m8t1p2=Trichael Man |r1m8t1p2flag=us |r1m8t1score=2
+|r1m8t2p1=Tartsono |r1m8t2p1flag=us
+|r1m8t2p2=Dewnine |r1m8t2p2flag=us |r1m8t2score=0
+|r1m8win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=MacD |r2m1t1p1flag=us
+|r2m1t1p2=Mchi |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Guluheend |r2m1t2p1flag=us
+|r2m1t2p2=ff3 |r2m1t2p2flag=us |r2m1t2score=1
+|r2m1win=1
+
+|r2m2t1p1=Pajama Sam |r2m2t1p1flag=us
+|r2m2t1p2=ARMY |r2m2t1p2flag=us |r2m2t1score=2
+|r2m2t2p1=Sway |r2m2t2p1flag=us
+|r2m2t2p2=Jr |r2m2t2p2flag=us |r2m2t2score=1
+|r2m2win=1
+
+|r2m3t1p1=PsychoMidget |r2m3t1p1flag=us
+|r2m3t1p2=Squid |r2m3t1p2flag=us |r2m3t1score=2
+|r2m3t2p1=Punk |r2m3t2p1flag=us
+|r2m3t2p2=Dr. Light |r2m3t2p2flag=us |r2m3t2score=0
+|r2m3win=1
+
+|r2m4t1p1=Captain Smuckers |r2m4t1p1flag=us
+|r2m4t1p2=DonB |r2m4t1p2flag=au |r2m4t1score=2
+|r2m4t2p1=BlueBuddy |r2m4t2p1flag=us
+|r2m4t2p2=Trichael Man |r2m4t2p2flag=us |r2m4t2score=1
+|r2m4win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=MacD |r3m1t1p1flag=us
+|r3m1t1p2=Mchi |r3m1t1p2flag=us |r3m1t1score=3
+|r3m1t2p1=Pajama Sam |r3m1t2p1flag=us
+|r3m1t2p2=ARMY |r3m1t2p2flag=us |r3m1t2score=0
+|r3m1win=1
+
+|r3m2t1p1=PsychoMidget |r3m2t1p1flag=us
+|r3m2t1p2=Squid |r3m2t1p2flag=us |r3m2t1score=3
+|r3m2t2p1=Captain Smuckers |r3m2t2p1flag=us
+|r3m2t2p2=DonB |r3m2t2p2flag=au |r3m2t2score=1
+|r3m2win=1
+}}
+==Losers Bracket==
+{{16DEDoublesLBracketSmwA
+|column-width=160
+|tourneylink=UCI Quarterly/2
+|tourneyname=UCI Quarterly 2
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Bye |l1m1t1p1flag=
+|l1m1t1p2=Bye |l1m1t1p2flag= |l1m1t1score=
+|l1m1t2p1=Shrimp |l1m1t2p1flag=us
+|l1m1t2p2=Dom |l1m1t2p2flag=us |l1m1t2score={{win}}
+|l1m1win=2
+
+|l1m2t1p1=Ace |l1m2t1p1flag=us
+|l1m2t1p2=Liang |l1m2t1p2flag=us |l1m2t1score=2
+|l1m2t2p1=Karmageddon |l1m2t2p1flag=us
+|l1m2t2p2=Manny396 |l1m2t2p2flag= |l1m2t2score=0
+|l1m2win=1
+
+|l1m3t1p1=Bye |l1m3t1p1flag=
+|l1m3t1p2=Bye |l1m3t1p2flag= |l1m3t1score=
+|l1m3t2p1=MoistRock |l1m3t2p1flag=us
+|l1m3t2p2=vertiqued |l1m3t2p2flag=us |l1m3t2score={{win}}
+|l1m3win=2
+
+|l1m4t1p1=Trah |l1m4t1p1flag=us
+|l1m4t1p2=scoop |l1m4t1p2flag=us |l1m4t1score=2
+|l1m4t2p1=Tartsono |l1m4t2p1flag=us
+|l1m4t2p2=Dewnine |l1m4t2p2flag=us |l1m4t2score=0
+|l1m4win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=BlueBuddy |l2m1t1p1flag=us
+|l2m1t1p2=Trichael Man |l2m1t1p2flag=us |l2m1t1score=2
+|l2m1t2p1=Shrimp |l2m1t2p1flag=us
+|l2m1t2p2=Dom |l2m1t2p2flag=us |l2m1t2score=0
+|l2m1win=1
+
+|l2m2t1p1=Punk |l2m2t1p1flag=us
+|l2m2t1p2=Dr. Light |l2m2t1p2flag=us |l2m2t1score=2
+|l2m2t2p1=Ace |l2m2t2p1flag=us
+|l2m2t2p2=Liang |l2m2t2p2flag=us |l2m2t2score=0
+|l2m2win=1
+
+|l2m3t1p1=Sway |l2m3t1p1flag=us
+|l2m3t1p2=Jr |l2m3t1p2flag=us |l2m3t1score=2
+|l2m3t2p1=MoistRock |l2m3t2p1flag=us
+|l2m3t2p2=vertiqued |l2m3t2p2flag=us |l2m3t2score=0
+|l2m3win=1
+
+|l2m4t1p1=Guluheend |l2m4t1p1flag=us
+|l2m4t1p2=ff3 |l2m4t1p2flag=us |l2m4t1score=2
+|l2m4t2p1=Trah |l2m4t2p1flag=us
+|l2m4t2p2=scoop |l2m4t2p2flag=us |l2m4t2score=0
+|l2m4win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=BlueBuddy |l3m1t1p1flag=us
+|l3m1t1p2=Trichael Man |l3m1t1p2flag=us |l3m1t1score=0
+|l3m1t2p1=Punk |l3m1t2p1flag=us
+|l3m1t2p2=Dr. Light |l3m1t2p2flag=us |l3m1t2score=2
+|l3m1win=2
+
+|l3m2t1p1=Sway |l3m2t1p1flag=us
+|l3m2t1p2=Jr |l3m2t1p2flag=us |l3m2t1score=0
+|l3m2t2p1=Guluheend |l3m2t2p1flag=us
+|l3m2t2p2=ff3 |l3m2t2p2flag=us |l3m2t2score=2
+|l3m2win=2
+
+<!-- ROUND 4 -->
+|l4m1t1p1=Pajama Sam |l4m1t1p1flag=us
+|l4m1t1p2=ARMY |l4m1t1p2flag=us |l4m1t1score=3
+|l4m1t2p1=Punk |l4m1t2p1flag=us
+|l4m1t2p2=Dr. Light |l4m1t2p2flag=us |l4m1t2score=1
+|l4m1win=1
+
+|l4m2t1p1=Captain Smuckers |l4m2t1p1flag=us
+|l4m2t1p2=DonB |l4m2t1p2flag=au |l4m2t1score=3
+|l4m2t2p1=Guluheend |l4m2t2p1flag=us
+|l4m2t2p2=ff3 |l4m2t2p2flag=us |l4m2t2score=1
+|l4m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=UCI Quarterly/2
+|tourneyname=UCI Quarterly 2
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=MacD |r1m1t1p1flag=us
+|r1m1t1p2=Mchi |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=PsychoMidget |r1m1t2p1flag=us
+|r1m1t2p2=Squid |r1m1t2p2flag=us |r1m1t2score=2
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Pajama Sam |l1m1t1p1flag=us
+|l1m1t1p2=ARMY |l1m1t1p2flag=us |l1m1t1score=1
+|l1m1t2p1=Captain Smuckers |l1m1t2p1flag=us
+|l1m1t2p2=DonB |l1m1t2p2flag=au |l1m1t2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=PsychoMidget |r2m1t1p1flag=us
+|r2m1t1p2=Squid |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Captain Smuckers |r2m1t2p1flag=us
+|r2m1t2p2=DonB |r2m1t2p2flag=au |r2m1t2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=MacD |r3m1t1p1flag=us
+|r3m1t1p2=Mchi |r3m1t1p2flag=us |r3m1t1score=2 |r3m2t1score=3
+|r3m1t2p1=PsychoMidget |r3m1t2p1flag=us
+|r3m1t2p2=Squid |r3m1t2p2flag=us |r3m1t2score=3 |r3m2t2score=0
+|r3m1win=1
+}}
+</onlyinclude>

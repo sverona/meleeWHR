@@ -1,0 +1,607 @@
+{{DISPLAYTITLE:DreamHack Winter 2015: Doubles Pools}}
+{{DreamHack Winter 2015 Tabs|This=4}}__NOTOC__
+
+==Group A==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Armada |player1b=Android |player1flag=se |player1bflag=se |player1bg=up|player1_w=5|player1_l=0
+|player2=Acurutax |player2b=Hazard |player2flag=no |player2bflag= |player2bg=down|player2_w=2|player2_l=3
+|player3=Oats |player3b=The Crimson Blur |player3flag=gb |player3bflag=us |player3bg=up|player3_w=4|player3_l=1
+|player4=RashAttack |player4b=Adamkex |player4flag=sd |player4bflag= |player4bg=down|player4_w=1|player4_l=4
+|player5=Com |player5b=Blayd |player5flag=de |player5bflag= |player5bg=down|player5_w=0|player5_l=5
+|player6=Shloub |player6b=Jeffz0r |player6flag=fr |player6bflag= |player6bg=down|player6_w=3|player6_l=2
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=2|2vs4resultvs=1
+|2vs5result=2|2vs5resultvs=1
+|2vs6result=0|2vs6resultvs=2
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=2|4vs5resultvs=1
+|4vs6result=0|4vs6resultvs=2
+
+<!--Games of Player 5-->
+|5vs6result=0|5vs6resultvs=2
+
+}}
+
+==Group B==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Leffen |player1b=Ice |player1flag=se |player1bflag=de |player1bg=up|player1_w=5|player1_l=0
+|player2=Lorenzo |player2b=OolongT |player2flag=gb |player2bflag= |player2bg=down|player2_w=1|player2_l=4
+|player3=Salevits |player3b=MasterTK |player3flag=fi |player3bflag= |player3bg=up|player3_w=4|player3_l=1
+|player4=Moosie |player4b=TonyMalone |player4flag=se |player4bflag= |player4bg=down|player4_w=3|player4_l=2
+|player5=Dragos |player5b=Yalangur |player5flag=se |player5bflag= |player5bg=down|player5_w=2|player5_l=3
+|player6=suckmidick |player6b=suckurdick |player6flag=no |player6bflag= |player6bg=down|player6_w=0|player6_l=5
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=1|1vs3resultvs=0
+|1vs4result=1|1vs4resultvs=0
+|1vs5result=1|1vs5resultvs=0
+|1vs6result=1|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=0|2vs4resultvs=2
+|2vs5result=1|2vs5resultvs=2
+|2vs6result=2|2vs6resultvs=0
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=1|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=2|4vs5resultvs=0
+|4vs6result=2|4vs6resultvs=0
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+
+}}
+==Group C==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Hungrybox |player1b=Axe |player1flag=us |player1bflag=us |player1bg=up|player1_w=5|player1_l=0
+|player2=Surrealista |player2b=MrTom |player2flag=es |player2bflag= |player2bg=down|player2_w=2|player2_l=3
+|player3=R23 |player3b=X1 |player3flag=gb |player3bflag= |player3bg=up|player3_w=4|player3_l=1
+|player4=Supergoomba |player4b=CTN |player4flag=nl |player4bflag= |player4bg=down|player4_w=2|player4_l=3
+|player5=Glaz |player5b=Nils |player5flag=se |player5bflag= |player5bg=down|player5_w=2|player5_l=3
+|player6=Pandoz |player6b=C3 |player6flag=se |player6bflag= |player6bg=down|player6_w=0|player6_l=5
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=1|1vs3resultvs=0
+|1vs4result=1|1vs4resultvs=0
+|1vs5result=1|1vs5resultvs=0
+|1vs6result=1|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=1
+|2vs4result=1|2vs4resultvs=0
+|2vs5result=0|2vs5resultvs=1
+|2vs6result=1|2vs6resultvs=0
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=1|3vs5resultvs=0
+|3vs6result=1|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=1|4vs5resultvs=0
+|4vs6result=2|4vs6resultvs=0
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+
+}}
+==Group D==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Mango |player1b=S2J |player1flag=us |player1bflag=us |player1bg=up
+|player2=Mel Gimpson |player2b=Keanu Reads |player2flag=nl |player2bflag= |player2bg=down
+|player3=Schmep |player3b=JohnKorv |player3flag=se |player3bflag= |player3bg=down
+|player4=TFU |player4b=wrecksan |player4flag=gb |player4bflag= |player4bg=down
+|player5=Mums |player5b=Zing |player5flag=se |player5bflag= |player5bg=up
+|player6=Picassu |player6b=Joel |player6flag=fi |player6bflag= |player6bg=down
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=1|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=1|1vs5resultvs=0
+|1vs6result=1|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=1
+|2vs4result=0|2vs4resultvs=1
+|2vs5result=1|2vs5resultvs=2
+|2vs6result=1|2vs6resultvs=0
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=0|3vs5resultvs=1
+|3vs6result=1|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=1
+|4vs6result=1|4vs6resultvs=0
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=1
+
+}}
+
+==Group E==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Shroomed |player1b=MacD |player1flag=us |player1bflag=us |player1bg=up
+|player2=JMG |player2b=23 |player2flag=fr |player2bflag= |player2bg=up
+|player3=Rondelle |player3b=Joanna Dark |player3flag=fr |player3bflag= |player3bg=down|player3link=false
+|player4=Sheep |player4b=Wingus |player4flag=gb |player4bflag= |player4bg=down
+|player5=Ludderix |player5b=Gale |player5flag=se |player5bflag= |player5bg=down
+|player6=Bez |player6b=Bomb |player6flag=se |player6bflag= |player6bg=down
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=1|1vs3resultvs=0
+|1vs4result=1|1vs4resultvs=0
+|1vs5result=1|1vs5resultvs=0
+|1vs6result=1|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=1|2vs3resultvs=2
+|2vs4result=2|2vs4resultvs=0
+|2vs5result=2|2vs5resultvs=1
+|2vs6result=2|2vs6resultvs=0
+
+<!--Games of Player 3-->
+|3vs4result=0|3vs4resultvs=2
+|3vs5result=1|3vs5resultvs=0
+|3vs6result=1|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=1
+|4vs6result=0|4vs6resultvs=1
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+
+}}
+
+==Group F==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Plup |player1b=Wizzrobe |player1flag=us |player1bflag=us |player1bg=up
+|player2=Zeal |player2b=Vstrike |player2flag=de |player2bflag= |player2bg=down
+|player3=FA0 |player3b=Daydee |player3flag=se |player3bflag= |player3bg=up
+|player4=Ducker |player4b=Draz |player4flag=gb |player4bflag= |player4bg=down
+|player5=Padoki |player5b=GNDY |player5flag=se |player5bflag= |player5bg=down
+|player6=Krisseh |player6b=Ash |player6flag=se |player6bflag= |player6bg=down
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=2|2vs4resultvs=0
+|2vs5result=1|2vs5resultvs=2
+|2vs6result=2|2vs6resultvs=1
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=2|4vs6resultvs=1
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=1
+
+}}
+
+==Group G==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=SFAT |player1b=Reno |player1flag=us |player1bflag=us |player1bg=up
+|player2=Despair |player2b=Hope |player2flag=se |player2bflag= |player2bg=down
+|player3=Beat |player3b=Volvo |player3flag=se |player3bflag= |player3bg=up|player3link=false
+|player4=Chip |player4b=Dayman |player4flag=gb |player4bflag= |player4bg=down
+|player5=Sebovich |player5b=Ganz |player5flag=se |player5bflag= |player5bg=down
+|player6=Ari |player6b=Chi |player6flag=se |player6bflag= |player6bg=down
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=1|1vs3resultvs=0
+|1vs4result=1|1vs4resultvs=0
+|1vs5result=1|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=1
+|2vs4result=1|2vs4resultvs=0
+|2vs5result=0|2vs5resultvs=1
+|2vs6result=0|2vs6resultvs=1
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=1|3vs5resultvs=0
+|3vs6result=1|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=1
+|4vs6result=0|4vs6resultvs=1
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+
+}}
+
+==Group H==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Amsah |player1b=Jeapie |player1flag=nl |player1bflag= |player1bg=up
+|player2=EndOfStory |player2b=Alexander |player2flag=de |player2bflag= |player2bg=down
+|player3=Sverre |player3b=MikeHaggarKJ |player3flag=se |player3bflag= |player3bg=up
+|player4=Tenwa |player4b=Gustavo |player4flag=se |player4bflag= |player4bg=down
+|player5=saska |player5b=hopo |player5flag=fi |player5bflag= |player5bg=down
+|player6=Bawr |player6b=£30,- |player6flag=gb |player6bflag= |player6bg=down
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=1|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=0|2vs4resultvs=2
+|2vs5result=0|2vs5resultvs=2
+|2vs6result=0|2vs6resultvs=2
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=1
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=0|4vs6resultvs=2
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+
+}}
+
+==Group I==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Miguel |player1b=Young Thug |player1flag=nl |player1bflag= |player1bg=up
+|player2=Maakep |player2b=Haj |player2flag=se |player2bflag= |player2bg=down
+|player3=Masterkai |player3b=Flodens Mun |player3flag=se |player3bflag= |player3bg=up
+|player4=Gamba |player4b=Waylide |player4flag=se |player4bflag= |player4bg=down0
+|player5=FrozenLight1337 |player5b=Snedderick |player5flag=de |player5bflag= |player5bg=down
+|player6=Rogue |player6b=G |player6flag=gb |player6bflag= |player6bg=down
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=0|2vs4resultvs=2
+|2vs5result=0|2vs5resultvs=2
+|2vs6result=1|2vs6resultvs=2
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=0|4vs6resultvs=2
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+
+}}
+
+==Group J==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Professor Pro |player1b=Tekk |player1flag=gb |player1bflag=fr |player1bg=up|player1_w=5|player1_l=0
+|player2=975 ToTikkii |player2b=975 Whozha |player2flag=se |player2bflag= |player2bg=down|player2_w=0|player2_l=5
+|player3=Yuna |player3b=RPG |player3flag=se |player3bflag= |player3bg=up|player3_w=4|player3_l=1
+|player4=BML Poopmaister6000 |player4b=Ricke-P |player4flag=se |player4bflag= |player4bg=down|player4_w=1|player4_l=3
+|player5=Dragmirejr |player5b=Endeby |player5flag=no |player5bflag= |player5bg=down|player5_w=3|player5_l=2
+|player6=gongong |player6b=Taggo |player6flag=se |player6bflag= |player6bg=down|player6_w=1|player6_l=3
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=0|2vs4resultvs=2
+|2vs5result=0|2vs5resultvs=2
+|2vs6result=0|2vs6resultvs=2
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=0|4vs6resultvs=0
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+
+}}
+
+==Group K==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Duck |player1b=Moose |player1flag=us |player1bflag= |player1bg=up|player1_w=5|player1_l=0
+|player2=Youthius |player2b=Amon |player2flag=se |player2bflag= |player2bg=down|player2_w=1|player2_l=4
+|player3=BrTarolg |player3b=Jam |player3flag=gb |player3bflag= |player3bg=up|player3link=false|player3_w=4|player3_l=1
+|player4=GK_ |player4b=Reverb |player4flag=se |player4bflag= |player4bg=down|player4_w=0|player4_l=5
+|player5=no will |player5b=SaiX |player5flag=es |player5bflag= |player5bg=down|player5_w=2|player5_l=3
+|player6=Thomdore |player6b=Drasil |player6flag=no |player6bflag= |player6bg=down|player6_w=3|player6_l=2
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=2|2vs4resultvs=0
+|2vs5result=0|2vs5resultvs=2
+|2vs6result=0|2vs6resultvs=2
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=0|4vs6resultvs=2
+
+<!--Games of Player 5-->
+|5vs6result=0|5vs6resultvs=2
+
+}}
+
+==Group L==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Baxon |player1b=Westballz |player1flag=us |player1bflag=us |player1bg=up|player1link=false|player1_w=4|player1_l=1
+|player2=Speedy |player2b=Boxxy |player2flag=se |player2bflag= |player2bg=down|player2_w=2|player2_l=3
+|player3=mayhem |player3b=NamiNami |player3flag=fi |player3bflag= |player3bg=up|player3_w=5|player3_l=0
+|player4=Jibbles |player4b=Hara |player4flag=se |player4bflag= |player4bg=down|player4_w=3|player4_l=2
+|player5=Eekim |player5b=Flippy |player5flag=se |player5bflag= |player5bg=down|player5_w=1|player5_l=4
+|player6=SuperSmashDan |player6b=Mordo |player6flag=gb |player6bflag= |player6bg=down|player6_w=0|player6_l=5
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=1|1vs3resultvs=2
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=1|2vs4resultvs=2
+|2vs5result=2|2vs5resultvs=0
+|2vs6result=2|2vs6resultvs=0
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=1
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=2|4vs5resultvs=0
+|4vs6result=2|4vs6resultvs=0
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=1
+
+}}
+
+==Group M==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Humpe |player1b=Calle W |player1flag=se |player1bflag= |player1bg=up|player1_w=5|player1_l=0
+|player2=Dual |player2b=IcahandlarN |player2flag=se |player2bflag= |player2bg=down|player2_w=1|player2_l=4
+|player3=Alpha Dash |player3b=PBNJ |player3flag=gb |player3bflag=us |player3bg=up|player3_w=4|player3_l=1
+|player4=Oytun |player4b=ModestMajor |player4flag=gb |player4bflag= |player4bg=down|player4_w=3|player4_l=2
+|player5=Dangerboy |player5b=ImpX |player5flag=se |player5bflag= |player5bg=down|player5_w=3|player5_l=2
+|player6=Boobs |player6b=Pony |player6flag=fr |player6bflag= |player6bg=down|player6_w=0|player6_l=5
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=1
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=0|2vs4resultvs=2
+|2vs5result=0|2vs5resultvs=2
+|2vs6result=2|2vs6resultvs=0
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=2|4vs5resultvs=0
+|4vs6result=2|4vs6resultvs=0
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+
+}}
+
+==Group N==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Random-Ness |player1b=Zoler |player1flag=se |player1bflag= |player1bg=up|player1_w=5|player1_l=0
+|player2=Jalued |player2b=Oni |player2flag=gb |player2bflag= |player2bg=down|player2_w=0|player2_l=4
+|player3=Eagle |player3b=Schlimmshady |player3flag=dk |player3bflag= |player3bg=down|player3_w=0|player3_l=4
+|player4=Maruhai |player4b=ZVAARI |player4flag=fr |player4bflag= |player4bg=down|player4_w=3|player4_l=2
+|player5=Spider |player5b=Tengil |player5flag=se |player5bflag= |player5bg=up|player5_w=4|player5_l=1
+|player6=Peps |player6b=Leering |player6flag=se |player6bflag= |player6bg=down|player6link=false|player6_w=2|player6_l=3
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=0
+|2vs4result=0|2vs4resultvs=2
+|2vs5result=0|2vs5resultvs=2
+|2vs6result=0|2vs6resultvs=2
+
+<!--Games of Player 3-->
+|3vs4result=0|3vs4resultvs=2
+|3vs5result=0|3vs5resultvs=2
+|3vs6result=0|3vs6resultvs=2
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=2|4vs6resultvs=0
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+
+}}
+
+==Group O==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Samplay |player1b=Mahie |player1flag=fr |player1bflag= |player1bg=up|player1link=false|player1_w=4|player1_l=1
+|player2=Jazz |player2b=Bigs |player2flag=nl |player2bflag= |player2bg=down|player2_w=1|player2_l=4
+|player3=pheX |player3b=Usleon |player3flag=ch |player3bflag= |player3bg=up|player3_w=5|player3_l=0
+|player4=Tailz |player4b=PoC |player4flag=se |player4bflag= |player4bg=down|player4_w=0|player4_l=5
+|player5=GabyTime |player5b=Gröpet |player5flag=se |player5bflag= |player5bg=down|player5_w=3|player5_l=2
+|player6=Pots |player6b=Kivo |player6flag=se |player6bflag= |player6bg=down|player6_w=2|player6_l=3
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=1|1vs3resultvs=2
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=2|2vs4resultvs=0
+|2vs5result=0|2vs5resultvs=2
+|2vs6result=1|2vs6resultvs=2
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=0|4vs6resultvs=2
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+
+}}
+
+==Group P==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Blaze |player1b=Reaper |player1flag=de |player1bflag=de |player1bg=up|player1_w=5|player1_l=0
+|player2=Jupiter |player2b=afos |player2flag=se |player2bflag= |player2bg=down|player2_w=0|player2_l=5
+|player3=Zorc |player3b=Flikkflakk |player3flag=no |player3bflag= |player3bg=up|player3_w=4|player3_l=1
+|player4=eg0r |player4b=BootyBlast |player4flag=se |player4bflag= |player4bg=down|player4_w=2|player4_l=3
+|player5=7bananer |player5b=Jack |player5flag=se |player5bflag= |player5bg=down|player5_w=3|player5_l=2
+|player6=Jekku |player6b=Stemu |player6flag=fi |player6bflag= |player6bg=down|player6_w=1|player6_l=4
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=1|2vs4resultvs=2
+|2vs5result=0|2vs5resultvs=2
+|2vs6result=1|2vs6resultvs=2
+
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=2|4vs6resultvs=0
+
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+}}

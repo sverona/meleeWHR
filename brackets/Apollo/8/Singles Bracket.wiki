@@ -1,0 +1,130 @@
+{{DISPLAYTITLE: Apollo VIII: Singles Bracket}}{{SetGame|melee}}
+{{Tabs static
+|name1=Overview |link1=Apollo/8
+|name2=Singles Pools |link2=Apollo/8/Singles Pools
+|name3=Singles Bracket |link3=Apollo/8/Singles Bracket
+|name4=Doubles Bracket |link4=Apollo/8/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{8DEWBracketA
+<!-- Quarterfinals -->
+|r1m1p1=dizzkidboogie |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=2saint |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+
+|r1m2p1=Hax |r1m2p1flag=us |r1m2p1score=3
+|r1m2p2=Jflex |r1m2p2flag=us |r1m2p2score=2
+|r1m2win=1
+
+|r1m3p1=Rishi |r1m3p1flag=us |r1m3p1score=3
+|r1m3p2=Kaeon |r1m3p2flag=us |r1m3p2score=0
+|r1m3win=1
+
+|r1m4p1=Captain Smuckers |r1m4p1flag=us |r1m4p1score=3
+|r1m4p2=Zanguzen |r1m4p2flag=us |r1m4p2score=1
+|r1m4win=1
+
+<!-- SEMIFINALS -->
+|r2m1p1=dizzkidboogie |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Hax |r2m1p2flag=us |r2m1p2score=2
+|r2m1win=1
+
+|r2m2p1=Rishi |r2m2p1flag=us |r2m2p1score=0
+|r2m2p2=Captain Smuckers |r2m2p2flag=us |r2m2p2score=3
+|r2m2win=2
+}}
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=Apollo/8
+|tourneyname=Apollo VIII
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+
+<!-- Round 1 -->
+|l1m1p1=BIG KID |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=Roman |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=1
+
+|l1m2p1=Wassabi |l1m2p1flag=us |l1m2p1score=0
+|l1m2p2=Sunn |l1m2p2flag=us |l1m2p2score=3
+|l1m2win=2
+
+|l1m3p1=BigWenz |l1m3p1flag=us |l1m3p1score=0
+|l1m3p2=vortex |l1m3p2flag=us |l1m3p2score=3
+|l1m3win=2
+
+|l1m4p1=JJM |l1m4p1flag=us |l1m4p1score=2
+|l1m4p2=Vino |l1m4p2flag=us |l1m4p2score=3
+|l1m4win=2
+
+<!-- Round 2 -->
+|l2m1p1=Zanguzen |l2m1p1flag=us |l2m1p1score=3
+|l2m1p2=BIG KID |l2m1p2flag=us |l2m1p2score=0
+|l2m1win=1
+
+|l2m2p1=Kaeon |l2m2p1flag=us |l2m2p1score=3
+|l2m2p2=Sunn |l2m2p2flag=us |l2m2p2score=0
+|l2m2win=1
+
+|l2m3p1=Jflex |l2m3p1flag=us |l2m3p1score=0
+|l2m3p2=vortex |l2m3p2flag=us |l2m3p2score=3
+|l2m3win=2
+
+|l2m4p1=2saint |l2m4p1flag=us |l2m4p1score=3
+|l2m4p2=Vino |l2m4p2flag=us |l2m4p2score=0
+|l2m4win=1
+
+<!-- Round 3 -->
+|l3m1p1=Zanguzen |l3m1p1flag=us |l3m1p1score=1
+|l3m1p2=Kaeon |l3m1p2flag=us |l3m1p2score=3
+|l3m1win=2
+
+|l3m2p1=vortex |l3m2p1flag=us |l3m2p1score=0
+|l3m2p2=2saint |l3m2p2flag=us |l3m2p2score=3
+|l3m2win=2
+
+<!-- Round 4 -->
+|l4m1p1=Hax |l4m1p1flag=us |l4m1p1score=3
+|l4m1p2=Kaeon |l4m1p2flag=us |l4m1p2score=1
+|l4m1win=1
+
+|l4m2p1=Rishi |l4m2p1flag=us |l4m2p1score=2
+|l4m2p2=2saint |l4m2p2flag=us |l4m2p2score=3
+|l4m2win=2
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Apollo/8
+|tourneyname=Apollo VIII
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+|disableheads=true
+
+
+<!-- FROM WINNERS -->
+|r1m1p1=dizzkidboogie |r1m1p1flag=us |r1m1p1score=1
+|r1m1p2=Captain Smuckers |r1m1p2flag=us |r1m1p2score=3
+|r1m1win=2
+
+<!-- FROM LOSERS -->
+|l1m1p1=Hax |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=2saint |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1p1=dizzkidboogie |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Hax |r2m1p2flag=us |r2m1p2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1p1=Captain Smuckers |r3m1p1flag=us |r3m1p1score=3 |r3m2p1score=
+|r3m1p2=dizzkidboogie |r3m1p2flag=us |r3m1p2score=1 |r3m2p2score=
+|r3m1win=1
+}}</onlyinclude>

@@ -1,0 +1,176 @@
+{{DISPLAYTITLE:ARLO 3: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=ARLO/3/Melee
+|name2=Singles Pools
+|link2=ARLO/3/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=ARLO/3/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=ARLO/3/Melee/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{16DEWBracketA2
+<!-- Ro16 -->
+|r1m1p1=Wizzrobe |r1m1p1flag=us |r1m1p1score=2
+|r1m1p2=Yardo |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+
+|r1m2p1=Zellpree |r1m2p1flag=us |r1m2p1score=0
+|r1m2p2=Schythed |r1m2p2flag=us |r1m2p2score=2
+|r1m2win=2
+
+|r1m3p1=Lunchables |r1m3p1flag=us |r1m3p1score=2
+|r1m3p2=Firebolt |r1m3p2flag=us |r1m3p2score=0
+|r1m3win=1
+
+|r1m4p1=dansdaman |r1m4p1flag=us |r1m4p1score=2
+|r1m4p2=Profanity |r1m4p2flag=us |r1m4p2score=0
+|r1m4win=1
+
+|r1m5p1=Mojo |r1m5p1flag=us |r1m5p1score=2
+|r1m5p2=Dr. GG |r1m5p2flag=us |r1m5p2score=0
+|r1m5win=1
+
+|r1m6p1=Junebug |r1m6p1flag=us |r1m6p1score=2
+|r1m6p2=Dyl |r1m6p2flag=us |r1m6p2score=0
+|r1m6win=1
+
+|r1m7p1=Bobby Frizz |r1m7p1flag=us |r1m7p1score=2
+|r1m7p2=Silver |r1m7p2flag=us |r1m7p2score=1
+|r1m7win=1
+
+|r1m8p1=Hazygoose |r1m8p1flag=us |r1m8p1score=2
+|r1m8p2=Iifter |r1m8p2flag=us |r1m8p2score=0
+|r1m8win=1
+
+<!-- QUARTERFINALS -->
+|r2m1p1=Wizzrobe |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=Schythed |r2m1p2flag=us |r2m1p2score=0
+|r2m1win=1
+
+|r2m2p1=Lunchables |r2m2p1flag=us |r2m2p1score=2
+|r2m2p2=dansdaman |r2m2p2flag=us |r2m2p2score=0
+|r2m2win=1
+
+|r2m3p1=Mojo |r2m3p1flag=us |r2m3p1score=2
+|r2m3p2=Junebug |r2m3p2flag=us |r2m3p2score=0
+|r2m3win=1
+
+|r2m4p1=Bobby Frizz |r2m4p1flag=us |r2m4p1score=2
+|r2m4p2=Hazygoose |r2m4p2flag=us |r2m4p2score=1
+|r2m4win=1
+
+<!-- SEMIFINALS -->
+|r3m1p1=Wizzrobe |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Lunchables |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+
+|r3m2p1=Mojo |r3m2p1flag=us |r3m2p1score=3
+|r3m2p2=Bobby Frizz |r3m2p2flag=us |r3m2p2score=0
+|r3m2win=1
+}}
+==Losers Bracket==
+{{32DELBracketSmwA
+|tourneylink=ARLO/3/Melee
+|tourneyname=ARLO 3
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+
+|l1m1p1=Studkip |l1m1p1flag=us |l1m1p1score=DQ |l1m1win=2
+|l1m1p2=LDB |l1m1p2flag=us |l1m1p2score={{win}}
+|l1m2p1=Flux |l1m2p1flag=us |l1m2p1score={{win}} |l1m2win=1
+|l1m2p2=Plum Orchid |l1m2p2flag= |l1m2p2score=DQ
+|l1m3p1=Captain Birdman |l1m3p1flag= |l1m3p1score=2 |l1m3win=1
+|l1m3p2=025 |l1m3p2flag=us |l1m3p2score=0
+|l1m4p1=HyperFlame |l1m4p1flag=us |l1m4p1score={{win}} |l1m4win=1
+|l1m4p2=Slippin' Jimmy |l1m4p2flag= |l1m4p2score=DQ
+|l1m5p1=MajorDuncan |l1m5p1flag=us |l1m5p1score={{win}} |l1m5win=1
+|l1m5p2=Tilde |l1m5p2flag= |l1m5p2score=DQ
+|l1m6p1=Goku |l1m6p1flag=us |l1m6p1score=2 |l1m6win=1
+|l1m6p2=Pluto_ |l1m6p2flag=us |l1m6p2score=0
+|l1m7p1=Quist |l1m7p1flag=us |l1m7p1score=2 |l1m7win=1
+|l1m7p2=Novice |l1m7p2flag= |l1m7p2score=0
+|l1m8p1=JAM! |l1m8p1flag= |l1m8p1score=0 |l1m8win=2
+|l1m8p2=Sledj |l1m8p2flag=us |l1m8p2score=2
+
+|l2m1p1=Iifter |l2m1p1flag=us |l2m1p1score=2 |l2m1win=1
+|l2m1p2=LDB |l2m1p2flag=us |l2m1p2score=0
+|l2m2p1=Silver |l2m2p1flag=us |l2m2p1score=2 |l2m2win=1
+|l2m2p2=Flux |l2m2p2flag=us |l2m2p2score=0
+|l2m3p1=Dyl |l2m3p1flag=us |l2m3p1score=1 |l2m3win=2
+|l2m3p2=Captain Birdman |l2m3p2flag= |l2m3p2score=2
+|l2m4p1=Dr. GG |l2m4p1flag=us |l2m4p1score=0 |l2m4win=2
+|l2m4p2=HyperFlame |l2m4p2flag=us |l2m4p2score=2
+|l2m5p1=Profanity |l2m5p1flag=us |l2m5p1score=2 |l2m5win=1
+|l2m5p2=MajorDuncan |l2m5p2flag=us |l2m5p2score=1
+|l2m6p1=Firebolt |l2m6p1flag=us |l2m6p1score=0 |l2m6win=2
+|l2m6p2=Goku |l2m6p2flag=us |l2m6p2score=2
+|l2m7p1=Zellpree |l2m7p1flag=us |l2m7p1score=2 |l2m7win=1
+|l2m7p2=Quist |l2m7p2flag=us |l2m7p2score=0
+|l2m8p1=Yardo |l2m8p1flag=us |l2m8p1score=2 |l2m8win=1
+|l2m8p2=Sledj |l2m8p2flag=us |l2m8p2score=1
+
+|l3m1p1=Iifter |l3m1p1flag=us |l3m1p1score=2 |l3m1win=1
+|l3m1p2=Silver |l3m1p2flag=us |l3m1p2score=1
+|l3m2p1=Captain Birdman |l3m2p1flag= |l3m2p1score=0 |l3m2win=2
+|l3m2p2=HyperFlame |l3m2p2flag=us |l3m2p2score=2
+|l3m3p1=Profanity |l3m3p1flag=us |l3m3p1score=1 |l3m3win=2
+|l3m3p2=Goku |l3m3p2flag=us |l3m3p2score=2
+|l3m4p1=Zellpree |l3m4p1flag=us |l3m4p1score=0 |l3m4win=2
+|l3m4p2=Yardo |l3m4p2flag=us |l3m4p2score=2
+
+|l4m1p1=dansdaman |l4m1p1flag=us |l4m1p1score=2 |l4m1win=1
+|l4m1p2=Iifter |l4m1p2flag=us |l4m1p2score=0
+|l4m2p1=Schythed |l4m2p1flag=us |l4m2p1score=2 |l4m2win=1
+|l4m2p2=HyperFlame |l4m2p2flag=us |l4m2p2score=0
+|l4m3p1=Hazygoose |l4m3p1flag=us |l4m3p1score=2 |l4m3win=1
+|l4m3p2=Goku |l4m3p2flag=us |l4m3p2score=0
+|l4m4p1=Junebug |l4m4p1flag=us |l4m4p1score=2 |l4m4win=1
+|l4m4p2=Yardo |l4m4p2flag=us |l4m4p2score=1
+
+|l5m1p1=dansdaman |l5m1p1flag=us |l5m1p1score=0 |l5m1win=2
+|l5m1p2=Schythed |l5m1p2flag=us |l5m1p2score=3
+|l5m2p1=Hazygoose |l5m2p1flag=us |l5m2p1score=2 |l5m2win=2
+|l5m2p2=Junebug |l5m2p2flag=us |l5m2p2score=3
+
+|l6m1p1=Bobby Frizz |l6m1p1flag=us |l6m1p1score=2 |l6m1win=2
+|l6m1p2=Schythed |l6m1p2flag=us |l6m1p2score=3
+|l6m2p1=Lunchables |l6m2p1flag=us |l6m2p1score=1 |l6m2win=2
+|l6m2p2=Junebug |l6m2p2flag=us |l6m2p2score=3
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=ARLO/3/Melee
+|tourneyname=ARLO 3
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1p1=Wizzrobe |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Mojo |r1m1p2flag=us |r1m1p2score=1
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1p1=Schythed |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Junebug |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Mojo |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Junebug |r2m1p2flag=us |r2m1p2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1p1=Wizzrobe |r3m1p1flag=us |r3m1p1score=3 |r3m2p1score=
+|r3m1p2=Mojo |r3m1p2flag=us |r3m1p2score=0 |r3m2p2score=
+|r3m1win=1
+}}</onlyinclude>

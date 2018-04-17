@@ -1,0 +1,134 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Charby",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "RAOUL",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Leon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "BeLia",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "RAOUL",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Leon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "BeLia",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Damo",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "Hiryuu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Captain Love",
+            "p1flag": "au",
+            "p1score": "3",
+            "p2": "Dero",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Charby",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "Damo",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "RAOUL",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Captain Love",
+            "p2flag": "au",
+            "p2score": "2",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Leon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Damo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Hiryuu",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "RAOUL",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Captain Love",
+            "p2flag": "au",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Charby",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "Dero",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Leon",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "RAOUL",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "BeLia",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Charby",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

@@ -1,0 +1,286 @@
+{
+    "===Finals Bracket===": {
+        "l1m1": {
+            "p1": "Liquid",
+            "p1flag": "ca",
+            "p1score": "",
+            "p2": "Plat",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "r1m1": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Duck",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "r2m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "r3m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        }
+    },
+    "===Losers Bracket===": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Kale",
+            "p2flag": "ca",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "cash money",
+            "p2flag": "ca",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Fern",
+            "p2flag": "ca",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "The Engineer",
+            "p2flag": "ca",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Slush",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Kale",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "Liquid",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "cash money",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Slippy",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "Fern",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Plat",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "The Engineer",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Kale",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "Liquid",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Fern",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Plat",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Monib",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Liquid",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Tranimal",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "Plat",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        }
+    },
+    "===Winners Bracket===": {
+        "r1m1": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Plat",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Kale",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Monib",
+            "p1flag": "ca",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Slippy",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "cash money",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Duck",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Liquid",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Fern",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Tranimal",
+            "p1flag": "ca",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Slush",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "The Engineer",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Plat",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Monib",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Slippy",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Duck",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Liquid",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Tranimal",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Slush",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "MacD",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Monib",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Duck",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Tranimal",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Pool 1==": {},
+    "==Pool 2==": {},
+    "==Pool 3==": {},
+    "==Pool 4==": {},
+    "==Pool 5==": {},
+    "==Pool 6==": {},
+    "==Pool 7==": {},
+    "==Pool 8==": {}
+}

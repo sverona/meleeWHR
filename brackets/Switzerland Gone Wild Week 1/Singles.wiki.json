@@ -1,0 +1,80 @@
+{
+    "==Finals Bracket==": {
+        "l2m1": {
+            "date": "",
+            "details": {
+                "comment": "Note: there is a typo in the Challonge bracket.",
+                "interview": "",
+                "lrthread": "",
+                "preview": "",
+                "recap": ""
+            },
+            "finished": "",
+            "p1": "Scriptor",
+            "p1char1": "",
+            "p1char2": "",
+            "p1char3": "",
+            "p1char4": "",
+            "p1char5": "",
+            "p1flag": "",
+            "p1score": "3",
+            "p1stock1": "",
+            "p1stock2": "",
+            "p1stock3": "",
+            "p1stock4": "",
+            "p1stock5": "",
+            "p2": "Tristan",
+            "p2char1": "",
+            "p2char2": "",
+            "p2char3": "",
+            "p2char4": "",
+            "p2char5": "",
+            "p2flag": "ch",
+            "p2score": "1",
+            "p2stock1": "",
+            "p2stock2": "",
+            "p2stock3": "",
+            "p2stock4": "",
+            "p2stock5": "",
+            "stage1": "",
+            "stage2": "",
+            "stage3": "",
+            "stage4": "",
+            "stage5": "",
+            "win": "1",
+            "win1": "",
+            "win2": "",
+            "win3": "",
+            "win4": "",
+            "win5": ""
+        },
+        "r1m1": {
+            "p1": "Inflict",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Scriptor",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Tristan",
+            "p2flag": "ch",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Inflict",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Pool==": {}
+}

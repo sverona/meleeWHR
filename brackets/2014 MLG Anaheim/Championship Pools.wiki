@@ -1,0 +1,1031 @@
+<noinclude>{{DISPLAYTITLE:MLG Anaheim Championship Pools}}{{2014_MLG_Anaheim_Tabs|This=5}}
+===Pool Play===</noinclude>
+{{Box|start|padding=2em}}
+===={{HiddenSort|Group A}}====
+{{GroupTableStart| Group A |width=400px
+|preview=http://www.teamliquid.net/forum/smash-bros/459833-mlg-anaheim-meet-the-gods
+|lrthread=http://www.teamliquid.net/forum/smash-bros/459840-mlg-ssbm-anaheim-2014-day-1
+|date=June 20, 2014 - 14:30 {{Abbr/PDT}}
+|vod=https://www.youtube.com/watch?v=PjP6Pa29m1s&list=PL1PBtHKjQFtXvt5FQDSFwZpZ1kEXGrlKS&index=3
+|interview=
+|review=
+|finished=true
+}}
+{{GroupTableSlot| {{Flag/us}} {{Head/falco}} [[PPMD]] |team=eg |place=1|win_m=6|lose_m=1|win_g=20|lose_g=8|bg=up}}
+{{GroupTableSlot| {{Flag/us}} {{Head/sheik}} [[Mew2King]] {{TeamPart/p4k}}|team=emp |place=2|win_m=5|lose_m=2|win_g=17|lose_g=7|bg=up}}
+{{GroupTableSlot| {{Flag/se}} {{Head/fox}} [[Leffen]] |team=noteam |place=3|win_m=5|lose_m=2|win_g=18|lose_g=10|bg=stay}}
+{{GroupTableSlot| {{Flag/us}} {{Head/pikachu}} [[Axe]] |team=noteam |place=4|win_m=5|lose_m=2|win_g=18|lose_g=10|bg=stay}}
+{{GroupTableSlot| {{Flag/us}} {{Head/fox}} [[Hax]] |team=vgbc |place=5|win_m=4|lose_m=3|win_g=15|lose_g=12|bg=stay}}
+{{GroupTableSlot| {{Flag/us}} {{Head/fox}} [[Colbol]] |team=ss |place=6|win_m=2|lose_m=5|win_g=10|lose_g=15|bg=stay}}
+{{GroupTableSlot| {{Flag/us}} {{Head/jigglypuff}} [[S0ft]] |team=ss |place=7|win_m=1|lose_m=6|win_g=4|lose_g=19|bg=stay}}
+{{GroupTableSlot| {{Flag/nl}} {{Head/falco}} [[Remen]] |team=lll |place=8|win_m=0|lose_m=7|win_g=3|lose_g=21|bg=stay}}
+{{GroupTableEnd}}
+{{match list start
+|width=400px
+|title=Group A Matches - Day 1}}
+{{match stages
+|p1=Leffen |p1flag=se
+|p2=Mew2King |p2flag=us
+|p1score=1
+|p2score=3
+|winner=2
+|date=June 20, 2014 3:10 PM PDT
+|stage1win=1 |p1char1=fox |p2char1=sheik |p1stock1=1 |p2stock1=0 |stage1=Dream Land
+|stage2win=2 |p1char2=fox |p2char2=marth |p1stock2=0 |p2stock2=3 |stage2=Final Destination
+|stage3win=2 |p1char3=fox |p2char3=fox |p1stock3=0 |p2stock3=1 |stage3=Pokémon Stadium
+|stage4win=2 |p1char4=fox |p2char4=marth |p1stock4=0 |p2stock4=2 |stage4=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=PjP6Pa29m1s
+|vodgame1=https://www.youtube.com/watch?v=PjP6Pa29m1s&t=4m00s
+|vodgame2=https://www.youtube.com/watch?v=PjP6Pa29m1s&t=8m37s
+|vodgame3=https://www.youtube.com/watch?v=PjP6Pa29m1s&t=11m00s
+|vodgame4=https://www.youtube.com/watch?v=PjP6Pa29m1s&t=15m13s
+}}
+
+{{match stages
+|p1=Hax |p1flag=us
+|p2=S0ft |p2flag=us
+|p1score=3
+|p2score=0
+|winner=1
+|date=June 20, 2014 2:50 PM PDT
+|stage1win=1 |p1char1=fox |p2char1=jigglypuff |p1stock1=1 |p2stock1=0 |stage1=Final Destination
+|stage2win=1 |p1char2=fox |p2char2=jigglypuff |p1stock2=2 |p2stock2=0 |stage2=Fountain of Dreams
+|stage3win=1 |p1char3=fox |p2char3=jigglypuff |p1stock3=2 |p2stock3=0 |stage3=Final Destination
+|vod=https://www.youtube.com/watch?v=EqCwN6KwSOQ
+|vodgame1=https://www.youtube.com/watch?v=EqCwN6KwSOQ&t=1m11s
+|vodgame2=https://www.youtube.com/watch?v=EqCwN6KwSOQ&t=6m42s
+|vodgame3=https://www.youtube.com/watch?v=EqCwN6KwSOQ&t=9m19s
+}}
+
+{{match stages
+|p1=Remen |p1flag=nl
+|p2=PPMD |p2flag=us
+|p1score=1
+|p2score=3
+|winner=2
+|date=June 20, 2014 3:10 PM PDT
+|stage1win=2 |p1char1=falco |p2char1=falco |p1stock1=0 |p2stock1=3 |stage1=Battlefield
+|stage2win=2 |p1char2=falco |p2char2=falco |p1stock2=0 |p2stock2=1 |stage2=Dream Land
+|stage3win=1 |p1char3=falco |p2char3=falco |p1stock3=1 |p2stock3=0 |stage3=Dream Land
+|stage4win=2 |p1char4=falco |p2char4=falco |p1stock4=0 |p2stock4=1 |stage4=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=PiZAf2C5F1Q
+|vodgame1=https://www.youtube.com/watch?v=PiZAf2C5F1Q&t=1m14s
+|vodgame2=https://www.youtube.com/watch?v=PiZAf2C5F1Q&t=3m49s
+|vodgame3=https://www.youtube.com/watch?v=PiZAf2C5F1Q&t=6m50s
+|vodgame4=https://www.youtube.com/watch?v=PiZAf2C5F1Q&t=10m27s
+}}
+
+{{match stages
+|p1=Mew2King |p1flag=us
+|p2=PPMD |p2flag=us
+|p1score=0
+|p2score=3
+|winner=2
+|date=June 20, 2014 17:20 PM PDT
+|stage1win=2 |p1char1=sheik |p2char1=falco |p1stock1=0 |p2stock1=1 |stage1=Battlefield
+|stage2win=2 |p1char2=marth |p2char2=marth |p1stock2=0 |p2stock2=1 |stage2=Yoshi's Story
+|stage3win=2 |p1char3=falcon |p2char3=marth |p1stock3=0 |p2stock3=2 |stage3=Final Destination
+|vod=https://www.youtube.com/watch?v=HNFxRfyzGS4
+|vodgame1=https://www.youtube.com/watch?v=HNFxRfyzGS4&t=1m13s
+|vodgame2=https://www.youtube.com/watch?v=HNFxRfyzGS4&t=5m59s
+|vodgame3=https://www.youtube.com/watch?v=HNFxRfyzGS4&t=9m28s
+}}
+
+{{match stages
+|p1=Remen |p1flag=nl
+|p2=S0ft |p2flag=us
+|p1score=1
+|p2score=3
+|winner=2
+|date=June 20, 2014 17:30 PM PDT
+|stage1win=2 |p1char1=falco |p2char1=jigglypuff |p1stock1=0 |p2stock1=2 |stage1=Fountain of Dreams
+|stage2win=2 |p1char2=falco |p2char2=jigglypuff |p1stock2=0 |p2stock2=1 |stage2=Yoshi's Story
+|stage3win=1 |p1char3=falco |p2char3=jigglypuff |p1stock3=2 |p2stock3=0 |stage3=Yoshi's Story
+|stage4win=2 |p1char4=falco |p2char4=jigglypuff |p1stock4=0 |p2stock4=1 |stage4=Dream Land
+|vod=https://www.youtube.com/watch?v=fxbYhV3WyaA
+|vodgame1=https://www.youtube.com/watch?v=fxbYhV3WyaA&t=0m58s
+|vodgame2=https://www.youtube.com/watch?v=fxbYhV3WyaA&t=4m20s
+|vodgame3=https://www.youtube.com/watch?v=fxbYhV3WyaA&t=8m04s
+|vodgame4=https://www.youtube.com/watch?v=fxbYhV3WyaA&t=10m44s
+}}
+
+{{match stages
+|p1=Leffen |p1flag=se
+|p2=Hax |p2flag=us
+|p1score=2
+|p2score=3
+|winner=2
+|date=June 20, 2014 5:58 PM PDT
+|stage1win=2 |p1char1=fox |p2char1=fox |p1stock1=0 |p2stock1=2 |stage1=Dream Land
+|stage2win=2 |p1char2=fox |p2char2=fox |p1stock2=0 |p2stock2=1 |stage2=Dream Land
+|stage3win=1 |p1char3=fox |p2char3=fox |p1stock3=1 |p2stock3=0 |stage3=Final Destination
+|stage4win=1 |p1char4=fox |p2char4=fox |p1stock4=3 |p2stock4=0 |stage4=Battlefield
+|stage5win=2 |p1char5=fox |p2char5=fox |p1stock5=0 |p2stock5=1 |stage5=Battlefield
+|vod=https://www.youtube.com/watch?v=bMDP72FMyss
+|vodgame1=https://www.youtube.com/watch?v=bMDP72FMyss&t=1m13s
+|vodgame2=https://www.youtube.com/watch?v=bMDP72FMyss&t=4m32s
+|vodgame3=https://www.youtube.com/watch?v=bMDP72FMyss&t=8m13s
+|vodgame4=https://www.youtube.com/watch?v=bMDP72FMyss&t=11m34s
+|vodgame5=https://www.youtube.com/watch?v=bMDP72FMyss&t=14m04s
+}}
+
+{{match stages
+|p1=Mew2King |p1flag=us
+|p2=Remen |p2flag=nl
+|p1score=3
+|p2score=0
+|winner=1
+|date=June 20, 2014 7:30 PM PDT
+|stage1win=1 |p1char1=marth |p2char1=falco |p1stock1=2 |p2stock1=0 |stage1=Fountain of Dreams
+|stage2win=1 |p1char2=sheik |p2char2=falco |p1stock2=1 |p2stock2=0 |stage2=Dream Land
+|stage3win=1 |p1char3=sheik |p2char3=falco |p1stock3=2 |p2stock3=0 |stage3=Dream Land
+|vod=https://www.youtube.com/watch?v=3XSTBaVl0NQ
+|vodgame1=https://www.youtube.com/watch?v=3XSTBaVl0NQ&t=2m33s
+|vodgame2=https://www.youtube.com/watch?v=3XSTBaVl0NQ&t=6m00s
+|vodgame3=https://www.youtube.com/watch?v=3XSTBaVl0NQ&t=11m31s
+}}
+
+{{match stages
+|p1=Leffen |p1flag=se
+|p2=S0ft |p2flag=us
+|p1score=3
+|p2score=0
+|winner=1
+|date=June 20, 2014 7:50 PM PDT
+|stage1win=1 |p1char1=fox |p2char1=jigglypuff |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=fox |p2char2=jigglypuff |p1stock2=3 |p2stock2=0 |stage2=Fountain of Dreams
+|stage3win=1 |p1char3=fox |p2char3=jigglypuff |p1stock3=1 |p2stock3=0 |stage3=Final Destination
+|vod=https://www.youtube.com/watch?v=kISHxTPy0Q0
+|vodgame1=https://www.youtube.com/watch?v=kISHxTPy0Q0&t=2m31s
+|vodgame2=https://www.youtube.com/watch?v=kISHxTPy0Q0&t=5m18s
+|vodgame3=https://www.youtube.com/watch?v=kISHxTPy0Q0&t=8m15s
+}}
+
+{{match stages
+|p1=PPMD |p1flag=us
+|p2=Hax |p2flag=us
+|p1score=3
+|p2score=1
+|winner=1
+|date=June 20, 2014 8:10 PM PDT
+|stage1win=1 |p1char1=falco |p2char1=fox |p1stock1=3 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=falco |p2char2=fox |p1stock2=4 |p2stock2=0 |stage2=Battlefield
+|stage3win=2 |p1char3=falco |p2char3=fox |p1stock3=0 |p2stock3=1 |stage3=Yoshi's Story
+|stage4win=1 |p1char4=falco |p2char4=fox |p1stock4=3 |p2stock4=0 |stage4=Final Destination
+|vod=https://www.youtube.com/watch?v=SorNhq5Z8OU
+|vodgame1=https://www.youtube.com/watch?v=SorNhq5Z8OU&t=0m41s
+|vodgame2=https://www.youtube.com/watch?v=SorNhq5Z8OU&t=3m16s
+|vodgame3=https://www.youtube.com/watch?v=SorNhq5Z8OU&t=4m41s
+|vodgame4=https://www.youtube.com/watch?v=SorNhq5Z8OU&t=7m34s
+}}
+{{match list end}}
+{{match list start
+|width=400px
+|title=Group A Matches - Day 2}}
+{{match stages
+|p1=PPMD |p1flag=us
+|p2=S0ft |p2flag=us
+|p1score=3
+|p2score=0
+|date=June 21, 2014 10:00 AM PDT
+|winner=1
+|stage1win=1 |p1char1=falco |p2char1=jigglypuff |p1stock1=2 |p2stock1=0 |stage1=Final Destination
+|stage2win=1 |p1char2=falco |p2char2=jigglypuff |p1stock2=4 |p2stock2=0 |stage2=Dream Land
+|stage3win=1 |p1char3=falco |p2char3=jigglypuff |p1stock3=3 |p2stock3=0 |stage3=Fountain of Dreams
+|vod=https://www.youtube.com/watch?v=g-HRY0jQFHg
+|vodgame1=https://www.youtube.com/watch?v=g-HRY0jQFHg#t=59s
+|vodgame2=https://www.youtube.com/watch?v=g-HRY0jQFHg#t=206s
+|vodgame3=https://www.youtube.com/watch?v=g-HRY0jQFHg#t=364s
+}}
+
+{{match stages
+|p1=Mew2King |p1flag=us
+|p2=Hax |p2flag=us
+|p1score=3
+|p2score=1
+|date=June 21, 2014 10:20 AM PDT
+|winner=1
+|stage1win=1 |p1char1=marth |p2char1=fox |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=2 |p1char2=marth |p2char2=fox |p1stock2=0 |p2stock2=1 |stage2=Battlefield
+|stage3win=1 |p1char3=marth |p2char3=fox |p1stock3=1 |p2stock3=0 |stage3=Final Destination
+|stage4win=1 |p1char4=marth |p2char4=fox |p1stock4=1 |p2stock4=0 |stage4=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=pZTFuYyZU1I
+|vodgame1=https://www.youtube.com/watch?v=pZTFuYyZU1I#t=47s
+|vodgame2=https://www.youtube.com/watch?v=pZTFuYyZU1I#t=265s
+|vodgame3=https://www.youtube.com/watch?v=pZTFuYyZU1I#t=522s
+|vodgame4=https://www.youtube.com/watch?v=pZTFuYyZU1I#t=777s
+}}
+
+{{match stages
+|p1=Remen |p1flag=nl
+|p2=Leffen |p2flag=se
+|p1score=0
+|p2score=3
+|date=June 21, 2014 10:40 AM PDT
+|winner=2
+|stage1win=2 |p1char1=falco |p2char1=fox |p1stock1=0 |p2stock1=1 |stage1=Battlefield
+|stage2win=2 |p1char2=falco |p2char2=fox |p1stock2=0 |p2stock2=2 |stage2=Dream Land
+|stage3win=2 |p1char3=falco |p2char3=fox |p1stock3=0 |p2stock3=1 |stage3=Battlefield
+|vod=https://www.youtube.com/watch?v=nGWTCuYgufk
+|vodgame1=https://www.youtube.com/watch?v=nGWTCuYgufk&t=4m17s
+|vodgame2=https://www.youtube.com/watch?v=nGWTCuYgufk&t=7m29s
+|vodgame3=https://www.youtube.com/watch?v=nGWTCuYgufk&t=10m40s
+}}
+
+{{match stages
+|p1=Mew2King |p1flag=us
+|p2=S0ft |p2flag=us
+|p1score=3
+|p2score=0
+|date=June 21, 2014 12:00 PM PDT
+|winner=1
+|stage1win=1 |p1char1=fox |p2char1=fox |p1stock1=3 |p2stock1=0 |stage1=Final Destination
+|stage2win=1 |p1char2=fox |p2char2=fox |p1stock2=4 |p2stock2=0 |stage2=Battlefield
+|stage3win=1 |p1char3=fox |p2char3=jigglypuff |p1stock3=2 |p2stock3=0 |stage3=Fountain of Dreams
+|vod=https://www.youtube.com/watch?v=Bw6y82CvPLs
+|vodgame1=https://www.youtube.com/watch?v=Bw6y82CvPLs&t=10m37s
+|vodgame2=https://www.youtube.com/watch?v=Bw6y82CvPLs&t=12m36s
+|vodgame3=https://www.youtube.com/watch?v=Bw6y82CvPLs&t=15m04s
+}}
+
+{{match stages
+|p1=PPMD |p1flag=us
+|p2=Leffen |p2flag=se
+|p1score=2
+|p2score=3
+|date=June 21, 2014 12:20 PM PDT
+|winner=2
+|stage1win=2 |p1char1=Falco |p2char1=Fox |p1stock1=0 |p2stock1=3 |stage1=Yoshi's Story
+|stage2win=1 |p1char2=Marth |p2char2=Fox |p1stock2=1 |p2stock2=0 |stage2=Yoshi's Story
+|stage3win=1 |p1char3=Marth |p2char3=Fox |p1stock3=2 |p2stock3=0 |stage3=Dream Land
+|stage4win=2 |p1char4=Marth |p2char4=Fox |p1stock4=0 |p2stock4=1 |stage4=Dream Land
+|stage5win=2 |p1char5=Marth |p2char5=Fox |p1stock5=0 |p2stock5=1 |stage5=Final Destination
+|vod=https://www.youtube.com/watch?v=RSRrGwSwLpw
+|vodgame1=https://www.youtube.com/watch?v=RSRrGwSwLpw&t=3m18s
+|vodgame2=https://www.youtube.com/watch?v=RSRrGwSwLpw&t=5m38s
+|vodgame3=https://www.youtube.com/watch?v=RSRrGwSwLpw&t=9m02s
+|vodgame4=https://www.youtube.com/watch?v=RSRrGwSwLpw&t=12m42s
+|vodgame5=https://www.youtube.com/watch?v=RSRrGwSwLpw&t=16m49s
+}}
+
+{{match stages
+|p1=Hax |p1flag=us
+|p2=Remen |p2flag=nl
+|p1score=3
+|p2score=0
+|date=June 21, 2014 12:40 PM PDT
+|winner=1
+|stage1win=1 |p1char1=Fox |p2char1=Falco |p1stock1=3 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=Fox |p2char2=Falco |p1stock2=1 |p2stock2=0 |stage2=Battlefield
+|stage3win=1 |p1char3=Fox |p2char3=Falco |p1stock3=2 |p2stock3=0 |stage3=Battlefield
+|vod=https://www.youtube.com/watch?v=gQ6PsOV504E
+|vodgame1=https://www.youtube.com/watch?v=gQ6PsOV504E&t=0m26s
+|vodgame2=https://www.youtube.com/watch?v=gQ6PsOV504E&t=2m30s
+|vodgame3=https://www.youtube.com/watch?v=gQ6PsOV504E&t=6m25s
+}}
+
+{{match stages
+|p1=Hax |p1flag=us
+|p2=Axe |p2flag=us
+|p1score=1
+|p2score=3
+|date=June 21, 2014 12:40 PM PDT
+|winner=2
+|stage1win=2 |p1char1=Fox |p2char1=pikachu |p1stock1=0 |p2stock1= |stage1=Battlefield
+|stage2win=2 |p1char2=Fox |p2char2=pikachu |p1stock2=0 |p2stock2= |stage2=Battlefield
+|stage3win=1 |p1char3=Fox |p2char3=pikachu |p1stock3=3 |p2stock3=0 |stage3=Battlefield
+|stage4win=2 |p1char4=Fox |p2char4=pikachu |p1stock4=0 |p2stock4=1 |stage4=Final Destination
+|vod=https://www.youtube.com/watch?v=RgStjldWA9g
+|vodgame1=https://www.youtube.com/watch?v=RgStjldWA9g#t=80s
+|vodgame2=https://www.youtube.com/watch?v=RgStjldWA9g#t=236s
+|vodgame3=https://www.youtube.com/watch?v=RgStjldWA9g#t=397s
+|vodgame4=https://www.youtube.com/watch?v=RgStjldWA9g#t=618s
+}}
+
+{{match stages
+|p1=Colbol |p1flag=us
+|p2=PPMD |p2flag=us
+|p1score=1
+|p2score=3
+|date=June 21, 2014 17:55 PM PDT
+|winner=2
+|stage1win=2 |p1char1=Fox |p2char1=falco |p1stock1=0 |p2stock1=1 |stage1=Battlefield
+|stage2win=1 |p1char2=Fox |p2char2=falco |p1stock2=1 |p2stock2=0 |stage2=Dream Land
+|stage3win=2 |p1char3=Fox |p2char3=falco |p1stock3=0 |p2stock3=4 |stage3=Final Destination
+|stage4win=2 |p1char4=Fox |p2char4=falco |p1stock4=0 |p2stock4=2 |stage4=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=GGQlv9SBgUg
+|vodgame1=https://www.youtube.com/watch?v=GGQlv9SBgUg&t=0m57s
+|vodgame2=https://www.youtube.com/watch?v=GGQlv9SBgUg&t=4m49s
+|vodgame3=https://www.youtube.com/watch?v=GGQlv9SBgUg&t=8m14s
+|vodgame4=https://www.youtube.com/watch?v=GGQlv9SBgUg&t=10m23s
+}}
+
+{{match stages
+|p1=Mew2King |p1flag=us
+|p2=Axe |p2flag=us
+|p1score=2
+|p2score=3
+|date=June 21, 2014
+|winner=2
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|stage5win=2 |p1char5= |p2char5= |p1stock5= |p2stock5= |stage5=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+}}
+
+{{match stages
+|p1=Axe |p1flag=us
+|p2=Colbol |p2flag=us
+|p1score=3
+|p2score=0
+|date=June 21, 2014
+|winner=1
+|stage1win=1 |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win=1 |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win=1 |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+}}
+
+{{match stages
+|p1=Colbol |p1flag=us
+|p2=Remen |p2flag=nl
+|p1score=3
+|p2score=1
+|date=June 21, 2014
+|winner=1
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win=1 |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+}}
+
+{{match stages
+|p1=Leffen |p1flag=se
+|p2=Axe |p2flag=us
+|p1score=3
+|p2score=1
+|date=June 21, 2014 19:45 PDT
+|winner=1
+|stage1win=1 |p1char1=fox |p2char1=pikachu |p1stock1=1 |p2stock1=0 |stage1=Fountain of Dreams
+|stage2win=1 |p1char2=fox |p2char2=pikachu |p1stock2=1 |p2stock2=0 |stage2=Final Destination
+|stage3win=2 |p1char3=fox |p2char3=pikachu |p1stock3=0 |p2stock3=2 |stage3=Final Destination
+|stage4win=1 |p1char4=fox |p2char4=pikachu |p1stock4=1 |p2stock4=0 |stage4=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=FBb4bqtB3_0
+|vodgame1=https://www.youtube.com/watch?v=FBb4bqtB3_0&t=2m04s
+|vodgame2=https://www.youtube.com/watch?v=FBb4bqtB3_0&t=5m07s
+|vodgame3=https://www.youtube.com/watch?v=FBb4bqtB3_0&t=8m25s
+|vodgame4=https://www.youtube.com/watch?v=FBb4bqtB3_0&t=11m01s
+}}
+
+{{match stages
+|p1=PPMD |p1flag=us
+|p2=Axe |p2flag=us
+|p1score=3
+|p2score=2
+|date=June 21, 2014
+|winner=1
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|stage5win=1 |p1char5= |p2char5= |p1stock5= |p2stock5= |stage5=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+}}
+
+{{match stages
+|p1=Remen |p1flag=us
+|p2=Axe |p2flag=us
+|p1score=0
+|p2score=3
+|date=June 21, 2014
+|winner=2
+|stage1win=2 |p1char1=Falco |p2char1=Pikachu |p1stock1=0 |p2stock1=2 |stage1=Fountain of Dreams
+|stage2win=2 |p1char2=Falco |p2char2=Pikachu |p1stock2=0 |p2stock2=2 |stage2=Battlefield
+|stage3win=2 |p1char3=Falco |p2char3=Pikachu |p1stock3=0 |p2stock3=2 |stage3=Yoshi's Story
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+}}
+
+{{match stages
+|p1=Mew2King |p1flag=us
+|p2=Colbol |p2flag=us
+|p1score=3
+|p2score=0
+|date=June 21, 2014
+|winner=1
+|stage1win=1 |p1char1=Marth |p2char1=Fox |p1stock1=2 |p2stock1=0 |stage1=Fountain of Dreams
+|stage2win=1 |p1char2=Sheik |p2char2=Fox |p1stock2=2 |p2stock2=0 |stage2=Dream Land
+|stage3win=1 |p1char3=Marth |p2char3=Fox |p1stock3=3 |p2stock3=0 |stage3=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=WI1DR_DpZh8#t=464s
+|vodgame1=https://www.youtube.com/watch?v=WI1DR_DpZh8#t=560s
+|vodgame2=https://www.youtube.com/watch?v=WI1DR_DpZh8#t=738s
+|vodgame3=https://www.youtube.com/watch?v=WI1DR_DpZh8#t=903s
+}}
+
+{{match stages
+|p1=Leffen |p1flag=se
+|p2=Colbol |p2flag=us
+|p1score=3
+|p2score=1
+|date=June 21, 2014
+|winner=1
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win=1 |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+}}
+
+{{match stages
+|p1=Axe |p1flag=us
+|p2=S0ft |p2flag=us
+|p1score=3
+|p2score=0
+|date=June 21, 2014
+|winner=1
+|stage1win=1 |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win=1 |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win=1 |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+}}
+
+{{match stages
+|p1=Colbol |p1flag=us
+|p2=S0ft |p2flag=us
+|p1score=3
+|p2score=1
+|date=June 21, 2014
+|winner=1
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win=1 |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+}}
+
+{{match stages
+|p1=Hax |p1flag=us
+|p2=Colbol |p2flag=us
+|p1score=3
+|p2score=1
+|date=June 21, 2014
+|winner=1
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win=1 |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+}}
+{{match list end}}
+{{Box|break|padding=2em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableStart| Group B |width=400px
+|preview=http://www.teamliquid.net/forum/smash-bros/459833-mlg-anaheim-meet-the-gods
+|lrthread=http://www.teamliquid.net/forum/smash-bros/459840-mlg-ssbm-anaheim-2014-day-1
+|date=June 20, 2014 - 16:15 {{Abbr/PDT}}
+|vod=https://www.youtube.com/watch?v=B0j4PRbsma8&list=PL1PBtHKjQFtXvt5FQDSFwZpZ1kEXGrlKS&index=5
+|interview=
+|review=
+|finished=
+}}
+{{GroupTableSlot| {{Flag/se}} {{Head/peach}} [[Armada]] {{TeamPart/p4k}}|team=emp |place=1|win_m=7|lose_m=0|win_g=21|lose_g=3|bg=up}}
+{{GroupTableSlot| {{Flag/us}} {{Head/fox}} [[Mango]] |team=cloud9 |place=2|win_m=5|lose_m=2|win_g=17|lose_g=10|bg=up}}
+{{GroupTableSlot| {{Flag/us}} {{Head/jigglypuff}} [[Hungrybox]] |team=curse |place=3|win_m=5|lose_m=2|win_g=17|lose_g=8|bg=stay}}
+{{GroupTableSlot| {{Flag/us}} {{Head/marth}} [[PewPewU]] |team=miom |place=4|win_m=3|lose_m=4|win_g=9|lose_g=10|bg=stay}}
+{{GroupTableSlot| {{Flag/us}} {{Head/fox}} [[Fiction]] |team=noteam |place=5|win_m=3|lose_m=4|win_g=11|lose_g=16|bg=stay}}
+{{GroupTableSlot| {{Flag/us}} {{Head/falco}} [[Westballz]] |team=noteam |place=6|win_m=3|lose_m=4|win_g=10|lose_g=14|bg=stay}}
+{{GroupTableSlot| {{Flag/cl}} {{Head/fox}} [[ZeRo]] |team=ct |place=7|win_m=1|lose_m=6|win_g=6|lose_g=18|bg=stay}}
+{{GroupTableSlot| {{Flag/jp}} {{Head/yoshi}} [[aMSa]] |team=vgbc |place=8|win_m=1|lose_m=6|win_g=10|lose_g=20|bg=stay}}
+{{GroupTableEnd}}
+{{match list start
+|width=400px
+|title=Group B Matches - Day 1}}
+{{match stages
+|p1=Mango |p1flag=us
+|p2=ZeRo |p2flag=cl
+|p1score=3
+|p2score=0
+|winner=1
+|date=June 20, 2014 - 16:15 PM PDT
+|stage1win=1 |p1char1=falco |p2char1=fox |p1stock1=3 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=falco |p2char2=fox |p1stock2=3 |p2stock2=0 |stage2=Final Destination
+|stage3win=1 |p1char3=falco |p2char3=fox |p1stock3=2 |p2stock3=0 |stage3=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=B0j4PRbsma8
+|vodgame1=https://www.youtube.com/watch?v=B0j4PRbsma8&t=2m02s
+|vodgame2=https://www.youtube.com/watch?v=B0j4PRbsma8&t=5m16s
+|vodgame3=https://www.youtube.com/watch?v=B0j4PRbsma8&t=6m55s
+}}
+
+{{match stages
+|p1=Hungrybox |p1flag=us
+|p2=Armada |p2flag=se
+|p1score=0
+|p2score=3
+|winner=2
+|date=June 20, 2014 - 16:30 PM PDT
+|stage1win=2 |p1char1=jigglypuff |p2char1=young link |p1stock1=0 |p2stock1=1 |stage1=Yoshi's Story
+|stage2win=2 |p1char2=jigglypuff |p2char2=young link |p1stock2=0 |p2stock2=1 |stage2=Fountain of Dreams
+|stage3win=2 |p1char3=jigglypuff |p2char3=young link |p1stock3=0 |p2stock3=2 |stage3=Fountain of Dreams
+|vod=https://www.youtube.com/watch?v=BPRtHZ2niiI
+|vodgame1=https://www.youtube.com/watch?v=BPRtHZ2niiI&t=1m27s
+|vodgame2=https://www.youtube.com/watch?v=BPRtHZ2niiI&t=6m29s
+|vodgame3=https://www.youtube.com/watch?v=BPRtHZ2niiI&t=12m43s
+}}
+
+{{match stages
+|p1=aMSa |p1flag=jp
+|p2=Westballz |p2flag=us
+|p1score=2
+|p2score=3
+|winner=2
+|date=June 20, 2014 - 16:50 PM PDT
+|stage1win=1 |p1char1=yoshi |p2char1=falco |p1stock1=2 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=yoshi |p2char2=falco |p1stock2=1 |p2stock2=0 |stage2=Yoshi's Story
+|stage3win=2 |p1char3=yoshi |p2char3=falco |p1stock3=0 |p2stock3=2 |stage3=Pokémon Stadium
+|stage4win=2 |p1char4=yoshi |p2char4=falco |p1stock4=0 |p2stock4=1 |stage4=Fountain of Dreams
+|stage5win=2 |p1char5=yoshi |p2char5=falco |p1stock5=0 |p2stock5=1 |stage5=Dream Land
+|vod=https://www.youtube.com/watch?v=y1xKmECADuQ
+|vodgame1=https://www.youtube.com/watch?v=y1xKmECADuQ&t=1m27s
+|vodgame2=https://www.youtube.com/watch?v=y1xKmECADuQ&t=5m09s
+|vodgame3=https://www.youtube.com/watch?v=y1xKmECADuQ&t=8m04s
+|vodgame4=https://www.youtube.com/watch?v=y1xKmECADuQ&t=11m23s
+|vodgame5=https://www.youtube.com/watch?v=y1xKmECADuQ&t=16m25s
+}}
+
+{{match stages
+|p1=aMSa |p1flag=jp
+|p2=Mango |p2flag=us
+|p1score=1
+|p2score=3
+|winner=2
+|date=June 20, 2014 - 18:30 PM PDT
+|stage1win=2 |p1char1=yoshi |p2char1=fox |p1stock1=0 |p2stock1=2 |stage1=Battlefield
+|stage2win=2 |p1char2=yoshi |p2char2=fox |p1stock2=0 |p2stock2=2 |stage2=Fountain of Dreams
+|stage3win=1 |p1char3=yoshi |p2char3=fox |p1stock3=2 |p2stock3=0 |stage3=Battlefield
+|stage4win=2 |p1char4=yoshi |p2char4=fox |p1stock4=0 |p2stock4=1 |stage4=Final Destination
+|vod=https://www.youtube.com/watch?v=WLaOC4l9MVg
+|vodgame1=https://www.youtube.com/watch?v=WLaOC4l9MVg&t=1m50s
+|vodgame2=https://www.youtube.com/watch?v=WLaOC4l9MVg&t=4m47s
+|vodgame3=https://www.youtube.com/watch?v=WLaOC4l9MVg&t=7m48s
+|vodgame4=https://www.youtube.com/watch?v=WLaOC4l9MVg&t=10m31s
+}}
+
+{{match stages
+|p1=ZeRo |p1flag=cl
+|p2=Armada |p2flag=se
+|p1score=1
+|p2score=3
+|winner=2
+|date=June 20, 2014 - 7:00 PM PDT
+|stage1win=1 |p1char1=fox |p2char1=peach |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=2 |p1char2=fox |p2char2=peach |p1stock2=0 |p2stock2=1 |stage2=Fountain of Dreams
+|stage3win=2 |p1char3=fox |p2char3=peach |p1stock3=0 |p2stock3=2 |stage3=Pokémon Stadium
+|stage4win=2 |p1char4=fox |p2char4=peach |p1stock4=0 |p2stock4=1 |stage4=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=0ggjfqssPeg
+|vodgame1=https://www.youtube.com/watch?v=0ggjfqssPeg&t=2m12s
+|vodgame2=https://www.youtube.com/watch?v=0ggjfqssPeg&t=6m55s
+|vodgame3=https://www.youtube.com/watch?v=0ggjfqssPeg&t=10m23s
+|vodgame4=https://www.youtube.com/watch?v=0ggjfqssPeg&t=13m39s
+}}
+
+{{match stages
+|p1=Hungrybox |p1flag=us
+|p2=Westballz |p2flag=us
+|p1score=3
+|p2score=0
+|winner=1
+|date=June 20, 2014 - 6:10 PM PDT
+|stage1win=1 |p1char1=jigglypuff |p2char1=falco |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=jigglypuff |p2char2=falco |p1stock2=1 |p2stock2=0 |stage2=Yoshi's Story
+|stage3win=1 |p1char3=jigglypuff |p2char3=falco |p1stock3=1 |p2stock3=0 |stage3=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=QKYijX3jfUU
+|vodgame1=https://www.youtube.com/watch?v=QKYijX3jfUU&t=1m35s
+|vodgame2=https://www.youtube.com/watch?v=QKYijX3jfUU&t=4m53s
+|vodgame3=https://www.youtube.com/watch?v=QKYijX3jfUU&t=7m59s
+}}
+
+{{match stages
+|p1=Hungrybox |p1flag=us
+|p2=ZeRo |p2flag=cl
+|p1score=3
+|p2score=1
+|winner=1
+|date=June 20, 2014 - 8:30 PM PDT
+|stage1win=1 |p1char1=jigglypuff |p2char1=fox |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=jigglypuff |p2char2=fox |p1stock2=2 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win=2 |p1char3=jigglypuff |p2char3=fox |p1stock3=0 |p2stock3=1 |stage3=Final Destination
+|stage4win=1 |p1char4=jigglypuff |p2char4=fox |p1stock4=1 |p2stock4=0 |stage4=Dream Land
+|vod=https://www.youtube.com/watch?v=aNlEt3qkDqk
+|vodgame1=https://www.youtube.com/watch?v=aNlEt3qkDqk&t=2m36s
+|vodgame2=https://www.youtube.com/watch?v=aNlEt3qkDqk&t=4m57s
+|vodgame3=https://www.youtube.com/watch?v=aNlEt3qkDqk&t=6m26s
+|vodgame4=https://www.youtube.com/watch?v=aNlEt3qkDqk&t=9m08s
+}}
+
+{{match stages
+|p1=Mango |p1flag=us
+|p2=Westballz |p2flag=us
+|p1score=0
+|p2score=3
+|winner=2
+|date=June 20, 2014 8:50 PM PDT
+|stage1win=2 |p1char1=fox |p2char1=falco |p1stock1=0 |p2stock1=1 |stage1=Battlefield
+|stage2win=2 |p1char2=fox |p2char2=falco |p1stock2=0 |p2stock2=1 |stage2=Dream Land
+|stage3win=2 |p1char3=falco |p2char3=falco |p1stock3=0 |p2stock3=3 |stage3=Dream Land
+|vod=https://www.youtube.com/watch?v=0eCO-ABIl44
+|vodgame1=https://www.youtube.com/watch?v=0eCO-ABIl44&t=2m07s
+|vodgame2=https://www.youtube.com/watch?v=0eCO-ABIl44&t=5m20s
+|vodgame3=https://www.youtube.com/watch?v=0eCO-ABIl44&t=9m16s
+}}
+
+{{match stages
+|p1=Armada |p1flag=se
+|p2=aMSa |p2flag=jp
+|p1score=3
+|p2score=0
+|winner=1
+|date=June 20, 2014 9:10 PM PDT
+|stage1win=1 |p1char1=peach |p2char1=yoshi |p1stock1=3 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=peach |p2char2=yoshi |p1stock2=3 |p2stock2=0 |stage2=Yoshi's Story
+|stage3win=1 |p1char3=peach |p2char3=yoshi |p1stock3=1 |p2stock3=0 |stage3=Fountain of Dreams
+|vod=https://www.youtube.com/watch?v=VgToYGpGyl0
+|vodgame1=https://www.youtube.com/watch?v=VgToYGpGyl0&t=1m20s
+|vodgame2=https://www.youtube.com/watch?v=VgToYGpGyl0&t=4m21s
+|vodgame3=https://www.youtube.com/watch?v=VgToYGpGyl0&t=6m55s
+}}
+{{match list end}}
+
+{{match list start
+|width=400px
+|title=Group B Matches - Day 2}}
+{{match stages
+|p1=Westballz |p1flag=us
+|p2=Armada |p2flag=se
+|p1score=0
+|p2score=3
+|date=June 21, 2014 11:00 AM PDT
+|winner=2
+|stage1win=2 |p1char1=falco |p2char1=peach |p1stock1=0 |p2stock1=3 |stage1=Battlefield
+|stage2win=2 |p1char2=falcon |p2char2=peach |p1stock2=0 |p2stock2=4 |stage2=Yoshi's Story
+|stage3win=2 |p1char3=fox |p2char3=peach |p1stock3=0 |p2stock3=1 |stage3=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=KG5GEj9BKV0
+|vodgame1=https://www.youtube.com/watch?v=KG5GEj9BKV0#t=181s
+|vodgame2=https://www.youtube.com/watch?v=KG5GEj9BKV0#t=381s
+|vodgame3=https://www.youtube.com/watch?v=KG5GEj9BKV0#t=544s
+}}
+
+{{match stages
+|p1=Mango |p1flag=us
+|p2=Hungrybox |p2flag=us
+|p1score=3
+|p2score=2
+|date=June 21, 2014 11:40 AM PDT
+|winner=1
+|stage1win=1 |p1char1=fox |p2char1=jigglypuff |p1stock1=3 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=fox |p2char2=jigglypuff |p1stock2=2 |p2stock2=0 |stage2=Dream Land
+|stage3win=2 |p1char3=fox |p2char3=jigglypuff |p1stock3=0 |p2stock3=1 |stage3=Dream Land
+|stage4win=2 |p1char4=fox |p2char4=jigglypuff |p1stock4=0 |p2stock4=1 |stage4=Final Destination
+|stage5win=1 |p1char5=fox |p2char5=jigglypuff |p1stock5=2 |p2stock5=0 |stage5=Final Destination
+|vod=https://www.youtube.com/watch?v=xf82UizfpYc
+|vodgame1=https://www.youtube.com/watch?v=xf82UizfpYc&t=3m0s
+|vodgame2=https://www.youtube.com/watch?v=xf82UizfpYc&t=5m26s
+|vodgame3=https://www.youtube.com/watch?v=xf82UizfpYc&t=9m47s
+|vodgame4=https://www.youtube.com/watch?v=xf82UizfpYc&t=14m02s
+|vodgame5=https://www.youtube.com/watch?v=xf82UizfpYc&t=16m53s
+}}
+
+{{match stages
+|p1=aMSa |p1flag=jp
+|p2=ZeRo |p2flag=cl
+|p1score=2
+|p2score=3
+|date=June 21, 2014 11:20 AM PDT
+|winner=2
+|stage1win=1 |p1char1=yoshi |p2char1=fox |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=2 |p1char2=yoshi |p2char2=fox |p1stock2=0 |p2stock2=1 |stage2=Final Destination
+|stage3win=1 |p1char3=yoshi |p2char3=fox |p1stock3=2 |p2stock3=0 |stage3=Yoshi's Story
+|stage4win=2 |p1char4=yoshi |p2char4=fox |p1stock4=0 |p2stock4=1 |stage4=Pokémon Stadium
+|stage5win=2 |p1char5=yoshi |p2char5=fox |p1stock5=0 |p2stock5=1 |stage5=Fountain of Dreams
+|vod=https://www.youtube.com/watch?v=n_FlaeFlwjQ
+|vodgame1=https://www.youtube.com/watch?v=n_FlaeFlwjQ&t=3m18s
+|vodgame2=https://www.youtube.com/watch?v=n_FlaeFlwjQ&t=6m18s
+|vodgame3=https://www.youtube.com/watch?v=n_FlaeFlwjQ&t=10m13s
+|vodgame4=https://www.youtube.com/watch?v=n_FlaeFlwjQ&t=12m40s
+|vodgame5=https://www.youtube.com/watch?v=n_FlaeFlwjQ&t=16m42s
+}}
+
+{{match stages
+|p1=aMSa |p1flag=jp
+|p2=Hungrybox |p2flag=us
+|p1score=0
+|p2score=3
+|date=June 21, 2014 1:00 PM PDT
+|winner=2
+|stage1win=2 |p1char1=yoshi |p2char1=jigglypuff |p1stock1=0 |p2stock1=1 |stage1=Final Destination
+|stage2win=2 |p1char2=yoshi |p2char2=jigglypuff |p1stock2=0 |p2stock2=1 |stage2=Yoshi's Story
+|stage3win=2 |p1char3=yoshi |p2char3=jigglypuff |p1stock3=0 |p2stock3=1 |stage3=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=RGzCI6XGotg
+|vodgame1=https://www.youtube.com/watch?v=RGzCI6XGotg#t=54s
+|vodgame2=https://www.youtube.com/watch?v=RGzCI6XGotg#t=281s
+|vodgame3=https://www.youtube.com/watch?v=RGzCI6XGotg#t=548s
+}}
+
+{{match stages
+|p1=Westballz |p1flag=us
+|p2=ZeRo |p2flag=cl
+|p1score=3
+|p2score=0
+|date=June 21, 2014 1:20 PM PDT
+|winner=1
+|stage1win=1 |p1char1=falco |p2char1=fox |p1stock1=2 |p2stock1=0 |stage1=Yoshi's Story
+|stage2win=1 |p1char2=falco |p2char2=fox |p1stock2=2 |p2stock2=0 |stage2=Final Destination
+|stage3win=1 |p1char3=falco |p2char3=fox |p1stock3=1 |p2stock3=0 |stage3=Final Destination
+|vod=https://www.youtube.com/watch?v=IpHux7Bjo0s
+|vodgame1=https://www.youtube.com/watch?v=IpHux7Bjo0s&t=0m45s
+|vodgame2=https://www.youtube.com/watch?v=IpHux7Bjo0s&t=3m41s
+|vodgame3=https://www.youtube.com/watch?v=IpHux7Bjo0s&t=6m10s
+}}
+
+{{match stages
+|p1=Mango |p1flag=us
+|p2=Armada |p2flag=se
+|p1score=2
+|p2score=3
+|date=June 21, 2014 1:40 PM PDT
+|winner=2
+|stage1win=1 |p1char1=fox |p2char1=peach |p1stock1=2 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=fox |p2char2=peach |p1stock2=2 |p2stock2=0 |stage2=Final Destination
+|stage3win=2 |p1char3=fox |p2char3=peach |p1stock3=0 |p2stock3=1 |stage3=Dream Land
+|stage4win=2 |p1char4=fox |p2char4=peach |p1stock4=0 |p2stock4=1 |stage4=Pokémon Stadium
+|stage5win=2 |p1char5=fox |p2char5=peach |p1stock5=0 |p2stock5=1 |stage5=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=CcwjerdIJNU
+|vodgame1=https://www.youtube.com/watch?v=CcwjerdIJNU&t=4m32s
+|vodgame2=https://www.youtube.com/watch?v=CcwjerdIJNU&t=8m23s
+|vodgame3=https://www.youtube.com/watch?v=CcwjerdIJNU&t=11m57s
+|vodgame4=https://www.youtube.com/watch?v=CcwjerdIJNU&t=16m39s
+|vodgame5=https://www.youtube.com/watch?v=CcwjerdIJNU&t=21m22s
+}}
+
+{{match stages
+|p1=Fiction |p1flag=us
+|p2=Armada |p2flag=se
+|p1score=0
+|p2score=3
+|date=June 21, 2014
+|winner=2
+|stage1win=2 |p1char1=fox |p2char1=peach |p1stock1=0 |p2stock1=2 |stage1=Dream Land
+|stage2win=2 |p1char2=fox |p2char2=peach |p1stock2=0 |p2stock2=2 |stage2=Pokémon stadium
+|stage3win=2 |p1char3=fox |p2char3=peach |p1stock3=0 |p2stock3=2 |stage3=Battlefield
+|vod=https://www.youtube.com/watch?v=2BoE40Zy7nk
+|vodgame1=https://www.youtube.com/watch?v=2BoE40Zy7nk&t=3m28s
+|vodgame2=https://www.youtube.com/watch?v=2BoE40Zy7nk&t=6m48s
+|vodgame3=https://www.youtube.com/watch?v=2BoE40Zy7nk&t=10m42s
+}}
+
+{{match stages
+|p1=Fiction |p1flag=us
+|p2=HungryBox |p2flag=us
+|p1score=1
+|p2score=3
+|date=June 21, 2014
+|winner=2
+|stage1win=2 |p1char1=fox |p2char1=jigglypuff |p1stock1=0 |p2stock1=1 |stage1=Battlefield
+|stage2win=2 |p1char2=fox |p2char2=jigglypuff |p1stock2=0 |p2stock2=2 |stage2=Battlefield
+|stage3win=1 |p1char3=fox |p2char3=jigglypuff |p1stock3=2 |p2stock3=0 |stage3=Battlefield
+|stage4win=2 |p1char4=fox |p2char4=jigglypuff |p1stock4=0 |p2stock4=2 |stage4=Dream Land
+|vod=https://www.youtube.com/watch?v=73qtDwI5ryI
+|vodgame1=https://www.youtube.com/watch?v=73qtDwI5ryI#t=260s
+|vodgame2=https://www.youtube.com/watch?v=73qtDwI5ryI#t=436s
+|vodgame3=https://www.youtube.com/watch?v=73qtDwI5ryI#t=586s
+|vodgame4=https://www.youtube.com/watch?v=73qtDwI5ryI#t=758s
+}}
+
+{{match stages
+|p1=PewPewU |p1flag=us
+|p2=Zero |p2flag=cl
+|p1score=3
+|p2score=0
+|date=June 21, 2014 1:40 PM PDT
+|winner=1
+|stage1win=1 |p1char1=marth |p2char1=fox |p1stock1= |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=marth |p2char2=fox |p1stock2= |p2stock2=0 |stage2=unknown
+|stage3win=1 |p1char3=marth |p2char3=fox |p1stock3= |p2stock3=0 |stage3=unknown
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+}}
+
+{{match stages
+|p1=PewPewU |p1flag=us
+|p2=Westballz |p2flag=us
+|p1score=3
+|p2score=0
+|date=June 21, 2014
+|winner=1
+|stage1win=1 |p1char1=marth |p2char1=falco |p1stock1= |p2stock1=0 |stage1=unknown
+|stage2win=1 |p1char2=marth |p2char2=falco |p1stock2=1 |p2stock2=0 |stage2=Yoshi's Story
+|stage3win=1 |p1char3=marth |p2char3=falco |p1stock3=4 |p2stock3=0 |stage3=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=Ssvqs3bt67A
+|vodgame1=
+|vodgame2=https://www.youtube.com/watch?v=Ssvqs3bt67A&t=0m3s
+|vodgame3=https://www.youtube.com/watch?v=Ssvqs3bt67A&t=0m52s
+}}
+
+{{match stages
+|p1=PewPewU |p1flag=us
+|p2=Fiction |p2flag=us
+|p1score=3
+|p2score=0
+|date=June 21, 2014
+|winner=1
+|stage1win=1 |p1char1=marth |p2char1=fox |p1stock1= |p2stock1=0 |stage1=unknown
+|stage2win=1 |p1char2=marth |p2char2=fox |p1stock2= |p2stock2=0 |stage2=unknown
+|stage3win=1 |p1char3=marth |p2char3=fox |p1stock3= |p2stock3=0 |stage3=unknown
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+}}
+
+{{match stages
+|p1=aMSa |p1flag=jp
+|p2=Fiction |p2flag=us
+|p1score=2
+|p2score=3
+|date=June 21, 2014
+|winner=2
+|stage1win=2 |p1char1=yoshi |p2char1=fox |p1stock1=0 |p2stock1=1 |stage1=Yoshi's Story
+|stage2win=1 |p1char2=yoshi |p2char2=fox |p1stock2=1 |p2stock2=0 |stage2=Battlefield
+|stage3win=1 |p1char3=yoshi |p2char3=fox |p1stock3=1 |p2stock3=0 |stage3=Yoshi's Story
+|stage4win=2 |p1char4=yoshi |p2char4=fox |p1stock4=0 |p2stock4=2 |stage4=Yoshi's Story
+|stage5win=2 |p1char5=yoshi |p2char5=fox |p1stock5=0 |p2stock5=3 |stage5=Fountain of Dreams
+|vod=https://www.youtube.com/watch?v=LyZU7hMd2Sc
+|vodgame1=https://www.youtube.com/watch?v=LyZU7hMd2Sc&t=3m18s
+|vodgame2=https://www.youtube.com/watch?v=LyZU7hMd2Sc&t=6m31s
+|vodgame3=https://www.youtube.com/watch?v=LyZU7hMd2Sc&t=10m29s
+|vodgame4=https://www.youtube.com/watch?v=LyZU7hMd2Sc&t=13m26s
+|vodgame5=https://www.youtube.com/watch?v=LyZU7hMd2Sc&t=16m26s
+}}
+
+{{match stages
+|p1=Armada |p1flag=se
+|p2=PewPewU |p2flag=us
+|p1score=3
+|p2score=0
+|date=June 21, 2014 18:40 PM PDT
+|winner=1
+|stage1win=1 |p1char1=peach |p2char1=marth |p1stock1=2 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=peach |p2char2=marth |p1stock2=2 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win=1 |p1char3=peach |p2char3=marth |p1stock3=2 |p2stock3=0 |stage3=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=GXzb3wMgsj0
+|vodgame1=https://www.youtube.com/watch?v=GXzb3wMgsj0#t=388s
+|vodgame2=https://www.youtube.com/watch?v=GXzb3wMgsj0#t=666s
+|vodgame3=https://www.youtube.com/watch?v=GXzb3wMgsj0#t=937s
+}}
+
+{{match stages
+|p1=Mango |p1flag=us
+|p2=PewPewU |p2flag=us
+|p1score=3
+|p2score=0
+|date=June 21, 2014
+|winner=1
+|stage1win=1 |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win=1 |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win=1 |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+}}
+
+{{match stages 
+|p1=Mango |p1flag=us
+|p2=Fiction |p2flag=us
+|p1score=3
+|p2score=1
+|date=June 21, 2014 20:00 PM PDT
+|winner=1
+|stage1win=1 |p1char1=falco |p2char1=fox |p1stock1=2 |p2stock1=0 |stage1=Battlefield
+|stage2win=2 |p1char2=falco |p2char2=fox |p1stock2=0 |p2stock2=2 |stage2=Battlefield
+|stage3win=1 |p1char3=falco |p2char3=fox |p1stock3=2 |p2stock3=0 |stage3=Dream Land
+|stage4win=1 |p1char4=falco |p2char4=fox |p1stock4=2 |p2stock4=0 |stage4=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=dhnyAwHBIvI
+|vodgame1=https://www.youtube.com/watch?v=dhnyAwHBIvI&t=0m58s
+|vodgame2=https://www.youtube.com/watch?v=dhnyAwHBIvI&t=3m52s
+|vodgame3=https://www.youtube.com/watch?v=dhnyAwHBIvI&t=6m50s
+|vodgame4=https://www.youtube.com/watch?v=dhnyAwHBIvI&t=10m06s
+}}
+
+{{match stages
+|p1=HungryBox |p1flag=us
+|p2=PewPewU |p2flag=us
+|p1score=3
+|p2score=0
+|date=June 21, 2014
+|winner=1
+|stage1win=1 |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win=1 |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win=1 |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+}}
+
+{{match stages
+|p1=Amsa |p1flag=jp
+|p2=PewPewU |p2flag=us
+|p1score=3
+|p2score=2
+|date=June 21, 2014
+|winner=1
+|stage1win=2 |p1char1=yoshi |p2char1=marth |p1stock1=0 |p2stock1=2 |stage1=Battlefield
+|stage2win=1 |p1char2=yoshi |p2char2=marth |p1stock2=1 |p2stock2=0 |stage2=unknown
+|stage3win=1 |p1char3=yoshi |p2char3=marth |p1stock3=1 |p2stock3=0 |stage3=Dream Land
+|stage4win=2 |p1char4=yoshi |p2char4=marth |p1stock4=0 |p2stock4=1 |stage4=Final Destination
+|stage5win=1 |p1char5=yoshi |p2char5=marth |p1stock5=1 |p2stock5=0 |stage5=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=FDwqgzdKNfI&list=PLiOw_5vTvNAo3gJ6c7xyOCyQFJ4DOA7Lt
+|vodgame1=https://www.youtube.com/watch?v=FDwqgzdKNfI
+|vodgame2=
+|vodgame3=
+|vodgame4=https://www.youtube.com/watch?v=L_Gdx_weJuM
+|vodgame5=https://www.youtube.com/watch?v=-bUi8jqPchI
+}}
+
+{{match stages
+|p1=Fiction |p1flag=us
+|p2=ZeRo |p2flag=us
+|p1score=3
+|p2score=1
+|date=June 21, 2014
+|winner=1
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win=1 |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+}}
+
+{{match stages
+|p1=Fiction |p1flag=us
+|p2=Westballz |p2flag=us
+|p1score=3
+|p2score=1
+|date=June 21, 2014
+|winner=1
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win=1 |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+}}
+{{match list end}}
+{{box|end}}

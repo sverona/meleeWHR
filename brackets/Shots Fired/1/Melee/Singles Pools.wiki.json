@@ -1,0 +1,248 @@
+{
+    "===Losers Bracket===": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "YunMaleBocks",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Pitzer",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Hope",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Respect Your Elders",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Prynne",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "RBD{{!}}Apollo Ali",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "JBABY",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "YunMaleBocks",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Swag Apocalypse",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Pitzer",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "edoth",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Respect Your Elders",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "DHNinja",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Prynne",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "JBABY",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Pitzer",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "edoth",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Prynne",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "ES{{!}}Cash",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Pitzer {{advance",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Sled {{advance",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Prynne",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "===Winners Bracket===": {
+        "r1m1": {
+            "p1": "Emukiller",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "DHNinja",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "YunMaleBocks",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "ES{{!}}Cash",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Pitzer",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Hope",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "edoth",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "Tian",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Respect Your Elders",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Swag Apocalypse",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Sled",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Prynne",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "RBD{{!}}Apollo Ali",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "JBABY",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Emukiller",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "DHNinja",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "ES{{!}}Cash",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "edoth",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Tian",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Swag Apocalypse",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Sled",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "JBABY",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Emukiller {{advance",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "ES{{!}}Cash",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Tian {{advance",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Sled",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Pool 1==": {},
+    "==Pool 2==": {},
+    "==Pool 3==": {},
+    "==Pool 4==": {},
+    "==Pool 5==": {},
+    "==Pool 6==": {},
+    "==Pool 7==": {},
+    "==Pool 8==": {}
+}

@@ -1,0 +1,190 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "Jerem",
+            "t1p1flag": "fr",
+            "t1p2": "Meljin",
+            "t1p2flag": "fr",
+            "t1score": "0",
+            "t2p1": "JiM",
+            "t2p1flag": "fr",
+            "t2p2": "MetalFox",
+            "t2p2flag": "fr",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "t1p1": "BeLia",
+            "t1p1flag": "fr",
+            "t1p2": "I\u00f1f",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "Kid Candi",
+            "t2p1flag": "fr",
+            "t2p2": "Etril",
+            "t2p2flag": "fr",
+            "t2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "t1p1": "Kid Candi",
+            "t1p1flag": "fr",
+            "t1p2": "Etril",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "JiM",
+            "t2p1flag": "fr",
+            "t2p2": "MetalFox",
+            "t2p2flag": "fr",
+            "t2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "t1p1": "BeLia",
+            "t1p1flag": "fr",
+            "t1p2": "I\u00f1f",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "Kid Candi",
+            "t2p1flag": "fr",
+            "t2p2": "Etril",
+            "t2p2flag": "fr",
+            "t2score": "2",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "t1p1": "Squall",
+            "t1p1flag": "fr",
+            "t1p2": "Tchang",
+            "t1p2flag": "fr",
+            "t1score": "0",
+            "t2p1": "yogui",
+            "t2p1flag": "fr",
+            "t2p2": "Bobi",
+            "t2p2flag": "fr",
+            "t2score": "3",
+            "win": "2"
+        },
+        "l1m2": {
+            "t1p1": "B\u00e9tam\u00e8che",
+            "t1p1flag": "fr",
+            "t1p2": "Vinz",
+            "t1p2flag": "fr",
+            "t1score": "1",
+            "t2p1": "Rondelle",
+            "t2p1flag": "fr",
+            "t2p2": "Ezan",
+            "t2p2flag": "fr",
+            "t2score": "3",
+            "win": "2"
+        },
+        "l2m1": {
+            "t1p1": "Jerem",
+            "t1p1flag": "fr",
+            "t1p2": "Meljin",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "yogui",
+            "t2p1flag": "fr",
+            "t2p2": "Bobi",
+            "t2p2flag": "fr",
+            "t2score": "2",
+            "win": "1"
+        },
+        "l2m2": {
+            "t1p1": "JiM",
+            "t1p1flag": "fr",
+            "t1p2": "MetalFox",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "Rondelle",
+            "t2p1flag": "fr",
+            "t2p2": "Ezan",
+            "t2p2flag": "fr",
+            "t2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "t1p1": "BeLia",
+            "t1p1flag": "fr",
+            "t1p2": "I\u00f1f",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "Squall",
+            "t2p1flag": "fr",
+            "t2p2": "Tchang",
+            "t2p2flag": "fr",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "t1p1": "JiM",
+            "t1p1flag": "fr",
+            "t1p2": "MetalFox",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "yogui",
+            "t2p1flag": "fr",
+            "t2p2": "Bobi",
+            "t2p2flag": "fr",
+            "t2score": "1",
+            "win": "1"
+        },
+        "r1m3": {
+            "t1p1": "Kid Candi",
+            "t1p1flag": "fr",
+            "t1p2": "Etril",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "B\u00e9tam\u00e8che",
+            "t2p1flag": "fr",
+            "t2p2": "Vinz",
+            "t2p2flag": "fr",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "t1p1": "Jerem",
+            "t1p1flag": "fr",
+            "t1p2": "Meljin",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "Rondelle",
+            "t2p1flag": "fr",
+            "t2p2": "Ezan",
+            "t2p2flag": "fr",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "t1p1": "BeLia",
+            "t1p1flag": "fr",
+            "t1p2": "I\u00f1f",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "JiM",
+            "t2p1flag": "fr",
+            "t2p2": "MetalFox",
+            "t2p2flag": "fr",
+            "t2score": "1",
+            "win": "1"
+        },
+        "r2m2": {
+            "t1p1": "Kid Candi",
+            "t1p1flag": "fr",
+            "t1p2": "Etril",
+            "t1p2flag": "fr",
+            "t1score": "3",
+            "t2p1": "Jerem",
+            "t2p1flag": "fr",
+            "t2p2": "Meljin",
+            "t2p2flag": "fr",
+            "t2score": "1",
+            "win": "1"
+        }
+    }
+}

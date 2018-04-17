@@ -1,0 +1,106 @@
+{{DISPLAYTITLE: Smash Summit: ''Iron Man''}}{{Smash Summit Tabs|This=5}}
+
+<onlyinclude>
+==Iron Man Bracket==
+{{4SEBracket
+
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=20
+|r1m1p2=S2J |r1m1p2flag=us |r1m1p2score=10
+|r1m1win=1
+
+|r1m2p1=Armada |r1m2p1flag=se |r1m2p1score=20
+|r1m2p2=Mango |r1m2p2flag=us |r1m2p2score=18
+|r1m2win=1
+
+|r2m1p1=Mew2King |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=Armada |r2m1p2flag=se |r2m1p2score=8
+|r2m1win=2
+}}
+</onlyinclude>
+
+==Details==
+
+===Semifinals===
+{{TeamMatch
+|team1literal='''{{flag/us}} Mew2King'''
+|team2literal='''S2J {{flag/us}}'''
+|date=
+|finished=
+|live=
+|vod=
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=320
+
+|team1matches=5
+|team2matches=2
+|team1stocks=10
+|team2stocks=0
+
+|m1p1=Mew2King |m1p1char=sheik |m1p1s1=4 |m1p1s2=1 |m1p2=S2J |m1p2char=fox |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Battlefield
+|m2p1=Mew2King |m2p1char=sheik |m2p1s1=1 |m2p1s2=0 |m2p2=S2J |m2p2char=falco |m2p2s1=4 |m2p2s2=3 |m2win=2 |m2stage=Pokémon Stadium
+|m3p1=Mew2King |m3p1char=marth |m3p1s1=4 |m3p1s2=4 |m3p2=S2J |m3p2char=falco |m3p2s1=3 |m3p2s2=0 |m3win=1 |m3stage=Final Destination
+|m4p1=Mew2King |m4p1char=marth |m4p1s1=4 |m4p1s2=1 |m4p2=S2J |m4p2char=cf |m4p2s1=4 |m4p2s2=0 |m4win=1 |m4stage=Pokémon Stadium
+|m5p1=Mew2King |m5p1char=marth |m5p1s1=1 |m5p1s2=0 |m5p2=S2J |m5p2char=marth |m5p2s1=4 |m5p2s2=3 |m5win=2 |m5stage=Yoshi's Story
+|m6p1=Mew2King |m6p1char=pichu |m6p1s1=4 |m6p1s2=3 |m6p2=S2J |m6p2char=marth |m6p2s1=3 |m6p2s2=0 |m6win=1 |m6stage=Dream Land
+|m7p1=Mew2King |m7p1char=pichu |m7p1s1=3 |m7p1s2=2 |m7p2=S2J |m7p2char=sheik |m7p2s1=4 |m7p2s2=0 |m7win=1 |m7stage=Battlefield
+|m8p1= |m8p1char= |m8p1s1= |m8p1s2= |m8p2= |m8p2char= |m8p2s1= |m8p2s2= |m8win= |m8stage=
+|m9p1= |m9p1char= |m9p1s1= |m9p1s2= |m9p2= |m9p2char= |m9p2s1= |m9p2s2= |m9win= |m9stage=
+}}
+
+
+{{TeamMatch
+|team1literal='''{{flag/se}} Armada'''
+|team2literal='''Mango {{flag/us}}'''
+|date=
+|finished=
+|live=
+|vod=
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=320
+
+|team1matches=5
+|team2matches=4
+|team1stocks=2
+|team2stocks=0
+
+|m1p1=Armada |m1p1char=marth |m1p1s1=4 |m1p1s2=2 |m1p2=Mango |m1p2char=marth |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Dream Land
+|m2p1=Armada |m2p1char=marth |m2p1s1=2 |m2p1s2=0 |m2p2=Mango |m2p2char=cf |m2p2s1=4 |m2p2s2=2 |m2win=2 |m2stage=Dream Land
+|m3p1=Armada |m3p1char=sheik |m3p1s1=4 |m3p1s2=3 |m3p2=Mango |m3p2char=cf |m3p2s1=2 |m3p2s2=0 |m3win=1 |m3stage=Dream Land
+|m4p1=Armada |m4p1char=sheik |m4p1s1=3 |m4p1s2=0 |m4p2=Mango |m4p2char=falco |m4p2s1=4 |m4p2s2=1 |m4win=2 |m4stage=Yoshi's Story
+|m5p1=Armada |m5p1char=falco |m5p1s1=4 |m5p1s2=2 |m5p2=Mango |m5p2char=falco |m5p2s1=1 |m5p2s2=0 |m5win=1 |m5stage=Pokémon Stadium
+|m6p1=Armada |m6p1char=falco |m6p1s1=2 |m6p1s2=0 |m6p2=Mango |m6p2char=mario |m6p2s1=4 |m6p2s2=3 |m6win=2 |m6stage=Final Destination
+|m7p1=Armada |m7p1char=peach |m7p1s1=4 |m7p1s2=2 |m7p2=Mango |m7p2char=mario |m7p2s1=3 |m7p2s2=0 |m7win=1 |m7stage=Battlefield
+|m8p1=Armada |m8p1char=peach |m8p1s1=2 |m8p1s2=0 |m8p2=Mango |m8p2char=fox |m8p2s1=4 |m8p2s2=2 |m8win=2 |m8stage=Yoshi's Story
+|m9p1=Armada |m9p1char=fox |m9p1s1=4 |m9p1s2=2 |m9p2=Mango |m9p2char=fox |m9p2s1=2 |m9p2s2=0 |m9win=1 |m9stage=Pokémon Stadium
+}}
+
+===Final===
+{{TeamMatch
+|team1literal='''{{flag/us}} Mew2King'''
+|team2literal='''Armada {{flag/se}}'''
+|date=
+|finished=
+|live=
+|vod=
+|teamwin=2
+|lrthread=
+|interview=
+|review=
+|width=320
+
+|comment=Mew2King forfeited after the second game.
+
+|team1matches=0
+|team2matches=2
+|team1stocks=12
+|team2stocks=18
+
+|m1p1=Mew2King |m1p1char=sheik |m1p1s1=4 |m1p1s2=0 |m1p2=Armada |m1p2char=fox |m1p2s1=4 |m1p2s2=2 |m1win=2 |m1stage=Dream Land
+|m2p1=Mew2King |m2p1char=marth |m2p1s1=4 |m2p1s2=0 |m2p2=Armada |m2p2char=fox |m2p2s1=2 |m2p2s2=2 |m2win=2 |m2stage=Final Destination
+}}

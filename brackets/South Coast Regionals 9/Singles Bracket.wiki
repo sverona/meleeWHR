@@ -1,0 +1,228 @@
+{{SetGame|melee}}{{tabs static
+|name1=Overview
+|link1=South Coast Regionals 9
+|name2=Singles Bracket
+|link2=South Coast Regionals 9/Singles Bracket
+|name3=Doubles Bracket
+|link3=South Coast Regionals 9/Doubles
+|name4=Amateur Bracket
+|link4=South Coast Regionals 9/Amateur
+|This=2
+}}<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia name=SCR9Pro -->
+
+==Winners Bracket==
+{{32DEWBracketA
+|r1m1p1=Vanity Angel |r1m1p1flag=gb |r1m1p1score=2 |r1m1win=1
+|r1m1p2=Henley |r1m1p2flag= |r1m1p2score=0
+
+|r1m2p1=BAP |r1m2p1flag= |r1m2p1score=2 |r1m2win=1
+|r1m2p2=Modest Major |r1m2p2flag=gb |r1m2p2score=1
+
+|r1m3p1=Unreal |r1m3p1flag=gb |r1m3p1score=2 |r1m3win=1
+|r1m3p2=Biss |r1m3p2flag= |r1m3p2score=0
+
+|r1m4p1=X1 |r1m4p1flag=gb |r1m4p1score=2 |r1m4win=1
+|r1m4p2=Inertia |r1m4p2flag= |r1m4p2score=0
+
+|r1m5p1=Jolteon |r1m5p1flag=gb |r1m5p1score=2 |r1m5win=1
+|r1m5p2=deathtouch_lifelink |r1m5p2flag= |r1m5p2score=1
+
+|r1m6p1=RashAttack |r1m6p1flag= |r1m6p1score=2 |r1m6win=1
+|r1m6p2=Sylveon |r1m6p2flag=gb |r1m6p2score=0
+
+|r1m7p1=Deathgazer |r1m7p1flag=gb |r1m7p1score=2 |r1m7win=1
+|r1m7p2=NoScrubUK |r1m7p2flag= |r1m7p2score=0
+
+|r1m8p1=Manyula |r1m8p1flag=gb |r1m8p1score=0 |r1m8win=2
+|r1m8p2=Soy |r1m8p2flag=gb |r1m8p2score=2
+
+|r1m9p1=Dev |r1m9p1flag=se |r1m9p1score=2 |r1m9win=1
+|r1m9p2=Guts |r1m9p2flag= |r1m9p2score=0
+
+|r1m10p1=HoorayForJay |r1m10p1flag= |r1m10p1score=2 |r1m10win=1
+|r1m10p2=Calzum |r1m10p2flag= |r1m10p2score=1
+
+|r1m11p1=HaoTwo |r1m11p1flag=gb |r1m11p1score=2 |r1m11win=1
+|r1m11p2=Twig |r1m11p2flag= |r1m11p2score=0
+
+|r1m12p1=Frenzy |r1m12p1flag=gb |r1m12p1score=2 |r1m12win=1
+|r1m12p2=Draz |r1m12p2flag= |r1m12p2score=0
+
+|r1m13p1=R23 |r1m13p1flag=gb |r1m13p1score=2 |r1m13win=1
+|r1m13p2=G |r1m13p2flag= |r1m13p2score=0
+
+|r1m14p1=Brado |r1m14p1flag= |r1m14p1score=2 |r1m14win=1
+|r1m14p2=MattSmith |r1m14p2flag= |r1m14p2score=1
+
+|r1m15p1=Jam |r1m15p1flag=gb |r1m15p1score=2 |r1m15win=1
+|r1m15p2=Fayt |r1m15p2flag= |r1m15p2score=0
+
+|r1m16p1=Pripps |r1m16p1flag=se |r1m16p1score=2 |r1m16win=1
+|r1m16p2=Kone |r1m16p2flag= |r1m16p2score=1
+
+|r2m1p1=Vanity Angel |r2m1p1flag=gb |r2m1p1score=2 |r2m1win=1
+|r2m1p2=BAP |r2m1p2flag= |r2m1p2score=0
+
+|r2m2p1=Unreal |r2m2p1flag=gb |r2m2p1score=2 |r2m2win=1
+|r2m2p2=X1 |r2m2p2flag=gb |r2m2p2score=0
+
+|r2m3p1=Jolteon |r2m3p1flag=gb |r2m3p1score=2 |r2m3win=1
+|r2m3p2=RashAttack |r2m3p2flag= |r2m3p2score=0
+
+|r2m4p1=Deathgazer |r2m4p1flag=gb |r2m4p1score=2 |r2m4win=1
+|r2m4p2=Soy |r2m4p2flag=gb |r2m4p2score=1
+
+|r2m5p1=Dev |r2m5p1flag=se|r2m5p1score=2 |r2m5win=1
+|r2m5p2=HoorayForJay |r2m5p2flag= |r2m5p2score=0
+
+|r2m6p1=HaoTwo |r2m6p1flag=gb |r2m6p1score=1 |r2m6win=2
+|r2m6p2=Frenzy |r2m6p2flag=gb |r2m6p2score=2
+
+|r2m7p1=R23 |r2m7p1flag=gb |r2m7p1score=2 |r2m7win=1
+|r2m7p2=Brado |r2m7p2flag= |r2m7p2score=0
+
+|r2m8p1=Jam |r2m8p1flag=gb |r2m8p1score=2 |r2m8win=1
+|r2m8p2=Pripps |r2m8p2flag=se|r2m8p2score=0
+
+|r3m1p1=Vanity Angel |r3m1p1flag=gb |r3m1p1score=3 |r3m1win=1
+|r3m1p2=Unreal |r3m1p2flag=gb |r3m1p2score=0
+
+|r3m2p1=Jolteon |r3m2p1flag=gb |r3m2p1score=1 |r3m2win=2
+|r3m2p2=Deathgazer |r3m2p2flag=gb |r3m2p2score=3
+
+|r3m3p1=Dev |r3m3p1flag=se |r3m3p1score=3 |r3m3win=1
+|r3m3p2=Frenzy |r3m3p2flag=gb |r3m3p2score=0
+
+|r3m4p1=R23 |r3m4p1flag=gb |r3m4p1score=3 |r3m4win=1
+|r3m4p2=Jam |r3m4p2flag=gb |r3m4p2score=1
+
+|r4m1p1=Vanity Angel |r4m1p1flag=gb |r4m1p1score=3 |r4m1win=1
+|r4m1p2=Deathgazer |r4m1p2flag=gb |r4m1p2score=0
+
+|r4m2p1=Dev |r4m2p1flag=se |r4m2p1score=3 |r4m2win=1
+|r4m2p2=R23 |r4m2p2flag=gb |r4m2p2score=0
+}}
+
+==Losers Bracket==
+{{32DELBracketSmwA
+|tourneylink=South Coast Regionals 9
+|tourneyname=South Coast Regionals 9
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+
+|l1m1p1=Henley |l1m1p1flag= |l1m1p1score=0 |l1m1win=2
+|l1m1p2=Modest Major |l1m1p2flag=gb |l1m1p2score=2
+
+|l1m2p1=Biss |l1m2p1flag= |l1m2p1score=2 |l1m2win=1
+|l1m2p2=Inertia |l1m2p2flag= |l1m2p2score=0
+
+|l1m3p1=deathtouch_lifelink |l1m3p1flag= |l1m3p1score=0 |l1m3win=2
+|l1m3p2=Sylveon |l1m3p2flag=gb |l1m3p2score=2
+
+|l1m4p1=NoScrubUK |l1m4p1flag= |l1m4p1score=0 |l1m4win=2
+|l1m4p2=Manyula |l1m4p2flag=gb |l1m4p2score=2
+
+|l1m5p1=Guts |l1m5p1flag= |l1m5p1score=2 |l1m5win=1
+|l1m5p2=Calzum |l1m5p2flag= |l1m5p2score=0
+
+|l1m6p1=Twig |l1m6p1flag= |l1m6p1score=0 |l1m6win=2
+|l1m6p2=Draz |l1m6p2flag= |l1m6p2score=2
+
+|l1m7p1=G |l1m7p1flag= |l1m7p1score=1 |l1m7win=2
+|l1m7p2=MattSmith |l1m7p2flag= |l1m7p2score=2
+
+|l1m8p1=Fayt |l1m8p1flag= |l1m8p1score=1 |l1m8win=2
+|l1m8p2=Kone |l1m8p2flag= |l1m8p2score=2
+
+|l2m1p1=Pripps |l2m1p1flag=se |l2m1p1score=2 |l2m1win=1
+|l2m1p2=Modest Major |l2m1p2flag=gb |l2m1p2score=1
+
+|l2m2p1=Brado |l2m2p1flag= |l2m2p1score=0 |l2m2win=2
+|l2m2p2=Biss |l2m2p2flag= |l2m2p2score=2
+
+|l2m3p1=HaoTwo |l2m3p1flag=gb |l2m3p1score=2 |l2m3win=1
+|l2m3p2=Sylveon |l2m3p2flag=gb |l2m3p2score=0
+
+|l2m4p1=HoorayForJay |l2m4p1flag= |l2m4p1score=1 |l2m4win=2
+|l2m4p2=Manyula |l2m4p2flag=gb |l2m4p2score=2
+
+|l2m5p1=Soy |l2m5p1flag=gb |l2m5p1score=2 |l2m5win=1
+|l2m5p2=Guts |l2m5p2flag= |l2m5p2score=0
+
+|l2m6p1=RashAttack |l2m6p1flag= |l2m6p1score=2 |l2m6win=1
+|l2m6p2=Draz |l2m6p2flag= |l2m6p2score=1
+
+|l2m7p1=X1 |l2m7p1flag=gb |l2m7p1score=2 |l2m7win=1
+|l2m7p2=MattSmith |l2m7p2flag= |l2m7p2score=0
+
+|l2m8p1=BAP |l2m8p1flag= |l2m8p1score=2 |l2m8win=1
+|l2m8p2=Kone |l2m8p2flag= |l2m8p2score=1
+
+|l3m1p1=Pripps |l3m1p1flag=se |l3m1p1score=2 |l3m1win=1
+|l3m1p2=Biss |l3m1p2flag= |l3m1p2score=0
+
+|l3m2p1=HaoTwo |l3m2p1flag=gb |l3m2p1score=2 |l3m2win=1
+|l3m2p2=Manyula |l3m2p2flag=gb |l3m2p2score=0
+
+|l3m3p1=Soy |l3m3p1flag=gb |l3m3p1score=0 |l3m3win=2
+|l3m3p2=RashAttack |l3m3p2flag= |l3m3p2score=2
+
+|l3m4p1=X1 |l3m4p1flag=gb |l3m4p1score=2 |l3m4win=1
+|l3m4p2=BAP |l3m4p2flag= |l3m4p2score=1
+
+|l4m1p1=Jolteon |l4m1p1flag=gb |l4m1p1score=3 |l4m1win=1
+|l4m1p2=Pripps |l4m1p2flag=se |l4m1p2score=0
+
+|l4m2p1=Unreal |l4m2p1flag=gb |l4m2p1score=1 |l4m2win=2
+|l4m2p2=HaoTwo |l4m2p2flag=gb |l4m2p2score=3
+
+|l4m3p1=Jam |l4m3p1flag=gb |l4m3p1score=1 |l4m3win=2
+|l4m3p2=RashAttack |l4m3p2flag= |l4m3p2score=3
+
+|l4m4p1=Frenzy |l4m4p1flag=gb |l4m4p1score=2 |l4m4win=2
+|l4m4p2=X1 |l4m4p2flag=gb |l4m4p2score=3
+
+|l5m1p1=Jolteon |l5m1p1flag=gb |l5m1p1score=1 |l5m1win=2
+|l5m1p2=HaoTwo |l5m1p2flag=gb |l5m1p2score=3
+
+|l5m2p1=RashAttack |l5m2p1flag= |l5m2p1score=0 |l5m2win=2
+|l5m2p2=X1 |l5m2p2flag=gb |l5m2p2score=3
+
+|l6m1p1=R23 |l6m1p1flag=gb |l6m1p1score=3 |l6m1win=1
+|l6m1p2=HaoTwo |l6m1p2flag=gb |l6m1p2score=0
+
+|l6m2p1=Deathgazer |l6m2p1flag=gb |l6m2p1score=3 |l6m2win=1
+|l6m2p2=X1 |l6m2p2flag=gb |l6m2p2score=1
+}}
+
+==Finals Bracket==
+<onlyinclude>
+{{DEFinalSmwBracket
+|tourneylink=South Coast Regionals 9
+|tourneyname=South Coast Regionals 9
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1p1=Vanity Angel |r1m1p1flag=gb |r1m1p1score=3 |r1m1win=1
+|r1m1p2=Dev |r1m1p2flag=se |r1m1p2score=0
+
+<!-- FROM LOSERS -->
+|l1m1p1=R23 |l1m1p1flag=gb |l1m1p1score=3 |l1m1win=1
+|l1m1p2=Deathgazer  |l1m1p2flag=gb |l1m1p2score=0
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Dev |r2m1p1flag=se |r2m1p1score=3 |r2m1win=1
+|r2m1p2=R23 |r2m1p2flag=gb |r2m1p2score=0
+
+<!-- GRAND FINALS -->
+|r3m1p1=Vanity Angel |r3m1p1flag=gb |r3m1p1score=3 |r3m1win=1
+|r3m1p2=Dev |r3m1p2flag=se |r3m1p2score=1
+}}
+</onlyinclude>

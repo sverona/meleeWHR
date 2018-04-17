@@ -1,0 +1,715 @@
+{{DISPLAYTITLE:Kickstart 13}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Kickstart/13
+|name2=Singles Bracket
+|link2=Kickstart/13/Singles Bracket
+|name3=Doubles Bracket
+|link3=Kickstart/13/Doubles Bracket
+|This=2
+}}
+==Winners Bracket==
+{{Template:64DEWBracketA
+|tourneylink=Kickstart/13
+|tourneyname=Kickstart 13
+|column-width=150
+|R1=Round 1
+|R2=Round 2
+|R3=Round 3
+|R4=Round 4
+
+|r1m1p1=Hungrybox |r1m1p1flag=us |r1m1p1score={{win}} |r1m1win=1
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m2p1=Jolteon |r1m2p1flag=uk |r1m2p1score={{win}} |r1m2win=1
+|r1m2p2=SHIP |r1m2p2flag=uk |r1m2p2score=DQ
+|r1m2date=
+|r1m2finished=
+|r1m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m3p1=Ryan S |r1m3p1flag=uk |r1m3p1score={{win}} |r1m3win=1
+|r1m3p2=Bye |r1m3p2flag= |r1m3p2score=
+|r1m3date=
+|r1m3finished=
+|r1m3details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m4p1=Oytun |r1m4p1flag=uk |r1m4p1score=1 |r1m4win=2
+|r1m4p2=Yiivo |r1m4p2flag=uk |r1m4p2score=2
+|r1m4date=
+|r1m4finished=
+|r1m4details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m5p1=Frenzy |r1m5p1flag=uk |r1m5p1score={{win}} |r1m5win=1
+|r1m5p2=Bye |r1m5p2flag= |r1m5p2score=
+
+|r1m6p1=JMG |r1m6p1flag=uk |r1m6p1score=2 |r1m6win=1
+|r1m6p2=Kipkosky |r1m6p2flag=uk |r1m6p2score=0
+|r1m6p1char1=samus |r1m6p2char1=fox |r1m6p1stock1=2 |r1m6p2stock1=0 |r1m6win1=1 |r1m6stage1=Battlefield
+|r1m6p1char2=samus |r1m6p2char2=fox |r1m6p1stock2=3 |r1m6p2stock2=0 |r1m6win2=1 |r1m6stage2=Pokémon Stadium
+|r1m6details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/rbTwID26wpA}}
+
+|r1m7p1=Captain Jack |r1m7p1flag=jp |r1m7p1score={{win}} |r1m7win=1
+|r1m7p2=Bye |r1m7p2flag= |r1m7p2score=
+|r1m7date=
+|r1m7finished=
+|r1m7details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m8p1=Setchi |r1m8p1flag=uk |r1m8p1score=2 |r1m8win=1
+|r1m8p2=DiabolicalSloth |r1m8p2flag=uk |r1m8p2score=0
+|r1m8date=
+|r1m8finished=
+|r1m8details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m9p1=MINT |r1m9p1flag=uk |r1m9p1score={{win}} |r1m9win=1
+|r1m9p2=Bye |r1m9p2flag= |r1m9p2score=
+|r1m9date=
+|r1m9finished=
+|r1m9details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m10p1=Way |r1m10p1flag=uk |r1m10p1score=2 |r1m10win=1
+|r1m10p2=Mordo |r1m10p2flag=uk |r1m10p2score=0
+|r1m10date=
+|r1m10finished=
+|r1m10details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m11p1=TimeMuffinPhD |r1m11p1flag=uk |r1m11p1score={{win}} |r1m11win=1
+|r1m11p2=Bye |r1m11p2flag= |r1m11p2score=
+|r1m11date=
+|r1m11finished=
+|r1m11details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m12p1=Xardov |r1m12p1flag=es |r1m12p1score=2 |r1m12win=1
+|r1m12p2=oolongT |r1m12p2flag=hk |r1m12p2score=0
+|r1m12date=
+|r1m12finished=
+|r1m12details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m13p1=R23 |r1m13p1flag=uk |r1m13p1score={{win}} |r1m13win=1
+|r1m13p2=Bye |r1m13p2flag= |r1m13p2score=
+|r1m13date=
+|r1m13finished=
+|r1m13details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m14p1=$tijn |r1m14p1flag=nl |r1m14p1score=2|r1m14win=1
+|r1m14p2=Reb |r1m14p2flag=uk |r1m14p2score=0
+|r1m14date=
+|r1m14finished=
+|r1m14details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m15p1=UnHaven |r1m15p1flag=uk |r1m15p1score={{win}} |r1m15win=1
+|r1m15p2=Bye |r1m15p2flag= |r1m15p2score=
+|r1m15date=
+|r1m15finished=
+|r1m15details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m16p1=Edgeville |r1m16p1flag=uk |r1m16p1score=2 |r1m16win=1
+|r1m16p2=Herrok |r1m16p2flag=ie |r1m16p2score=1
+|r1m16date=
+|r1m16finished=
+|r1m16details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m17p1=Vanity Angel |r1m17p1flag=uk |r1m17p1score={{win}} |r1m17win=1
+|r1m17p2=Bye |r1m17p2flag= |r1m17p2score=
+|r1m17date=
+|r1m17finished=
+|r1m17details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m18p1=Kieran |r1m18p1flag=uk |r1m18p1score=0 |r1m18win=2
+|r1m18p2=Glaikit |r1m18p2flag=uk |r1m18p2score=2
+|r1m18date=
+|r1m18finished=
+|r1m18details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m19p1=Maskless |r1m19p1flag=uk |r1m19p1score={{win}} |r1m19win=1
+|r1m19p2=Bye |r1m19p2flag= |r1m19p2score=
+|r1m19date=
+|r1m19finished=
+|r1m19details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m20p1=BapMoney |r1m20p1flag=uk |r1m20p1score=2 |r1m20win=1
+|r1m20p2=TheBabyCheese |r1m20p2flag=uk |r1m20p2score=0
+|r1m20date=
+|r1m20finished=
+|r1m20details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m21p1=Alpha Dash |r1m21p1flag=uk |r1m21p1score={{win}} |r1m21win=1
+|r1m21p2=Bye |r1m21p2flag= |r1m21p2score=
+|r1m21date=
+|r1m21finished=
+|r1m21details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m22p1=Craft |r1m22p1flag=uk |r1m22p1score=2 |r1m22win=1
+|r1m22p2=Jewfro |r1m22p2flag=us |r1m22p2score=1
+|r1m22date=
+|r1m22finished=
+|r1m22details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m23p1=Deathgazer |r1m23p1flag=uk |r1m23p1score={{win}} |r1m23win=1
+|r1m23p2=Bye |r1m23p2flag= |r1m23p2score=
+|r1m23date=
+|r1m23finished=
+|r1m23details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m24p1=BGT! |r1m24p1flag=us |r1m24p1score=2 |r1m24win=1
+|r1m24p2=Chaindog777 |r1m24p2flag=uk |r1m24p2score=0
+|r1m24date=
+|r1m24finished=
+|r1m24details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m25p1=Crunch |r1m25p1flag=us |r1m25p1score={{win}} |r1m25win=1
+|r1m25p2=Bye |r1m25p2flag= |r1m25p2score=
+|r1m25date=
+|r1m25finished=
+|r1m25details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m26p1=23 |r1m26p1flag=uk |r1m26p1score=2 |r1m26win=1
+|r1m26p2=JoMo |r1m26p2flag=uk |r1m26p2score=0
+|r1m26date=
+|r1m26finished=
+|r1m26details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m27p1=Phade |r1m27p1flag=uk |r1m27p1score={{win}} |r1m27win=1
+|r1m27p2=Bye |r1m27p2flag= |r1m27p2score=
+|r1m27date=
+|r1m27finished=
+|r1m27details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m28p1=Okameed |r1m28p1flag=uk |r1m28p1score=2 |r1m28win=1
+|r1m28p2=Navi |r1m28p2flag=uk |r1m28p2score=1
+|r1m28date=
+|r1m28finished=
+|r1m28details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m29p1=beLia |r1m29p1flag=fr |r1m29p1score={{win}} |r1m29win=1
+|r1m29p2=Bye |r1m29p2flag= |r1m29p2score=
+|r1m29date=
+|r1m29finished=
+|r1m29details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m30p1=MISTRRLOVE |r1m30p1flag=de |r1m30p1score=2 |r1m30win=1
+|r1m30p2=Leaf |r1m30p2flag=uk |r1m30p2score=0
+|r1m30date=
+|r1m30finished=
+|r1m30details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m31p1=Willz |r1m31p1flag=uk |r1m31p1score={{win}} |r1m31win=1
+|r1m31p2=Bye |r1m31p2flag= |r1m31p2score=
+|r1m31date=
+|r1m31finished=
+|r1m31details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m32p1=ModestMajor |r1m32p1flag=uk |r1m32p1score=2 |r1m32win=1
+|r1m32p2=CptNebula |r1m32p2flag=uk |r1m32p2score=0
+|r1m32date=
+|r1m32finished=
+|r1m32details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m1p1=Hungrybox |r2m1p1flag=us |r2m1p1score=2 |r2m1win=1
+|r2m1p2=Jolteon |r2m1p2flag=uk |r2m1p2score=0
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m2p1=Ryan S |r2m2p1flag=uk |r2m2p1score=2 |r2m2win=1
+|r2m2p2=Yiivo |r2m2p2flag=uk |r2m2p2score=0
+|r2m2date=
+|r2m2finished=
+|r2m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m3p1=Frenzy |r2m3p1flag=uk |r2m3p1score=2 |r2m3win=1
+|r2m3p2=JMG |r2m3p2flag=uk |r2m3p2score=0
+|r2m3date=
+|r2m3finished=
+|r2m3details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m4p1=Captain Jack |r2m4p1flag=jp |r2m4p1score=0 |r2m4win=2
+|r2m4p2=Setchi |r2m4p2flag=uk |r2m4p2score=2
+|r2m4date=
+|r2m4finished=
+|r2m4details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m5p1=MINT |r2m5p1flag=uk |r2m5p1score=2 |r2m5win=1
+|r2m5p2=Way |r2m5p2flag=uk |r2m5p2score=0
+|r2m5date=
+|r2m5finished=
+|r2m5details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m6p1=TimeMuffinPhD |r2m6p1flag=uk |r2m6p1score=2 |r2m6win=1
+|r2m6p2=Xardov |r2m6p2flag=es |r2m6p2score=0
+|r2m6date=
+|r2m6finished=
+|r2m6details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m7p1=R23 |r2m7p1flag=uk |r2m7p1score=2 |r2m7win=1
+|r2m7p2=$tijn |r2m7p2flag=nl |r2m7p2score=0
+|r2m7date=
+|r2m7finished=
+|r2m7details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m8p1=UnHaven |r2m8p1flag=uk |r2m8p1score=2 |r2m8win=1
+|r2m8p2=Edgeville |r2m8p2flag=uk |r2m8p2score=0
+|r2m8date=
+|r2m8finished=
+|r2m8details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m9p1=Vanity Angel |r2m9p1flag=uk |r2m9p1score=2 |r2m9win=1
+|r2m9p2=Glaikit |r2m9p2flag=uk |r2m9p2score=0
+|r2m9date=
+|r2m9finished=
+|r2m9details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m10p1=Maskless |r2m10p1flag=uk |r2m10p1score=0 |r2m10win=2
+|r2m10p2=BapMoney |r2m10p2flag=uk |r2m10p2score=2
+|r2m10date=
+|r2m10finished=
+|r2m10details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m11p1=Alpha Dash |r2m11p1flag=uk |r2m11p1score=2 |r2m11win=1
+|r2m11p2=Craft |r2m11p2flag=uk |r2m11p2score=1
+|r2m11date=
+|r2m11finished=
+|r2m11details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m12p1=Deathgazer |r2m12p1flag=uk |r2m12p1score=2 |r2m12win=1
+|r2m12p2=BGT! |r2m12p2flag=us |r2m12p2score=1
+|r2m12p1char1=falco |r2m12p2char1=jigglypuff |r2m12p1stock1=1 |r2m12p2stock1=0 |r2m12win1=1 |r2m12stage1=Battlefield
+|r2m12p1char2=falco |r2m12p2char2=jigglypuff |r2m12p1stock2=0 |r2m12p2stock2=1 |r2m12win2=2 |r2m12stage2=Fountain of Dreams
+|r2m12p1char3=falco |r2m12p2char3=jigglypuff |r2m12p1stock3=3 |r2m12p2stock3=0 |r2m12win3=1 |r2m12stage3=Pokémon Stadium
+|r2m12details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/q5I00IRdSJk}}
+
+|r2m13p1=Crunch |r2m13p1flag=us |r2m13p1score=2 |r2m13win=1
+|r2m13p2=23 |r2m13p2flag=uk |r2m13p2score=0
+|r2m13date=
+|r2m13finished=
+|r2m13details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m14p1=Phade |r2m14p1flag=uk |r2m14p1score=2 |r2m14win=1
+|r2m14p2=Okameed |r2m14p2flag=uk |r2m14p2score=0
+|r2m14p1char1=marth |r2m14p2char1=pikachu |r2m14p1stock1=1 |r2m14p2stock1=0 |r2m14win1=1 |r2m14stage1=Battlefield
+|r2m14p1char2=marth |r2m14p2char2=pikachu |r2m14p1stock2=1 |r2m14p2stock2=0 |r2m14win2=1 |r2m14stage2=Battlefield
+|r2m14details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/vaLxm79iNZ4}}
+
+|r2m15p1=beLia |r2m15p1flag=fr |r2m15p1score=2 |r2m15win=1
+|r2m15p2=MISTRRLOVE |r2m15p2flag=de |r2m15p2score=1
+|r2m15date=
+|r2m15finished=
+|r2m15details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m16p1=Willz |r2m16p1flag=uk |r2m16p1score=2 |r2m16win=1
+|r2m16p2=ModestMajor |r2m16p2flag=uk |r2m16p2score=1
+|r2m16date=
+|r2m16finished=
+|r2m16details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+
+|r3m1p1=Hungrybox |r3m1p1flag=us |r3m1p1score=2 |r3m1win=1
+|r3m1p2=Ryan S |r3m1p2flag=uk |r3m1p2score=0
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r3m2p1=Frenzy |r3m2p1flag=uk |r3m2p1score=2 |r3m2win=1
+|r3m2p2=Setchi |r3m2p2flag=uk |r3m2p2score=0
+|r3m2date=
+|r3m2finished=
+|r3m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r3m3p1=MINT |r3m3p1flag=uk |r3m3p1score=2 |r3m3win=1
+|r3m3p2=TimeMuffinPhD |r3m3p2flag=uk |r3m3p2score=0
+|r3m3date=
+|r3m3finished=
+|r3m3details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r3m4p1=R23 |r3m4p1flag=uk |r3m4p1score=2 |r3m4win=1
+|r3m4p2=UnHaven |r3m4p2flag=uk |r3m4p2score=0
+|r3m4date=
+|r3m4finished=
+|r3m4details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r3m5p1=Vanity Angel |r3m5p1flag=uk |r3m5p1score=2 |r3m5win=1
+|r3m5p2=BapMoney |r3m5p2flag=uk |r3m5p2score=0
+|r3m5date=
+|r3m5finished=
+|r3m5details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r3m6p1=Alpha Dash |r3m6p1flag=uk |r3m6p1score=2 |r3m6win=1
+|r3m6p2=Deathgazer |r3m6p2flag=uk |r3m6p2score=1
+|r3m6date=
+|r3m6finished=
+|r3m6details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r3m7p1=Crunch |r3m7p1flag=us |r3m7p1score=2 |r3m7win=1
+|r3m7p2=Phade |r3m7p2flag=uk |r3m7p2score=1
+|r3m7date=
+|r3m7finished=
+|r3m7details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r3m8p1=beLia |r3m8p1flag=fr |r3m8p1score=2 |r3m8win=1
+|r3m8p2=Willz |r3m8p2flag=uk |r3m8p2score=0
+|r3m8p1char1=fox |r3m8p2char1=cf |r3m8p1stock1=1 |r3m8p2stock1=0 |r3m8win1=1 |r3m8stage1=Yoshi's Story
+|r3m8p1char2=fox |r3m8p2char2=cf |r3m8p1stock2=2 |r3m8p2stock2=0 |r3m8win2=1 |r3m8stage2=Battlefield
+|r3m8details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/DBiA6XsiqBQ}}
+
+
+|r4m1p1=Hungrybox |r4m1p1flag=us |r4m1p1score=2 |r4m1win=1
+|r4m1p2=Frenzy |r4m1p2flag=uk |r4m1p2score=0
+|r4m1date=
+|r4m1finished=
+|r4m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r4m2p1=MINT |r4m2p1flag=uk |r4m2p1score=2 |r4m2win=1
+|r4m2p2=R23 |r4m2p2flag=uk |r4m2p2score=0
+|r4m2date=
+|r4m2finished=
+|r4m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r4m3p1=Vanity Angel |r4m3p1flag=uk |r4m3p1score=2 |r4m3win=1
+|r4m3p2=Alpha Dash |r4m3p2flag=uk |r4m3p2score=0
+|r4m3date=
+|r4m3finished=
+|r4m3details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r4m4p1=Crunch |r4m4p1flag=us |r4m4p1score=2 |r4m4win=1
+|r4m4p2=beLia |r4m4p2flag=fr |r4m4p2score=0
+|r4m4date=
+|r4m4finished=
+|r4m4details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+
+|r5m1p1=Hungrybox |r5m1p1flag=us |r5m1p1score=3 |r5m1win=1
+|r5m1p2=MINT |r5m1p2flag=uk |r5m1p2score=0
+|r5m1p1char1=jigglypuff |r5m1p2char1=fox |r5m1p1stock1=2 |r5m1p2stock1=0 |r5m1win1=1 |r5m1stage1=Battlefield
+|r5m1p1char2=jigglypuff |r5m1p2char2=fox |r5m1p1stock2=4 |r5m1p2stock2=0 |r5m1win2=1 |r5m1stage2=Final Destination
+|r5m1p1char3=jigglypuff |r5m1p2char3=fox |r5m1p1stock3=1 |r5m1p2stock3=0 |r5m1win3=1 |r5m1stage3=Final Destination
+|r5m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/WtaWVmTZ0CE}}
+
+|r5m2p1=Vanity Angel |r5m2p1flag=uk |r5m2p1score=1 |r5m2win=2
+|r5m2p2=Crunch |r5m2p2flag=us |r5m2p2score=3
+|r5m2p1char1=peach |r5m2p2char1=fox |r5m2p1stock1=0 |r5m2p2stock1=1 |r5m2win1=2 |r5m2stage1=Dream Land
+|r5m2p1char2=peach |r5m2p2char2=fox |r5m2p1stock2=0 |r5m2p2stock2=1 |r5m2win2=2 |r5m2stage2=Fountain of Dreams
+|r5m2p1char3=peach |r5m2p2char3=fox |r5m2p1stock3=3 |r5m2p2stock3=0 |r5m2win3=1 |r5m2stage3=Final Destination
+|r5m2p1char4=peach |r5m2p2char4=fox |r5m2p1stock4=0 |r5m2p2stock4=1 |r5m2win4=2 |r5m2stage4=Pokémon Stadium
+|r5m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/pAb9TtivjTY}}
+}}
+==Losers Bracket==
+{{48DELBracketSmwA
+|tourneylink=Kickstart/13
+|tourneyname=Kickstart 13
+|l1placement=33-48
+|l2placement=25-32
+|l3placement=17-24
+|l4placement=13-16
+|l5placement=9-12
+|l6placement=7-8
+|l7placement=5-6
+|column-width=150
+
+|l1m1p1=ModestMajor |l1m1p1flag=uk |l1m1p1score={{win}}
+|l1m1p2=SHIP |l1m1p2flag=uk |l1m1p2score=DQ
+|l1m1win=1
+
+|l1m2p1=MISTRRLOVE |l1m2p1flag=de |l1m2p1score=2
+|l1m2p2=Oytun |l1m2p2flag=uk |l1m2p2score=0
+|l1m2win=1
+|l1m2p1char1= |l1m2p2char1= |l1m2p1stock1= |l1m2p2stock1= |l1m2win1= |l1m2stage1=
+|l1m2p1char2= |l1m2p2char2= |l1m2p1stock2= |l1m2p2stock2= |l1m2win2= |l1m2stage2=
+|l1m2p1char3= |l1m2p2char3= |l1m2p1stock3= |l1m2p2stock3= |l1m2win3= |l1m2stage3=
+|l1m2p1char4= |l1m2p2char4= |l1m2p1stock4= |l1m2p2stock4= |l1m2win4= |l1m2stage4=
+|l1m2p1char5= |l1m2p2char5= |l1m2p1stock5= |l1m2p2stock5= |l1m2win5= |l1m2stage5=
+|l1m2date=
+|l1m2finished=
+|l1m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|l1m3p1=Okameed |l1m3p1flag=uk |l1m3p1score=2
+|l1m3p2=Kipkosky |l1m3p2flag=uk |l1m3p2score=0
+|l1m3win=1
+
+|l1m4p1=23 |l1m4p1flag=uk |l1m4p1score=2
+|l1m4p2=DiabolicalSloth |l1m4p2flag=uk |l1m4p2score=0
+|l1m4win=1
+|l1m4p1char1= |l1m4p2char1= |l1m4p1stock1= |l1m4p2stock1= |l1m4win1= |l1m4stage1=
+
+|l1m5p1=BGT! |l1m5p1flag=us |l1m5p1score=2
+|l1m5p2=Mordo |l1m5p2flag=uk |l1m5p2score=1
+|l1m5win=1
+
+|l1m6p1=Craft |l1m6p1flag=uk |l1m6p1score=2
+|l1m6p2=OolongT |l1m6p2flag=hk |l1m6p2score=1
+|l1m6win=1
+
+|l1m7p1=Maskless |l1m7p1flag=uk |l1m7p1score=2
+|l1m7p2=Reb |l1m7p2flag=uk |l1m7p2score=0
+|l1m7win=1
+
+|l1m8p1=Glaikit |l1m8p1flag=uk |l1m8p1score=0
+|l1m8p2=Herrok |l1m8p2flag=ie |l1m8p2score=2
+|l1m8win=2
+
+|l1m9p1=Edgeville |l1m9p1flag=uk |l1m9p1score=1
+|l1m9p2=Kieran |l1m9p2flag=uk |l1m9p2score=2
+|l1m9win=2
+
+|l1m10p1=$tijn |l1m10p1flag=nl |l1m10p1score=2
+|l1m10p2=TheBabyCheese |l1m10p2flag=uk |l1m10p2score=0
+|l1m10win=1
+
+|l1m11p1=Xardov |l1m11p1flag=es |l1m11p1score=2
+|l1m11p2=Jewfro |l1m11p2flag=us |l1m11p2score=0
+|l1m11win=1
+
+|l1m12p1=Way |l1m12p1flag=uk |l1m12p1score=2
+|l1m12p2=Chaindog777 |l1m12p2flag=uk |l1m12p2score=0
+|l1m12win=1
+
+|l1m13p1=Captain Jack |l1m13p1flag=jp |l1m13p1score=2
+|l1m13p2=JoMo |l1m13p2flag=uk |l1m13p2score=0
+|l1m13win=1
+
+|l1m14p1=JMG |l1m14p1flag=uk |l1m14p1score=2
+|l1m14p2=Navi |l1m14p2flag=uk |l1m14p2score=0
+|l1m14win=1
+
+|l1m15p1=Yiivo |l1m15p1flag=uk |l1m15p1score=1
+|l1m15p2=Leaf |l1m15p2flag=uk |l1m15p2score=2
+|l1m15win=2
+
+|l1m16p1=Jolteon |l1m16p1flag=uk |l1m16p1score=1
+|l1m16p2=CptNebula |l1m16p2flag=uk |l1m16p2score=2
+|l1m16win=2
+
+|l2m1p1=ModestMajor |l2m1p1flag=uk |l2m1p1score=2
+|l2m1p2=MISTRRLOVE |l2m1p2flag=de |l2m1p2score=1
+|l2m1win=1
+
+|l2m2p1=Okameed |l2m2p1flag=uk |l2m2p1score=2
+|l2m2p2=23 |l2m2p2flag=uk |l2m2p2score=0
+|l2m2win=
+
+|l2m3p1=BGT! |l2m3p1flag=us |l2m3p1score=0
+|l2m3p2=Craft |l2m3p2flag=uk |l2m3p2score=2
+|l2m3win=2
+
+|l2m4p1=Maskless |l2m4p1flag=uk |l2m4p1score=2
+|l2m4p2=Herrok |l2m4p2flag=ie |l2m4p2score=0
+|l2m4win=1
+
+|l2m5p1=Kieran |l2m5p1flag=uk |l2m5p1score=0
+|l2m5p2=$tijn |l2m5p2flag=nl |l2m5p2score=2
+|l2m5win=
+
+|l2m6p1=Xardov |l2m6p1flag=es |l2m6p1score=2
+|l2m6p2=Way |l2m6p2flag=uk |l2m6p2score=0
+|l2m6win=1
+
+|l2m7p1=Captain Jack |l2m7p1flag=jp |l2m7p1score=2
+|l2m7p2=JMG |l2m7p2flag=uk |l2m7p2score=0
+|l2m7win=1
+|l2m7p1char1=sheik |l2m7p2char1=samus |l2m7p1stock1=2 |l2m7p2stock1=0 |l2m7win1=1 |l2m7stage1=Battlefield
+|l2m7p1char2=sheik |l2m7p2char2=samus |l2m7p1stock2=2 |l2m7p2stock2=0 |l2m7win2=1 |l2m7stage2=Fountain of Dreams
+|l2m7details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/Om11Fd8VWMQ}}
+
+|l2m8p1=Leaf |l2m8p1flag=uk |l2m8p1score=2
+|l2m8p2=CptNebula |l2m8p2flag=uk |l2m8p2score=0
+|l2m8win=1
+
+|l3m1p1=UnHaven |l3m1p1flag=uk |l3m1p1score=2
+|l3m1p2=ModestMajor |l3m1p2flag=uk |l3m1p2score=1
+|l3m1win=1
+
+|l3m2p1=TimeMuffinPhD |l3m2p1flag=uk |l3m2p1score=2
+|l3m2p2=Okameed |l3m2p2flag=uk |l3m2p2score=1
+|l3m2win=1
+
+|l3m3p1=Setchi |l3m3p1flag=uk |l3m3p1score=2
+|l3m3p2=Craft |l3m3p2flag=uk |l3m3p2score=0
+|l3m3win=1
+
+|l3m4p1=Ryan S |l3m4p1flag=uk |l3m4p1score=2
+|l3m4p2=Maskless |l3m4p2flag=uk |l3m4p2score=1
+|l3m4win=1
+
+|l3m5p1=Willlz |l3m5p1flag=uk |l3m5p1score=0
+|l3m5p2=$tijn |l3m5p2flag=nl |l3m5p2score=2
+|l3m5win=2
+
+|l3m6p1=Phade |l3m6p1flag=uk |l3m6p1score=2
+|l3m6p2=Xardov |l3m6p2flag=es |l3m6p2score=0
+|l3m6win=1
+
+|l3m7p1=Deathgazer |l3m7p1flag=uk |l3m7p1score=2
+|l3m7p2=Captain Jack |l3m7p2flag=jp |l3m7p2score=0
+|l3m7win=1
+
+|l3m8p1=BapMoney |l3m8p1flag=uk |l3m8p1score=1
+|l3m8p2=Leaf |l3m8p2flag=uk |l3m8p2score=2
+|l3m8win=2
+
+
+|l4m1p1=UnHaven |l4m1p1flag=uk |l4m1p1score=2
+|l4m1p2=TimeMuffinPhD |l4m1p2flag=uk |l4m1p2score=0
+|l4m1win=1
+|l4m1p1char1=ic |l4m1p2char1=fox |l4m1p1stock1=1 |l4m1p2stock1=0 |l4m1win1=1 |l4m1stage1=Yoshi's Story
+|l4m1p1char2=ic |l4m1p2char2=fox |l4m1p1stock2=1 |l4m1p2stock2=0 |l4m1win2=1 |l4m1stage2=Battlefield
+|l4m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/RbaQ6aStW8k}}
+
+|l4m2p1=Setchi |l4m2p1flag=uk |l4m2p1score=2
+|l4m2p2=Ryan S |l4m2p2flag=uk |l4m2p2score=1
+|l4m2win=1
+
+|l4m3p1=$tijn |l4m3p1flag=nl |l4m3p1score=2
+|l4m3p2=Phade |l4m3p2flag=uk |l4m3p2score=1
+|l4m3win=1
+
+|l4m4p1=Deathgazer |l4m4p1flag=uk |l4m4p1score=2
+|l4m4p2=Leaf |l4m4p2flag=uk |l4m4p2score=0
+|l4m4win=1
+
+|l5m1p1=Alpha Dash |l5m1p1flag=uk |l5m1p1score=0
+|l5m1p2=UnHaven |l5m1p2flag=uk |l5m1p2score=2
+|l5m1win=2
+|l5m1p1char1=falco |l5m1p2char1=ic |l5m1p1stock1=0 |l5m1p2stock1=1 |l5m1win1=2 |l5m1stage1=Battlefield
+|l5m1p1char2=ic |l5m1p2char2=ic |l5m1p1stock2=0 |l5m1p2stock2=1 |l5m1win2=2 |l5m1stage2=Final Destination
+|l5m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/gqwUHZXqDu8}}
+
+|l5m2p1=beLia |l5m2p1flag=fr |l5m2p1score=0
+|l5m2p2=Setchi |l5m2p2flag=uk |l5m2p2score=2
+|l5m2win=2
+
+|l5m3p1=Frenzy |l5m3p1flag=uk |l5m3p1score=2
+|l5m3p2=$tijn |l5m3p2flag=nl |l5m3p2score=1
+|l5m3win=1
+
+|l5m4p1=R23 |l5m4p1flag=uk |l5m4p1score=2
+|l5m4p2=Deathgazer |l5m4p2flag=uk |l5m4p2score=0
+|l5m4win=1
+
+|l6m1p1=UnHaven |l6m1p1flag=uk |l6m1p1score=3
+|l6m1p2=Setchi |l6m1p2flag=uk |l6m1p2score=2
+|l6m1win=1
+|l6m1p1char1=ic |l6m1p2char1=cf |l6m1p1stock1=3 |l6m1p2stock1=0 |l6m1win1=1 |l6m1stage1=Yoshi's Story
+|l6m1p1char2=ic |l6m1p2char2=cf |l6m1p1stock2=2 |l6m1p2stock2=0 |l6m1win2=1 |l6m1stage2=Dream Land
+|l6m1p1char3=ic |l6m1p2char3=cf |l6m1p1stock3=0 |l6m1p2stock3=1 |l6m1win3=2 |l6m1stage3=Battlefield
+|l6m1p1char4=ic |l6m1p2char4=cf |l6m1p1stock4=0 |l6m1p2stock4=2 |l6m1win4=2 |l6m1stage4=Final Destination
+|l6m1p1char5=ic |l6m1p2char5=cf |l6m1p1stock5=1 |l6m1p2stock5=0 |l6m1win5=1 |l6m1stage5=Fountain of Dreams
+|l6m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/ATNDKtFtmaM}}
+
+|l6m2p1=Frenzy |l6m2p1flag=uk |l6m2p1score=1
+|l6m2p2=R23 |l6m2p2flag=uk |l6m2p2score=3
+|l6m2win=2
+|l6m2p1char1=falco |l6m2p2char1=sheik |l6m2p1stock1=0 |l6m2p2stock1=2 |l6m2win1=2 |l6m2stage1=Battlefield
+|l6m2p1char2=falco |l6m2p2char2=sheik |l6m2p1stock2=0 |l6m2p2stock2=1 |l6m2win2=2 |l6m2stage2=Pokémon Stadium
+|l6m2p1char3=falco |l6m2p2char3=sheik |l6m2p1stock3=2 |l6m2p2stock3=0 |l6m2win3=1 |l6m2stage3=Yoshi's Story
+|l6m2p1char4=falco |l6m2p2char4=sheik |l6m2p1stock4=0 |l6m2p2stock4=1 |l6m2win4=2 |l6m2stage4=Dream Land
+|l6m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/kMEKWEFtRFk}}
+
+|l7m1p1=MINT |l7m1p1flag=uk |l7m1p1score=3
+|l7m1p2=UnHaven |l7m1p2flag=uk |l7m1p2score=1
+|l7m1win=1
+|l7m1p1char1=fox |l7m1p2char1=ic |l7m1p1stock1=0 |l7m1p2stock1=1 |l7m1win1=2 |l7m1stage1=Yoshi's Story
+|l7m1p1char2=fox |l7m1p2char2=ic |l7m1p1stock2=2 |l7m1p2stock2=0 |l7m1win2=1 |l7m1stage2=Yoshi's Story
+|l7m1p1char3=fox |l7m1p2char3=ic |l7m1p1stock3=3 |l7m1p2stock3=0 |l7m1win3=1 |l7m1stage3=Final Destination
+|l7m1p1char4=fox |l7m1p2char4=ic |l7m1p1stock4=2 |l7m1p2stock4=0 |l7m1win4=1 |l7m1stage4=Fountain of Dreams
+|l7m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/DJzlvIBBjB4}}
+
+|l7m2p1=Vanity Angel |l7m2p1flag=uk |l7m2p1score=3
+|l7m2p2=R23 |l7m2p2flag=uk |l7m2p2score=0
+|l7m2win=1
+|l7m2p1char1=peach |l7m2p2char1=sheik |l7m2p1stock1=3 |l7m2p2stock1=0 |l7m2win1=1 |l7m2stage1=Fountain of Dreams
+|l7m2p1char2=peach |l7m2p2char2=sheik |l7m2p1stock2=1 |l7m2p2stock2=0 |l7m2win2=1 |l7m2stage2=Yoshi's Story
+|l7m2p1char3=peach |l7m2p2char3=sheik |l7m2p1stock3=1 |l7m2p2stock3=0 |l7m2win3=1 |l7m2stage3=Pokémon Stadium
+|l7m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/zUPj2-9E2xk}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Kickstart/13
+|tourneyname=Kickstart 13
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=210
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Hungrybox |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Crunch |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=puff |r1m1p1stock1=2 |r1m1p2char1=fox |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=puff |r1m1p1stock2=1 |r1m1p2char2=fox |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1p1char3=puff |r1m1p1stock3=3 |r1m1p2char3=fox |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Pokémon Stadium
+|r1m1date=November 19, 2016
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=https://youtu.be/g-xPkk1SKdc
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=MINT |l1m1p1flag=uk |l1m1p1score=3
+|l1m1p2=Vanity Angel |l1m1p2flag=uk |l1m1p2score=2
+|l1m1win=1
+|l1m1p1char1=fox |l1m1p1stock1=2 |l1m1p2char1=peach |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Fountain of Dreams 
+|l1m1p1char2=fox |l1m1p1stock2=0 |l1m1p2char2=peach |l1m1p2stock2=3 |l1m1win2=2 |l1m1stage2=Final Destination
+|l1m1p1char3=fox |l1m1p1stock3=1 |l1m1p2char3=peach |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Pokémon Stadium
+|l1m1p1char4=fox |l1m1p1stock4=0 |l1m1p2char4=peach |l1m1p2stock4=1 |l1m1win4=2 |l1m1stage4=Battlefield
+|l1m1p1char5=fox |l1m1p1stock5=2 |l1m1p2char5=peach |l1m1p2stock5=0 |l1m1win5=1 |l1m1stage5=Yoshi's Story
+|l1m1date=November 19, 2016
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=https://youtu.be/7mA91sdWYlk
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Crunch |r2m1p1flag=us |r2m1p1score=0
+|r2m1p2=MINT |r2m1p2flag=uk |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=fox |r2m1p1stock1=0 |r2m1p2char1=fox |r2m1p2stock1=3 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=fox |r2m1p1stock2=0 |r2m1p2char2=fox |r2m1p2stock2=3 |r2m1win2=2 |r2m1stage2=Fountain of Dreams
+|r2m1p1char3=fox |r2m1p1stock3=0 |r2m1p2char3=fox |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Pokémon Stadium
+|r2m1date=November 19, 2016
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=https://youtu.be/e8PlOkL0cSw
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Hungrybox |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=MINT |r3m1p2flag=uk |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=puff |r3m1p1stock1=1 |r3m1p2char1=fox |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=puff |r3m1p1stock2=1 |r3m1p2char2=fox |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=puff |r3m1p1stock3=2 |r3m1p2char3=fox |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Pokémon Stadium
+|r3m1date=November 19, 2016
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=https://youtu.be/zK9EkcN9MRw
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

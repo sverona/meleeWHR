@@ -1,0 +1,1479 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/8ifqFKzCca0"
+            },
+            "p1": "Duck",
+            "p1char1": "samus",
+            "p1char2": "samus",
+            "p1char3": "samus",
+            "p1char4": "samus",
+            "p1flag": "us",
+            "p1score": "3",
+            "p1stock1": "2",
+            "p1stock2": "0",
+            "p1stock3": "1",
+            "p1stock4": "1",
+            "p2": "VaNz",
+            "p2char1": "fox",
+            "p2char2": "peach",
+            "p2char3": "peach",
+            "p2char4": "peach",
+            "p2flag": "us",
+            "p2score": "1",
+            "p2stock1": "0",
+            "p2stock2": "2",
+            "p2stock3": "0",
+            "p2stock4": "0",
+            "stage1": "Battlefield",
+            "stage2": "Final Destination",
+            "stage3": "Fountain of Dreams",
+            "stage4": "Yoshi's Story",
+            "win": "1",
+            "win1": "1",
+            "win2": "2",
+            "win3": "1",
+            "win4": "1"
+        },
+        "r1m1": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/B3Il1AQ4QDg"
+            },
+            "p1": "Mew2King",
+            "p1char1": "marth",
+            "p1char2": "marth",
+            "p1char3": "marth",
+            "p1char4": "marth",
+            "p1char5": "sheik",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "1",
+            "p1stock2": "0",
+            "p1stock3": "0",
+            "p1stock4": "2",
+            "p1stock5": "0",
+            "p2": "Mango",
+            "p2char1": "falco",
+            "p2char2": "falco",
+            "p2char3": "falco",
+            "p2char4": "falco",
+            "p2char5": "falco",
+            "p2flag": "us",
+            "p2score": "3",
+            "p2stock1": "0",
+            "p2stock2": "1",
+            "p2stock3": "1",
+            "p2stock4": "0",
+            "p2stock5": "1",
+            "stage1": "Yoshi's Story",
+            "stage2": "Yoshi's Story",
+            "stage3": "Final Destination",
+            "stage4": "Final Destination",
+            "stage5": "Battlefield",
+            "win": "2",
+            "win1": "1",
+            "win2": "2",
+            "win3": "2",
+            "win4": "1",
+            "win5": "2"
+        },
+        "r2m1": {
+            "details": {
+                "comment": "This set was not officially played. Duck forfeit the match as the tournament was running past its designated end time.",
+                "reddit": "",
+                "vod": ""
+            },
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Duck",
+            "p2flag": "us",
+            "p2score": "FF",
+            "win": "1"
+        },
+        "r3m1": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/DpUOhBH3Y1Q",
+                "vod2": "https://youtu.be/zMQ_B-PkNMU"
+            }
+        },
+        "r3m2": {
+            "p1char1": "falco",
+            "p1char2": "falco",
+            "p1char3": "falco",
+            "p1stock1": "1",
+            "p1stock2": "2",
+            "p1stock3": "1",
+            "p2char1": "marth",
+            "p2char2": "marth",
+            "p2char3": "marth",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "p2stock3": "0",
+            "stage1": "Yoshi's Story",
+            "stage2": "Final Destination",
+            "stage3": "Final Destination",
+            "win1": "1",
+            "win2": "1",
+            "win3": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Keer",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "The Lake",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m10": {
+            "p1": "Freezee",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Juggleguy",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m11": {
+            "p1": "silence",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "1der",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m12": {
+            "p1": "Pyro",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Sonuvabeach",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m13": {
+            "p1": "JohnIn60Seconds",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "the lyme",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m14": {
+            "p1": "Shuffla",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "mordicon",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m15": {
+            "p1": "PGH Carroll",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "JMOAN",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m16": {
+            "p1": "SWED",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Ambix",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "H Masta J",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "NotthatDonn",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "nikolai",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "mexico629",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Green Ranger",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "ShroudedOne",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Raimundo",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Logan",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Dos Equis",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Minnty",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "ZAxis",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "dust",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Maskk",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Laijin",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m9": {
+            "p1": "Dr. Hu",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "mach",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "4%",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "The Lake",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m10": {
+            "p1": "Gravy",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Juggleguy",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m11": {
+            "p1": "Lock",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "1der",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m12": {
+            "p1": "Borp",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Sonuvabeach",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m13": {
+            "p1": ".\u00d0empt",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "JohnIn60Seconds",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m14": {
+            "p1": "Nakamaru",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Shuffla",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m15": {
+            "p1": "Stro",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "PGH Carroll",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m16": {
+            "p1": "Cave Dweller",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Ambix",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "KrazyKnux",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "H Masta J",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Asylum",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "nikolai",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "S1",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Green Ranger",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Vist",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Logan",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Pat",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Minnty",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m7": {
+            "p1": "tm",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "dust",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Nightroo",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Maskk",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m9": {
+            "p1": "UltimaScout",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "mach",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "4%",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "KrazyKnux",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Asylum",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Green Ranger",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Vist",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Minnty",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "tm",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Maskk",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m5": {
+            "p1": "mach",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Gravy",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m6": {
+            "p1": "Lock",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Sonuvabeach",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m7": {
+            "p1": ".\u00d0empt",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Nakamaru",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m8": {
+            "p1": "PGH Carroll",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Cave Dweller",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Taki",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "4%",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Wife",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Asylum",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "Husband",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Vist",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "SilentSwag",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "tm",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m5": {
+            "p1": "KJH",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Gravy",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m6": {
+            "p1": "Vudujin",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Sonuvabeach",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m7": {
+            "p1": "Abate",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Nakamaru",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m8": {
+            "p1": "Prince Abu",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "PGH Carroll",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "4%",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Wife",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Vist",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "SilentSwag",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m3": {
+            "p1": "Gravy",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Vudujin",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m4": {
+            "p1": "Abate",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Prince Abu",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Wenbo",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "4%",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Cactuar",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Vist",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m3": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/PVUOgnbpGD4"
+            },
+            "p1": "Hanky Panky",
+            "p1char1": "peach",
+            "p1char2": "peach",
+            "p1char3": "peach",
+            "p1flag": "us",
+            "p1score": "1",
+            "p1stock1": "2",
+            "p1stock2": "0",
+            "p1stock3": "0",
+            "p2": "Gravy",
+            "p2char1": "cf",
+            "p2char2": "cf",
+            "p2char3": "cf",
+            "p2flag": "us",
+            "p2score": "2",
+            "p2stock1": "0",
+            "p2stock2": "2",
+            "p2stock3": "1",
+            "stage1": "Battlefield",
+            "stage2": "Dream Land",
+            "stage3": "Final Destination",
+            "win": "2",
+            "win1": "1",
+            "win2": "2",
+            "win3": "2"
+        },
+        "l6m4": {
+            "p1": "VaNz",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Abate",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l7m1": {
+            "p1": "Wenbo",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Cactuar",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l7m2": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/61nuIHPVw68"
+            },
+            "p1": "Gravy",
+            "p1char1": "cf",
+            "p1char2": "cf",
+            "p1char3": "cf",
+            "p1flag": "us",
+            "p1score": "1",
+            "p1stock1": "0",
+            "p1stock2": "2",
+            "p1stock3": "0",
+            "p2": "VaNz",
+            "p2char1": "peach",
+            "p2char2": "peach",
+            "p2char3": "peach",
+            "p2flag": "us",
+            "p2score": "2",
+            "p2stock1": "1",
+            "p2stock2": "0",
+            "p2stock3": "1",
+            "stage1": "Dream Land",
+            "stage2": "Pok\u00e9mon Stadium",
+            "stage3": "Final Destination",
+            "win": "2",
+            "win1": "2",
+            "win2": "1",
+            "win3": "2"
+        },
+        "l8m1": {
+            "p1": "Duck",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Cactuar",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l8m2": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/Yc_9ZXn8Kh8"
+            },
+            "p1": "Nintendude",
+            "p1char1": "ic",
+            "p1char2": "peach",
+            "p1flag": "us",
+            "p1score": "0",
+            "p1stock1": "0",
+            "p1stock2": "0",
+            "p2": "VaNz",
+            "p2char1": "peach",
+            "p2char2": "peach",
+            "p2flag": "us",
+            "p2score": "2",
+            "p2stock1": "2",
+            "p2stock2": "3",
+            "stage1": "Fountain of Dreams",
+            "stage2": "Battlefield",
+            "win": "2",
+            "win1": "2",
+            "win2": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Keer",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "4%",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Logan",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Prince Abu",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Dos Equis",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "KrazyKnux",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Minnty",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Wenbo",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "ZAxis",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Asylum",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "dust",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m15": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/K4zFK2R2LuY"
+            },
+            "p1": "Abate",
+            "p1char1": "luigi",
+            "p1char2": "luigi",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "3",
+            "p1stock2": "3",
+            "p2": "Maskk",
+            "p2char1": "cf",
+            "p2char2": "cf",
+            "p2flag": "",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Dream Land",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r1m16": {
+            "p1": "S1",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Laijin",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m17": {
+            "p1": "VaNz",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Dr. Hu",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m18": {
+            "p1": "mach",
+            "p1flag": "",
+            "p1score": "",
+            "p2": ".\u00d0empt",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m19": {
+            "p1": "Nakamaru",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Freezee",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Vist",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "The Lake",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m20": {
+            "p1": "Juggleguy",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Wife",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m21": {
+            "p1": "Stro",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "silence",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m22": {
+            "p1": "Duck",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "1der",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m23": {
+            "p1": "Taki",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Pyro",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m24": {
+            "p1": "Sonuvabeach",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Cave Dweller",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m25": {
+            "p1": "SilentSwag",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "JohnIn60Seconds",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m26": {
+            "p1": "UltimaScout",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "the lyme",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m27": {
+            "p1": "Hanky Panky",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Shuffla",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m28": {
+            "p1": "Gravy",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "mordicon",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m29": {
+            "p1": "PGH Carroll",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Lock",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Vudujin",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "H Masta J",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m30": {
+            "p1": "Husband",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "JMOAN",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m31": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/QFCxRS-K-Ts"
+            },
+            "p1": "Mango",
+            "p1char1": "cf",
+            "p1char2": "cf",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "3",
+            "p1stock2": "3",
+            "p2": "SWED",
+            "p2char1": "sheik",
+            "p2char2": "sheik",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Battlefield",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r1m32": {
+            "p1": "Ambix",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Borp",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "Pat",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "NotthatDonn",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Cactuar",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "nikolai",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "tm",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "mexico629",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Green Ranger",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Nightroo",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m8": {
+            "p1": "KJH",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "ShroudedOne",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Nintendude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Raimundo",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Vist",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m10": {
+            "p1": "Nakamaru",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Wife",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m11": {
+            "p1": "Stro",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Duck",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m12": {
+            "p1": "Taki",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Cave Dweller",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m13": {
+            "p1": "SilentSwag",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "UltimaScout",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m14": {
+            "p1": "Hanky Panky",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Gravy",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m15": {
+            "p1": "Lock",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Husband",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m16": {
+            "p1": "Mango",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Borp",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Vudujin",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Pat",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Cactuar",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "tm",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Nightroo",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "KJH",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m5": {
+            "p1": "Nintendude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "4%",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Prince Abu",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "KrazyKnux",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Wenbo",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Asylum",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Abate",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "S1",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m9": {
+            "p1": "VaNz",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": ".\u00d0empt",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/-LuXcZyEFSc"
+            },
+            "p1": "Mew2King",
+            "p1char1": "sheik",
+            "p1char2": "marth",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "2",
+            "p1stock2": "2",
+            "p2": "Vudujin",
+            "p2char1": "luigi",
+            "p2char2": "luigi",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Final Destination",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r3m2": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/1P3g013IE1g"
+            },
+            "p1": "Cactuar",
+            "p1char1": "fox",
+            "p1char2": "fox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "1",
+            "p1stock2": "1",
+            "p2": "KJH",
+            "p2char1": "falco",
+            "p2char2": "falco",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Yoshi's Story",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r3m3": {
+            "p1": "Nintendude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Prince Abu",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Wenbo",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Abate",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m5": {
+            "p1": "VaNz",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Wife",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m6": {
+            "p1": "Duck",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Taki",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m7": {
+            "p1": "SilentSwag",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Hanky Panky",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m8": {
+            "p1": "Husband",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Mango",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r4m1": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/-LuXcZyEFSc"
+            },
+            "p1": "Mew2King",
+            "p1char1": "sheik",
+            "p1char2": "sheik",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "2",
+            "p1stock2": "2",
+            "p2": "Cactuar",
+            "p2char1": "fox",
+            "p2char2": "fox",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Dream Land",
+            "stage2": "Battlefield",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r4m2": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/1lhZyVToMLE"
+            },
+            "p1": "Nintendude",
+            "p1char1": "ic",
+            "p1char2": "ic",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "3",
+            "p1stock2": "3",
+            "p2": "Wenbo",
+            "p2char1": "fox",
+            "p2char2": "cf",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Yoshi's Story",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r4m3": {
+            "p1": "VaNz",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Duck",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r4m4": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/TTH3gmFat2s"
+            },
+            "p1": "Hanky Panky",
+            "p1char1": "peach",
+            "p1char2": "peach",
+            "p1flag": "us",
+            "p1score": "0",
+            "p1stock1": "0",
+            "p1stock2": "0",
+            "p2": "Mango",
+            "p2char1": "fox",
+            "p2char2": "fox",
+            "p2flag": "us",
+            "p2score": "2",
+            "p2stock1": "2",
+            "p2stock2": "2",
+            "stage1": "Battlefield",
+            "stage2": "Fountain of Dreams",
+            "win": "2",
+            "win1": "2",
+            "win2": "2"
+        },
+        "r5m1": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/-LuXcZyEFSc"
+            },
+            "p1": "Mew2King",
+            "p1char1": "peach",
+            "p1char2": "peach",
+            "p1char3": "sheik",
+            "p1char4": "peach",
+            "p1flag": "us",
+            "p1score": "3",
+            "p1stock1": "2",
+            "p1stock2": "0",
+            "p1stock3": "2",
+            "p1stock4": "2",
+            "p2": "Nintendude",
+            "p2char1": "ic",
+            "p2char2": "peach",
+            "p2char3": "peach",
+            "p2char4": "peach",
+            "p2flag": "us",
+            "p2score": "1",
+            "p2stock1": "0",
+            "p2stock2": "1",
+            "p2stock3": "0",
+            "p2stock4": "0",
+            "stage1": "Fountain of Dreams",
+            "stage2": "Battlefield",
+            "stage3": "Final Destination",
+            "stage4": "Final Destination",
+            "win": "1",
+            "win1": "1",
+            "win2": "2",
+            "win3": "1",
+            "win4": "1"
+        },
+        "r5m2": {
+            "date": "April 19, 2014",
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vod": "https://youtu.be/w80BQZhZEtY"
+            },
+            "p1": "Duck",
+            "p1char1": "samus",
+            "p1char2": "samus",
+            "p1char3": "samus",
+            "p1flag": "us",
+            "p1score": "0",
+            "p1stock1": "0",
+            "p1stock2": "0",
+            "p1stock3": "0",
+            "p2": "Mango",
+            "p2char1": "fox",
+            "p2char2": "fox",
+            "p2char3": "fox",
+            "p2flag": "us",
+            "p2score": "3",
+            "p2stock1": "2",
+            "p2stock2": "2",
+            "p2stock3": "2",
+            "stage1": "Battlefield",
+            "stage2": "Fountain of Dreams",
+            "stage3": "Fountain of Dreams",
+            "win": "2",
+            "win1": "2",
+            "win2": "2",
+            "win3": "2"
+        }
+    }
+}

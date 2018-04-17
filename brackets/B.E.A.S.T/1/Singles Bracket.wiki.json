@@ -1,0 +1,559 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Ice",
+            "p1flag": "de",
+            "p1score": "win",
+            "p2": "Pasi",
+            "p2flag": "at",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Amsah",
+            "p2flag": "nl",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Amsah",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Ice",
+            "p2flag": "de",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "4",
+            "p2": "Amsah",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1}}</onlyinclude>"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "MasterTK",
+            "p1flag": "fi",
+            "p1score": "",
+            "p2": "Leffen",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "EK",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "JD",
+            "p2flag": "fr",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Doraki",
+            "p1flag": "fr",
+            "p1score": "",
+            "p2": "Luma",
+            "p2flag": "de",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "VA",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "GsE",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Yomi",
+            "p1flag": "de",
+            "p1score": "win",
+            "p2": "Smakis",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "Android",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Nedech",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m7": {
+            "p1": "Salepate",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "Zettroxx",
+            "p2flag": "de",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "Aniolas",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "D\u00e4umling",
+            "p2flag": "de",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Jadde",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Leffen",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "Nizro",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "JD",
+            "p2flag": "fr",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Hack",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Luma",
+            "p2flag": "de",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Porc",
+            "p1flag": "fr",
+            "p1score": "",
+            "p2": "VA",
+            "p2flag": "gb",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Smasher89",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Yomi",
+            "p2flag": "de",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Calle W",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Android",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Zgetto",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Salepate",
+            "p2flag": "fr",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Fuzzy",
+            "p1flag": "gb",
+            "p1score": "",
+            "p2": "Aniolas",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Leffen",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Nizro",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Hack",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "VA",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Smasher89",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Calle W",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Zgetto",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Aniolas",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m1": {
+            "p2": "Pepito",
+            "p2flag": "se",
+            "p2score": ""
+        },
+        "l4m2": {
+            "p2": "Hack",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Jeapie",
+            "p1flag": "nl",
+            "p1score": "",
+            "p2": "Calle W",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "IVP",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Zgetto",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Pamaro",
+            "p1flag": "de",
+            "p1score": "",
+            "p2": "Hack",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "Calle W",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Zgetto",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "Ice",
+            "p1flag": "de",
+            "p1score": "win",
+            "p2": "Hack",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Pasi",
+            "p1flag": "at",
+            "p1score": "win",
+            "p2": "Zgetto",
+            "p2flag": "nl",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "MasterTK",
+            "p2flag": "fi",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Smakis",
+            "p1flag": "gb",
+            "p1score": "",
+            "p2": "Pamaro",
+            "p2flag": "de",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "Fuzzy",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Android",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Nedech",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Pasi",
+            "p2flag": "at",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m13": {
+            "p1": "Salepate",
+            "p1flag": "fr",
+            "p1score": "",
+            "p2": "Smasher89",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m14": {
+            "p1": "Zettroxx",
+            "p1flag": "de",
+            "p1score": "",
+            "p2": "Pepito",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "Aniolas",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Calle W",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m16": {
+            "p1": "D\u00e4umling",
+            "p1flag": "de",
+            "p1score": "",
+            "p2": "Amsah",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m2": {
+            "p1": "Leffen",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Hack",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "EK",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Porc",
+            "p2flag": "fr",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "JD",
+            "p1flag": "fr",
+            "p1score": "",
+            "p2": "Jeapie",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "IVP",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Doraki",
+            "p2flag": "fr",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Luma",
+            "p1flag": "de",
+            "p1score": "",
+            "p2": "Jadde",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Nizro",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "VA",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Ice",
+            "p1flag": "de",
+            "p1score": "win",
+            "p2": "GsE",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Yomi",
+            "p1flag": "de",
+            "p1score": "",
+            "p2": "Zgetto",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Hack",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Porc",
+            "p1flag": "fr",
+            "p1score": "",
+            "p2": "Jeapie",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "IVP",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Jadde",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Nizro",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Ice",
+            "p2flag": "de",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m5": {
+            "p1": "Zgetto",
+            "p1flag": "nl",
+            "p1score": "",
+            "p2": "Pamaro",
+            "p2flag": "de",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m6": {
+            "p1": "Fuzzy",
+            "p1flag": "gb",
+            "p1score": "",
+            "p2": "Pasi",
+            "p2flag": "at",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "Smasher89",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Pepito",
+            "p2flag": "se",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m8": {
+            "p1": "Calle W",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Amsah",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Jeapie",
+            "p2flag": "nl",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "IVP",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Ice",
+            "p2flag": "de",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "Pamaro",
+            "p1flag": "de",
+            "p1score": "",
+            "p2": "Pasi",
+            "p2flag": "at",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m4": {
+            "p1": "Pepito",
+            "p1flag": "se",
+            "p1score": "",
+            "p2": "Amsah",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "Armada",
+            "p1flag": "se",
+            "p1score": "win",
+            "p2": "Ice",
+            "p2flag": "de",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Pasi",
+            "p1flag": "at",
+            "p1score": "",
+            "p2": "Amsah",
+            "p2flag": "nl",
+            "p2score": "win",
+            "win": "2"
+        }
+    }
+}

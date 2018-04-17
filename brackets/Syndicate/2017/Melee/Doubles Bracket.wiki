@@ -1,0 +1,123 @@
+{{DISPLAYTITLE:Syndicate 2017: ''Melee'' Doubles Bracket}}
+{{Syndicate 2017 Melee Tabs|This=5}}{{SetGame|melee}}
+==Winners Bracket==
+{{2SEDoublesBracket
+|r1m1t1p1=Armada |r1m1t1p1flag=se
+|r1m1t1p2=Android |r1m1t1p2flag=se |r1m1t1score=3
+|r1m1t2p1=Amsah |r1m1t2p1flag=nl
+|r1m1t2p2=Professor Pro |r1m1t2p2flag=gb |r1m1t2score=0
+|r1m1win=1
+|r1m1t1p1char1=peach |r1m1t1p1stock1=2 |r1m1t1p2char1=sheik |r1m1t1p2stock1=2
+|r1m1t2p1char1=sheik |r1m1t2p1stock1=0 |r1m1t2p2char1=fox |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Final Destination
+|r1m1t1p1char2=peach |r1m1t1p1stock2=3 |r1m1t1p2char2=sheik |r1m1t1p2stock2=2
+|r1m1t2p1char2=sheik |r1m1t2p1stock2=0 |r1m1t2p2char2=fox |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1t1p1char3=peach |r1m1t1p1stock3=1 |r1m1t1p2char3=sheik |r1m1t1p2stock3=1
+|r1m1t2p1char3=sheik |r1m1t2p1stock3=0 |r1m1t2p2char3=fox |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Pokémon Stadium
+|r1m1date=September 23, 2017
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+{{2SEDoublesBracket
+|hideroundtitles=true
+|r1m1t1p1=Wizzrobe |r1m1t1p1flag=us
+|r1m1t1p2=ChuDat |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=Trif |r1m1t2p1flag=es
+|r1m1t2p2=Overtriforce |r1m1t2p2flag=es |r1m1t2score=0
+|r1m1win=1
+|r1m1t1p1char1=cf |r1m1t1p1stock1=1 |r1m1t1p2char1=ic |r1m1t1p2stock1=3
+|r1m1t2p1char1=peach |r1m1t2p1stock1=0 |r1m1t2p2char1=sheik |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1t1p1char2=cf |r1m1t1p1stock2=1 |r1m1t1p2char2=ic |r1m1t1p2stock2=1
+|r1m1t2p1char2=peach |r1m1t2p1stock2=0 |r1m1t2p2char2=sheik |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Yoshi's Story
+|r1m1t1p1char3=cf |r1m1t1p1stock3=0 |r1m1t1p2char3=ic |r1m1t1p2stock3=1
+|r1m1t2p1char3=peach |r1m1t2p1stock3=0 |r1m1t2p2char3=sheik |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Yoshi's Story
+|r1m1date=September 23, 2017
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+
+==Losers Bracket==
+{{8DEDoublesLBracketSmwA
+|tourneylink=Syndicate/2017/Melee
+|tourneyname=Syndicate 2017
+|l1placement=7-8
+|l2placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Baxon |l1m1t1p1flag=fr
+|l1m1t1p2=Mahie |l1m1t1p2flag=fr |l1m1t1score=3
+|l1m1t2p1=Nicki |l1m1t2p1flag=de
+|l1m1t2p2=Meruem |l1m1t2p2flag=de |l1m1t2score=0
+|l1m1win=1
+
+|l1m2t1p1=reaper |l1m2t1p1flag=de
+|l1m2t1p2=Däumling |l1m2t1p2flag=de |l1m2t1score=0
+|l1m2t2p1=Avalancer |l1m2t2p1flag=nl
+|l1m2t2p2=Jeapie |l1m2t2p2flag=nl |l1m2t2score=3
+|l1m2win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Trif |l2m1t1p1flag=es
+|l2m1t1p2=Overtriforce |l2m1t1p2flag=es |l2m1t1score=3
+|l2m1t2p1=Baxon |l2m1t2p1flag=fr
+|l2m1t2p2=Mahie |l2m1t2p2flag=fr |l2m1t2score=0
+|l2m1win=1
+|l2m1t1p1char1=peach |l2m1t1p1stock1=1 |l2m1t1p2char1=sheik |l2m1t1p2stock1=1
+|l2m1t2p1char1=falco |l2m1t2p1stock1=0 |l2m1t2p2char1=marth |l2m1t2p2stock1=0 |l2m1win1=1 |l2m1stage1=Battlefield
+|l2m1t1p1char2=peach |l2m1t1p1stock2= |l2m1t1p2char2=sheik |l2m1t1p2stock2=
+|l2m1t2p1char2=falco |l2m1t2p1stock2=0 |l2m1t2p2char2=marth |l2m1t2p2stock2=0 |l2m1win2=1 |l2m1stage2=?
+|l2m1t1p1char3=peach |l2m1t1p1stock3=2 |l2m1t1p2char3=sheik |l2m1t1p2stock3=2
+|l2m1t2p1char3=falco |l2m1t2p1stock3=0 |l2m1t2p2char3=marth |l2m1t2p2stock3=0 |l2m1win3=1 |l2m1stage3=Pokémon Stadium
+|l2m1date=September 23, 2017
+|l2m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+
+|l2m2t1p1=Amsah |l2m2t1p1flag=nl
+|l2m2t1p2=Professor Pro |l2m2t1p2flag=gb |l2m2t1score=3
+|l2m2t2p1=Avalancer |l2m2t2p1flag=nl
+|l2m2t2p2=Jeapie |l2m2t2p2flag=nl |l2m2t2score=2
+|l2m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Syndicate/2017/Melee
+|tourneyname=Syndicate 2017
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Armada |r1m1t1p1flag=se
+|r1m1t1p2=Android |r1m1t1p2flag=se |r1m1t1score=3
+|r1m1t2p1=Wizzrobe |r1m1t2p1flag=us
+|r1m1t2p2=ChuDat |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Trif |l1m1t1p1flag=es
+|l1m1t1p2=Overtriforce |l1m1t1p2flag=es |l1m1t1score=3
+|l1m1t2p1=Amsah |l1m1t2p1flag=nl
+|l1m1t2p2=Professor Pro |l1m1t2p2flag=gb |l1m1t2score=1
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Wizzrobe |r2m1t1p1flag=us
+|r2m1t1p2=ChuDat |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Trif |r2m1t2p1flag=es
+|r2m1t2p2=Overtriforce |r2m1t2p2flag=es |r2m1t2score=1
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Armada |r3m1t1p1flag=se
+|r3m1t1p2=Android |r3m1t1p2flag=se |r3m1t1score=3
+|r3m1t2p1=Wizzrobe |r3m1t2p1flag=us
+|r3m1t2p2=ChuDat |r3m1t2p2flag=us |r3m1t2score=0
+|r3m1win=1
+|r3m1t1p1char1=peach |r3m1t1p1stock1=1 |r3m1t1p2char1=sheik |r3m1t1p2stock1=1
+|r3m1t2p1char1=cf |r3m1t2p1stock1=0 |r3m1t2p2char1=ic |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Final Destination
+|r3m1t1p1char2=peach |r3m1t1p1stock2=3 |r3m1t1p2char2=sheik |r3m1t1p2stock2=1
+|r3m1t2p1char2=cf |r3m1t2p1stock2=0 |r3m1t2p2char2=ic |r3m1t2p2stock2=0 |r3m1win2=1 |r3m1stage2=Final Destination
+|r3m1t1p1char3=peach |r3m1t1p1stock3=1 |r3m1t1p2char3=sheik |r3m1t1p2stock3=2
+|r3m1t2p1char3=cf |r3m1t2p1stock3=0 |r3m1t2p2char3=ic |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Pokémon Stadium
+|r3m1date=September 23, 2017
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+</onlyinclude>

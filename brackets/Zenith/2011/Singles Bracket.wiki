@@ -1,0 +1,249 @@
+{{DISPLAYTITLE:Zenith 2011: Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Zenith/2011
+|name2=Singles Bracket
+|link2=Zenith/2011/Singles Bracket
+|name3=Doubles Bracket
+|link3=Zenith/2011/Doubles Bracket
+|This=2
+}}
+As the official bracket has been lost, this bracket was recreated using information from VODs and player placements.
+==Winners Bracket==
+{{16DEWBracketA2
+|tourneylink=Zenith/2011
+|tourneyname=Zenith 2011
+|column-width=200
+<!-- Ro16 -->
+|r1m1p1=Hungrybox |r1m1p1flag=us |r1m1p1score=2
+|r1m1p2=Vist |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=jigglypuff |r1m1p2char1=luigi |r1m1p1stock1=2 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Dream Land
+|r1m1p1char2=jigglypuff |r1m1p2char2=luigi |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Loser plays Sneak, winner plays Tope.<ref>[https://youtu.be/x5doFgaECGQ Loser plays Sneak Winner plays Tope - Video description]</ref>|live=|vod=https://youtu.be/x5doFgaECGQ}}
+
+|r1m2p1=Tope |r1m2p1flag=us |r1m2p1score={{win}}
+|r1m2p2=Teczero |r1m2p2flag=us |r1m2p2score= 
+|r1m2win=1
+|r1m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Tope beat Teczero.<ref>[https://smashboards.com/threads/zenith-5-28-5-29-results-83-entrants-azen-chillin-chu-hbox-axe-m2k-jman-hax-kage.304401/page-2#post-12788453 Tope beat Teczero]</ref>|live=|vod=}}
+
+|r1m3p1=Chillindude |r1m3p1flag=us |r1m3p1score=2
+|r1m3p2=Abate |r1m3p2flag=us |r1m3p2score=0
+|r1m3win=1
+|r1m3p1char1=fox |r1m3p2char1=luigi |r1m3p1stock1=1 |r1m3p2stock1=0 |r1m3win1=1 |r1m3stage1=Battlefield
+|r1m3p1char2=fox |r1m3p2char2=luigi |r1m3p1stock2=3 |r1m3p2stock2=0 |r1m3win2=1 |r1m3stage2=Battlefield
+|r1m3details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Winner Plays Jman, loser plays RooR.<ref>[https://youtu.be/CUkeNsF0KdU Winner Plays Jman , Loser plays RooR - Video description]</ref>|live=|vod=https://youtu.be/CUkeNsF0KdU}}
+
+|r1m4p1=Jman |r1m4p1flag=us |r1m4p1score=2
+|r1m4p2=Cyrain |r1m4p2flag=us |r1m4p2score=0
+|r1m4win=1
+|r1m4p1char1=fox |r1m4p2char1=falco |r1m4p1stock1=2 |r1m4p2stock1=0 |r1m4win1=1 |r1m4stage1=Yoshi's Story
+|r1m4p1char2=fox |r1m4p2char2=falco |r1m4p1stock2=3 |r1m4p2stock2=0 |r1m4win2=1 |r1m4stage2=Pokémon Stadium
+|r1m4details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Winner Plays Chillin, loser plays JessiahTEG.<ref>[https://youtu.be/lxzM9Kp7JmU Winner Plays Chillin, loser plays JessiahTEG - Video description]</ref>|live=|vod=https://youtu.be/lxzM9Kp7JmU}}
+
+|r1m5p1=Axe |r1m5p1flag=us |r1m5p1score={{win}}
+|r1m5p2=Eggm |r1m5p2flag=us |r1m5p2score=
+|r1m5win=1
+
+|r1m6p1=ChuDat |r1m6p1flag=us |r1m6p1score=2
+|r1m6p2=Hax |r1m6p2flag=us |r1m6p2score=1
+|r1m6win=1
+|r1m6p1char1=ic |r1m6p2char1=cf |r1m6p1stock1=0 |r1m6p2stock1=2 |r1m6win1=2 |r1m6stage1=Battlefield
+|r1m6p1char2=ic |r1m6p2char2=cf |r1m6p1stock2=3 |r1m6p2stock2=0 |r1m6win2=1 |r1m6stage2=Fountain of Dreams
+|r1m6p1char3=ic |r1m6p2char3=cf |r1m6p1stock3=1 |r1m6p2stock3=0 |r1m6win3=1 |r1m6stage3=Pokémon Stadium
+|r1m6details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Winner Plays Axe, loser plays Niko.<ref>[https://youtu.be/U4RYBhDC75g Winner Plays Axe, loser plays Niko - Video description]</ref>|live=|vod=https://youtu.be/U4RYBhDC75g}}
+
+|r1m7p1=Kage |r1m7p1flag=ca |r1m7p1score={{win}}
+|r1m7p2=Mafia |r1m7p2flag=us |r1m7p2score=
+|r1m7win=1
+|r1m7details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Kage beat Mafia.<ref name=mafia>[https://smashboards.com/threads/zenith-5-28-5-29-results-83-entrants-azen-chillin-chu-hbox-axe-m2k-jman-hax-kage.304401/page-3#post-12790720 Mafia's comments on his matches]</ref>|live=|vod=}}
+
+|r1m8p1=Azen |r1m8p1flag=us |r1m8p1score=0
+|r1m8p2=Mew2King |r1m8p2flag=us |r1m8p2score=2
+|r1m8win=2
+|r1m8p1char1=sheik |r1m8p2char1=sheik |r1m8p1stock1=0 |r1m8p2stock1=3 |r1m8win1=2 |r1m8stage1=Battlefield
+|r1m8p1char2=fox |r1m8p2char2=sheik |r1m8p1stock2=0 |r1m8p2stock2=4 |r1m8win2=2 |r1m8stage2=Pokémon Stadium
+|r1m8details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Loser plays HBK, winner plays Kage.<ref>[https://youtu.be/1k2YlATUvXg Loser plays HBK, winner plays Kage - Video description]</ref>|live=|vod=https://youtu.be/1k2YlATUvXg}}
+
+<!-- QUARTERFINALS -->
+|r2m1p1=Hungrybox |r2m1p1flag=us |r2m1p1score={{win}}
+|r2m1p2=Tope |r2m1p2flag=us |r2m1p2score=
+|r2m1win=1
+
+|r2m2p1=Chillindude |r2m2p1flag=us |r2m2p1score=1
+|r2m2p2=Jman |r2m2p2flag=us |r2m2p2score=2
+|r2m2win=2
+|r2m2p1char1=fox |r2m2p2char1=fox |r2m2p1stock1=3 |r2m2p2stock1=0 |r2m2win1=1 |r2m2stage1=Dream Land
+|r2m2p1char2=fox |r2m2p2char2=fox |r2m2p1stock2=0 |r2m2p2stock2=1 |r2m2win2=2 |r2m2stage2=Pokémon Stadium
+|r2m2p1char3=fox |r2m2p2char3=fox |r2m2p1stock3=0 |r2m2p2stock3=1 |r2m2win3=2 |r2m2stage3=Final Destination
+|r2m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Winner Plays Hungrybox, Loser plays Azen.<ref>[https://youtu.be/SLT8o3cnSvc Winner Plays Hungrybox, Loser plays Azen - Video description]</ref>|live=|vod=https://youtu.be/SLT8o3cnSvc}}
+
+|r2m3p1=Axe |r2m3p1flag=us |r2m3p1score=2
+|r2m3p2=ChuDat |r2m3p2flag=us |r2m3p2score=0
+|r2m3win=1
+|r2m3p1char1=pikachu |r2m3p2char1=ic |r2m3p1stock1=3 |r2m3p2stock1=0 |r2m3win1=1 |r2m3stage1=Final Destination
+|r2m3p1char2=pikachu |r2m3p2char2=ic |r2m3p1stock2=1 |r2m3p2stock2=0 |r2m3win2=1 |r2m3stage2=Final Destination
+|r2m3details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Loser plays Teczero, winner plays Mew2King.<ref>[https://youtu.be/8NqcQ6zw7dw Loser plays Teczero, winner plays Mew2King - Video description]</ref>|live=|vod=https://youtu.be/8NqcQ6zw7dw}}
+
+|r2m4p1=Kage |r2m4p1flag=ca |r2m4p1score=0
+|r2m4p2=Mew2King |r2m4p2flag=us |r2m4p2score=2
+|r2m4win=2
+|r2m4p1char1=ganon |r2m4p2char1=sheik |r2m4p1stock1=0 |r2m4p2stock1=2 |r2m4win1=2 |r2m4stage1=Battlefield
+|r2m4p1char2=ganon |r2m4p2char2=sheik |r2m4p1stock2=0 |r2m4p2stock2=3 |r2m4win2=2 |r2m4stage2=Brinstar
+|r2m4details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Loser plays JesiahTEG, winner plays Axe.<ref>[https://youtu.be/OhKoRANP82M  Loser plays JesiahTEG, winner plays Axe - Video description]</ref>|live=|vod=https://youtu.be/OhKoRANP82M}}
+
+<!-- SEMIFINALS -->
+|r3m1p1=Hungrybox |r3m1p1flag=us |r3m1p1score=2 <!---->
+|r3m1p2=Jman |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=jigglypuff |r3m1p2char1=fox |r3m1p1stock1=3 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Dream Land
+|r3m1p1char2=jigglypuff |r3m1p2char2=fox |r3m1p1stock2=2 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Final Destination
+|r3m1p1char3=jigglypuff |r3m1p2char3=fox |r3m1p1stock3= |r3m1p2stock3= |r3m1win3=1 |r3m1stage3=Unknown
+|r3m1details={{BracketMatchDetails|preview=|lrthread=https://smashboards.com/threads/zenith-may-28-29th-south-river-nj-today-axe-kage-jman-hbox-hax.294092/page-18#post-12785323|interview=|recap=|comment=VOD only shows two games. Loser plays Kage.<ref>[https://youtu.be/MKoBcBCD0So Loser plays Kage - Video description]</ref>|live=|vod=https://youtu.be/MKoBcBCD0So}}
+
+|r3m2p1=Axe |r3m2p1flag=us |r3m2p1score=3
+|r3m2p2=Mew2King |r3m2p2flag=us |r3m2p2score=2
+|r3m2win=2
+|r3m2p1char1=pikachu |r3m2p2char1=sheik |r3m2p1stock1=0 |r3m2p2stock1=2 |r3m2win1=2 |r3m2stage1=Dream Land
+|r3m2p1char2=falco |r3m2p2char2=sheik |r3m2p1stock2=1 |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Battlefield
+|r3m2p1char3=pikachu |r3m2p2char3=sheik |r3m2p1stock3=3 |r3m2p2stock3=1 |r3m2win3=1 |r3m2stage3=Brinstar
+|r3m2p1char4=pikachu |r3m2p2char4=sheik |r3m2p1stock4=0 |r3m2p2stock4=2 |r3m2win4=2 |r3m2stage4=Battlefield
+|r3m2p1char5=pikachu |r3m2p2char5=marth |r3m2p1stock5=1 |r3m2p2stock5=0 |r3m2win5=1 |r3m2stage5=Yoshi's Story
+|r3m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Mew2King forfeit game 3 on his last stock when he was at 63%.|live=|vod=https://youtu.be/PSylN2HoNSk}}
+}}
+==Losers Bracket==
+{{24DELBracketSmwA
+|tourneylink=Zenith/2011
+|tourneyname=Zenith 2011
+|l1placement=17-24
+|l2placement=13-16
+|l3placement=9-12
+|l4placement=7-8
+|l5placement=5-6
+|column-width=150
+
+|l1m1p1=Azen |l1m1p1flag=us |l1m1p1score={{win}} |l1m1win=1
+|l1m1p2=HBK |l1m1p2flag=us |l1m1p2score=
+|l1m2p1=Mafia |l1m2p1flag=us |l1m2p1score={{win}} |l1m2win=1
+|l1m2p2= |l1m2p2flag= |l1m2p2score=
+|l1m3p1=Hax |l1m3p1flag=us |l1m3p1score={{win}} |l1m3win=1
+|l1m3p2=Niko |l1m3p2flag= |l1m3p2score=
+|l1m4p1=Eggm |l1m4p1flag=us |l1m4p1score={{win}} |l1m4win=1
+|l1m4p2= |l1m4p2flag= |l1m4p2score=
+|l1m5p1=Cyrain |l1m5p1flag=us |l1m5p1score= |l1m5win=2
+|l1m5p2=JesiahTEG |l1m5p2flag=us |l1m5p2score={{win}}
+|l1m6p1=Abate |l1m6p1flag=us |l1m6p1score={{win}} |l1m6win=1
+|l1m6p2=RooR |l1m6p2flag= |l1m6p2score=
+|l1m7p1=Teczero |l1m7p1flag=us |l1m7p1score={{win}} |l1m7win=1
+|l1m7p2= |l1m7p2flag= |l1m7p2score=
+|l1m8p1=Vist |l1m8p1flag=us |l1m8p1score={{win}} |l1m8win=1
+|l1m8p2=Sneak |l1m8p2flag= |l1m8p2score=
+
+|l2m1p1=Azen |l2m1p1flag=us |l2m1p1score={{win}} |l2m1win=1
+|l2m1p2=Mafia |l2m1p2flag=us |l2m1p2score=
+|l2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Azen beat Mafia.<ref name=mafia />|live=|vod=}}
+
+|l2m2p1=Hax |l2m2p1flag=us |l2m2p1score={{win}} |l2m2win=1
+|l2m2p2=Eggm |l2m2p2flag=us |l2m2p2score=
+
+|l2m3p1=JesiahTEG |l2m3p1flag=us |l2m3p1score={{win}} |l2m3win=1
+|l2m3p2=Abate |l2m3p2flag=us |l2m3p2score=
+|l2m3details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Jesiah beat Abate.<ref>[https://smashboards.com/threads/zenith-5-28-5-29-results-83-entrants-azen-chillin-chu-hbox-axe-m2k-jman-hax-kage.304401/page-3#post-12790189 Jesiah beat Abate]</ref>|live=|vod=}}
+
+|l2m4p1=Teczero |l2m4p1flag=us |l2m4p1score={{win}} |l2m4win=1
+|l2m4p2=Vist |l2m4p2flag=us |l2m4p2score=
+|l2m4details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Teczero beat Vist.<ref>[https://smashboards.com/threads/zenith-may-28-29-2011-video-thread-videos-up.304430/#post-12793991 Teczero beat Vist]</ref>|live=|vod=}}
+
+|l3m1p1=Chillindude |l3m1p1flag=us |l3m1p1score={{win}}
+|l3m1p2=Azen |l3m1p2flag=us |l3m1p2score=
+|l3m1win=1
+
+|l3m2p1=Tope |l3m2p1flag=us |l3m2p1score={{win}}
+|l3m2p2=Hax |l3m2p2flag=us |l3m2p2score=
+|l3m2win=1
+|l3m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=Hax played Tope.<ref>[https://smashboards.com/threads/zenith-may-28-29-2011-video-thread-videos-up.304430/#post-12793991 Hax played Tope]</ref>|live=|vod=}}
+
+|l3m3p1=Kage |l3m3p1flag=ca |l3m3p1score=2
+|l3m3p2=JesiahTEG |l3m3p2flag=us |l3m3p2score=0
+|l3m3win=1
+|l3m3details={{BracketMatchDetails|preview=|lrthread=https://smashboards.com/threads/zenith-may-28-29th-south-river-nj-today-axe-kage-jman-hbox-hax.294092/page-18#post-12785295|interview=|recap=|comment=|live=|vod=}}
+
+|l3m4p1=ChuDat |l3m4p1flag=us |l3m4p1score={{win}}
+|l3m4p2=Teczero |l3m4p2flag=us |l3m4p2score=
+|l3m4win=1
+
+|l4m1p1=Chillindude |l4m1p1flag=us |l4m1p1score={{win}}
+|l4m1p2=Tope |l4m1p2flag=us |l4m1p2score=
+|l4m1win=1
+
+|l4m2p1=Kage |l4m2p1flag=ca |l4m2p1score=2
+|l4m2p2=ChuDat |l4m2p2flag=us |l4m2p2score=1
+|l4m2win=1
+|l4m2p1char1=ganon |l4m2p2char1=ic |l4m2p1stock1=0 |l4m2p2stock1=1 |l4m2win1=2 |l4m2stage1=Battlefield
+|l4m2p1char2=ganon |l4m2p2char2=ic |l4m2p1stock2=1 |l4m2p2stock2=0 |l4m2win2=1 |l4m2stage2=Yoshi's Story
+|l4m2p1char3=ganon |l4m2p2char3=ic |l4m2p1stock3=1 |l4m2p2stock3=0 |l4m2win3=1 |l4m2stage3=Pokémon Stadium
+|l4m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vodgame1=https://youtu.be/nXqCQeHOe7E|vodgame2=https://www.youtube.com/watch?v=8LcbPdTUK9A|vodgame3=https://www.youtube.com/watch?v=Td7JMDDvivA}}
+
+|l5m1p1=Mew2King |l5m1p1flag=us |l5m1p1score={{win}}
+|l5m1p2=Chillindude |l5m1p2flag=us |l5m1p2score=
+|l5m1win=1
+
+|l5m2p1=Jman |l5m2p1flag=us |l5m2p1score=2
+|l5m2p2=Kage |l5m2p2flag=ca|l5m2p2score=0
+|l5m2win=1
+|l5m2p1char1=fox |l5m2p2char1=ganon |l5m2p1stock1=2 |l5m2p2stock1=0 |l5m2win1=1 |l5m2stage1=Battlefield
+|l5m2p1char2=fox |l5m2p2char2=ganon |l5m2p1stock2=1 |l5m2p2stock2=0 |l5m2win2=1 |l5m2stage2=Yoshi's Story
+|l5m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/xQceb0k9fdM}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Zenith/2011
+|tourneyname=Zenith 2011
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=180
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Hungrybox |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Axe |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=jigglypuff |r1m1p2char1=pikachu |r1m1p1stock1=2 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=jigglypuff |r1m1p2char2=pikachu |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1p1char3=jigglypuff |r1m1p2char3=falco |r1m1p1stock3=2 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Battlefield
+|r1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/gwaMx4-wrkw}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Mew2King |l1m1p1flag=us |l1m1p1score=2
+|l1m1p2=Jman |l1m1p2flag=us |l1m1p2score=0
+|l1m1win=1
+|l1m1p1char1=marth |l1m1p2char1=fox |l1m1p1stock1=1 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1p1char2=sheik |l1m1p2char2=fox |l1m1p1stock2=1 |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Dream Land
+|l1m1p1char3= |l1m1p2char3= |l1m1p1stock3= |l1m1p2stock3= |l1m1win3= |l1m1stage3=Unknown
+|l1m1details={{BracketMatchDetails|preview=|lrthread=https://smashboards.com/threads/zenith-may-28-29th-south-river-nj-today-axe-kage-jman-hbox-hax.294092/page-19#post-12785500|interview=|recap=|comment=|live=|vod=}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Axe |r2m1p1flag=us |r2m1p1score=1
+|r2m1p2=Mew2King |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=pikachu |r2m1p2char1=sheik |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Dream Land
+|r2m1p1char2=falco |r2m1p2char2=sheik |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Yoshi's Story
+|r2m1p1char3=pikachu |r2m1p2char3=sheik |r2m1p1stock3=0 |r2m1p2stock3=2 |r2m1win3=2 |r2m1stage3=Final Destination
+|r2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/yJuEs4tC_FM}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Hungrybox |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Mew2King |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=jigglypuff |r3m1p2char1=fox |r3m1p1stock1=1 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Dream Land
+|r3m1p1char2=jigglypuff |r3m1p2char2=fox |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=jigglypuff |r3m1p2char3=fox |r3m1p1stock3=3 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Dream Land
+|r3m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/-ZqO_8mzsE0}}
+}}
+</onlyinclude>
+
+==References==
+{{reflist}}

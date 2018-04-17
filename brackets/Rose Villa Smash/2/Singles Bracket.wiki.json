@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Calzum",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Mangula",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Deathgazer",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Jin",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Jin",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Calzum",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p2": "Jin",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "1"
+        },
+        "r3m2": {
+            "p2score": "2"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Kawaii",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "SCribble",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Chav",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Suey",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Diabound",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Metal Gear Salad",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Rajko",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Mangula",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Calzum",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "SCribble",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Kone",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Suey",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "BloodBowler",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Diabound",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Brado",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Mangula",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Calzum",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Kone",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "BloodBowler",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Mangula",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "HaoTwo",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Calzum",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Tamoo",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Mangula",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Deathgazer",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Kawaii",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Brado",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "SCribble",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "HaoTwo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Chav",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "BloodBowler",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Suey",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Jin",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Diabound",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Kone",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Metal Gear Salad",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Tamoo",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Rajko",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Calzum",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Mangula",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Deathgazer",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Brado",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "HaoTwo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "BloodBowler",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Jin",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Kone",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Tamoo",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Calzum",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Deathgazer",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "HaoTwo",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Jin",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Tamoo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

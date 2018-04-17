@@ -1,0 +1,107 @@
+{{DISPLAYTITLE:Summit 2016: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Summit/2016/Melee
+|name2=Singles Round 1 Pools
+|link2=Summit/2016/Melee/Singles Round 1 Pools
+|name3=Singles Round 2 Pools
+|link3=Summit/2016/Melee/Singles Round 2 Pools
+|name4=Singles Bracket
+|link4=Summit/2016/Melee/Singles Bracket
+|name5=Doubles Bracket
+|link5=Summit/2016/Melee/Doubles Bracket
+|This=5
+}}
+==Winners Bracket==
+{{2SEDoublesBracket
+|column-width=160
+|R1=Winners Semis
+|r1m1t1p1=Ryan Ford |r1m1t1p1flag=ca
+|r1m1t1p2=Trulliam |r1m1t1p2flag=ca |r1m1t1score=3
+|r1m1t2p1=Legend |r1m1t2p1flag=ca
+|r1m1t2p2=Kyle |r1m1t2p2flag=ca |r1m1t2score=0
+|r1m1win=1
+}}
+{{2SEDoublesBracket
+|column-width=160
+|hideroundtitles=true
+|r1m1t1p1=n0ne |r1m1t1p1flag=ni
+|r1m1t1p2=Nightmare |r1m1t1p2flag=ca |r1m1t1score=0
+|r1m1t2p1=Professor Pro |r1m1t2p1flag=uk
+|r1m1t2p2=Coffeeblack |r1m1t2p2flag=ca |r1m1t2score=3
+|r1m1win=2
+}}
+
+==Losers Bracket==
+{{8DEDoublesLBracketSmwA
+|tourneylink=Summit/2016/Melee
+|tourneyname=Summit 2016
+|l1placement=7-8
+|l2placement=5-6
+|column-width=160
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Heartbreaker |l1m1t1p1flag=ca
+|l1m1t1p2=K |l1m1t1p2flag=ca |l1m1t1score=0
+|l1m1t2p1=Monib |l1m1t2p1flag=ca
+|l1m1t2p2=Moky |l1m1t2p2flag=ca |l1m1t2score=2
+|l1m1win=2
+
+|l1m2t1p1=Plum |l1m2t1p1flag=ca
+|l1m2t1p2=Blitz |l1m2t1p2flag=ca |l1m2t1score=1
+|l1m2t2p1=Rabbit |l1m2t2p1flag=ca
+|l1m2t2p2=Garbage Prince |l1m2t2p2flag=ca |l1m2t2score=2
+|l1m2win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=n0ne |l2m1t1p1flag=ni
+|l2m1t1p2=Nightmare |l2m1t1p2flag=ca |l2m1t1score=3
+|l2m1t2p1=Monib |l2m1t2p1flag=ca
+|l2m1t2p2=Moky |l2m1t2p2flag=ca |l2m1t2score=1
+|l2m1win=1
+
+|l2m2t1p1=Legend |l2m2t1p1flag=ca
+|l2m2t1p2=Kyle |l2m2t1p2flag=ca |l2m2t1score=2
+|l2m2t2p1=Rabbit |l2m2t2p1flag=ca
+|l2m2t2p2=Garbage Prince |l2m2t2p2flag=ca |l2m2t2score=3
+|l2m2win=2
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Summit/2016/Melee
+|tourneyname=Summit 2016
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=160
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Ryan Ford |r1m1t1p1flag=ca
+|r1m1t1p2=Trulliam |r1m1t1p2flag=ca |r1m1t1score=3
+|r1m1t2p1=Professor Pro |r1m1t2p1flag=uk
+|r1m1t2p2=Coffeeblack |r1m1t2p2flag=ca |r1m1t2score=0
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=n0ne |l1m1t1p1flag=ni
+|l1m1t1p2=Nightmare |l1m1t1p2flag=ca |l1m1t1score=3
+|l1m1t2p1=Rabbit |l1m1t2p1flag=ca
+|l1m1t2p2=Garbage Prince |l1m1t2p2flag=ca |l1m1t2score=0
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Professor Pro |r2m1t1p1flag=uk
+|r2m1t1p2=Coffeeblack |r2m1t1p2flag=ca |r2m1t1score=0
+|r2m1t2p1=n0ne |r2m1t2p1flag=ni
+|r2m1t2p2=Nightmare |r2m1t2p2flag=ca |r2m1t2score=3
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Ryan Ford |r3m1t1p1flag=ca
+|r3m1t1p2=Trulliam |r3m1t1p2flag=ca |r3m1t1score=3
+|r3m1t2p1=n0ne |r3m1t2p1flag=ni
+|r3m1t2p2=Nightmare |r3m1t2p2flag=ca |r3m1t2score=1
+|r3m1win=1
+}}</onlyinclude>

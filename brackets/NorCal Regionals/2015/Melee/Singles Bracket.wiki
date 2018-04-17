@@ -1,0 +1,151 @@
+{{DISPLAYTITLE:NorCal Regionals 2015: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=NorCal Regionals/2015/Melee
+|name2=Singles Pools
+|link2=NorCal Regionals/2015/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=NorCal Regionals/2015/Melee/Singles Bracket
+|This=3
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{4DE4SSmwBracket
+|tourneylink=NorCal Regionals/2015/Melee
+|tourneyname=NorCal Regionals 2015
+|l1placement=7-8
+|l2placement=5-6
+|l3placement=4
+|l4placement=3
+|r5loserplacement=2
+|r5winnerplacement=1
+|column-width=160
+|disableheads=true
+|export_score=true
+
+|r2m1p1=SFAT |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=Laudandus |r2m1p2flag=us |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=fox |r2m1p2char1=sheik |r2m1p1stock1=2 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=fox |r2m1p2char2=sheik |r2m1p1stock2=1 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Battlefield
+|r2m1date=April 5, 2015
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|vod=
+|interview=
+|recap=
+|comment=
+}}
+
+|r2m2p1=Shroomed |r2m2p1flag=us |r2m2p1score=0
+|r2m2p2=PewPewU |r2m2p2flag=us |r2m2p2score=2
+|r2m2win=2
+|r2m2p1char1=sheik |r2m2p2char1=marth |r2m2p1stock1=0 |r2m2p2stock1=1 |r2m2win1=2 |r2m2stage1=Battlefield
+|r2m2p1char2=sheik |r2m2p2char2=marth |r2m2p1stock2=0 |r2m2p2stock2=1 |r2m2win2=2 |r2m2stage2=Battlefield
+|r2m2date=April 5, 2015
+|r2m2finished=
+|r2m2details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|vod=
+|interview=
+|recap=
+|comment=
+}}
+
+|r4m1p1=SFAT |r4m1p1flag=us |r4m1p1score=1
+|r4m1p2=PewPewU |r4m1p2flag=us |r4m1p2score=2
+|r4m1win=2
+|r4m1p1char1=fox |r4m1p2char1=marth |r4m1p1stock1=0 |r4m1p2stock1=1 |r4m1win1=2 |r4m1stage1=Battlefield
+|r4m1p1char2=fox |r4m1p2char2=marth |r4m1p1stock2=2 |r4m1p2stock2=0 |r4m1win2=1 |r4m1stage2=Fountain of Dreams
+|r4m1p1char3=fox |r4m1p2char3=marth |r4m1p1stock3=0 |r4m1p2stock3=2 |r4m1win3=2 |r4m1stage3=Pokémon Stadium
+|r4m1date=April 5, 2015
+|r4m1finished=
+|r4m1details={{BracketMatchDetails|lrthread=|vod=}}
+
+|r5m1p1=PewPewU |r5m1p1flag=us |r5m1p1score=3
+|r5m1p2=SFAT |r5m1p2flag=us |r5m1p2score=2
+|r5m1win=1
+|r5m1p1char1=marth |r5m1p2char1=fox |r5m1p1stock1=2 |r5m1p2stock1=0 |r5m1win1=1 |r5m1stage1=Yoshi's Story
+|r5m1p1char2=marth |r5m1p2char2=fox |r5m1p1stock2=0 |r5m1p2stock2=1 |r5m1win2=2 |r5m1stage2=Fountain of Dreams
+|r5m1p1char3=marth |r5m1p2char3=fox |r5m1p1stock3=1 |r5m1p2stock3=0 |r5m1win3=1 |r5m1stage3=Final Destination
+|r5m1p1char4=marth |r5m1p2char4=fox |r5m1p1stock4=0 |r5m1p2stock4=3 |r5m1win4=2 |r5m1stage4=Dream Land
+|r5m1p1char5=marth |r5m1p2char5=fox |r5m1p1stock5=3 |r5m1p2stock5=0 |r5m1win5=1 |r5m1stage5=Pokémon Stadium
+|r5m1date=April 5, 2015
+|r5m1finished=
+|r5m1details={{BracketMatchDetails|lrthread=|vod=}}
+
+|l1m1p1=SilentSpectre |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=HomeMadeWaffles |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=2
+|l1m1p1char1=falcon |l1m1p2char1=fox |l1m1p1stock1=0 |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1p1char2=falcon |l1m1p2char2=fox |l1m1p1stock2=0 |l1m1p2stock2=2 |l1m1win2=2 |l1m1stage2=Yoshi's Story
+|l1m1date=April 5, 2015
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|vod=
+|interview=
+|recap=
+|comment=
+}}
+
+|l1m2p1=Toph |l1m2p1flag=us |l1m2p1score=2
+|l1m2p2=Azusa |l1m2p2flag=us |l1m2p2score=1
+|l1m2win=1
+|l1m2p1char1=fox |l1m2p2char1=peach |l1m2p1stock1=0 |l1m2p2stock1=1 |l1m2win1=2 |l1m2stage1=Battlefield
+|l1m2p1char2=fox |l1m2p2char2=peach |l1m2p1stock2=1 |l1m2p2stock2=0 |l1m2win2=1 |l1m2stage2=Pokémon Stadium
+|l1m2p1char3=fox |l1m2p2char3=peach |l1m2p1stock3=1 |l1m2p2stock3=0 |l1m2win3=1 |l1m2stage3=Dream Land
+|l1m2date=April 5, 2015
+|l1m2finished=
+|l1m2details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|vod=
+|interview=
+|recap=
+|comment=
+}}
+
+|l2m1p1=Shroomed |l2m1p1flag=us |l2m1p1score=2
+|l2m1p2=HomeMadeWaffles |l2m1p2flag=us |l2m1p2score=1
+|l2m1win=1
+|l2m1p1char1=sheik |l2m1p2char1=fox |l2m1p1stock1=1 |l2m1p2stock1=0 |l2m1win1=1 |l2m1stage1=Battlefield
+|l2m1p1char2=sheik |l2m1p2char2=fox |l2m1p1stock2=0 |l2m1p2stock2=2 |l2m1win2=2 |l2m1stage2=Pokémon Stadium
+|l2m1p1char3=sheik |l2m1p2char3=fox |l2m1p1stock3=1 |l2m1p2stock3=0 |l2m1win3=1 |l2m1stage3=Dream Land
+|l2m1date=April 5, 2015
+|l2m1finished=
+|l2m1details={{BracketMatchDetails|lrthread=|vod=}}
+
+|l2m2p1=Laudandus |l2m2p1flag=us |l2m2p1score=1
+|l2m2p2=Toph |l2m2p2flag=us |l2m2p2score=2
+|l2m2win=2
+|l2m2p1char1=sheik |l2m2p2char1=fox |l2m2p1stock1=0 |l2m2p2stock1=1 |l2m2win1=2 |l2m2stage1=Battlefield
+|l2m2p1char2=sheik |l2m2p2char2=fox |l2m2p1stock2=3 |l2m2p2stock2=0 |l2m2win2=1 |l2m2stage2=Battlefield
+|l2m2p1char3=sheik |l2m2p2char3=fox |l2m2p1stock3=0 |l2m2p2stock3=1 |l2m2win3=2 |l2m2stage3=Pokémon Stadium
+|l2m2date=April 5, 2015
+|l2m2finished=
+|l2m2details={{BracketMatchDetails|lrthread=|vod=}}
+
+|l3m1p1=Shroomed |l3m1p1flag=us |l3m1p1score=2
+|l3m1p2=Toph |l3m1p2flag=us |l3m1p2score=0
+|l3m1win=1
+|l3m1p1char1=sheik |l3m1p2char1=fox |l3m1p1stock1=3 |l3m1p2stock1=0 |l3m1win1=1 |l3m1stage1=Battlefield
+|l3m1p1char2=sheik |l3m1p2char2=fox |l3m1p1stock2=2 |l3m1p2stock2=0 |l3m1win2=1 |l3m1stage2=Pokémon Stadium
+|l3m1date=April 5, 2015
+|l3m1finished=
+|l3m1details={{BracketMatchDetails|lrthread=|vod=}}
+
+|l4m1p1=SFAT |l4m1p1flag=us |l4m1p1score=2
+|l4m1p2=Shroomed |l4m1p2flag=us |l4m1p2score=0
+|l4m1win=1
+|l4m1p1char1=fox |l4m1p2char1=sheik |l4m1p1stock1=1 |l4m1p2stock1=0 |l4m1win1=1 |l4m1stage1=Battlefield
+|l4m1p1char2=fox |l4m1p2char2=marth |l4m1p1stock2=2 |l4m1p2stock2=0 |l4m1win2=1 |l4m1stage2=Final Destination
+|l4m1date=April 5, 2015
+|l4m1finished=
+|l4m1details={{BracketMatchDetails|lrthread=|vod=}}
+}}
+</onlyinclude>

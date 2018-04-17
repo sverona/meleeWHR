@@ -1,0 +1,566 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "AyyDee",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Professor Pro",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Jolteon",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Profesor Pro",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Inertia",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Monty",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Chain",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "DemoJay",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Lumpy",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Frenzy",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Manyula",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Chili",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "That Guy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bowie",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "g00fballz",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Biss",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Skele",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Pyro",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Spongebot",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Hylian Reaper",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Mitsu",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Inertia",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Tarolg",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "DemoJay",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "BloodBowler",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Frenzy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "R23",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chili",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "JoMo",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "That Guy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Umpa",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Biss",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Calzum",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Pyro",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Mr_Hero",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Spongebot",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Mitsu",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Tarolg",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "BloodBowler",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "R23",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "JoMo",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Umpa",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "Calzum",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mr_Hero",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "JJL",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Tarolg",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "X1",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "BloodBowler",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "AyyDee",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "JoMo",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Unreal",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Calzum",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "JJL",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "BloodBowler",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "AyyDee",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Unreal",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Jolteon",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "JJL",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "J3ly",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "AyyDee",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Fuzzy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Inertia",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "R23",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bowie",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Unreal",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "g00fballz",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "BloodBowler",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Biss",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Jolteon",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Skele",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Tarolg",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Pyro",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "AyyDee",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Spongebot",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Mitsu",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Hylian Reaper",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Monty",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Mr_Hero",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "X1",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chain",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Calzum",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "DemoJay",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "J3ly",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Lumpy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Umpa",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Frenzy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "JJL",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Manyula",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "JoMo",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chili",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Prof",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "That Guy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Fuzzy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mr_Hero",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "X1",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Calzum",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "J3ly",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Umpa",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "JJL",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "JoMo",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Prof",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "R23",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Unreal",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "BloodBowler",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Jolteon",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Tarolg",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "AyyDee",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mitsu",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Fuzzy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "X1",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "J3ly",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "JJL",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "Prof",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Unreal",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Jolteon",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "AyyDee",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Fuzzy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "J3ly",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Prof",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Jolteon",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        }
+    }
+}

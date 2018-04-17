@@ -1,0 +1,108 @@
+{{SetGame|melee}}{{DISPLAYTITLE:The Big House 5: ''Melee'' Singles Bracket}}{{The Big House 5 Tabs|This=3}}
+{{The Big House 5 Singles Pools Navbox}}
+Please note that the bracket rounds are shifted with respect to smash.gg.
+{{:The Big House/5/Melee/Singles Bracket/Winners}}
+{{:The Big House/5/Melee/Singles Bracket/Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=The Big House/5/Melee
+|tourneyname=The Big House 5
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=200
+
+<!-- FROM WINNERS -->
+|r1m1p1=Armada |r1m1p1flag=se |r1m1p1score=3
+|r1m1p2=Hungrybox |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=fox |r1m1p1stock1=3 |r1m1p2char1=jigglypuff |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=fox |r1m1p1stock2=2 |r1m1p2char2=jigglypuff |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Dream Land
+|r1m1p1char3=fox |r1m1p1stock3=2 |r1m1p2char3=jigglypuff |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Battlefield
+|r1m1p1char4= |r1m1p1stock4= |r1m1p2char4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p1stock5= |r1m1p2char5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Mew2King |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=Mango |l1m1p2flag=us |l1m1p2score=0
+|l1m1win=1
+|l1m1p1char1=marth |l1m1p1stock1=1 |l1m1p2char1=fox |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Fountain of Dreams
+|l1m1p1char2=marth |l1m1p1stock2=2 |l1m1p2char2=fox |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Dream Land
+|l1m1p1char3=marth |l1m1p1stock3=1 |l1m1p2char3=falco |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Dream Land
+|l1m1p1char4= |l1m1p1stock4= |l1m1p2char4= |l1m1p2stock4= |l1m1win4= |l1m1stage4=
+|l1m1p1char5= |l1m1p1stock5= |l1m1p2char5= |l1m1p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Hungrybox |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Mew2King |r2m1p2flag=us |r2m1p2score=1
+|r2m1win=1
+|r2m1p1char1=jigglypuff |r2m1p1stock1=1 |r2m1p2char1=fox |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=jigglypuff |r2m1p1stock2=2 |r2m1p2char2=fox |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1p1char3=jigglypuff |r2m1p1stock3=0 |r2m1p2char3=fox |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Pokémon Stadium
+|r2m1p1char4=jigglypuff |r2m1p1stock4=2 |r2m1p2char4=fox |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Dream Land
+|r2m1p1char5= |r2m1p1stock5= |r2m1p2char5= |r2m1p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Armada |r3m1p1flag=se |r3m1p1score=3
+|r3m1p2=Hungrybox |r3m1p2flag=us |r3m1p2score=2
+|r3m1win=1
+|r3m1p1char1=fox |r3m1p1stock1=0 |r3m1p2char1=jigglypuff |r3m1p2stock1=1 |r3m1win1=2 |r3m1stage1=Battlefield
+|r3m1p1char2=fox |r3m1p1stock2=1 |r3m1p2char2=jigglypuff |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=fox |r3m1p1stock3=1 |r3m1p2char3=jigglypuff |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Dream Land
+|r3m1p1char4=fox |r3m1p1stock4=0 |r3m1p2char4=jigglypuff |r3m1p2stock4=1 |r3m1win4=2 |r3m1stage4=Dream Land
+|r3m1p1char5=fox |r3m1p1stock5=3 |r3m1p2char5=jigglypuff |r3m1p2stock5=0 |r3m1win5=1 |r3m1stage5=Final Destination
+
+|export_score=true
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>
+
+==Sources==
+*[https://smash.gg/tournament/the-big-house-5/brackets/10300/1399/4106 Bracket on smash.gg]
+*[https://twitter.com/tafokints Tafokints on Twitter]
+*[https://twitter.com/C_Naught C Naught on Twitter]

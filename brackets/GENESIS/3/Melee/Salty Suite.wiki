@@ -1,0 +1,47 @@
+{{DISPLAYTITLE:GENESIS 3: ''Melee'' Salty Suite}}
+{{tabs game|basepage=GENESIS/3|melee=true|wiiu=true|64=true}}
+{{GENESIS 3 Tabs|This=8}}
+The '''GENESIS 3 Salty Suite''' is a set of money matches and exhibitions, taking place the night before the Top 8 Bracket.
+
+==Matches==
+===S2J vs. Abate===
+<small>'''Wager:'''</small><br /><small>'''Trailer:''' [https://www.youtube.com/watch?v=_dMKnBDaskM S2J Vs. Abate]</small><br />
+{{2SEBracket
+|r1m1p1=S2J |r1m1p1flag=us |r1m1p1score=4
+|r1m1p2=Abate |r1m1p2flag=us |r1m1p2score=2
+|r1m1win=1
+|r1m1p1char1=falcon |r1m1p2char1=luigi |r1m1p1stock1=0 |r1m1p2stock1=1 |r1m1win1=2 |r1m1stage1=Battlefield
+|r1m1p1char2=falcon |r1m1p2char2=luigi |r1m1p1stock2=3 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1p1char3=falcon |r1m1p2char3=luigi |r1m1p1stock3=1 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Yoshi's Story
+|r1m1p1char4=falcon |r1m1p2char4=luigi |r1m1p1stock4=0 |r1m1p2stock4=3 |r1m1win4=2 |r1m1stage4=Battlefield
+|r1m1p1char5=falcon |r1m1p2char5=luigi |r1m1p1stock5=1 |r1m1p2stock5=0 |r1m1win5=1 |r1m1stage5=Dream Land
+|r1m1p1char6=falcon |r1m1p2char6=luigi |r1m1p1stock6=2 |r1m1p2stock6=0 |r1m1win6=1 |r1m1stage6=Dream Land
+|r1m1p1char7= |r1m1p2char7= |r1m1p1stock7= |r1m1p2stock7= |r1m1win7= |r1m1stage7=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|preview= 
+|lrthread=
+|comment=
+}}
+}}
+
+===Nintendude vs. HugS===
+<small>'''Wager:'''</small><br /><small>'''Trailer:''' [https://www.youtube.com/watch?v=vk6U1l1Kt4s Nintendude Vs. HugS]</small><br /><small>'''Notes:''' The match was canceled due to time constraints, with Nintendude needing to play matches in bracket.</small><br />
+{{2SEBracket
+|r1m1p1=Nintendude |r1m1p1flag=us |r1m1p1score=
+|r1m1p2=HugS |r1m1p2flag=us |r1m1p2score=
+|r1m1win=
+|r1m1p1char1= |r1m1p2char1= |r1m1p1stock1= |r1m1p2stock1= |r1m1win1= |r1m1stage1=
+|r1m1p1char2= |r1m1p2char2= |r1m1p1stock2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p2char3= |r1m1p1stock3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p2char4= |r1m1p1stock4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p2char5= |r1m1p1stock5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|preview= 
+|interview=
+|comment=
+}}
+}}

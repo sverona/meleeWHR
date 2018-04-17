@@ -1,0 +1,367 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "Lawrencelot",
+            "t1p1flag": "nl",
+            "t1p2": "Thunder",
+            "t1p2flag": "nl",
+            "t1score": "1",
+            "t2p1": "Linkje",
+            "t2p1flag": "nl",
+            "t2p2": "Utto",
+            "t2p2flag": "nl",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "details": {
+                "vod": "https://youtu.be/gNDoIjWd_3M?t=12355"
+            },
+            "t1p1": "Nuckels",
+            "t1p1flag": "nl",
+            "t1p2": "Amsah",
+            "t1p2flag": "nl",
+            "t1score": "3",
+            "t2p1": "Fout NL",
+            "t2p1flag": "nl",
+            "t2p2": "Shengo",
+            "t2p2flag": "nl",
+            "t2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "details": {
+                "vod": "https://youtu.be/gNDoIjWd_3M?t=14607"
+            },
+            "t1p1": "Fout NL",
+            "t1p1flag": "nl",
+            "t1p2": "Shengo",
+            "t1p2flag": "nl",
+            "t1score": "3",
+            "t2p1": "Linkje",
+            "t2p1flag": "nl",
+            "t2p2": "Utto",
+            "t2p2flag": "nl",
+            "t2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "details": {
+                "vod": "https://youtu.be/gNDoIjWd_3M?t=16118}}}}</onlyinclude>"
+            },
+            "t1p1": "Nuckels",
+            "t1p1flag": "nl",
+            "t1p2": "Amsah",
+            "t1p2flag": "nl",
+            "t1score": "3",
+            "t2p1": "Fout NL",
+            "t2p1flag": "nl",
+            "t2p2": "Shengo",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "t1p1": "Serket",
+            "t1p1flag": "nl",
+            "t1p2": "Happymealz",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "Knullebibs",
+            "t2p1flag": "nl",
+            "t2p2": "Pegawolf",
+            "t2p2flag": "nl",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l1m2": {
+            "t1p1": "Markovic",
+            "t1p1flag": "nl",
+            "t1p2": "Peridot",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "Alex Bailey",
+            "t2p1flag": "nl",
+            "t2p2": "CyclopeSteve",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "t1p1": "KingSirWankALot",
+            "t1p1flag": "nl",
+            "t1p2": "St0rmetom",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "Trozay",
+            "t2p1flag": "nl",
+            "t2p2": "Prins_Perzik",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "t1p1": "Xephyer",
+            "t1p1flag": "nl",
+            "t1p2": "Destiknee",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "ryura",
+            "t2p1flag": "nl",
+            "t2p2": "Protatoo",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "details": {
+                "vod": "https://youtu.be/gNDoIjWd_3M?t=11155"
+            },
+            "t1p1": "Serket",
+            "t1p1flag": "nl",
+            "t1p2": "Happymealz",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "Markovic",
+            "t2p1flag": "nl",
+            "t2p2": "Peridot",
+            "t2p2flag": "nl",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "t1p1": "KingSirWankALot",
+            "t1p1flag": "nl",
+            "t1p2": "St0rmetom",
+            "t1p2flag": "nl",
+            "t1score": "0",
+            "t2p1": "Xephyer",
+            "t2p1flag": "nl",
+            "t2p2": "Destiknee",
+            "t2p2flag": "nl",
+            "t2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "t1p1": "LawrenceLot",
+            "t1p1flag": "nl",
+            "t1p2": "Thunder",
+            "t1p2flag": "nl",
+            "t1score": "3",
+            "t2p1": "Serket",
+            "t2p1flag": "nl",
+            "t2p2": "Happymealz",
+            "t2p2flag": "nl",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l3m2": {
+            "t1p1": "Linkje",
+            "t1p1flag": "nl",
+            "t1p2": "Utto",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "Xephyer",
+            "t2p1flag": "nl",
+            "t2p2": "Destiknee",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "t1p1": "Nuckels",
+            "t1p1flag": "nl",
+            "t1p2": "Amsah",
+            "t1p2flag": "nl",
+            "t1score": "Win",
+            "t2p1": "Buy",
+            "t2p1flag": "",
+            "t2p2": "Buy",
+            "t2p2flag": "",
+            "t2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "t1p1": "Xephyer",
+            "t1p1flag": "nl",
+            "t1p2": "Destiknee",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "Knullebibs",
+            "t2p1flag": "nl",
+            "t2p2": "Pegawolf",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "t1p1": "LawrenceLot",
+            "t1p1flag": "nl",
+            "t1p2": "Thunder",
+            "t1p2flag": "nl",
+            "t1score": "Win",
+            "t2p1": "Bye",
+            "t2p1flag": "",
+            "t2p2": "Bye",
+            "t2p2flag": "",
+            "t2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "t1p1": "Alex Bailey",
+            "t1p1flag": "nl",
+            "t1p2": "CyclopeSteve",
+            "t1p2flag": "nl",
+            "t1score": "1",
+            "t2p1": "KingSirWankALot",
+            "t2p1flag": "nl",
+            "t2p2": "St0rmetom",
+            "t2p2flag": "nl",
+            "t2score": "2",
+            "win": "2"
+        },
+        "r1m5": {
+            "t1p1": "Fout NL",
+            "t1p1flag": "nl",
+            "t1p2": "Shengo",
+            "t1p2flag": "nl",
+            "t1score": "Win",
+            "t2p1": "Bye",
+            "t2p1flag": "",
+            "t2p2": "Bye",
+            "t2p2flag": "",
+            "t2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "t1p1": "Markovic",
+            "t1p1flag": "nl",
+            "t1p2": "Peridot",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "Trozay",
+            "t2p1flag": "nl",
+            "t2p2": "Prins_Perzik",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "t1p1": "Linkje",
+            "t1p1flag": "nl",
+            "t1p2": "Utto",
+            "t1p2flag": "no",
+            "t1score": "Win",
+            "t2p1": "Bye",
+            "t2p1flag": "",
+            "t2p2": "Bye",
+            "t2p2flag": "",
+            "t2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "details": {
+                "vod": "https://youtu.be/gNDoIjWd_3M?t=8850"
+            },
+            "t1p1": "Serket",
+            "t1p1flag": "nl",
+            "t1p2": "Happymealz",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "ryura",
+            "t2p1flag": "nl",
+            "t2p2": "Protatoo",
+            "t2p2flag": "nl",
+            "t2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "t1p1": "Nuckels",
+            "t1p1flag": "nl",
+            "t1p2": "Amsah",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "Xephyer",
+            "t2p1flag": "nl",
+            "t2p2": "Destiknee",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "t1p1": "LawrenceLot",
+            "t1p1flag": "nl",
+            "t1p2": "Thunder",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "KingSirWankALot",
+            "t2p1flag": "nl",
+            "t2p2": "St0rmetom",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "t1p1": "Fout NL",
+            "t1p1flag": "nl",
+            "t1p2": "Shengo",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "Markovic",
+            "t2p1flag": "nl",
+            "t2p2": "Peridot",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "details": {
+                "vod": "https://youtu.be/gNDoIjWd_3M?t=9581"
+            },
+            "t1p1": "Linkje",
+            "t1p1flag": "nl",
+            "t1p2": "Utto",
+            "t1p2flag": "nl",
+            "t1score": "2",
+            "t2p1": "Serket",
+            "t2p1flag": "nl",
+            "t2p2": "Happymealz",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "t1p1": "Nuckels",
+            "t1p1flag": "nl",
+            "t1p2": "Amsah",
+            "t1p2flag": "nl",
+            "t1score": "3",
+            "t2p1": "Lawrencelot",
+            "t2p1flag": "nl",
+            "t2p2": "Thunder",
+            "t2p2flag": "nl",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "details": {
+                "vod": "https://youtu.be/gNDoIjWd_3M?t=10151"
+            },
+            "t1p1": "Fout NL",
+            "t1p1flag": "nl",
+            "t1p2": "Shengo",
+            "t1p2flag": "nl",
+            "t1score": "3",
+            "t2p1": "Linkje",
+            "t2p1flag": "nl",
+            "t2p2": "Utto",
+            "t2p2flag": "nl",
+            "t2score": "1",
+            "win": "1"
+        }
+    }
+}

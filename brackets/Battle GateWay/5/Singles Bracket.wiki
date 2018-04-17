@@ -1,0 +1,405 @@
+{{DISPLAYTITLE:Battle GateWay 5: Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Battle GateWay/5
+|name2=Singles Bracket
+|link2=Battle GateWay/5/Singles Bracket
+|This=2
+}}
+==Winners Bracket==
+{{64DEWBracketA
+|tourneylink=Battle GateWay/5
+|tourneyname=Battle GateWay 5
+|r1m1p1=So-ten |r1m1p1flag=jp |r1m1p1score=2 |r1m1win=1
+|r1m1p2=deiko |r1m1p2flag= |r1m1p2score=0
+|r1m1p1char1=fox |r1m1p2char1=peach |r1m1p1stock1=3 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=fox |r1m1p2char2=peach |r1m1p1stock2=2 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1date=
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/Q0Lw3fLNRaA}}
+
+|r1m2p1=Takapa |r1m2p1flag=jp |r1m2p1score= |r1m2win=2
+|r1m2p2=Casper |r1m2p2flag=jp |r1m2p2score={{win}}
+
+|r1m3p1=Sobameshi |r1m3p1flag=jp |r1m3p1score=2 |r1m3win=1
+|r1m3p2=Sahara |r1m3p2flag=jp |r1m3p2score=1
+|r1m3p1char1=fox |r1m3p2char1=sheik |r1m3p1stock1=2 |r1m3p2stock1=0 |r1m3win1=1 |r1m3stage1=Battlefield
+|r1m3p1char2=fox |r1m3p2char2=sheik |r1m3p1stock2=0 |r1m3p2stock2=1 |r1m3win2=2 |r1m3stage2=Battlefield
+|r1m3p1char3=fox |r1m3p2char3=sheik |r1m3p1stock3=2 |r1m3p2stock3=0 |r1m3win3=1 |r1m3stage3=Final Destination
+|r1m3date=
+|r1m3details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/-oDo-3cDlJM}}
+
+|r1m4p1=Tinnin |r1m4p1flag=jp |r1m4p1score={{win}} |r1m4win=1
+|r1m4p2=Haotado |r1m4p2flag=jp |r1m4p2score=
+|r1m5p1=Kounotori |r1m5p1flag=jp |r1m5p1score={{win}} |r1m5win=1
+|r1m5p2=Athcane |r1m5p2flag= |r1m5p2score=
+|r1m6p1=MOSH |r1m6p1flag=jp |r1m6p1score={{win}} |r1m6win=1
+|r1m6p2=Battsu |r1m6p2flag=jp |r1m6p2score=
+|r1m7p1=Da-yoshi |r1m7p1flag=jp |r1m7p1score={{win}} |r1m7win=1
+|r1m7p2=ARIA |r1m7p2flag= |r1m7p2score=
+|r1m8p1=Abadango |r1m8p1flag=jp |r1m8p1score={{win}} |r1m8win=1
+|r1m8p2=Suzaku |r1m8p2flag=jp |r1m8p2score=
+
+|r1m9p1=Flash |r1m9p1flag=jp |r1m9p1score={{win}} |r1m9win=1
+|r1m9p2=Hametou |r1m9p2flag=jp |r1m9p2score=
+|r1m10p1=Burudo |r1m10p1flag=jp |r1m10p1score={{win}} |r1m10win=1
+|r1m10p2=Hutsuka-miman |r1m10p2flag=jp |r1m10p2score=
+|r1m11p1=Esuka |r1m11p1flag=jp |r1m11p1score={{win}} |r1m11win=1
+|r1m11p2=Hizasen |r1m11p2flag=jp |r1m11p2score=
+|r1m12p1=Galena |r1m12p1flag= |r1m12p1score= |r1m12win=2
+|r1m12p2=Bamu |r1m12p2flag=jp |r1m12p2score={{win}}
+|r1m13p1=Gucci |r1m13p1flag=jp |r1m13p1score={{win}} |r1m13win=1
+|r1m13p2=shot |r1m13p2flag= |r1m13p2score=
+|r1m14p1=Pao |r1m14p1flag=jp |r1m14p1score= |r1m14win=2
+|r1m14p2=Kakipi |r1m14p2flag=jp |r1m14p2score={{win}}
+|r1m15p1=K.F |r1m15p1flag=jp |r1m15p1score={{win}} |r1m15win=1
+|r1m15p2=Fuwa |r1m15p2flag=jp |r1m15p2score=
+|r1m16p1=Rain |r1m16p1flag= |r1m16p1score={{win}} |r1m16win=1
+|r1m16p2=Watabe |r1m16p2flag=jp |r1m16p2score=
+
+|r1m17p1=Sauc3 |r1m17p1flag=ca |r1m17p1score= |r1m17win=2
+|r1m17p2=Kana |r1m17p2flag=jp |r1m17p2score={{win}}
+|r1m18p1=shin |r1m18p1flag= |r1m18p1score={{win}} |r1m18win=1
+|r1m18p2=Merino |r1m18p2flag=jp |r1m18p2score=
+|r1m19p1=Katou Hayate |r1m19p1flag=jp |r1m19p1score={{win}} |r1m19win=1
+|r1m19p2=Matsuoka |r1m19p2flag=jp |r1m19p2score=
+|r1m20p1=Yutaro |r1m20p1flag=jp |r1m20p1score= |r1m20win=2
+|r1m20p2=Senpuu |r1m20p2flag=jp |r1m20p2score={{win}}
+|r1m21p1=aMSa |r1m21p1flag=jp |r1m21p1score={{win}} |r1m21win=1
+|r1m21p2=Inko |r1m21p2flag=jp |r1m21p2score=
+|r1m22p1=sato-san |r1m22p1flag=jp |r1m22p1score={{win}} |r1m22win=1
+|r1m22p2=Chakki |r1m22p2flag=jp |r1m22p2score=
+|r1m23p1=Zenji |r1m23p1flag=jp |r1m23p1score={{win}} |r1m23win=1
+|r1m23p2=LIFE |r1m23p2flag= |r1m23p2score=
+|r1m24p1=Ayataka |r1m24p1flag=jp |r1m24p1score={{win}} |r1m24win=1
+|r1m24p2=Nekau |r1m24p2flag=jp |r1m24p2score=
+
+|r1m25p1=shuta |r1m25p1flag=jp |r1m25p1score={{win}} |r1m25win=1
+|r1m25p2=Bye |r1m25p2flag= |r1m25p2score=
+|r1m26p1=bitou |r1m26p1flag= |r1m26p1score={{win}} |r1m26win=1
+|r1m26p2=Watch |r1m26p2flag=jp |r1m26p2score=
+|r1m27p1=Yoroz |r1m27p1flag=jp |r1m27p1score= |r1m27win=2
+|r1m27p2=Otoko |r1m27p2flag=jp |r1m27p2score={{win}}
+|r1m28p1=yopple |r1m28p1flag= |r1m28p1score={{win}} |r1m28win=1
+|r1m28p2=BgHydrar |r1m28p2flag= |r1m28p2score=
+|r1m29p1=Sanne |r1m29p1flag=jp |r1m29p1score={{win}} |r1m29win=1
+|r1m29p2=Ebi |r1m29p2flag=jp |r1m29p2score=
+|r1m30p1=Captain Jack |r1m30p1flag=jp |r1m30p1score={{win}} |r1m30win=1
+|r1m30p2=yon-yon |r1m30p2flag= |r1m30p2score=
+|r1m31p1=Essan |r1m31p1flag=jp |r1m31p1score={{win}} |r1m31win=1
+|r1m31p2=A-toraisu |r1m31p2flag=jp |r1m31p2score=
+|r1m32p1=Kotei King Maru |r1m32p1flag=jp |r1m32p1score={{win}} |r1m32win=1
+|r1m32p2=Umehara Masaki |r1m32p2flag=jp |r1m32p2score=
+
+|r2m1p1=So-ten |r2m1p1flag=jp |r2m1p1score=2 |r2m1win=1
+|r2m1p2=Casper |r2m1p2flag=jp |r2m1p2score=1
+|r2m1p1char1=fox |r2m1p2char1=sheik |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=fox |r2m1p2char2=sheik |r2m1p1stock2=2 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1p1char3=fox |r2m1p2char3=sheik |r2m1p1stock3=2 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Yoshi's Story
+|r2m1date=
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/_PJISLJNMTY}}
+
+|r2m2p1=Sobameshi |r2m2p1flag=jp |r2m2p1score={{win}} |r2m2win=1
+|r2m2p2=Tinnin |r2m2p2flag=jp |r2m2p2score=
+|r2m3p1=Kounotori |r2m3p1flag=jp |r2m3p1score={{win}} |r2m3win=1
+|r2m3p2=MOSH |r2m3p2flag=jp |r2m3p2score=
+|r2m4p1=Da-yoshi |r2m4p1flag=jp |r2m4p1score={{win}} |r2m4win=1
+|r2m4p2=Abadango |r2m4p2flag=jp |r2m4p2score=
+|r2m5p1=Flash |r2m5p1flag=jp |r2m5p1score={{win}} |r2m5win=1
+|r2m5p2=Burudo |r2m5p2flag=jp |r2m5p2score=
+|r2m6p1=Esuka |r2m6p1flag=jp |r2m6p1score={{win}} |r2m6win=1
+|r2m6p2=Bamu |r2m6p2flag=jp |r2m6p2score=
+|r2m7p1=Gucci |r2m7p1flag=jp |r2m7p1score={{win}} |r2m7win=1
+|r2m7p2=Kakipi |r2m7p2flag=jp |r2m7p2score=
+|r2m8p1=K.F |r2m8p1flag=jp |r2m8p1score={{win}} |r2m8win=1
+|r2m8p2=Rain |r2m8p2flag= |r2m8p2score=
+|r2m9p1=Kana |r2m9p1flag=jp |r2m9p1score= |r2m9win=2
+|r2m9p2=shin |r2m9p2flag= |r2m9p2score={{win}}
+|r2m10p1=Katou Hayate |r2m10p1flag=jp |r2m10p1score={{win}} |r2m10win=1
+|r2m10p2=Senpuu |r2m10p2flag=jp |r2m10p2score=
+|r2m11p1=aMSa |r2m11p1flag=jp |r2m11p1score={{win}} |r2m11win=1
+|r2m11p2=sato-san |r2m11p2flag=jp |r2m11p2score=
+|r2m12p1=Zenji |r2m12p1flag=jp |r2m12p1score= |r2m12win=2
+|r2m12p2=Ayataka |r2m12p2flag=jp |r2m12p2score={{win}}
+|r2m13p1=shuta |r2m13p1flag=jp |r2m13p1score={{win}} |r2m13win=1
+|r2m13p2=bitou |r2m13p2flag= |r2m13p2score=
+|r2m14p1=Otoko |r2m14p1flag=jp |r2m14p1score={{win}} |r2m14win=1
+|r2m14p2=yopple |r2m14p2flag= |r2m14p2score=
+|r2m15p1=Sanne |r2m15p1flag=jp |r2m15p1score={{win}} |r2m15win=1
+|r2m15p2=Captain Jack |r2m15p2flag=jp |r2m15p2score=
+|r2m16p1=Essan |r2m16p1flag=jp |r2m16p1score={{win}} |r2m16win=1
+|r2m16p2=Kotei King Maru |r2m16p2flag=jp |r2m16p2score=
+
+|r3m1p1=So-ten |r3m1p1flag=jp |r3m1p1score=0 |r3m1win=2
+|r3m1p2=Sobameshi |r3m1p2flag=jp |r3m1p2score=2
+|r3m1p1char1=fox |r3m1p2char1=fox |r3m1p1stock1=0 |r3m1p2stock1=2 |r3m1win1=2 |r3m1stage1=Yoshi's Story
+|r3m1p1char2=marth |r3m1p2char2=fox |r3m1p1stock2=0 |r3m1p2stock2=2 |r3m1win2=2 |r3m1stage2=Yoshi's Story
+|r3m1date=
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/pW1CzeFg3jE}}
+
+|r3m2p1=Kounotori |r3m2p1flag=jp |r3m2p1score= |r3m2win=2
+|r3m2p2=Da-yoshi |r3m2p2flag=jp |r3m2p2score={{win}}
+|r3m3p1=Flash |r3m3p1flag=jp |r3m3p1score={{win}} |r3m3win=1
+|r3m3p2=Esuka |r3m3p2flag=jp |r3m3p2score=
+|r3m4p1=Gucci |r3m4p1flag=jp |r3m4p1score= |r3m4win=2
+|r3m4p2=K.F |r3m4p2flag=jp |r3m4p2score={{win}}
+|r3m5p1=shin |r3m5p1flag= |r3m5p1score= |r3m5win=2
+|r3m5p2=Katou Hayate |r3m5p2flag=jp |r3m5p2score={{win}}
+|r3m6p1=aMSa |r3m6p1flag=jp |r3m6p1score={{win}} |r3m6win=1
+|r3m6p2=Ayataka |r3m6p2flag=jp |r3m6p2score=
+|r3m7p1=shuta |r3m7p1flag=jp |r3m7p1score={{win}} |r3m7win=1
+|r3m7p2=Otoko |r3m7p2flag=jp |r3m7p2score=
+|r3m8p1=Sanne |r3m8p1flag=jp |r3m8p1score={{win}} |r3m8win=1
+|r3m8p2=Essan |r3m8p2flag=jp |r3m8p2score=
+
+|r4m1p1=Sobameshi |r4m1p1flag=jp |r4m1p1score={{win}} |r4m1win=1
+|r4m1p2=Da-yoshi |r4m1p2flag=jp |r4m1p2score=
+
+|r4m2p1=Flash |r4m2p1flag=jp |r4m2p1score={{win}} |r4m2win=1
+|r4m2p2=K.F |r4m2p2flag=jp |r4m2p2score=
+
+|r4m3p1=Katou Hayate |r4m3p1flag=jp |r4m3p1score=0 |r4m3win=2
+|r4m3p2=aMSa |r4m3p2flag=jp |r4m3p2score=2
+|r4m3p1char1=peach |r4m3p2char1=yoshi |r4m3p1stock1=0 |r4m3p2stock1=2 |r4m3win1=2 |r4m3stage1=Battlefield
+|r4m3p1char2=peach |r4m3p2char2=yoshi |r4m3p1stock2=0 |r4m3p2stock2=1 |r4m3win2=2 |r4m3stage2=Dream Land
+|r4m3date=
+|r4m3details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/8K_uqt7J4sI}}
+
+|r4m4p1=shuta |r4m4p1flag=jp |r4m4p1score= |r4m4win=2
+|r4m4p2=Sanne |r4m4p2flag=jp |r4m4p2score={{win}}
+
+|r5m1p1=Sobameshi |r5m1p1flag=jp |r5m1p1score=0 |r5m1win=2
+|r5m1p2=Flash |r5m1p2flag=jp |r5m1p2score=2
+|r5m1p1char1=fox |r5m1p2char1=sheik |r5m1p1stock1=0 |r5m1p2stock1=2 |r5m1win1=2 |r5m1stage1=Battlefield
+|r5m1p1char2=fox |r5m1p2char2=sheik |r5m1p1stock2=0 |r5m1p2stock2=1 |r5m1win2=2 |r5m1stage2=Final Destination
+|r5m1date=
+|r5m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/hTgOcXmlWNA}}
+
+|r5m2p1=aMSa |r5m2p1flag=jp |r5m2p1score=1 |r5m2win=2
+|r5m2p2=Sanne |r5m2p2flag=jp |r5m2p2score=2
+|r5m2p1char1=yoshi |r5m2p2char1=fox |r5m2p1stock1=0 |r5m2p2stock1=1 |r5m2win1=2 |r5m2stage1=Yoshi's Story
+|r5m2p1char2=yoshi |r5m2p2char2=fox |r5m2p1stock2=1 |r5m2p2stock2=0 |r5m2win2=1 |r5m2stage2=Battlefield
+|r5m2p1char3=yoshi |r5m2p2char3=fox |r5m2p1stock3=0 |r5m2p2stock3=1 |r5m2win3=2 |r5m2stage3=Pokémon Stadium
+|r5m2date=
+|r5m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/mMcCl6s51gw}}
+}}
+==Losers Bracket==
+{{64DELBracketSmwA
+|tourneylink=Battle GateWay/5
+|tourneyname=Battle GateWay 5
+|l1placement=49-64
+|l2placement=33-48
+|l3placement=25-32
+|l4placement=17-24
+|l5placement=13-16
+|l6placement=9-12
+|l7placement=7-8
+|l8placement=5-6
+|column-width=170
+
+|l1m1p1=deiko |l1m1p1flag= |l1m1p1score=2 |l1m1win=1
+|l1m1p2=Takapa |l1m1p2flag=jp |l1m1p2score=0
+|l1m1p1char1=peach |l1m1p2char1=fox |l1m1p1stock1=2 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1p1char2=peach |l1m1p2char2=fox |l1m1p1stock2=1 |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Pokémon Stadium
+|l1m1date=
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/EqB6RvBDXa8}}
+
+|l1m2p1=Sahara |l1m2p1flag=jp |l1m2p1score={{win}} |l1m2win=1
+|l1m2p2=Haotado |l1m2p2flag=jp |l1m2p2score=
+|l1m3p1=Athcane |l1m3p1flag= |l1m3p1score= |l1m3win=2
+|l1m3p2=Battsu |l1m3p2flag=jp |l1m3p2score={{win}}
+|l1m4p1=ARIA |l1m4p1flag= |l1m4p1score= |l1m4win=2
+|l1m4p2=Suzaku |l1m4p2flag=jp |l1m4p2score={{win}}
+|l1m5p1=Hametou |l1m5p1flag=jp |l1m5p1score= |l1m5win=2
+|l1m5p2=Hutsuka-miman |l1m5p2flag=jp |l1m5p2score={{win}}
+|l1m6p1=Hizasen |l1m6p1flag=jp |l1m6p1score= |l1m6win=2
+|l1m6p2=Galena |l1m6p2flag= |l1m6p2score={{win}}
+|l1m7p1=shot |l1m7p1flag= |l1m7p1score= |l1m7win=2
+|l1m7p2=Pao |l1m7p2flag=jp |l1m7p2score={{win}}
+|l1m8p1=Fuwa |l1m8p1flag=jp |l1m8p1score= |l1m8win=2
+|l1m8p2=Watabe |l1m8p2flag=jp |l1m8p2score={{win}}
+|l1m9p1=Sauc3 |l1m9p1flag=ca |l1m9p1score={{win}} |l1m9win=1
+|l1m9p2=Merino |l1m9p2flag=jp |l1m9p2score=
+|l1m10p1=Matsuoka |l1m10p1flag=jp |l1m10p1score= |l1m10win=2
+|l1m10p2=Yutaro |l1m10p2flag=jp |l1m10p2score={{win}}
+|l1m11p1=Inko |l1m11p1flag=jp |l1m11p1score= |l1m11win=2
+|l1m11p2=Chakki |l1m11p2flag=jp |l1m11p2score={{win}}
+|l1m12p1=LIFE |l1m12p1flag= |l1m12p1score= |l1m12win=2
+|l1m12p2=Nekau |l1m12p2flag=jp |l1m12p2score={{win}}
+|l1m13p1=Watch |l1m13p1flag=jp |l1m13p1score={{win}} |l1m13win=1
+|l1m13p2=Bye |l1m13p2flag= |l1m13p2score=
+|l1m14p1=Yoroz |l1m14p1flag=jp |l1m14p1score={{win}} |l1m14win=1
+|l1m14p2=BgHydrar |l1m14p2flag= |l1m14p2score=
+|l1m15p1=Ebi |l1m15p1flag=jp |l1m15p1score= |l1m15win=2
+|l1m15p2=yon-yon |l1m15p2flag= |l1m15p2score={{win}}
+|l1m16p1=A-toraisu |l1m16p1flag=jp |l1m16p1score= |l1m16win=2
+|l1m16p2=Umehara Masaki |l1m16p2flag=jp |l1m16p2score={{win}}
+
+|l2m1p1=Tinnin |l2m1p1flag=jp |l2m1p1score={{win}} |l2m1win=1
+|l2m1p2=deiko |l2m1p2flag= |l2m1p2score=
+|l2m2p1=Casper |l2m2p1flag=jp |l2m2p1score={{win}} |l2m2win=1
+|l2m2p2=Sahara |l2m2p2flag=jp |l2m2p2score=
+|l2m3p1=Abadango |l2m3p1flag=jp |l2m3p1score={{win}} |l2m3win=1
+|l2m3p2=Battsu |l2m3p2flag=jp |l2m3p2score=
+|l2m4p1=MOSH |l2m4p1flag=jp |l2m4p1score={{win}} |l2m4win=1
+|l2m4p2=Suzaku |l2m4p2flag=jp |l2m4p2score=
+|l2m5p1=Bamu |l2m5p1flag=jp |l2m5p1score= |l2m5win=2
+|l2m5p2=Hutsuka-miman |l2m5p2flag=jp |l2m5p2score={{win}}
+|l2m6p1=Burudo |l2m6p1flag=jp |l2m6p1score={{win}} |l2m6win=1
+|l2m6p2=Galena |l2m6p2flag= |l2m6p2score=
+|l2m7p1=Rain |l2m7p1flag= |l2m7p1score= |l2m7win=2
+|l2m7p2=Pao |l2m7p2flag=jp |l2m7p2score={{win}}
+|l2m8p1=Kakipi |l2m8p1flag=jp |l2m8p1score={{win}} |l2m8win=1
+|l2m8p2=Watabe |l2m8p2flag=jp |l2m8p2score=
+|l2m9p1=Senpuu |l2m9p1flag=jp |l2m9p1score= |l2m9win=2
+|l2m9p2=Sauc3 |l2m9p2flag=ca |l2m9p2score={{win}}
+|l2m10p1=Kana |l2m10p1flag=jp |l2m10p1score={{win}} |l2m10win=1
+|l2m10p2=Yutaro |l2m10p2flag=jp |l2m10p2score=
+|l2m11p1=Zenji |l2m11p1flag=jp |l2m11p1score={{win}} |l2m11win=1
+|l2m11p2=Chakki |l2m11p2flag=jp |l2m11p2score=
+|l2m12p1=sato-san |l2m12p1flag=jp |l2m12p1score={{win}} |l2m12win=1
+|l2m12p2=Nekau |l2m12p2flag=jp |l2m12p2score=
+|l2m13p1=yopple |l2m13p1flag= |l2m13p1score= |l2m13win=2
+|l2m13p2=Watch |l2m13p2flag=jp |l2m13p2score={{win}}
+|l2m14p1=bitou |l2m14p1flag= |l2m14p1score={{win}} |l2m14win=1
+|l2m14p2=Yoroz |l2m14p2flag=jp |l2m14p2score=
+|l2m15p1=Kotei King Maru |l2m15p1flag=jp |l2m15p1score={{win}} |l2m15win=1
+|l2m15p2=yon-yon |l2m15p2flag= |l2m15p2score=
+|l2m16p1=Captain Jack |l2m16p1flag=jp |l2m16p1score={{win}} |l2m16win=1
+|l2m16p2=Umehara Masaki |l2m16p2flag=jp |l2m16p2score=
+
+|l3m1p1=Tinnin |l3m1p1flag=jp |l3m1p1score= |l3m1win=2
+|l3m1p2=Casper |l3m1p2flag=jp |l3m1p2score={{win}}
+|l3m2p1=Abadango |l3m2p1flag=jp |l3m2p1score={{win}} |l3m2win=1
+|l3m2p2=MOSH |l3m2p2flag=jp |l3m2p2score=
+|l3m3p1=Hutsuka-miman |l3m3p1flag=jp |l3m3p1score= |l3m3win=2
+|l3m3p2=Burudo |l3m3p2flag=jp |l3m3p2score={{win}}
+|l3m4p1=Pao |l3m4p1flag=jp |l3m4p1score= |l3m4win=2
+|l3m4p2=Kakipi |l3m4p2flag=jp |l3m4p2score={{win}}
+|l3m5p1=Sauc3 |l3m5p1flag=ca |l3m5p1score={{win}} |l3m5win=1
+|l3m5p2=Kana |l3m5p2flag=jp |l3m5p2score=
+|l3m6p1=Zenji |l3m6p1flag=jp |l3m6p1score={{win}} |l3m6win=1
+|l3m6p2=sato-san |l3m6p2flag=jp |l3m6p2score=
+|l3m7p1=Watch |l3m7p1flag=jp |l3m7p1score= |l3m7win=2
+|l3m7p2=bitou |l3m7p2flag= |l3m7p2score={{win}}
+|l3m8p1=Kotei King Maru |l3m8p1flag=jp |l3m8p1score= |l3m8win=2
+|l3m8p2=Captain Jack |l3m8p2flag=jp |l3m8p2score={{win}}
+
+|l4m1p1=Kounotori |l4m1p1flag=jp |l4m1p1score={{win}} |l4m1win=1
+|l4m1p2=Casper |l4m1p2flag=jp |l4m1p2score=
+
+|l4m2p1=So-ten |l4m2p1flag=jp |l4m2p1score=2 |l4m2win=1
+|l4m2p2=Abadango |l4m2p2flag=jp |l4m2p2score=1
+|l4m2p1char1=fox |l4m2p2char1=jigglypuff |l4m2p1stock1=3 |l4m2p2stock1=0 |l4m2win1=1 |l4m2stage1=Battlefield
+|l4m2p1char2=fox |l4m2p2char2=jigglypuff |l4m2p1stock2=0 |l4m2p2stock2=1 |l4m2win2=2 |l4m2stage2=Dream Land
+|l4m2p1char3=fox |l4m2p2char3=jigglypuff |l4m2p1stock3=2 |l4m2p2stock3=0 |l4m2win3=1 |l4m2stage3=Final Destination
+|l4m2date=
+|l4m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/6zUwAC1_vxI}}
+
+|l4m3p1=Gucci |l4m3p1flag=jp |l4m3p1score={{win}} |l4m3win=1
+|l4m3p2=Burudo |l4m3p2flag=jp |l4m3p2score=
+|l4m4p1=Esuka |l4m4p1flag=jp |l4m4p1score={{win}} |l4m4win=1
+|l4m4p2=Kakipi |l4m4p2flag=jp |l4m4p2score=
+|l4m5p1=Ayataka |l4m5p1flag=jp |l4m5p1score= |l4m5win=2
+|l4m5p2=Sauc3 |l4m5p2flag=ca |l4m5p2score={{win}}
+|l4m6p1=shin |l4m6p1flag= |l4m6p1score= |l4m6win=2
+|l4m6p2=Zenji |l4m6p2flag=jp |l4m6p2score={{win}}
+|l4m7p1=Essan |l4m7p1flag=jp |l4m7p1score={{win}} |l4m7win=1
+|l4m7p2=bitou |l4m7p2flag= |l4m7p2score=
+|l4m8p1=Otoko |l4m8p1flag=jp |l4m8p1score= |l4m8win=2
+|l4m8p2=Captain Jack |l4m8p2flag=jp |l4m8p2score={{win}}
+
+|l5m1p1=Kounotori |l5m1p1flag=jp |l5m1p1score= |l5m1win=2
+|l5m1p2=So-ten |l5m1p2flag=jp |l5m1p2score={{win}}
+|l5m2p1=Gucci |l5m2p1flag=jp |l5m2p1score={{win}} |l5m2win=1
+|l5m2p2=Esuka |l5m2p2flag=jp |l5m2p2score=
+|l5m3p1=Sauc3 |l5m3p1flag=ca |l5m3p1score={{win}} |l5m3win=1
+|l5m3p2=Zenji |l5m3p2flag=jp |l5m3p2score=
+|l5m4p1=Essan |l5m4p1flag=jp |l5m4p1score= |l5m4win=2
+|l5m4p2=Captain Jack |l5m4p2flag=jp |l5m4p2score={{win}}
+
+|l6m1p1=Katou Hayate |l6m1p1flag=jp |l6m1p1score={{win}} |l6m1win=1
+|l6m1p2=So-ten |l6m1p2flag=jp |l6m1p2score=
+|l6m2p1=shuta |l6m2p1flag=jp |l6m2p1score= |l6m2win=2
+|l6m2p2=Gucci |l6m2p2flag=jp |l6m2p2score={{win}}
+|l6m3p1=Da-yoshi |l6m3p1flag=jp |l6m3p1score={{win}} |l6m3win=1
+|l6m3p2=Sauc3 |l6m3p2flag=ca |l6m3p2score=
+|l6m4p1=K.F |l6m4p1flag=jp |l6m4p1score={{win}} |l6m4win=1
+|l6m4p2=Captain Jack |l6m4p2flag=jp |l6m4p2score=
+
+|l7m1p1=Katou Hayate |l7m1p1flag=jp |l7m1p1score=0 |l7m1win=2
+|l7m1p2=Gucci |l7m1p2flag=jp |l7m1p2score=2
+|l7m1p1char1=peach |l7m1p2char1=cf |l7m1p1stock1=0 |l7m1p2stock1=1 |l7m1win1=2 |l7m1stage1=Final Destination
+|l7m1p1char2=peach |l7m1p2char2=cf |l7m1p1stock2=0 |l7m1p2stock2=2 |l7m1win2=2 |l7m1stage2=Final Destination
+|l7m1date=
+|l7m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/VL-I0EdgYr0}}
+
+|l7m2p1=Da-yoshi |l7m2p1flag=jp |l7m2p1score= |l7m2win=2
+|l7m2p2=K.F |l7m2p2flag=jp |l7m2p2score={{win}}
+
+|l8m1p1=Sobameshi |l8m1p1flag=jp |l8m1p1score=1 |l8m1win=2
+|l8m1p2=Gucci |l8m1p2flag=jp |l8m1p2score=2
+|l8m1p1char1=fox |l8m1p2char1=cf |l8m1p1stock1=0 |l8m1p2stock1=1 |l8m1win1=2 |l8m1stage1=Final Destination
+|l8m1p1char2=fox |l8m1p2char2=cf |l8m1p1stock2=1 |l8m1p2stock2=0 |l8m1win2=1 |l8m1stage2=Final Destination
+|l8m1p1char3=fox |l8m1p2char3=cf |l8m1p1stock3=0 |l8m1p2stock3=3 |l8m1win3=2 |l8m1stage3=Battlefield
+|l8m1date=
+|l8m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/oDmBeb1bA88}}
+
+|l8m2p1=aMSa |l8m2p1flag=jp |l8m2p1score={{win}} |l8m2win=1
+|l8m2p2=K.F |l8m2p2flag=jp |l8m2p2score=
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Battle GateWay/5
+|tourneyname=Battle GateWay 5
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+|column-width=180
+
+<!-- FROM WINNERS -->
+|r1m1p1=Flash |r1m1p1flag=jp |r1m1p1score=3
+|r1m1p2=Sanne |r1m1p2flag=jp |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=sheik |r1m1p2char1=fox |r1m1p1stock1=1 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Yoshi's Story
+|r1m1p1char2=sheik |r1m1p2char2=fox |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1p1char3=sheik |r1m1p2char3=fox |r1m1p1stock3=1 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Dream Land
+|r1m1date=
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/QB2ad98_sXY}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Gucci |l1m1p1flag=jp |l1m1p1score=3
+|l1m1p2=aMSa |l1m1p2flag=jp |l1m1p2score=2
+|l1m1win=1
+|l1m1p1char1=cf |l1m1p2char1=yoshi |l1m1p1stock1=0 |l1m1p2stock1=2 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1p1char2=cf |l1m1p2char2=yoshi |l1m1p1stock2=1 |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Pokémon Stadium
+|l1m1p1char3=cf |l1m1p2char3=yoshi |l1m1p1stock3=1 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Yoshi's Story
+|l1m1p1char4=cf |l1m1p2char4=yoshi |l1m1p1stock4=0 |l1m1p2stock4=2 |l1m1win4=2 |l1m1stage4=Fountain of Dreams
+|l1m1p1char5=cf |l1m1p2char5=yoshi |l1m1p1stock5=2 |l1m1p2stock5=0 |l1m1win5=1 |l1m1stage5=Pokémon Stadium
+|l1m1date=
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/3qJsUbNa9ug}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Sanne |r2m1p1flag=jp |r2m1p1score=0
+|r2m1p2=Gucci |r2m1p2flag=jp |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=fox |r2m1p2char1=cf |r2m1p1stock1=0 |r2m1p2stock1=2 |r2m1win1=2 |r2m1stage1=Final Destination
+|r2m1p1char2=fox |r2m1p2char2=cf |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Dream Land
+|r2m1p1char3=fox |r2m1p2char3=cf |r2m1p1stock3=0 |r2m1p2stock3=2 |r2m1win3=2 |r2m1stage3=Dream Land
+|r2m1date=
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/pd-ixDPWDME}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Flash |r3m1p1flag=jp |r3m1p1score=3
+|r3m1p2=Gucci |r3m1p2flag=jp |r3m1p2score=1
+|r3m1win=1
+|r3m1p1char1=sheik |r3m1p2char1=fox |r3m1p1stock1=1 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=sheik |r3m1p2char2=fox |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=sheik |r3m1p2char3=fox |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Pokémon Stadium
+|r3m1p1char4=sheik |r3m1p2char4=fox |r3m1p1stock4=3 |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Battlefield
+|r3m1date=
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/6OBc4j_Gjnk}}
+}}
+</onlyinclude>

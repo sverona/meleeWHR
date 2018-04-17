@@ -1,0 +1,383 @@
+{{DISPLAYTITLE:WTFox: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=WTFox/1/Melee
+|name2=Singles Pools
+|link2=WTFox/1/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=WTFox/1/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=WTFox/1/Melee/Doubles Bracket
+|This=3
+}}
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia name=WTFoxMeleeTop32 -->
+==Winners Bracket==
+{{16DEWBracketA2
+|tourneylink=WTFox/1/Melee
+|tourneyname=WTFox
+|column-width=200
+
+<!-- Ro16 -->
+|r1m1p1=Leffen |r1m1p1flag=se |r1m1p1score=3 |r1m1win=1
+|r1m1p2=j00t |r1m1p2flag=us |r1m1p2score=0
+|r1m1p1char1=fox |r1m1p2char1=cf |r1m1p1stock1=2 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=fox |r1m1p2char2=cf |r1m1p1stock2=4 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Battlefield
+|r1m1p1char3=fox |r1m1p2char3=cf |r1m1p1stock3=3 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Battlefield
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://youtu.be/QUeqoBF7Wik|interview=|recap=}}
+
+|r1m2p1=Iori |r1m2p1flag=us |r1m2p1score=0 |r1m2win=2
+|r1m2p2=S0ft |r1m2p2flag=us |r1m2p2score=3
+|r1m2p1char1=falco |r1m2p2char1=jigglypuff |r1m2p1stock1=0 |r1m2p2stock1=2 |r1m2win1=2 |r1m2stage1=Final Destination
+|r1m2p1char2=Young Link |r1m2p2char2=jigglypuff |r1m2p1stock2=0 |r1m2p2stock2=2 |r1m2win2=2 |r1m2stage2=Final Destination
+|r1m2p1char3=zelda |r1m2p2char3=jigglypuff |r1m2p1stock3=0 |r1m2p2stock3=3 |r1m2win3=2 |r1m2stage3=Yoshi's Story
+|r1m2date=
+|r1m2finished=
+|r1m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=_5YDo-OhAGE|interview=|recap=}}
+
+|r1m3p1=Westballz |r1m3p1flag=us |r1m3p1score=3 |r1m3win=1
+|r1m3p2=Shinobi |r1m3p2flag=us |r1m3p2score=1
+|r1m3p1char1=falco |r1m3p2char1=sheik |r1m3p1stock1=1 |r1m3p2stock1=0 |r1m3win1=1 |r1m3stage1=Battlefield
+|r1m3p1char2=falco |r1m3p2char2=fox |r1m3p1stock2=1 |r1m3p2stock2=0 |r1m3win2=1 |r1m3stage2=Yoshi's Story
+|r1m3p1char3=falco |r1m3p2char3=fox |r1m3p1stock3=0 |r1m3p2stock3=1 |r1m3win3=2 |r1m3stage3=Yoshi's Story
+|r1m3p1char4=falco |r1m3p2char4=fox |r1m3p1stock4=1 |r1m3p2stock4=0 |r1m3win4=1 |r1m3stage4=Final Destination
+|r1m3p1char5= |r1m3p2char5= |r1m3p1stock5= |r1m3p2stock5= |r1m3win5= |r1m3stage5=
+|r1m3date=July 11, 2015 - 14:40 ({{Abbr/UTC}}-5)
+|r1m3finished=true
+|r1m3details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m4p1=Awstintacious |r1m4p1flag=us |r1m4p1score=0 |r1m4win=2
+|r1m4p2=Mew2King |r1m4p2flag=us |r1m4p2score=3
+
+|r1m5p1=Mango |r1m5p1flag=us |r1m5p1score=3 |r1m5win=1
+|r1m5p2=Liberate |r1m5p2flag=us |r1m5p2score=0
+
+|r1m6p1=IHaveSpaceBalls |r1m6p1flag=us |r1m6p1score=0 |r1m6win=2
+|r1m6p2=Wizzrobe |r1m6p2flag=us |r1m6p2score=3
+|r1m6p1char1=samus |r1m6p2char1=cf |r1m6p1stock1=0 |r1m6p2stock1=2 |r1m6win1=2 |r1m6stage1=Fountain of Dreams
+|r1m6p1char2=samus |r1m6p2char2=cf |r1m6p1stock2=0 |r1m6p2stock2=3 |r1m6win2=2 |r1m6stage2=Battlefield
+|r1m6p1char3=samus |r1m6p2char3=cf |r1m6p1stock3=0 |r1m6p2stock3=3 |r1m6win3=2 |r1m6stage3=Yoshi's Story
+|r1m6p1char4= |r1m6p2char4= |r1m6p1stock4= |r1m6p2stock4= |r1m6win4= |r1m6stage4=
+|r1m6p1char5= |r1m6p2char5= |r1m6p1stock5= |r1m6p2stock5= |r1m6win5= |r1m6stage5=
+|r1m6date=July 11, 2015 - 14:30 (UTC-5)
+|r1m6finished=true
+|r1m6details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://youtu.be/v8PC3id6Q4M|interview=|recap=}}
+
+|r1m7p1=DarkAtma |r1m7p1flag=us |r1m7p1score=3 |r1m7win=1
+|r1m7p2=Nicaboy |r1m7p2flag=us |r1m7p2score=1
+|r1m7p1char1=sheik |r1m7p2char1=sheik |r1m7p1stock1=2 |r1m7p2stock1=0 |r1m7win1=1 |r1m7stage1=Yoshi's Story
+|r1m7p1char2=sheik |r1m7p2char2=sheik |r1m7p1stock2=1 |r1m7p2stock2=0 |r1m7win2=1 |r1m7stage2=Fountain of Dreams
+|r1m7p1char3=sheik |r1m7p2char3=sheik |r1m7p1stock3=0 |r1m7p2stock3=1 |r1m7win3=2 |r1m7stage3=Fountain of Dreams
+|r1m7p1char4=sheik |r1m7p2char4=sheik |r1m7p1stock4=2 |r1m7p2stock4=0 |r1m7win4=1 |r1m7stage4=Dream Land
+|r1m7p1char5= |r1m7p2char5= |r1m7p1stock5= |r1m7p2stock5= |r1m7win5= |r1m7stage5=
+|r1m7date=July 11, 2015 - 14:55 ({{Abbr/UTC}}-5)
+|r1m7finished=true
+|r1m7details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://youtu.be/ojNk0Q3egVA|interview=|recap=}}
+
+|r1m8p1=Suess |r1m8p1flag=us |r1m8p1score=0 |r1m8win=2
+|r1m8p2=Armada |r1m8p2flag=se |r1m8p2score=3
+
+<!-- QUARTERFINALS -->
+|r2m1p1=Leffen |r2m1p1flag=se |r2m1p1score=3 |r2m1win=1
+|r2m1p2=S0ft |r2m1p2flag=us |r2m1p2score=0
+|r2m1p1char1=fox |r2m1p2char1=jigglypuff |r2m1p1stock1=4 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=fox |r2m1p2char2=jigglypuff |r2m1p1stock2=3 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Dream Land
+|r2m1p1char3=fox |r2m1p2char3=jigglypuff |r2m1p1stock3=4 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Dream Land
+|r2m1p1char4= |r2m1p2char4= |r2m1p1stock4= |r2m1p2stock4= |r2m1win4= |r2m1stage4=
+|r2m1p1char5= |r2m1p2char5= |r2m1p1stock5= |r2m1p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=July 11, 2015 - 15:50 ({{Abbr/UTC}}-5)
+|r2m1finished=true
+|r2m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m2p1=Westballz |r2m2p1flag=us |r2m2p1score=1 |r2m2win=2
+|r2m2p2=Mew2King |r2m2p2flag=us |r2m2p2score=3
+|r2m2p1char1=falco |r2m2p2char1=sheik |r2m2p1stock1=2 |r2m2p2stock1=0 |r2m2win1=1 |r2m2stage1=Battlefield
+|r2m2p1char2=falco |r2m2p2char2=marth |r2m2p1stock2=0 |r2m2p2stock2=2 |r2m2win2=2 |r2m2stage2=Final Destination
+|r2m2p1char3=falco |r2m2p2char3=marth |r2m2p1stock3=0 |r2m2p2stock3=1 |r2m2win3=2 |r2m2stage3=Pokémon Stadium
+|r2m2p1char4=falco |r2m2p2char4=marth |r2m2p1stock4=0 |r2m2p2stock4=1 |r2m2win4=2 |r2m2stage4=Yoshi's Story
+|r2m2p1char5= |r2m2p2char5= |r2m2p1stock5= |r2m2p2stock5= |r2m2win5= |r2m2stage5=
+|r2m2date=July 11, 2015 - 15:35 ({{Abbr/UTC}}-5)
+|r2m2finished=true
+|r2m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m3p1=Mango |r2m3p1flag=us |r2m3p1score=3 |r2m3win=1
+|r2m3p2=Wizzrobe |r2m3p2flag=us |r2m3p2score=1
+|r2m3p1char1=fox |r2m3p2char1=cf |r2m3p1stock1=2 |r2m3p2stock1=0 |r2m3win1=1 |r2m3stage1=Battlefield
+|r2m3p1char2=fox |r2m3p2char2=cf |r2m3p1stock2=2 |r2m3p2stock2=0 |r2m3win2=1 |r2m3stage2=Dream Land
+|r2m3p1char3=fox |r2m3p2char3=cf |r2m3p1stock3=0 |r2m3p2stock3=3 |r2m3win3=2 |r2m3stage3=Battlefield
+|r2m3p1char4=fox |r2m3p2char4=cf |r2m3p1stock4=1 |r2m3p2stock4=0 |r2m3win4=1 |r2m3stage4=Yoshi's Story
+|r2m3p1char5= |r2m3p2char5= |r2m3p1stock5= |r2m3p2stock5= |r2m3win5= |r2m3stage5=
+|r2m3date=July 11, 2015 - 15:10 ({{Abbr/UTC}}-5)
+|r2m3finished=true
+|r2m3details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://youtu.be/HLAIB2c68iQ|interview=|recap=}}
+
+|r2m4p1=DarkAtma |r2m4p1flag=us |r2m4p1score=0 |r2m4win=2
+|r2m4p2=Armada |r2m4p2flag=se |r2m4p2score=3
+|r2m4p1char1=sheik |r2m4p2char1=peach |r2m4p1stock1=0 |r2m4p2stock1=3 |r2m4win1=2 |r2m4stage1=Battlefield
+|r2m4p1char2=sheik |r2m4p2char2=peach |r2m4p1stock2=0 |r2m4p2stock2=3 |r2m4win2=2 |r2m4stage2=Yoshi's Story
+|r2m4p1char3=fox |r2m4p2char3=peach |r2m4p1stock3=0 |r2m4p2stock3=4 |r2m4win3=2 |r2m4stage3=Yoshi's Story
+|r2m4p1char4= |r2m4p2char4= |r2m4p1stock4= |r2m4p2stock4= |r2m4win4= |r2m4stage4=
+|r2m4p1char5= |r2m4p2char5= |r2m4p1stock5= |r2m4p2stock5= |r2m4win5= |r2m4stage5=
+|r2m4date=July 11, 2015 - 15:25 ({{Abbr/UTC}}-5)
+|r2m4finished=true
+|r2m4details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://youtu.be/TG2m5ISCc7g|interview=|recap=}}
+
+<!-- SEMIFINALS -->
+|r3m1p1=Leffen |r3m1p1flag=se |r3m1p1score=3 |r3m1win=1
+|r3m1p2=Mew2King |r3m1p2flag=us |r3m1p2score=2
+|r3m1p1char1=fox |r3m1p2char1=marth |r3m1p1stock1=2 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Yoshi's Story
+|r3m1p1char2=fox |r3m1p2char2=marth |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Final Destination
+|r3m1p1char3=fox |r3m1p2char3=marth |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Final Destination
+|r3m1p1char4=fox |r3m1p2char4=marth |r3m1p1stock4=0 |r3m1p2stock4=1 |r3m1win4=2 |r3m1stage4=Dream Land
+|r3m1p1char5=fox |r3m1p2char5=marth |r3m1p1stock5=2 |r3m1p2stock5=0 |r3m1win5=1 |r3m1stage5=Dream Land
+|r3m1date=July 11, 2015 - 17:15 ({{Abbr/UTC}}-5)
+|r3m1finished=true
+|r3m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=Y3Yv3BOLNMk|interview=|recap=}}
+
+|r3m2p1=Mango |r3m2p1flag=us |r3m2p1score=1 |r3m2win=2
+|r3m2p2=Armada |r3m2p2flag=se |r3m2p2score=3
+|r3m2p1char1=fox |r3m2p2char1=fox |r3m2p1stock1=0 |r3m2p2stock1=2 |r3m2win1=2 |r3m2stage1=Dream Land
+|r3m2p1char2=fox |r3m2p2char2=peach |r3m2p1stock2=1 |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Yoshi's Story
+|r3m2p1char3=cf |r3m2p2char3=peach |r3m2p1stock3=0 |r3m2p2stock3=1 |r3m2win3=2 |r3m2stage3=Final Destination
+|r3m2p1char4=fox |r3m2p2char4=peach |r3m2p1stock4=0 |r3m2p2stock4=1 |r3m2win4=2 |r3m2stage4=Pokémon Stadium
+|r3m2p1char5= |r3m2p2char5= |r3m2p1stock5= |r3m2p2stock5= |r3m2win5= |r3m2stage5=
+|r3m2date=July 11, 2015 - 16:55 ({{Abbr/UTC}}-5)
+|r3m2finished=true
+|r3m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=uFV2kyPEYrw|interview=|recap=}}
+}}
+
+==Losers Bracket==
+{{32DELBracketSmwA
+|tourneylink=WTFox/1/Melee
+|tourneyname=WTFox
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+
+|l1m1p1=Beguiler |l1m1p1flag=us |l1m1p1score=3 |l1m1win=1
+|l1m1p2=Ichigo |l1m1p2flag= |l1m1p2score=2
+
+|l1m2p1=Deeps |l1m2p1flag= |l1m2p1score=3 |l1m2win=1
+|l1m2p2=Mew |l1m2p2flag= |l1m2p2score=0
+
+|l1m3p1=Myztek |l1m3p1flag= |l1m3p1score=3 |l1m3win=1
+|l1m3p2=Crispus |l1m3p2flag=us |l1m3p2score=0
+
+|l1m4p1=Tron |l1m4p1flag=us |l1m4p1score=3 |l1m4win=1
+|l1m4p2=KOKingpin |l1m4p2flag= |l1m4p2score=1
+
+|l1m5p1=Ippo |l1m5p1flag= |l1m5p1score=2 |l1m5win=2
+|l1m5p2=Dairdevil |l1m5p2flag=us |l1m5p2score=3
+
+|l1m6p1=Chamberlin |l1m6p1flag= |l1m6p1score=3 |l1m6win=1
+|l1m6p2=CookieMonsta |l1m6p2flag= |l1m6p2score=1
+
+|l1m7p1=Arby |l1m7p1flag= |l1m7p1score=3 |l1m7win=1
+|l1m7p2=Rik |l1m7p2flag=us |l1m7p2score=2
+
+|l1m8p1=Nite |l1m8p1flag=us |l1m8p1score=3 |l1m8win=1
+|l1m8p2=FLion |l1m8p2flag= |l1m8p2score=0
+
+|l2m1p1=Suess |l2m1p1flag=us |l2m1p1score=0 |l2m1win=2
+|l2m1p2=Beguiler |l2m1p2flag=us |l2m1p2score=3
+
+|l2m2p1=Nicaboy |l2m2p1flag=us |l2m2p1score=3 |l2m2win=1
+|l2m2p2=Deeps |l2m2p2flag= |l2m2p2score=0
+
+|l2m3p1=IHaveSpaceBalls |l2m3p1flag=us |l2m3p1score=3 |l2m3win=1
+|l2m3p2=Myztek |l2m3p2flag= |l2m3p2score=0
+
+|l2m4p1=Liberate |l2m4p1flag=us |l2m4p1score=0 |l2m4win=2
+|l2m4p2=Tron |l2m4p2flag=us |l2m4p2score=3
+
+|l2m5p1=Awstintacious |l2m5p1flag=us |l2m5p1score=3 |l2m5win=1
+|l2m5p2=Dairdevil |l2m5p2flag=us |l2m5p2score=1
+
+|l2m6p1=Shinobi |l2m6p1flag=us |l2m6p1score=3 |l2m6win=1
+|l2m6p2=Chamberlin |l2m6p2flag= |l2m6p2score=0
+
+|l2m7p1=Iori |l2m7p1flag=us |l2m7p1score=3 |l2m7win=1
+|l2m7p2=Arby |l2m7p2flag= |l2m7p2score=0
+
+|l2m8p1=j00t |l2m8p1flag=us |l2m8p1score=2 |l2m8win=2
+|l2m8p2=Nite |l2m8p2flag=us |l2m8p2score=3
+
+|l3m1p1=Beguiler |l3m1p1flag=us |l3m1p1score=0 |l3m1win=2
+|l3m1p2=Nicaboy |l3m1p2flag=us |l3m1p2score=3
+
+|l3m2p1=IHaveSpaceBalls |l3m2p1flag=us |l3m2p1score=0 |l3m2win=2
+|l3m2p2=Tron |l3m2p2flag=us |l3m2p2score=3
+
+|l3m3p1=Awstintacious |l3m3p1flag=us |l3m3p1score=0 |l3m3win=2
+|l3m3p2=Shinobi |l3m3p2flag=us |l3m3p2score=3
+
+|l3m4p1=Iori |l3m4p1flag=us |l3m4p1score=3 |l3m4win=1
+|l3m4p2=Nite |l3m4p2flag=us |l3m4p2score=1
+
+|l4m1p1=Westballz |l4m1p1flag=us |l4m1p1score=3 |l4m1win=1
+|l4m1p2=Nicaboy |l4m1p2flag=us |l4m1p2score=2
+
+|l4m2p1=S0ft |l4m2p1flag=us |l4m2p1score=3 |l4m2win=1
+|l4m2p2=Tron |l4m2p2flag=us |l4m2p2score=0
+|l4m2p1char1=jigglypuff |l4m2p2char1=falco |l4m2p1stock1=1 |l4m2p2stock1=0 |l4m2win1=1 |l4m2stage1=Dream Land
+|l4m2p1char2=jigglypuff |l4m2p2char2=falco |l4m2p1stock2=1 |l4m2p2stock2=0 |l4m2win2=1 |l4m2stage2=Battlefield
+|l4m2p1char3=sheik |l4m2p2char3=falco |l4m2p1stock3=2 |l4m2p2stock3=0 |l4m2win3=1 |l4m2stage3=Battlefield
+|l4m2p1char4= |l4m2p2char4= |l4m2p1stock4= |l4m2p2stock4= |l4m2win4= |l4m2stage4=
+|l4m2p1char5= |l4m2p2char5= |l4m2p1stock5= |l4m2p2stock5= |l4m2win5= |l4m2stage5=
+|l4m2date=
+|l4m2finished=
+|l4m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|l4m3p1=DarkAtma |l4m3p1flag=us |l4m3p1score=3 |l4m3win=1
+|l4m3p2=Shinobi |l4m3p2flag=us |l4m3p2score=1
+
+|l4m4p1=Wizzrobe |l4m4p1flag=us |l4m4p1score=3 |l4m4win=1
+|l4m4p2=Iori |l4m4p2flag=us |l4m4p2score=0
+
+|l5m1p1=Westballz |l5m1p1flag=us |l5m1p1score=3 |l5m1win=1
+|l5m1p2=S0ft |l5m1p2flag=us |l5m1p2score=1
+|l5m1p1char1=fox |l5m1p2char1=jigglypuff |l5m1p1stock1=0 |l5m1p2stock1=1 |l5m1win1=2 |l5m1stage1=Battlefield
+|l5m1p1char2=fox |l5m1p2char2=jigglypuff |l5m1p1stock2=2 |l5m1p2stock2=0 |l5m1win2=1 |l5m1stage2=Yoshi's Story
+|l5m1p1char3=fox |l5m1p2char3=jigglypuff |l5m1p1stock3=1 |l5m1p2stock3=0 |l5m1win3=1 |l5m1stage3=Fountain of Dreams
+|l5m1p1char4=fox |l5m1p2char4=jigglypuff |l5m1p1stock4=2 |l5m1p2stock4=0 |l5m1win4=1 |l5m1stage4=Dream Land
+|l5m1p1char5= |l5m1p2char5= |l5m1p1stock5= |l5m1p2stock5= |l5m1win5= |l5m1stage5=
+|l5m1date=July 11, 2015 - 16:40 ({{Abbr/UTC}}-5)
+|l5m1finished=true
+|l5m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=x_LpZGqmjRE|interview=|recap=}}
+
+|l5m2p1=DarkAtma |l5m2p1flag=us |l5m2p1score=1 |l5m2win=2
+|l5m2p2=Wizzrobe |l5m2p2flag=us |l5m2p2score=3
+|l5m2p1char1=sheik |l5m2p2char1=cf |l5m2p1stock1=0 |l5m2p2stock1=2 |l5m2win1=2 |l5m2stage1=Dream Land
+|l5m2p1char2=sheik |l5m2p2char2=cf |l5m2p1stock2=1 |l5m2p2stock2=0 |l5m2win2=1 |l5m2stage2=Yoshi's Story
+|l5m2p1char3=sheik |l5m2p2char3=cf |l5m2p1stock3=0 |l5m2p2stock3=2 |l5m2win3=2 |l5m2stage3=Final Destination
+|l5m2p1char4=sheik |l5m2p2char4=cf |l5m2p1stock4=0 |l5m2p2stock4=3 |l5m2win4=2 |l5m2stage4=Fountain of Dreams
+|l5m2p1char5= |l5m2p2char5= |l5m2p1stock5= |l5m2p2stock5= |l5m2win5= |l5m2stage5=
+|l5m2date=July 11, 2015 - 16:20 ({{Abbr/UTC}}-5)
+|l5m2finished=true
+|l5m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=0qKmI7R3jwg|interview=|recap=}}
+
+
+|l6m1p1=Mango |l6m1p1flag=us |l6m1p1score=3 |l6m1win=1
+|l6m1p2=Westballz |l6m1p2flag=us |l6m1p2score=0
+|l6m1p1char1=fox |l6m1p2char1=falco |l6m1p1stock1=1 |l6m1p2stock1=0 |l6m1win1=1 |l6m1stage1=Yoshi's Story
+|l6m1p1char2=fox |l6m1p2char2=falco |l6m1p1stock2=1 |l6m1p2stock2=0 |l6m1win2=1 |l6m1stage2=Battlefield
+|l6m1p1char3=fox |l6m1p2char3=falco |l6m1p1stock3=3 |l6m1p2stock3=0 |l6m1win3=1 |l6m1stage3=Battlefield
+|l6m1p1char4= |l6m1p2char4= |l6m1p1stock4= |l6m1p2stock4= |l6m1win4= |l6m1stage4=
+|l6m1p1char5= |l6m1p2char5= |l6m1p1stock5= |l6m1p2stock5= |l6m1win5= |l6m1stage5=
+|l6m1date=July 11, 2015 - 17:30 ({{Abbr/UTC}}-5)
+|l6m1finished=true
+|l6m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=https://www.youtube.com/watch?v=YNCpCz2IoIY|interview=|recap=}}
+
+|l6m2p1=Mew2King |l6m2p1flag=us |l6m2p1score=3 |l6m2win=1
+|l6m2p2=Wizzrobe |l6m2p2flag=us |l6m2p2score=2
+|l6m2p1char1=sheik |l6m2p2char1=cf |l6m2p1stock1=0 |l6m2p2stock1=1 |l6m2win1=2 |l6m2stage1=Dream Land
+|l6m2p1char2=sheik |l6m2p2char2=cf |l6m2p1stock2=2 |l6m2p2stock2=0 |l6m2win2=1 |l6m2stage2=Fountain of Dreams
+|l6m2p1char3=sheik |l6m2p2char3=cf |l6m2p1stock3=3 |l6m2p2stock3=0 |l6m2win3=1 |l6m2stage3=Final Destination
+|l6m2p1char4=sheik |l6m2p2char4=cf |l6m2p1stock4=0 |l6m2p2stock4=1 |l6m2win4=2 |l6m2stage4=Pokémon Stadium
+|l6m2p1char5=sheik |l6m2p2char5=cf |l6m2p1stock5=2 |l6m2p2stock5=0 |l6m2win5=1 |l6m2stage5=Yoshi's Story
+|l6m2date=July 11, 2015 - 17:45 ({{Abbr/UTC}}-5)
+|l6m2finished=true
+|l6m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=WTFox/1/Melee
+|tourneyname=WTFox
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=200
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Leffen |r1m1p1flag=se |r1m1p1score=3
+|r1m1p2=Armada |r1m1p2flag=se |r1m1p2score=2
+|r1m1win=1
+|r1m1p1char1=fox |r1m1p1stock1=0 |r1m1p2char1=fox |r1m1p2stock1=2 |r1m1win1=2 |r1m1stage1=Dream Land 
+|r1m1p1char2=fox |r1m1p1stock2=1 |r1m1p2char2=fox |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1p1char3=fox |r1m1p1stock3=1 |r1m1p2char3=fox |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Pokémon Stadium
+|r1m1p1char4=fox |r1m1p1stock4=0 |r1m1p2char4=fox |r1m1p2stock4=1 |r1m1win4=2 |r1m1stage4=Pokémon Stadium
+|r1m1p1char5=fox |r1m1p1stock5=1 |r1m1p2char5=fox |r1m1p2stock5=0 |r1m1win5=1 |r1m1stage5=Fountain of Dreams
+|r1m1date=July 11, 2015 - 18:05 (UTC-5)
+|r1m1finished=true
+|r1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=63yQhM-Oxfk
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Mango |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=Mew2King |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=1
+|l1m1p1char1=fox |l1m1p1stock1=0 |l1m1p2char1=marth |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Fountain of Dreams 
+|l1m1p1char2=fox |l1m1p1stock2=2 |l1m1p2char2=sheik |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Dream Land
+|l1m1p1char3=falco |l1m1p1stock3=0 |l1m1p2char3=marth |l1m1p2stock3=1 |l1m1win3=2 |l1m1stage3=Final Destination
+|l1m1p1char4=fox |l1m1p1stock4=1 |l1m1p2char4=marth |l1m1p2stock4=0 |l1m1win4=1 |l1m1stage4=Fountain of Dreams
+|l1m1p1char5=fox |l1m1p1stock5=1 |l1m1p2char5=marth |l1m1p2stock5=0 |l1m1win5=1 |l1m1stage5=Pokémon Stadium
+|l1m1date=July 11, 2015 - 18:25 (UTC-5)
+|l1m1finished=true
+|l1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=j8jyzeFOm8A
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Armada |r2m1p1flag=se |r2m1p1score=2
+|r2m1p2=Mango |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=fox |r2m1p1stock1=0 |r2m1p2char1=fox |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=fox |r2m1p1stock2=2 |r2m1p2char2=fox |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Dream Land
+|r2m1p1char3=peach |r2m1p1stock3=0 |r2m1p2char3=fox |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Yoshi's Story
+|r2m1p1char4=peach |r2m1p1stock4=3 |r2m1p2char4=cf |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Final Destination
+|r2m1p1char5=peach |r2m1p1stock5=0 |r2m1p2char5=fox |r2m1p2stock5=1 |r2m1win5=2 |r2m1stage5=Pokémon Stadium
+|r2m1date=July 11, 2015 - 18:50 (UTC-5)
+|r2m1finished=true
+|r2m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=EraDU-6_Lbw
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Leffen |r3m1p1flag=se |r3m1p1score=3 
+|r3m1p2=Mango |r3m1p2flag=us |r3m1p2score=0 
+|r3m1win=1
+|r3m1p1char1=fox |r3m1p1stock1=1 |r3m1p2char1=falco |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Dream Land 
+|r3m1p1char2=fox |r3m1p1stock2=1 |r3m1p2char2=falco |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Yoshi's Story
+|r3m1p1char3=fox |r3m1p1stock3=2 |r3m1p2char3=falco |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Yoshi's Story
+|r3m1p1char4= |r3m1p1stock4= |r3m1p2char4= |r3m1p2stock4= |r3m1win4= |r3m1stage4=
+|r3m1p1char5= |r3m1p1stock5= |r3m1p2char5= |r3m1p2stock5= |r3m1win5= |r3m1stage5=
+
+|r3m1date=July 11, 2015 - 19:15 (UTC-5)
+|r3m1finished=true
+|r3m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=6ovHlbXbKRI
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

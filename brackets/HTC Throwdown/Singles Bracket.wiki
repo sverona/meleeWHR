@@ -1,0 +1,151 @@
+{{DISPLAYTITLE:HTC Throwdown: Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=HTC Throwdown
+|name2=Singles Bracket
+|link2=HTC Throwdown/Singles Bracket
+|name3=Doubles Bracket
+|link3=HTC Throwdown/Doubles Bracket
+|This=2
+}}
+
+{{:HTC Throwdown/Singles Bracket/Winners}}
+{{:HTC Throwdown/Singles Bracket/Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{4DE4SSmwBracket
+|tourneylink=HTC Throwdown
+|tourneyname=HTC Throwdown
+|l1placement=7-8
+|l2placement=5-6
+|l3placement=4
+|l4placement=3
+|r5loserplacement=2
+|r5winnerplacement=1
+|disableheads=true
+|column-width=130
+
+|r2m1p1=Silent Wolf |r2m1p1flag=us |r2m1p1score=0
+|r2m1p2=Leffen |r2m1p2flag=se |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=fox |r2m1p2char1=fox |r2m1p1stock1=0 |r2m1p2stock1=3 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=fox |r2m1p2char2=fox |r2m1p1stock2=0 |r2m1p2stock2=3 |r2m1win2=2 |r2m1stage2=Pokémon Stadium
+|r2m1p1char3=fox |r2m1p2char3=fox |r2m1p1stock3=0 |r2m1p2stock3=2 |r2m1win3=2 |r2m1stage3=Battlefield
+|r2m1p1char4= |r2m1p2char4= |r2m1p1stock4= |r2m1p2stock4= |r2m1win4= |r2m1stage4=
+|r2m1p1char5= |r2m1p2char5= |r2m1p1stock5= |r2m1p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=September 19, 2015
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=PpnQXiBrHc8}}
+
+|r2m2p1=Colbol |r2m2p1flag=us |r2m2p1score=1
+|r2m2p2=Hungrybox |r2m2p2flag=us |r2m2p2score=3
+|r2m2win=2
+|r2m2p1char1=fox |r2m2p2char1=puff |r2m2p1stock1=0 |r2m2p2stock1=3 |r2m2win1=2 |r2m2stage1=Battlefield
+|r2m2p1char2=fox |r2m2p2char2=puff |r2m2p1stock2=0 |r2m2p2stock2=1 |r2m2win2=2 |r2m2stage2=Pokémon Stadium
+|r2m2p1char3=fox |r2m2p2char3=puff |r2m2p1stock3=1 |r2m2p2stock3=0 |r2m2win3=1 |r2m2stage3=Yoshi's Story
+|r2m2p1char4=fox |r2m2p2char4=puff |r2m2p1stock4=0 |r2m2p2stock4=2 |r2m2win4=2 |r2m2stage4=Dream Land
+|r2m2p1char5= |r2m2p2char5= |r2m2p1stock5= |r2m2p2stock5= |r2m2win5= |r2m2stage5=
+|r2m2date=September 19, 2015
+|r2m2finished=
+|r2m2details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=Elhuj1bMviE}}
+
+|r4m1p1=Leffen |r4m1p1flag=se |r4m1p1score=3
+|r4m1p2=Hungrybox |r4m1p2flag=us |r4m1p2score=1
+|r4m1win=1
+|r4m1p1char1=fox |r4m1p2char1=puff |r4m1p1stock1=2 |r4m1p2stock1=0 |r4m1win1=1 |r4m1stage1=Battlefield
+|r4m1p1char2=fox |r4m1p2char2=puff |r4m1p1stock2=1 |r4m1p2stock2=0 |r4m1win2=1 |r4m1stage2=Dream Land
+|r4m1p1char3=fox |r4m1p2char3=puff |r4m1p1stock3=0 |r4m1p2stock3=3 |r4m1win3=2 |r4m1stage3=Dream Land
+|r4m1p1char4=fox |r4m1p2char4=puff |r4m1p1stock4=3 |r4m1p2stock4=0 |r4m1win4=1 |r4m1stage4=Pokémon Stadium
+|r4m1p1char5= |r4m1p2char5= |r4m1p1stock5= |r4m1p2stock5= |r4m1win5= |r4m1stage5=
+|r4m1date=September 19, 2015
+|r4m1finished=
+|r4m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=BLeQcobhcBo}}
+
+|r5m1p1=Leffen |r5m1p1flag=se |r5m1p1score=3
+|r5m1p2=Hungrybox |r5m1p2flag=us |r5m1p2score=0
+|r5m1win=1
+|r5m1p1char1=fox |r5m1p2char1=puff |r5m1p1stock1=2 |r5m1p2stock1=0 |r5m1win1=1 |r5m1stage1=Battlefield
+|r5m1p1char2=fox |r5m1p2char2=puff |r5m1p1stock2=1 |r5m1p2stock2=0 |r5m1win2=1 |r5m1stage2=Dream Land
+|r5m1p1char3=fox |r5m1p2char3=puff |r5m1p1stock3=2 |r5m1p2stock3=0 |r5m1win3=1 |r5m1stage3=Dream Land
+|r5m1p1char4= |r5m1p2char4= |r5m1p1stock4= |r5m1p2stock4= |r5m1win4= |r5m1stage4=
+|r5m1p1char5= |r5m1p2char5= |r5m1p1stock5= |r5m1p2stock5= |r5m1win5= |r5m1stage5=
+|r5m1date=September 19, 2015
+|r5m1finished=
+|r5m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=1dJkJblpJH}}
+|export_score=true
+
+|l1m1p1=Shroomed |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Mew2King |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=sheik |l1m1p2char1=sheik |l1m1p1stock1=0 |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1p1char2=sheik |l1m1p2char2=sheik |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Dream Land
+|l1m1p1char3=sheik |l1m1p2char3=sheik |l1m1p1stock3=0 |l1m1p2stock3=1 |l1m1win3=2 |l1m1stage3=Dream Land
+|l1m1p1char4= |l1m1p2char4= |l1m1p1stock4= |l1m1p2stock4= |l1m1win4= |l1m1stage4=
+|l1m1p1char5= |l1m1p2char5= |l1m1p1stock5= |l1m1p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=September 19, 2015
+|l1m1finished=
+|l1m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=mDCAGgkoUJk}}
+
+|l1m2p1=Druggedfox |l1m2p1flag=us |l1m2p1score=3
+|l1m2p2=SFAT |l1m2p2flag=us |l1m2p2score=2
+|l1m2win=1
+|l1m2p1char1=sheik |l1m2p2char1=fox |l1m2p1stock1=1 |l1m2p2stock1=0 |l1m2win1=1 |l1m2stage1=Battlefield
+|l1m2p1char2=marth |l1m2p2char2=fox |l1m2p1stock2=0 |l1m2p2stock2=2 |l1m2win2=2 |l1m2stage2=Final Destination
+|l1m2p1char3=sheik |l1m2p2char3=fox |l1m2p1stock3=0 |l1m2p2stock3=2 |l1m2win3=2 |l1m2stage3=Yoshi's Story
+|l1m2p1char4=sheik |l1m2p2char4=fox |l1m2p1stock4=1 |l1m2p2stock4=0 |l1m2win4=1 |l1m2stage4=Yoshi's Story
+|l1m2p1char5=sheik |l1m2p2char5=fox |l1m2p1stock5=1 |l1m2p2stock5=0 |l1m2win5=1 |l1m2stage5=Pokémon Stadium
+|l1m2date=September 19, 2015
+|l1m2finished=true
+|l1m2details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=OUuanW6fNJ4}}
+
+
+|l2m1p1=Silent Wolf |l2m1p1flag=us |l2m1p1score=3
+|l2m1p2=Mew2King |l2m1p2flag=us |l2m1p2score=2
+|l2m1win=1
+|l2m1p1char1=fox |l2m1p2char1=sheik |l2m1p1stock1=1 |l2m1p2stock1=0 |l2m1win1=1 |l2m1stage1=Battlefield
+|l2m1p1char2=fox |l2m1p2char2=marth |l2m1p1stock2=0 |l2m1p2stock2=1 |l2m1win2=2 |l2m1stage2=Final Destination
+|l2m1p1char3=fox |l2m1p2char3=marth |l2m1p1stock3=0 |l2m1p2stock3=1 |l2m1win3=2 |l2m1stage3=Pokémon Stadium
+|l2m1p1char4=fox |l2m1p2char4=marth |l2m1p1stock4=2 |l2m1p2stock4=0 |l2m1win4=1 |l2m1stage4=Pokémon Stadium
+|l2m1p1char5=fox |l2m1p2char5=sheik |l2m1p1stock5=1 |l2m1p2stock5=0 |l2m1win5=1 |l2m1stage5=Battlefield
+|l2m1date=September 19, 2015
+|l2m1finished=
+|l2m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=7SQGp4hvWxg}}
+
+|l2m2p1=Colbol |l2m2p1flag=us |l2m2p1score=2
+|l2m2p2=Druggedfox |l2m2p2flag=us |l2m2p2score=3
+|l2m2win=2
+|l2m2p1char1=fox |l2m2p2char1=sheik |l2m2p1stock1=0 |l2m2p2stock1=2 |l2m2win1=2 |l2m2stage1=Yoshi's Story
+|l2m2p1char2=fox |l2m2p2char2=sheik |l2m2p1stock2=2 |l2m2p2stock2=0 |l2m2win2=1 |l2m2stage2=Pokémon Stadium
+|l2m2p1char3=fox |l2m2p2char3=sheik |l2m2p1stock3=3 |l2m2p2stock3=0 |l2m2win3=1 |l2m2stage3=Battlefield
+|l2m2p1char4=fox |l2m2p2char4=sheik |l2m2p1stock4=0 |l2m2p2stock4=2 |l2m2win4=2 |l2m2stage4=Battlefield
+|l2m2p1char5=fox |l2m2p2char5=sheik |l2m2p1stock5=0 |l2m2p2stock5=1 |l2m2win5=2 |l2m2stage5=Yoshi's Story
+|l2m2date=September 19, 2015
+|l2m2finished=
+|l2m2details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=E_8PnU3EtlA}}
+
+|l3m1p1=Silent Wolf |l3m1p1flag=us |l3m1p1score=3
+|l3m1p2=Druggedfox |l3m1p2flag=us |l3m1p2score=2
+|l3m1win=1
+|l3m1p1char1=fox |l3m1p2char1=sheik |l3m1p1stock1=2 |l3m1p2stock1=0 |l3m1win1=1 |l3m1stage1=Battlefield
+|l3m1p1char2=fox |l3m1p2char2=sheik |l3m1p1stock2=0 |l3m1p2stock2=2 |l3m1win2=2 |l3m1stage2=Yoshi's Story
+|l3m1p1char3=fox |l3m1p2char3=sheik |l3m1p1stock3=1 |l3m1p2stock3=0 |l3m1win3=1 |l3m1stage3=Pokémon Stadium
+|l3m1p1char4=fox |l3m1p2char4=sheik |l3m1p1stock4=0 |l3m1p2stock4=2 |l3m1win4=2 |l3m1stage4=Fountain of Dreams
+|l3m1p1char5=fox |l3m1p2char5=marth |l3m1p1stock5=1 |l3m1p2stock5=0 |l3m1win5=1 |l3m1stage5=Final Destination
+|l3m1date=September 19, 2015
+|l3m1finished=
+|l3m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=jDBFJsj67jo}}
+
+|l4m1p1=Hungrybox |l4m1p1flag=us |l4m1p1score=3
+|l4m1p2=Silent Wolf |l4m1p2flag=us |l4m1p2score=1
+|l4m1win=1
+|l4m1p1char1=puff |l4m1p2char1=fox |l4m1p1stock1=0 |l4m1p2stock1=1 |l4m1win1=2 |l4m1stage1=Battlefield
+|l4m1p1char2=puff |l4m1p2char2=fox |l4m1p1stock2=3 |l4m1p2stock2=0 |l4m1win2=1 |l4m1stage2=Dream Land
+|l4m1p1char3=puff |l4m1p2char3=fox |l4m1p1stock3=3 |l4m1p2stock3=0 |l4m1win3=1 |l4m1stage3=Pokémon Stadium
+|l4m1p1char4=puff |l4m1p2char4=fox |l4m1p1stock4=2 |l4m1p2stock4=0 |l4m1win4=1 |l4m1stage4=Pokémon Stadium
+|l4m1p1char5= |l4m1p2char5= |l4m1p1stock5= |l4m1p2stock5= |l4m1win5= |l4m1stage5=
+|l4m1date=September 19, 2015
+|l4m1finished=
+|l4m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=Rm9BvSBLPKs}}
+}}
+
+</onlyinclude>

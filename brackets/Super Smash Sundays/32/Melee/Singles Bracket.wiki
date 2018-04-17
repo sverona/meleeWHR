@@ -1,0 +1,114 @@
+{{DISPLAYTITLE:Super Smash Sundays 32: ''Melee'' Singles Bracket}}{{SetGame|melee}}{{tabs static
+|name1=Overview
+|link1=Super Smash Sundays/32/Melee
+|name3=Doubles Bracket
+|link3=Super Smash Sundays/32/Melee/Doubles Bracket
+|name2=Singles Bracket
+|link2=Super Smash Sundays/32/Melee/Singles Bracket
+|This=2
+}}
+{{:Super Smash Sundays 32/Singles Bracket/Winners}}
+{{:Super Smash Sundays 32/Singles Bracket/Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Super Smash Sundays/32/Melee
+|tourneyname=Super Smash Sundays 32
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=200
+<!-- FROM WINNERS -->
+|r1m1p1=MacD |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=S2J |r1m1p2flag=us |r1m1p2score=2
+|r1m1win=1
+|r1m1p1char1=peach |r1m1p1stock1=0 |r1m1p2char1=cf |r1m1p2stock1=2 |r1m1win1=2 |r1m1stage1=Dream Land 
+|r1m1p1char2=peach |r1m1p1stock2=3 |r1m1p2char2=cf |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Fountain of Dreams
+|r1m1p1char3=peach |r1m1p1stock3=2 |r1m1p2char3=cf |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Yoshi's Story
+|r1m1p1char4=peach |r1m1p1stock4=0 |r1m1p2char4=cf |r1m1p2stock4=2 |r1m1win4=2 |r1m1stage4=Pokémon Stadium
+|r1m1p1char5=peach |r1m1p1stock5=1 |r1m1p2char5=cf |r1m1p2stock5=0 |r1m1win5=1 |r1m1stage5=Battlefield
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Alex19 |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Lucky |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=fox |l1m1p1stock1=0 |l1m1p2char1=fox |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Battlefield 
+|l1m1p1char2=fox |l1m1p1stock2=0 |l1m1p2char2=fox |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Battlefield
+|l1m1p1char3=fox |l1m1p1stock3=0 |l1m1p2char3=fox |l1m1p2stock3=1 |l1m1win3=2 |l1m1stage3=Pokémon Stadium
+|l1m1p1char4= |l1m1p1stock4= |l1m1p2char4= |l1m1p2stock4= |l1m1win4= |l1m1stage4=
+|l1m1p1char5= |l1m1p1stock5= |l1m1p2char5= |l1m1p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=S2J |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Lucky |r2m1p2flag=us |r2m1p2score=1
+|r2m1win=1
+|r2m1p1char1=cf |r2m1p1stock1=3 |r2m1p2char1=fox |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=cf |r2m1p1stock2=1 |r2m1p2char2=fox |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1p1char3=cf |r2m1p1stock3=0 |r2m1p2char3=fox |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Pokémon Stadium
+|r2m1p1char4=cf |r2m1p1stock4=1 |r2m1p2char4=fox |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Dream Land
+|r2m1p1char5= |r2m1p1stock5= |r2m1p2char5= |r2m1p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=MacD |r3m1p1flag=us |r3m1p1score=0 |r3m2p1score=1
+|r3m1p2=S2J |r3m1p2flag=us |r3m1p2score=3 |r3m2p2score=3
+|r3m1win=2
+|export_score=true
+|r3m1p1char1=peach |r3m1p1stock1=0 |r3m1p2char1=cf |r3m1p2stock1=2 |r3m1win1=2 |r3m1stage1=Dream Land
+|r3m1p1char2=peach |r3m1p1stock2=0 |r3m1p2char2=cf |r3m1p2stock2=1 |r3m1win2=2 |r3m1stage2=Fountain of Dreams
+|r3m1p1char3=peach |r3m1p1stock3=0 |r3m1p2char3=cf |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Fountain of Dreams
+|r3m1p1char4= |r3m1p1stock4= |r3m1p2char4= |r3m1p2stock4= |r3m1win4= |r3m1stage4=
+|r3m1p1char5= |r3m1p1stock5= |r3m1p2char5= |r3m1p2stock5= |r3m1win5= |r3m1stage5=
+
+|r3m2p1char1=peach |r3m2p1stock1=0 |r3m2p2char1=cf |r3m2p2stock1=1 |r3m2win1=2 |r3m2stage1=Dream Land
+|r3m2p1char2=peach |r3m2p1stock2=0 |r3m2p2char2=cf |r3m2p2stock2=2 |r3m2win2=2 |r3m2stage2=Fountain of Dreams
+|r3m2p1char3=peach |r3m2p1stock3=1 |r3m2p2char3=cf |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Fountain of Dreams
+|r3m2p1char4=peach |r3m2p1stock4=0 |r3m2p2char4=cf |r3m2p2stock4=1 |r3m2win4=2 |r3m2stage4=Pokémon Stadium
+|r3m2p1char5= |r3m2p1stock5= |r3m2p2char5= |r3m2p2stock5= |r3m2win5= |r3m2stage5=
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+
+</onlyinclude>

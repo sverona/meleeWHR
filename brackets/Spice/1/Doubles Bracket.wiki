@@ -1,0 +1,214 @@
+{{DISPLAYTITLE:Spice #1: Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Spice/1
+|name2=Singles Bracket
+|link2=Spice/1/Singles Bracket
+|name3=Doubles Bracket
+|link3=Spice/1/Doubles Bracket
+
+|This=3
+}}
+
+==Winners Bracket==
+{{16DEDoublesWBracketA
+|column-width=160
+
+<!-- ROUND 1 -->
+|r1m1t1p1=Nuckels|r1m1t1p1flag=nl
+|r1m1t1p2=Amsah|r1m1t1p2flag=nl |r1m1t1score={{Win}}
+|r1m1t2p1=Buy|r1m1t2p1flag=
+|r1m1t2p2=Buy|r1m1t2p2flag=|r1m1t2score=
+|r1m1win=1
+
+|r1m2t1p1=Xephyer|r1m2t1p1flag=nl
+|r1m2t1p2=Destiknee |r1m2t1p2flag=nl |r1m2t1score=2
+|r1m2t2p1=Knullebibs  |r1m2t2p1flag=nl
+|r1m2t2p2=Pegawolf |r1m2t2p2flag=nl |r1m2t2score=0
+|r1m2win=1
+
+|r1m3t1p1=LawrenceLot |r1m3t1p1flag=nl
+|r1m3t1p2=Thunder |r1m3t1p2flag=nl |r1m3t1score={{Win}}
+|r1m3t2p1=Bye |r1m3t2p1flag=
+|r1m3t2p2=Bye |r1m3t2p2flag=|r1m3t2score=
+|r1m3win=1
+
+|r1m4t1p1=Alex Bailey |r1m4t1p1flag=nl
+|r1m4t1p2=CyclopeSteve |r1m4t1p2flag=nl |r1m4t1score=1
+|r1m4t2p1=KingSirWankALot |r1m4t2p1flag=nl
+|r1m4t2p2=St0rmetom |r1m4t2p2flag=nl |r1m4t2score=2
+|r1m4win=2
+
+|r1m5t1p1=Fout NL |r1m5t1p1flag=nl
+|r1m5t1p2=Shengo |r1m5t1p2flag=nl |r1m5t1score={{Win}}
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=
+|r1m5win=1
+
+|r1m6t1p1=Markovic |r1m6t1p1flag=nl
+|r1m6t1p2=Peridot |r1m6t1p2flag=nl |r1m6t1score=2
+|r1m6t2p1=Trozay |r1m6t2p1flag=nl
+|r1m6t2p2=Prins_Perzik |r1m6t2p2flag=nl |r1m6t2score=0
+|r1m6win=1
+
+|r1m7t1p1=Linkje|r1m7t1p1flag=nl
+|r1m7t1p2=Utto |r1m7t1p2flag=no |r1m7t1score={{Win}}
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=
+|r1m7win=1
+
+|r1m8t1p1=Serket |r1m8t1p1flag=nl
+|r1m8t1p2=Happymealz |r1m8t1p2flag=nl |r1m8t1score=2
+|r1m8t2p1=ryura |r1m8t2p1flag=nl
+|r1m8t2p2=Protatoo |r1m8t2p2flag=nl |r1m8t2score=1
+|r1m8win=1
+|r1m8details={{BracketMatchDetails
+|vod=https://youtu.be/gNDoIjWd_3M?t=8850
+}}
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Nuckels |r2m1t1p1flag=nl
+|r2m1t1p2=Amsah |r2m1t1p2flag=nl |r2m1t1score=2
+|r2m1t2p1=Xephyer |r2m1t2p1flag=nl
+|r2m1t2p2=Destiknee |r2m1t2p2flag=nl |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=LawrenceLot |r2m2t1p1flag=nl
+|r2m2t1p2=Thunder |r2m2t1p2flag=nl |r2m2t1score=2
+|r2m2t2p1=KingSirWankALot |r2m2t2p1flag=nl
+|r2m2t2p2=St0rmetom |r2m2t2p2flag=nl |r2m2t2score=0
+|r2m2win=1
+
+|r2m3t1p1=Fout NL |r2m3t1p1flag=nl
+|r2m3t1p2=Shengo |r2m3t1p2flag=nl |r2m3t1score=2
+|r2m3t2p1=Markovic |r2m3t2p1flag=nl
+|r2m3t2p2=Peridot |r2m3t2p2flag=nl |r2m3t2score=0
+|r2m3win=1
+
+|r2m4t1p1=Linkje |r2m4t1p1flag=nl
+|r2m4t1p2=Utto |r2m4t1p2flag=nl |r2m4t1score=2
+|r2m4t2p1=Serket |r2m4t2p1flag=nl
+|r2m4t2p2=Happymealz |r2m4t2p2flag=nl |r2m4t2score=0
+|r2m4win=1
+|r2m4details={{BracketMatchDetails
+|vod=https://youtu.be/gNDoIjWd_3M?t=9581
+}}
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Nuckels|r3m1t1p1flag=nl
+|r3m1t1p2=Amsah |r3m1t1p2flag=nl |r3m1t1score=3
+|r3m1t2p1=Lawrencelot |r3m1t2p1flag=nl
+|r3m1t2p2=Thunder |r3m1t2p2flag=nl |r3m1t2score=0
+|r3m1win=1
+
+|r3m2t1p1=Fout NL |r3m2t1p1flag=nl
+|r3m2t1p2=Shengo |r3m2t1p2flag=nl |r3m2t1score=3
+|r3m2t2p1=Linkje |r3m2t2p1flag=nl
+|r3m2t2p2=Utto |r3m2t2p2flag=nl |r3m2t2score=1
+|r3m2win=1
+|r3m2details={{BracketMatchDetails
+|vod=https://youtu.be/gNDoIjWd_3M?t=10151
+}}
+}}
+
+==Losers Bracket==
+{{12DEDoublesLBracketA
+|column-width=160
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Serket |l1m1t1p1flag=nl
+|l1m1t1p2=Happymealz |l1m1t1p2flag=nl |l1m1t1score=2
+|l1m1t2p1=Knullebibs |l1m1t2p1flag=nl
+|l1m1t2p2=Pegawolf |l1m1t2p2flag=nl |l1m1t2score=1
+|l1m1win=1
+
+|l1m2t1p1=Markovic |l1m2t1p1flag=nl
+|l1m2t1p2=Peridot |l1m2t1p2flag=nl |l1m2t1score=2
+|l1m2t2p1=Alex Bailey |l1m2t2p1flag=nl
+|l1m2t2p2=CyclopeSteve |l1m2t2p2flag=nl |l1m2t2score=0
+|l1m2win=1
+
+|l1m3t1p1=KingSirWankALot |l1m3t1p1flag=nl
+|l1m3t1p2=St0rmetom |l1m3t1p2flag=nl |l1m3t1score=2
+|l1m3t2p1=Trozay |l1m3t2p1flag=nl
+|l1m3t2p2=Prins_Perzik |l1m3t2p2flag=nl |l1m3t2score=0
+|l1m3win=1
+
+|l1m4t1p1=Xephyer |l1m4t1p1flag=nl
+|l1m4t1p2=Destiknee |l1m4t1p2flag=nl |l1m4t1score=2
+|l1m4t2p1=ryura |l1m4t2p1flag=nl
+|l1m4t2p2=Protatoo |l1m4t2p2flag=nl |l1m4t2score=0
+|l1m4win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Serket |l2m1t1p1flag=nl
+|l2m1t1p2=Happymealz |l2m1t1p2flag=nl |l2m1t1score=2
+|l2m1t2p1=Markovic |l2m1t2p1flag=nl
+|l2m1t2p2=Peridot |l2m1t2p2flag=nl |l2m1t2score=1
+|l2m1win=1
+|l2m1details={{BracketMatchDetails
+|vod=https://youtu.be/gNDoIjWd_3M?t=11155
+}}
+
+|l2m2t1p1=KingSirWankALot |l2m2t1p1flag=nl
+|l2m2t1p2=St0rmetom |l2m2t1p2flag=nl |l2m2t1score=0
+|l2m2t2p1=Xephyer |l2m2t2p1flag=nl
+|l2m2t2p2=Destiknee |l2m2t2p2flag=nl |l2m2t2score=2
+|l2m2win=2
+
+<!-- ROUND 3 -->
+|l3m1t1p1=LawrenceLot |l3m1t1p1flag=nl
+|l3m1t1p2=Thunder |l3m1t1p2flag=nl |l3m1t1score=3
+|l3m1t2p1=Serket |l3m1t2p1flag=nl
+|l3m1t2p2=Happymealz |l3m1t2p2flag=nl |l3m1t2score=1
+|l3m1win=1
+
+|l3m2t1p1=Linkje |l3m2t1p1flag=nl
+|l3m2t1p2=Utto |l3m2t1p2flag=nl |l3m2t1score=2
+|l3m2t2p1=Xephyer |l3m2t2p1flag=nl
+|l3m2t2p2=Destiknee |l3m2t2p2flag=nl |l3m2t2score=0
+|l3m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesBracket
+|column-width=160
+<!-- FROM WINNERS -->
+|r1m1t1p1=Nuckels |r1m1t1p1flag=nl
+|r1m1t1p2=Amsah |r1m1t1p2flag=nl |r1m1t1score=3
+|r1m1t2p1=Fout NL |r1m1t2p1flag=nl
+|r1m1t2p2=Shengo |r1m1t2p2flag=nl |r1m1t2score=1
+|r1m1win=1
+|r1m1details={{BracketMatchDetails
+|vod=https://youtu.be/gNDoIjWd_3M?t=12355
+}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Lawrencelot |l1m1t1p1flag=nl
+|l1m1t1p2=Thunder |l1m1t1p2flag=nl |l1m1t1score=1
+|l1m1t2p1=Linkje |l1m1t2p1flag=nl
+|l1m1t2p2=Utto |l1m1t2p2flag=nl |l1m1t2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Fout NL |r2m1t1p1flag=nl
+|r2m1t1p2=Shengo |r2m1t1p2flag=nl |r2m1t1score=3
+|r2m1t2p1=Linkje |r2m1t2p1flag=nl
+|r2m1t2p2=Utto |r2m1t2p2flag=nl |r2m1t2score=2
+|r2m1win=1
+|r2m1details={{BracketMatchDetails
+|vod=https://youtu.be/gNDoIjWd_3M?t=14607
+}}
+
+
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Nuckels|r3m1t1p1flag=nl
+|r3m1t1p2=Amsah |r3m1t1p2flag=nl |r3m1t1score=3
+|r3m1t2p1=Fout NL |r3m1t2p1flag=nl
+|r3m1t2p2=Shengo |r3m1t2p2flag=nl |r3m1t2score=0
+|r3m1win=1
+|r3m1details={{BracketMatchDetails
+|vod=https://youtu.be/gNDoIjWd_3M?t=16118
+}}
+}}</onlyinclude>

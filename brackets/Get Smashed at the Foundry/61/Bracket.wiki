@@ -1,0 +1,81 @@
+{{DISPLAYTITLE:Get Smashed at the Foundry #61: Bracket}}{{SetGame|melee}}{{tabs static
+|name1=Overview
+|link1=Get_Smashed_at_the_Foundry/61
+|name2=Bracket
+|link2=Get_Smashed_at_the_Foundry/61/Bracket
+|This=2
+}}
+{{:Get_Smashed_at_the_Foundry/61/Bracket/Winners}}
+{{:Get_Smashed_at_the_Foundry/61/Bracket/Losers}}
+
+<onlyinclude>
+==Finals Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Get Smashed at the Foundry/61
+|tourneyname=Get Smashed at the Foundry #61
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+<!-- FROM WINNERS -->
+|r1m1p1=SFAT |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Shroomed |r1m1p2flag=us |r1m1p2score=2
+|r1m1win=1
+|r1m1p1char1= |r1m1p1stock1= |r1m1p2char1= |r1m1p2stock1= |r1m1win1= |r1m1stage1= 
+|r1m1p1char2= |r1m1p1stock2= |r1m1p2char2= |r1m1p2stock2= |r1m1win2= |r1m1stage2=
+|r1m1p1char3= |r1m1p1stock3= |r1m1p2char3= |r1m1p2stock3= |r1m1win3= |r1m1stage3=
+|r1m1p1char4= |r1m1p1stock4= |r1m1p2char4= |r1m1p2stock4= |r1m1win4= |r1m1stage4=
+|r1m1p1char5= |r1m1p1stock5= |r1m1p2char5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Alan |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Laudandus |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1= |l1m1p1stock1= |l1m1p2char1= |l1m1p2stock1= |l1m1win1= |l1m1stage1= 
+|l1m1p1char2= |l1m1p1stock2= |l1m1p2char2= |l1m1p2stock2= |l1m1win2= |l1m1stage2=
+|l1m1p1char3= |l1m1p1stock3= |l1m1p2char3= |l1m1p2stock3= |l1m1win3= |l1m1stage3=
+|l1m1p1char4= |l1m1p1stock4= |l1m1p2char4= |l1m1p2stock4= |l1m1win4= |l1m1stage4=
+|l1m1p1char5= |l1m1p1stock5= |l1m1p2char5= |l1m1p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Shroomed |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=Laudandus |r2m1p2flag=us |r2m1p2score=1
+|r2m1win=1
+|r2m1p1char1= |r2m1p1stock1= |r2m1p2char1= |r2m1p2stock1= |r2m1win1= |r2m1stage1= 
+|r2m1p1char2= |r2m1p1stock2= |r2m1p2char2= |r2m1p2stock2= |r2m1win2= |r2m1stage2=
+|r2m1p1char3= |r2m1p1stock3= |r2m1p2char3= |r2m1p2stock3= |r2m1win3= |r2m1stage3=
+|r2m1p1char4= |r2m1p1stock4= |r2m1p2char4= |r2m1p2stock4= |r2m1win4= |r2m1stage4=
+|r2m1p1char5= |r2m1p1stock5= |r2m1p2char5= |r2m1p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=SFAT |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Shroomed |r3m1p2flag=us |r3m1p2score=2
+|r3m1win=1
+|r3m1p1char1= |r3m1p1stock1= |r3m1p2char1= |r3m1p2stock1= |r3m1win1= |r3m1stage1= 
+|r3m1p1char2= |r3m1p1stock2= |r3m1p2char2= |r3m1p2stock2= |r3m1win2= |r3m1stage2=
+|r3m1p1char3= |r3m1p1stock3= |r3m1p2char3= |r3m1p2stock3= |r3m1win3= |r3m1stage3=
+|r3m1p1char4= |r3m1p1stock4= |r3m1p2char4= |r3m1p2stock4= |r3m1win4= |r3m1stage4=
+|r3m1p1char5= |r3m1p1stock5= |r3m1p2char5= |r3m1p2stock5= |r3m1win5= |r3m1stage5=
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=
+}}
+}}
+</onlyinclude>

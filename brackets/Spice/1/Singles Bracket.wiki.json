@@ -1,0 +1,995 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "JMYL",
+            "p1flag": "nl",
+            "p1score": "3",
+            "p2": "Fout NL",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Amsah",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "Stijn",
+            "p2flag": "nl",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Amsah",
+            "p1flag": "nl",
+            "p1score": "3",
+            "p2": "JMYL",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "2}}</onlyinclude>"
+        },
+        "r3m2": {
+            "p2score": "3"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Siep",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m10": {
+            "p1": "Linkje",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "stategamer",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m11": {
+            "p1": "Akli",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m12": {
+            "p1": "KingSirWankALot",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m13": {
+            "p1": "St0rmetom",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m14": {
+            "p1": "Happymealz",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Don",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m15": {
+            "p1": "TJ",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m16": {
+            "p1": "CyclopeSteve",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Zabu",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Protatoo",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Destiknee",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "ryura",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Trozay",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "RitaVerdronk",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Haku",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m7": {
+            "p1": "Prins_Perzik",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "MrCuttingHorse",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Vax",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m9": {
+            "p1": "Xephyer",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Siep",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Zabu",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "Destiknee",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "ryura",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Trozay",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "RitaVerdronk",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Prins_Perzik",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "MrCuttingHorse",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Xephyer",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Linkje",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "Akli",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "KingSirWankALot",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "St0rmetom",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "Happymealz",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m8": {
+            "p1": "TJ",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "CyclopeSteve",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Shengo",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Zabu",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Utto",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Destiknee",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Pixel",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "RitaVerdronk",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Early Peso",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "MrCuttingHorse",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m5": {
+            "p1": "Lawrencelot",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "Linkje",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m6": {
+            "p1": "Alex Bailey",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Akli",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m7": {
+            "p1": "Fout_NL",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Happymealz",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m8": {
+            "p1": "Thunder",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "TJ",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Shengo",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Destiknee",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "RitaVerdronk",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Early Peso",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Linkje",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Alex Bailey",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "Fout_NL",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "TJ",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "Nuckels",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Shengo",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "JMYL",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Early Peso",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m3": {
+            "p1": "Serket",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "Alex Bailey",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m4": {
+            "p1": "Nukidin",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "Fout_NL",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "Shengo",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "JMYL",
+            "p2flag": "nl",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m2": {
+            "p1": "Alex Bailey",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Fout_NL",
+            "p2flag": "nl",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l7m1": {
+            "p1": "Atlas",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "JMYL",
+            "p2flag": "nl",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l7m2": {
+            "p1": "Jules",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Fout_NL",
+            "p2flag": "nl",
+            "p2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Amsah",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "KingSirWankALot",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Haku",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Nukidin",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Akli",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Atlas",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Xephyer",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Vax",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Shengo",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Linkje",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m17": {
+            "p1": "Chrollo",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m18": {
+            "p1": "Prins_Perzik",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "stategamer",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m19": {
+            "p1": "Thunder",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Protatoo",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "CyclopeSteve",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m20": {
+            "p1": "MrCuttingHorse",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m21": {
+            "p1": "Fout_NL",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m22": {
+            "p1": "Trozay",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m23": {
+            "p1": "Nuckels",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m24": {
+            "p1": "RitaVerdronk",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m25": {
+            "p1": "JMYL",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m26": {
+            "p1": "Don",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "ryura",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m27": {
+            "p1": "Alex Bailey",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m28": {
+            "p1": "Destiknee",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m29": {
+            "p1": "Jules",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "TJ",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m30": {
+            "p1": "Siep",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m31": {
+            "p1": "Lawrencelot",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m32": {
+            "p1": "Zabu",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Early Peso",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Serket",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "St0rmetom",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Pixel",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Happymealz",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Utto",
+            "p1flag": "nl",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Amsah",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "CyclopeSteve",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m10": {
+            "p1": "Thunder",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "MrCuttingHorse",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m11": {
+            "p1": "Fout_NL",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Trozay",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m12": {
+            "p1": "Nuckels",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "RitaVerdronk",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m13": {
+            "p1": "JMYL",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "ryura",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m14": {
+            "p1": "Alex Bailey",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Destiknee",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m15": {
+            "p1": "Jules",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Siep",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m16": {
+            "p1": "Lawrencelot",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Zabu",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "TJ",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "Early Peso",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Serket",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "St0rmetom",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Pixel",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Happymealz",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Utto",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "KingSirWankALot",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Nukidin",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Akli",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Atlas",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Xephyer",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Shengo",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Linkje",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m9": {
+            "p1": "Chrollo",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Prins_Perzik",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Amsah",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Early Peso",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Serket",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Pixel",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "Utto",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "Nukidin",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m4": {
+            "p1": "Atlas",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Shengo",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m5": {
+            "p1": "Chrollo",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Thunder",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m6": {
+            "p1": "Fout_NL",
+            "p1flag": "nl",
+            "p1score": "1",
+            "p2": "Nuckels",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m7": {
+            "p1": "JMYL",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Alex Bailey",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m8": {
+            "p1": "Jules",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Lawrencelot",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Amsah",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Serket",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Nukidin",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Atlas",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m3": {
+            "p1": "Chrollo",
+            "p1flag": "nl",
+            "p1score": "2",
+            "p2": "Nuckels",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m4": {
+            "p1": "JMYL",
+            "p1flag": "nl",
+            "p1score": "0",
+            "p2": "Jules",
+            "p2flag": "nl",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r5m1": {
+            "p1": "Amsah",
+            "p1flag": "nl",
+            "p1score": "3",
+            "p2": "Atlas",
+            "p2flag": "nl",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r5m2": {
+            "p1": "Chrollo",
+            "p1flag": "nl",
+            "p1score": "3",
+            "p2": "Jules",
+            "p2flag": "nl",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

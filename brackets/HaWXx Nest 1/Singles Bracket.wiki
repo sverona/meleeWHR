@@ -1,0 +1,116 @@
+{{SetGame|melee}}{{tabs static
+|name1=Overview
+|link1=HaWXx Nest 1
+|name2=Singles Bracket
+|link2=HaWXx Nest 1/Singles Bracket
+|name3=Doubles
+|link3=HaWXx Nest 1/Doubles
+|This=2
+}}
+
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia name=HaWXxNest1M -->
+
+==Winners Bracket==
+{{16DEWBracketA
+|r1m1p1=Dev (P1-1) |r1m1p1flag=se |r1m1p1score=2 |r1m1win=1
+|r1m1p2=SaltSheikah (P2-2) |r1m1p2flag= |r1m1p2score=0
+
+|r1m2p1=Layabout (P8-1) |r1m2p1flag= |r1m2p1score=0 |r1m2win=2
+|r1m2p2=Ahmad (P7-2) |r1m2p2flag= |r1m2p2score=2
+
+|r1m3p1=M.M Molgera (P4-1) |r1m3p1flag=gb |r1m3p1score=2 |r1m3win=1
+|r1m3p2=Dayman (P1-2) |r1m3p2flag= |r1m3p2score=0
+
+|r1m4p1=Frenzy (P5-1) |r1m4p1flag=gb |r1m4p1score=2 |r1m4win=1
+|r1m4p2=Kyran (P4-2) |r1m4p2flag= |r1m4p2score=0
+
+|r1m5p1=Willz (P2-1) |r1m5p1flag=gb |r1m5p1score=2 |r1m5win=1
+|r1m5p2=Zee (P8-2) |r1m5p2flag= |r1m5p2score=0
+
+|r1m6p1=Skarfelt (P7-1) |r1m6p1flag= |r1m6p1score=0 |r1m6win=2
+|r1m6p2=Zombie Candy (P5-2) |r1m6p2flag= |r1m6p2score=2
+
+|r1m7p1=HaoTwo (P3-1) |r1m7p1flag=gb |r1m7p1score=2 |r1m7win=1
+|r1m7p2=Dearhunter (P6-2) |r1m7p2flag= |r1m7p2score=0
+
+|r1m8p1=xVeryEvilRyux (P6-1) |r1m8p1flag= |r1m8p1score=2 |r1m8win=1
+|r1m8p2=Aiken (P3-2) |r1m8p2flag=gb |r1m8p2score=1
+
+|r2m1p1=Dev (P1-1) |r2m1p1flag=se |r2m1p1score=2 |r2m1win=1
+|r2m1p2=Ahmad (P7-2) |r2m1p2flag= |r2m1p2score=0
+
+|r2m2p1=M.M Molgera (P4-1) |r2m2p1flag=gb |r2m2p1score=2 |r2m2win=1
+|r2m2p2=Frenzy (P5-1) |r2m2p2flag=gb |r2m2p2score=0
+
+|r2m3p1=Willz (P2-1) |r2m3p1flag=gb |r2m3p1score=2 |r2m3win=1
+|r2m3p2=Zombie Candy (P5-2) |r2m3p2flag= |r2m3p2score=0
+
+|r2m4p1=HaoTwo (P3-1) |r2m4p1flag=gb |r2m4p1score=2 |r2m4win=1
+|r2m4p2=xVeryEvilRyux (P6-1) |r2m4p2flag= |r2m4p2score=0
+
+|r3m1p1=Dev (P1-1) |r3m1p1flag=se |r3m1p1score=3 |r3m1win=1
+|r3m1p2=M.M Molgera (P4-1) |r3m1p2flag=gb |r3m1p2score=0
+
+|r3m2p1=Willz (P2-1) |r3m2p1flag=gb |r3m2p1score=1 |r3m2win=2
+|r3m2p2=HaoTwo (P3-1) |r3m2p2flag=gb |r3m2p2score=3
+}}
+
+==Losers Bracket==
+{{16DELBracketA
+|l1m1p1=SaltSheikah (P2-2) |l1m1p1flag= |l1m1p1score=0 |l1m1win=2
+|l1m1p2=Layabout (P8-1) |l1m1p2flag= |l1m1p2score=2
+
+|l1m2p1=Dayman (P1-2) |l1m2p1flag= |l1m2p1score=0 |l1m2win=2
+|l1m2p2=Kyran (P4-2) |l1m2p2flag= |l1m2p2score=2
+
+|l1m3p1=Zee (P8-2) |l1m3p1flag= |l1m3p1score=0 |l1m3win=2
+|l1m3p2=Skarfelt (P7-1) |l1m3p2flag= |l1m3p2score=2
+
+|l1m4p1=Dearhunter (P6-2) |l1m4p1flag= |l1m4p1score=2 |l1m4win=1
+|l1m4p2=Aiken (P3-2) |l1m4p2flag=gb |l1m4p2score=0
+
+|l2m1p1=xVeryEvilRyux (P6-1) |l2m1p1flag= |l2m1p1score=0 |l2m1win=2
+|l2m1p2=Layabout (P8-1) |l2m1p2flag= |l2m1p2score=2
+
+|l2m2p1=Zombie Candy (P5-2) |l2m2p1flag= |l2m2p1score=2 |l2m2win=1
+|l2m2p2=Kyran (P4-2) |l2m2p2flag= |l2m2p2score=0
+
+|l2m3p1=Frenzy (P5-1) |l2m3p1flag=gb |l2m3p1score=2 |l2m3win=1
+|l2m3p2=Skarfelt (P7-1) |l2m3p2flag= |l2m3p2score=0
+
+|l2m4p1=Ahmad (P7-2) |l2m4p1flag= |l2m4p1score=2 |l2m4win=1
+|l2m4p2=Dearhunter (P6-2) |l2m4p2flag= |l2m4p2score=0
+
+|l3m1p1=Layabout (P8-1) |l3m1p1flag= |l3m1p1score=2 |l3m1win=1
+|l3m1p2=Zombie Candy (P5-2) |l3m1p2flag= |l3m1p2score=1
+
+|l3m2p1=Frenzy (P5-1) |l3m2p1flag=gb |l3m2p1score=2 |l3m2win=1
+|l3m2p2=Ahmad (P7-2) |l3m2p2flag= |l3m2p2score=0
+
+|l4m1p1=M.M Molgera (P4-1) |l4m1p1flag=gb |l4m1p1score=2 |l4m1win=1
+|l4m1p2=Layabout (P8-1) |l4m1p2flag= |l4m1p2score=0
+
+|l4m2p1=Willz (P2-1) |l4m2p1flag=gb |l4m2p1score=1 |l4m2win=2
+|l4m2p2=Frenzy (P5-1) |l4m2p2flag=gb |l4m2p2score=2
+}}
+
+==Finals Bracket==
+<onlyinclude>
+{{DEFinalBracket
+<!-- FROM WINNERS -->
+|r1m1p1=Dev |r1m1p1flag=se |r1m1p1score=3 |r1m1win=1
+|r1m1p2=HaoTwo |r1m1p2flag=gb |r1m1p2score=1
+
+<!-- FROM LOSERS -->
+|l1m1p1=M.M Molgera |l1m1p1flag=gb |l1m1p1score=3 |l1m1win=1
+|l1m1p2=Frenzy |l1m1p2flag=gb |l1m1p2score=2
+
+<!-- LOSERS FINALS -->
+|r2m1p1=HaoTwo |r2m1p1flag=gb |r2m1p1score=3 |r2m1win=1
+|r2m1p2=M.M Molgera |r2m1p2flag=gb |r2m1p2score=2
+
+<!-- GRAND FINALS -->
+|r3m1p1=Dev |r3m1p1flag=se |r3m1p1score={{win}} |r3m1win=1
+|r3m1p2=HaoTwo |r3m1p2flag=gb |r3m1p2score=
+}}
+</onlyinclude>

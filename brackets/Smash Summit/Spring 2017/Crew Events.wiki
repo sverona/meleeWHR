@@ -1,0 +1,383 @@
+{{DISPLAYTITLE:Smash Summit - Spring 2017: Crew Events}}
+{{Smash Summit Spring 2017 Tabs|This=5}}<br/>__NOTOC__
+
+{{Tabs dynamic
+|name1=Low Tier Iron Man
+|name2=Draft Crew Battles
+|This=1
+}}
+{{Tabs dynamic/tab|1}}
+==Low Tier Iron Man==
+===Format===
+All four crews select two players to participate in this event. Each player has 15 points which they will use to choose five different characters based on the point values shown below:
+
+{| class="wikitable"
+|-
+! style="text-align: center;" | Cost 
+! colspan="7" | Characters
+|-
+| style="text-align: center;" | 5 || {{head/fox}} {{head/falco}} {{head/marth}} {{head/sheik}}
+|-
+| style="text-align: center;" | 4 || {{head/peach}} {{head/jigglypuff}} 
+|-
+| style="text-align: center;" | 3 || {{head/ic}} {{head/falcon}} {{head/pikachu}} {{head/samus}} 
+|-
+| style="text-align: center;" | 2 || {{head/doc}} {{head/yoshi}} {{head/luigi}} {{head/ganon}} {{head/mario}} {{head/yl}} {{head/dk}}
+|-
+| style="text-align: center;" | 1 || {{head/link}} {{head/gaw}} {{head/roy}} {{head/mewtwo}} {{head/zelda}} {{head/ness}} {{head/pichu}}
+|-
+| style="text-align: center;" | 0 || {{head/bowser}} {{head/kirby}} 
+|}
+
+===Participants===
+{{Box|start|padding=1em}}
+{{NotableStart|nbcol=1|title=Team Beer}}
+{{Notable|Mango|flag=us|chars=fox,falco,cf,mario,kirby}}
+{{Notable|S2J|flag=us|chars=falco,marth,falcon,dk,kirby}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=L o s L e f f o s 2.0}}
+{{Notable|Leffen|flag=se|chars=fox,falco,doc,yoshi,mewtwo}}
+{{Notable|Ice|flag=de|chars=fox,sheik,doc,mario,zelda}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=Meme Teme}}
+{{Notable|Plup|flag=us|chars=fox,sheik,samus,luigi,bowser}}
+{{Notable|Mew2King|flag=us|chars=marth,sheik,cf,pichu,roy}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=The Armadas}}
+{{Notable|Axe|flag=us|chars=marth,pikachu,ic,ganon,yl}}
+{{Notable|Armada|flag=se|chars=fox,peach,sheik,gaw,kirby}}
+{{NotableEnd}}
+{{Box|end}}
+
+===Bracket===
+{{8SEBracket
+|column-width=150
+
+<!-- QUARTERFINALS -->
+|r1m1p1=Mango |r1m1p1flag=us |r1m1p1score=16
+|r1m1p2=Axe |r1m1p2flag=us |r1m1p2score=11
+|r1m1win=1
+
+|r1m2p1=Leffen |r1m2p1flag=se |r1m2p1score=19
+|r1m2p2=Plup |r1m2p2flag=us |r1m2p2score=20
+|r1m2win=2
+
+|r1m3p1=Armada |r1m3p1flag=se |r1m3p1score=20
+|r1m3p2=S2J |r1m3p2flag=us |r1m3p2score=10
+|r1m3win=1
+
+|r1m4p1=Mew2King |r1m4p1flag=us |r1m4p1score=20
+|r1m4p2=Ice |r1m4p2flag=de |r1m4p2score=18
+|r1m4win=1
+
+<!-- SEMIFINALS -->
+|r2m1p1=Mango |r2m1p1flag=us |r2m1p1score=20
+|r2m1p2=Plup |r2m1p2flag=us |r2m1p2score=18
+|r2m1win=1
+
+|r2m2p1=Armada |r2m2p1flag=se |r2m2p1score=20
+|r2m2p2=Mew2King |r2m2p2flag=us |r2m2p2score=16
+|r2m2win=1
+
+<!-- FINALS -->
+|r3m1p1=Mango |r3m1p1flag=us |r3m1p1score=20
+|r3m1p2=Armada |r3m1p2flag=se |r3m1p2score=19
+|r3m1win=1
+}}
+
+===Match Details===
+====Quarterfinals====
+{{TeamMatch/start
+|team1literal='''Mango''' {{flag/us}} 
+|team2literal={{flag/us}} '''Axe'''
+|date=March 2, 2017
+|startingstocks=4
+|teamwin=1
+|width=210
+
+|team1matches=4
+|team2matches=2
+|team1stocks=9
+|team2stocks=4
+}}
+{{TeamMatch/row |p1=Mango |p1char=cf |p1s2=3 |p2=Axe |p2char=yl |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=cf |p1s2=0 |p2=Axe |p2char=pikachu |p2s2=2 |win=2 |stage=Final Destination}}
+{{TeamMatch/row |p1=Mango |p1char=mario |p1s2=4 |p2=Axe |p2char=pikachu |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mango |p1char=mario |p1s2=1 |p2=Axe |p2char=ic |p2s2=0 |win=1 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=Mango |p1char=mario |p1s2=0 |p2=Axe |p2char=marth |p2s2=3 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=falco |p1s2=1 |p2=Axe |p2char=marth |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=_F_rtwTWkyA}}
+<nowiki>*</nowiki>Axe forfeit his last match
+{{TeamMatch/start
+|team1literal='''Leffen''' {{flag/se}} 
+|team2literal={{flag/us}} '''Plup'''
+|date=March 2, 2017
+|startingstocks=4
+|teamwin=2
+|width=210
+
+|team1matches=4
+|team2matches=5
+|team1stocks=0
+|team2stocks=1
+}}
+{{TeamMatch/row |p1=Leffen |p1char=doc |p1s2=0 |p2=Plup |p2char=luigi |p2s2=2 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Leffen |p1char=yoshi |p1s2=1 |p2=Plup |p2char=luigi |p2s2=0 |win=1 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=Leffen |p1char=yoshi |p1s2=0 |p2=Plup |p2char=bowser |p2s2=2 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Leffen |p1char=falco |p1s2=4 |p2=Plup |p2char=bowser |p2s2=0 |win=1 |stage=Final Destination}}
+{{TeamMatch/row |p1=Leffen |p1char=falco |p1s2=0 |p2=Plup |p2char=samus |p2s2=2 |win=2 |stage=Fountain of Dreams}}
+{{TeamMatch/row |p1=Leffen |p1char=fox |p1s2=3 |p2=Plup |p2char=samus |p2s2=0 |win=1 |stage=Final Destination}}
+{{TeamMatch/row |p1=Leffen |p1char=fox |p1s2=2 |p2=Plup |p2char=sheik |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Leffen |p1char=fox |p1s2=0 |p2=Plup |p2char=fox |p2s2=3 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Leffen |p1char=mewtwo |p1s2=0 |p2=Plup |p2char=fox |p2s2=1 |win=2 |stage=Final Destination}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=kQ60vPPq0Fg}}
+{{TeamMatch/start
+|team1literal='''Armada''' {{flag/se}} 
+|team2literal={{flag/us}} '''S2J'''
+|date=March 2, 2017
+|startingstocks=4
+|teamwin=1
+|width=210
+
+|team1matches=5
+|team2matches=2
+|team1stocks=10
+|team2stocks=0
+}}
+{{TeamMatch/row |p1=Armada |p1char=sheik |p1s2=4 |p2=S2J |p2char=marth |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Armada |p1char=sheik |p1s2=2 |p2=S2J |p2char=falco |p2s2=0 |win=1 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=Armada |p1char=sheik |p1s2=0 |p2=S2J |p2char=cf |p2s2=2 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Armada |p1char=kirby |p1s2=1 |p2=S2J |p2char=cf |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Armada |p1char=kirby |p1s2=0 |p2=S2J |p2char=kirby |p2s2=3 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Armada |p1char=gaw |p1s2=4 |p2=S2J |p2char=kirby |p2s2=0 |win=1 |stage=Final Destination}}
+{{TeamMatch/row |p1=Armada |p1char=gaw |p1s2=2 |p2=S2J |p2char=dk |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=DkYA-MLmNA4}}
+{{TeamMatch/start
+|team1literal='''Mew2King''' {{flag/us}} 
+|team2literal={{flag/de}} '''Ice'''
+|date=March 2, 2017
+|startingstocks=4
+|teamwin=1
+|width=210
+
+|team1matches=5
+|team2matches=4
+|team1stocks=2
+|team2stocks=0
+}}
+{{TeamMatch/row |p1=Mew2King |p1char=cf |p1s2=2 |p2=Ice |p2char=doc |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mew2King |p1char=cf |p1s2=0 |p2=Ice |p2char=sheik |p2s2=3 |win=2 |stage=Fountain of Dreams}}
+{{TeamMatch/row |p1=Mew2King |p1char=sheik |p1s2=2 |p2=Ice |p2char=sheik |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mew2King |p1char=sheik |p1s2=0 |p2=Ice |p2char=mario |p2s2=2 |win=2 |stage=Final Destination}}
+{{TeamMatch/row |p1=Mew2King |p1char=pichu |p1s2=2 |p2=Ice |p2char=mario |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Mew2King |p1char=pichu |p1s2=0 |p2=Ice |p2char=fox |p2s2=2 |win=2 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=Mew2King |p1char=roy |p1s2=0 |p2=Ice |p2char=fox |p2s2=1 |win=2 |stage=Final Destination}}
+{{TeamMatch/row |p1=Mew2King |p1char=marth |p1s2=4 |p2=Ice |p2char=fox |p2s2=0 |win=1 |stage=Final Destination}}
+{{TeamMatch/row |p1=Mew2King |p1char=marth |p1s2=2 |p2=Ice |p2char=zelda |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=v4NENjt4KYE}}
+
+====Semifinals====
+{{TeamMatch/start
+|team1literal='''Mango''' {{flag/us}} 
+|team2literal={{flag/us}} '''Plup'''
+|date=March 2, 2017
+|startingstocks=4
+|teamwin=1
+|width=210
+
+|team1matches=5
+|team2matches=4
+|team1stocks=2
+|team2stocks=0
+}}
+{{TeamMatch/row |p1=Mango |p1char=cf |p1s2=1 |p2=Plup |p2char=samus |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mango |p1char=cf |p1s2=0 |p2=Plup |p2char=luigi |p2s2=3 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=mario |p1s2=0 |p2=Plup |p2char=luigi |p2s2=1 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mango |p1char=kirby |p1s2=2 |p2=Plup |p2char=luigi |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mango |p1char=kirby |p1s2=0 |p2=Plup |p2char=bowser |p2s2=1 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mango |p1char=fox |p1s2=4 |p2=Plup |p2char=bowser |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Mango |p1char=fox |p1s2=2 |p2=Plup |p2char=fox |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=fox |p1s2=0 |p2=Plup |p2char=sheik |p2s2=3 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=falco |p1s2=2 |p2=Plup |p2char=sheik |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=wb0l4FWW-a8}}
+{{TeamMatch/start
+|team1literal='''Armada''' {{flag/se}} 
+|team2literal={{flag/us}} '''Mew2King'''
+|date=March 2, 2017
+|startingstocks=4
+|teamwin=1
+|width=210
+
+|team1matches=5
+|team2matches=4
+|team1stocks=4
+|team2stocks=0
+}}
+{{TeamMatch/row |p1=Armada |p1char=fox |p1s2=2 |p2=Mew2King |p2char=pichu |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Armada |p1char=fox |p1s2=1 |p2=Mew2King |p2char=mewtwo |p2s2=0 |win=1 |stage=Final Destination}}
+{{TeamMatch/row |p1=Armada |p1char=fox |p1s2=0 |p2=Mew2King |p2char=cf |p2s2=2 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Armada |p1char=kirby |p1s2=1 |p2=Mew2King |p2char=cf |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Armada |p1char=kirby |p1s2=0 |p2=Mew2King |p2char=sheik |p2s2=3 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Armada |p1char=peach |p1s2=2 |p2=Mew2King |p2char=sheik |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Armada |p1char=peach |p1s2=0 |p2=Mew2King |p2char=marth |p2s2=3 |win=2 |stage=Final Destination}}
+{{TeamMatch/row |p1=Armada |p1char=gaw |p1s2=0 |p2=Mew2King |p2char=marth |p2s2=2 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Armada |p1char=sheik |p1s2=4 |p2=Mew2King |p2char=marth |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=CVW7hcDLf0s}}
+
+====Finals====
+{{TeamMatch/start
+|team1literal='''Mango''' {{flag/us}} 
+|team2literal={{flag/se}} '''Armada'''
+|date=March 2, 2017
+|startingstocks=4
+|teamwin=1
+|width=210
+
+|team1matches=5
+|team2matches=4
+|team1stocks=1
+|team2stocks=0
+}}
+{{TeamMatch/row |p1=Mango |p1char=cf |p1s2=1 |p2=Armada |p2char=fox |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=cf |p1s2=0 |p2=Armada |p2char=kirby |p2s2=3 |win=2 |stage=Fountain of Dreams}}
+{{TeamMatch/row |p1=Mango |p1char=kirby |p1s2=0 |p2=Armada |p2char=kirby |p2s2=1 |win=2 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mango |p1char=mario |p1s2=4 |p2=Armada |p2char=kirby |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mango |p1char=mario |p1s2=0 |p2=Armada |p2char=gaw |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=fox |p1s2=4 |p2=Armada |p2char=gaw |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Mango |p1char=fox |p1s2=1 |p2=Armada |p2char=peach |p2s2=0 |win=1 |stage=Final Destination}}
+{{TeamMatch/row |p1=Mango |p1char=fox |p1s2=0 |p2=Armada |p2char=sheik |p2s2=3 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=falco |p1s2=1 |p2=Armada |p2char=sheik |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=4vNeQltbzY0}}
+
+{{Tabs dynamic/tab|2}}
+
+==Draft Crew Battles==
+===Crews===
+{{Box|start|padding=1em}}
+{{NotableStart|nbcol=1|title=Team Beer}}
+{{Notable|Mango|flag=us|chars=fox,falco}}
+{{Notable|S2J|flag=us|chars=cf}}
+{{Notable|PewPewU|flag=us|chars=marth}}
+{{Notable|Lucky|flag=us|chars=fox}}
+{{Notable|Lovage|flag=us|chars=fox}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=L o s L e f f o s 2.0}}
+{{Notable|Leffen|flag=se|chars=fox}}
+{{Notable|Hungrybox|flag=us|chars=puff}}
+{{Notable|Ice|flag=de|chars=fox}}
+{{Notable|HugS|flag=us|chars=samus}}
+{{Notable|Vish|flag=us|chars=cf}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=Meme Teme}}
+{{Notable|Mew2King|flag=us|chars=sheik,marth}}
+{{Notable|Plup|flag=us|chars=samus,sheik}}
+{{Notable|Westballz|flag=us|chars=falco}}
+{{Notable|ChuDat|flag=us|chars=ic}}
+{{Notable|Toph|flag=us|chars=fox}}
+{{NotableEnd}}
+{{Box|break|padding=1em}}
+{{NotableStart|nbcol=1|title=The Armadas}}
+{{Notable|Armada|flag=se|chars=peach,fox}}
+{{Notable|SFAT|flag=us|chars=fox}}
+{{Notable|Axe|flag=us|chars=pikachu}}
+{{Notable|Infinite Numbers|flag=us|chars=ic}}
+{{Notable|HomeMadeWaffles|flag=us|chars=fox}}
+{{NotableEnd}}
+{{Box|end}}
+
+===Bracket===
+{{4SEBracket
+<!-- SEMIFINALS -->
+|r1m1p1=Team Beer |r1m1p1flag= |r1m1p1score=19
+|r1m1p2=L o s L e f f o s 2.0 |r1m1p2flag= |r1m1p2score=20
+|r1m1win=2
+
+|r1m2p1=Meme Teme |r1m2p1flag= |r1m2p1score=20
+|r1m2p2=The Armadas |r1m2p2flag= |r1m2p2score=18
+|r1m2win=1
+
+<!-- FINALS -->
+|r2m1p1=L o s L e f f o s 2.0 |r2m1p1flag= |r2m1p1score=20
+|r2m1p2=Meme Teme |r2m1p2flag= |r2m1p2score=18
+|r2m1win=1
+}}
+
+===Match Details===
+====Semifinals====
+{{TeamMatch/start
+|team1literal=Team Beer
+|team2literal=L o s L e f f o s 2.0
+|date=March 2, 2017
+|width=250
+|startingstocks=4
+
+|team1matches=4
+|team2matches=5
+|team1stocks=0
+|team2stocks=1
+|teamwin=2
+}}
+{{TeamMatch/row |p1=Lovage |p1char=fox |p1s2=0 |p2=Ice |p2char=fox |p2s2=1 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Lucky |p1char=fox |p1s2=3 |p2=Ice |p2char=fox |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Lucky |p1char=fox |p1s2=0 |p2=HugS |p2char=samus |p2s2=2 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=S2J |p1char=cf |p1s2=3 |p2=HugS |p2char=samus |p2s2=0 |win=1 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=S2J |p1char=cf |p1s2=0 |p2=Leffen |p2char=fox |p2s2=1 |win=2 |stage=Final Destination}}
+{{TeamMatch/row |p1=PewPewU |p1char=marth |p1s2=3 |p2=Leffen |p2char=fox |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=PewPewU |p1char=marth |p1s2=1 |p2=Vish |p2char=cf |p2s2=0 |win=1 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=PewPewU |p1char=marth |p1s2=0 |p2=Hungrybox |p2char=puff |p2s2=4 |win=2 |stage=Battlefield}}
+{{TeamMatch/row |p1=Mango |p1char=falco |p1s2=0 |p2=Hungrybox |p2char=puff |p2s2=1 |win=2 |stage=Pokémon Stadium}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=--ATCWWOlPc}}
+{{TeamMatch/start
+|team1literal=Meme Teme
+|team2literal=The Armadas
+|date=March 2, 2017
+|width=250
+|startingstocks=4
+
+|team1matches=5
+|team2matches=4
+|team1stocks=2
+|team2stocks=0
+|teamwin=1
+}}
+{{TeamMatch/row |p1=Plup |p1char=sheik |p1s2=2 |p2=SFAT |p2char=fox |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Plup |p1char=sheik |p1s2=1 |p2=HomeMadeWaffles |p2char=fox |p2s2=0 |win=1 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=Plup |p1char=sheik |p1s2=0 |p2=Infinite Numbers |p2char=ic |p2s2=4 |win=2 |stage=Pokémon Stadium}}
+{{TeamMatch/row |p1=ChuDat |p1char=ic |p1s2=0 |p2=Infinite Numbers |p2char=ic |p2s2=1 |win=2 |stage=Final Destination}}
+{{TeamMatch/row |p1=Toph |p1char=fox |p1s2=3 |p2=Infinite Numbers |p2char=ic |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Toph |p1char=fox |p1s2=0 |p2=Axe |p2char=pikachu |p2s2=3 |win=2 |stage=Fountain of Dreams}}
+{{TeamMatch/row |p1=Westballz |p1char=falco |p1s2=2 |p2=Axe |p2char=pikachu |p2s2=0 |win=1 |stage=Yoshi's Story}}
+{{TeamMatch/row |p1=Westballz |p1char=falco |p1s2=0 |p2=Armada |p2char=peach |p2s2=3 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Mew2King |p1char=marth |p1s2=2 |p2=Armada |p2char=peach |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=5fWOLMZZJQI}}
+
+====Finals====
+{{TeamMatch/start
+|team1literal=L o s L e f f o s 2.0
+|team2literal=Meme Teme
+|date=March 2, 2017
+|width=250
+|startingstocks=4
+
+|team1matches=5
+|team2matches=4
+|team1stocks=2
+|team2stocks=0
+|teamwin=1
+}}
+{{TeamMatch/row |p1=Leffen |p1char=Fox |p1s2=0 |p2=Mew2King |p2char=Sheik |p2s2=1 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Ice |p1char=Fox |p1s2=4 |p2=Mew2King |p2char=Sheik |p2s2=0 |win=1 |stage=Final Destination}}
+{{TeamMatch/row |p1=Ice |p1char=Fox |p1s2=1 |p2=Westballz |p2char=Falco |p2s2=0 |win=1 |stage=Dream Land}}
+{{TeamMatch/row |p1=Ice |p1char=Fox |p1s2=0 |p2=ChuDat |p2char=Ice Climbers |p2s2=4 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=HugS |p1char=Samus |p1s2=0 |p2=ChuDat |p2char=Ice Climbers |p2s2=1 |win=2 |stage=Dream Land}}
+{{TeamMatch/row |p1=Hungrybox |p1char=Jigglypuff |p1s2=3 |p2=ChuDat |p2char=Ice Climbers |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/row |p1=Hungrybox |p1char=Jigglypuff |p1s2=1 |p2=Plup |p2char=Sheik |p2s2=0 |win=1 |stage=Pokemon Stadium}}
+{{TeamMatch/row |p1=Hungrybox |p1char=Jigglypuff |p1s2=0 |p2=Toph |p2char=Fox |p2s2=2 |win=2 |stage=Final Destination}}
+{{TeamMatch/row |p1=Vish |p1char=Captain Falcon |p1s2=2 |p2=Toph |p2char=Fox |p2s2=0 |win=1 |stage=Battlefield}}
+{{TeamMatch/end |vod=https://www.youtube.com/watch?v=S3iaoOhqhH4}}
+{{Tabs dynamic/end}}

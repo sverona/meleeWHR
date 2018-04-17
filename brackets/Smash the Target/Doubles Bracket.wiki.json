@@ -1,0 +1,1142 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "p1": "Neon & Tagless Kyle",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "I know your mom's sweet spot",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Walgreens Pharmacy",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Shadow Claw",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Walgreens Pharmacy",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "I know your mom's sweet spot",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p2": "Walgreens Pharmacy",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m2": {
+            "p2score": "3"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Karl Marx",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m10": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m11": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m12": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m13": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "High Tier Heros",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m14": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m15": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m16": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m5": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "2 Chainz",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m7": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Do not want a team name, our names will do",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m9": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Salt Support",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "2 Girls 1 Puff",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Karl Marx",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m10": {
+            "p1": "AZ/WI",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m11": {
+            "p1": "Biropizzas Team",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m12": {
+            "p1": "Old School",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m13": {
+            "p1": "Damn It Sesh",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "High Tier Heros",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m14": {
+            "p1": "The Spanish Inquisition",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m15": {
+            "p1": "Kicks & Slices",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m16": {
+            "p1": "Team-OH",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "The Smash Brethren",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "SS Korrasami",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Teamo Supremeo",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Legendary Men on Fire",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "2 Chainz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Swoldier Squad",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Blood, Boots, & Booty",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Do not want a team name, our names will do",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m8": {
+            "p1": "Sex Train Banditos",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m9": {
+            "p1": "Fanfic Enthusiasts",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Salt Support",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "The Smash Brethren",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "2 Girls 1 Puff",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "SS Korrasami",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Teamo Supremeo",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Swoldier Squad",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Legendary Men on Fire",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Sex Train Banditos",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Do not want a team name, our names will do",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m5": {
+            "p1": "AZ/WI",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Fanfic Enthusiasts",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m6": {
+            "p1": "Biropizzas Team",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Old School",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m7": {
+            "p1": "The Spanish Inquisition",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "High Tier Heros",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m8": {
+            "p1": "Kicks & Slices",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Team-OH",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Neon & Tagless Kyle",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "2 Girls 1 Puff",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Orville Redenbacher",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "SS Korrasami",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "Get rich or DI trying",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Legendary Men on Fire",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Loli GAGging",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Sex Train Banditos",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m5": {
+            "p1": "Mash Upsmash",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "AZ/WI",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m6": {
+            "p1": "7 Years Resting",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Old School",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m7": {
+            "p1": "Call Gaming",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "High Tier Heros",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m8": {
+            "p1": "Yochida",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Kicks & Slices",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "Neon & Tagless Kyle",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Orville Redenbacher",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Get rich or DI trying",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Sex Train Banditos",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m3": {
+            "p1": "Mash Upsmash",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Old School",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m4": {
+            "p1": "Call Gaming",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Yochida",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Vixen4Fuzz",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Neon & Tagless Kyle",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l6m2": {
+            "p1": "The Box and the Hound",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Sex Train Banditos",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m3": {
+            "p1": "East Coast Chroma",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Mash Upsmash",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l6m4": {
+            "p1": "Gravity Squeeze",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Call Gaming",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l7m1": {
+            "p1": "Neon & Tagless Kyle",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "The Box and the Hound",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l7m2": {
+            "p1": "Mash Upsmash",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Gravity Squeeze",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l8m1": {
+            "p1": "Sex Train Banditos",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Neon & Tagless Kyle",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l8m2": {
+            "p1": "I know your mom's sweet spot",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Mash Upsmash",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Walgreens Pharmacy",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Old School",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "2 Chainz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Orville Redenbacher",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Biropizzas Team",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Neon & Tagless Kyle",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Do not want a team name, our names will do",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "AZ/WI",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "Sex Train Banditos",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Fanfic Enthusiasts",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m17": {
+            "p1": "Shadow Claw",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m18": {
+            "p1": "Salt Support",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Sex Train Banditos",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m19": {
+            "p1": "Yochida",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Karl Marx",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Team-OH",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m20": {
+            "p1": "Blood, Boots, & Booty",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m21": {
+            "p1": "Call Gaming",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m22": {
+            "p1": "Swoldier Squad",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m23": {
+            "p1": "Vixen4Fuzz",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m24": {
+            "p1": "Legendary Men on Fire",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m25": {
+            "p1": "I know your mom's sweet spot",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m26": {
+            "p1": "High Tier Heros",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Teamo Supremeo",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m27": {
+            "p1": "SS Korrasami",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m28": {
+            "p1": "7 Years Resting",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m29": {
+            "p1": "Mash Upsmash",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Loli GAGging",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m30": {
+            "p1": "The Smash Brethren",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m31": {
+            "p1": "The Box and the Hound",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m32": {
+            "p1": "2 Girls 1 Puff",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Kicks & Slices",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Get rich or DI trying",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "The Spanish Inquisition",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "East Coast Chroma",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Damn It Sesh",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Gravity Squeeze",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Walgreens Pharmacy",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Team-OH",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m10": {
+            "p1": "Yochida",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Blood, Boots, & Booty",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m11": {
+            "p1": "Call Gaming",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Swoldier Squad",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m12": {
+            "p1": "Vixen4Fuzz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Legendary Men on Fire",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m13": {
+            "p1": "I know your mom's sweet spot",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Teamo Supremeo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m14": {
+            "p1": "SS Korrasami",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "7 Years Resting",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m15": {
+            "p1": "Mash Upsmash",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "The Smash Brethren",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m16": {
+            "p1": "The Box and the Hound",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "2 Girls 1 Puff",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Loli GAGging",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Kicks & Slices",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Get rich or DI trying",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "The Spanish Inquisition",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "East Coast Chroma",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Damn It Sesh",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Gravity Squeeze",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Old School",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Orville Redenbacher",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Biropizzas Team",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Neon & Tagless Kyle",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "AZ/WI",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Sex Train Banditos",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Fanfic Enthusiasts",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m9": {
+            "p1": "Shadow Claw",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Sex Train Banditos",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Walgreens Pharmacy",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Loli GAGging",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Get rich or DI trying",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "East Coast Chroma",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "Gravity Squeeze",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Orville Redenbacher",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Neon & Tagless Kyle",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Sex Train Banditos",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m5": {
+            "p1": "Shadow Claw",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Yochida",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m6": {
+            "p1": "Call Gaming",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Vixen4Fuzz",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m7": {
+            "p1": "I know your mom's sweet spot",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "7 Years Resting",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m8": {
+            "p1": "Mash Upsmash",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "The Box and the Hound",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "Walgreens Pharmacy",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "East Coast Chroma",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Gravity Squeeze",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Sex Train Banditos",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m3": {
+            "p1": "Shadow Claw",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Vixen4Fuzz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m4": {
+            "p1": "I know your mom's sweet spot",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "The Box and the Hound",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r5m1": {
+            "p1": "Walgreens Pharmacy",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Sex Train Banditos",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r5m2": {
+            "p1": "Shadow Claw",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "I know your mom's sweet spot",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

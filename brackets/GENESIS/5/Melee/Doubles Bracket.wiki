@@ -1,0 +1,214 @@
+{{DISPLAYTITLE:GENESIS 5: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{GENESIS 5 Melee Tabs}}
+==Winners Bracket==
+{{2SEDoublesBracket
+|R1=Winners Semis
+|r1m1t1p1=Armada |r1m1t1p1flag=se
+|r1m1t1p2=Android |r1m1t1p2flag=se |r1m1t1score=2
+|r1m1t2p1=Hungrybox |r1m1t2p1flag=us
+|r1m1t2p2=ChuDat |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+|r1m1t1p1char1=fox |r1m1t1p1stock1=1 |r1m1t1p2char1=sheik |r1m1t1p2stock1=2
+|r1m1t2p1char1=puff |r1m1t2p1stock1=0 |r1m1t2p2char1=ic |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1t1p1char2=fox |r1m1t1p1stock2=0 |r1m1t1p2char2=sheik |r1m1t1p2stock2=0
+|r1m1t2p1char2=puff |r1m1t2p1stock2=2 |r1m1t2p2char2=ic |r1m1t2p2stock2=2 |r1m1win2=2 |r1m1stage2=Final Destination
+|r1m1t1p1char3=fox |r1m1t1p1stock3=1 |r1m1t1p2char3=sheik |r1m1t1p2stock3=1
+|r1m1t2p1char3=puff |r1m1t2p1stock3=0 |r1m1t2p2char3=ic |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Yoshi's Story
+|r1m1t1p1char4=fox |r1m1t1p1stock4=0 |r1m1t1p2char4=sheik |r1m1t1p2stock4=0
+|r1m1t2p1char4=puff |r1m1t2p1stock4=1 |r1m1t2p2char4=ic |r1m1t2p2stock4=1 |r1m1win4=2 |r1m1stage4=Dream Land
+|r1m1t1p1char5=fox |r1m1t1p1stock5=0 |r1m1t1p2char5=sheik |r1m1t1p2stock5=0
+|r1m1t2p1char5=puff |r1m1t2p1stock5=1 |r1m1t2p2char5=ic |r1m1t2p2stock5=2 |r1m1win5=2 |r1m1stage5=Pokémon Stadium
+|r1m1date=January 19, 2018
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=sak1h3TX8gw}}
+}}
+{{2SEDoublesBracket
+|hideroundtitles=true
+|r1m1t1p1=SFAT |r1m1t1p1flag=us
+|r1m1t1p2=PewPewU|r1m1t1p2flag=us |r1m1t1score=2
+|r1m1t2p1=Plup |r1m1t2p1flag=us
+|r1m1t2p2=Mew2King |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+|r1m1t1p1char1=fox |r1m1t1p1stock1=1 |r1m1t1p2char1=marth |r1m1t1p2stock1=1
+|r1m1t2p1char1=fox |r1m1t2p1stock1=0 |r1m1t2p2char1=sheik |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Yoshi's Story
+|r1m1t1p1char2=fox |r1m1t1p1stock2=0 |r1m1t1p2char2=marth |r1m1t1p2stock2=0
+|r1m1t2p1char2=fox |r1m1t2p1stock2=1 |r1m1t2p2char2=sheik |r1m1t2p2stock2=1 |r1m1win2=2 |r1m1stage2=Dream Land
+|r1m1t1p1char3=fox |r1m1t1p1stock3=1 |r1m1t1p2char3=marth |r1m1t1p2stock3=1
+|r1m1t2p1char3=fox |r1m1t2p1stock3=0 |r1m1t2p2char3=marth |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Final Destination
+|r1m1t1p1char4=fox |r1m1t1p1stock4=0 |r1m1t1p2char4=marth |r1m1t1p2stock4=0
+|r1m1t2p1char4=fox |r1m1t2p1stock4=1 |r1m1t2p2char4=sheik |r1m1t2p2stock4=1 |r1m1win4=2 |r1m1stage4=Battlefield
+|r1m1t1p1char5=fox |r1m1t1p1stock5=0 |r1m1t1p2char5=marth |r1m1t1p2stock5=0
+|r1m1t2p1char5=fox |r1m1t2p1stock5=1 |r1m1t2p2char5=fox |r1m1t2p2stock5=1 |r1m1win5=2 |r1m1stage5=Pokémon Stadium
+|r1m1date=January 19, 2018
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=2ueGOU_2qls}}
+}}
+==Losers Bracket==
+{{12DEDoublesLBracketSmwA
+|column-width=150
+|tourneylink=GENESIS/5/Melee
+|tourneyname=GENESIS 5
+|l1placement=9-12
+|l2placement=7-8
+|l3placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Medz |l1m1t1p1flag=us
+|l1m1t1p2=Axe |l1m1t1p2flag=us |l1m1t1score=3
+|l1m1t2p1=Reno |l1m1t2p1flag=us
+|l1m1t2p2=Cactuar |l1m1t2p2flag=us |l1m1t2score=0
+|l1m1win=1
+
+|l1m2t1p1=La Luna |l1m2t1p1flag=us
+|l1m2t1p2=Lucky |l1m2t1p2flag=us |l1m2t1score=3
+|l1m2t2p1=Swedish Delight |l1m2t2p1flag=us
+|l1m2t2p2=MikeHaze |l1m2t2p2flag=us |l1m2t2score=1
+|l1m2win=1
+
+|l1m3t1p1=S2J |l1m3t1p1flag=us
+|l1m3t1p2=Shroomed |l1m3t1p2flag=us |l1m3t1score=3
+|l1m3t2p1=Nintendude |l1m3t2p1flag=us
+|l1m3t2p2=Kage |l1m3t2p2flag=ca |l1m3t2score=2
+|l1m3win=1
+
+|l1m4t1p1=Westballz |l1m4t1p1flag=us
+|l1m4t1p2=Syrox |l1m4t1p2flag=us |l1m4t1score=1
+|l1m4t2p1=Bladewise |l1m4t2p1flag=us
+|l1m4t2p2=Ryan Ford |l1m4t2p2flag=ca |l1m4t2score=3
+|l1m4win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Medz |l2m1t1p1flag=us
+|l2m1t1p2=Axe |l2m1t1p2flag=us |l2m1t1score=2
+|l2m1t2p1=La Luna |l2m1t2p1flag=us
+|l2m1t2p2=Lucky |l2m1t2p2flag=us |l2m1t2score=3
+|l2m1win=2
+|l2m1t1p1char1=fox |l2m1t1p1stock1=0 |l2m1t1p2char1=pikachu |l2m1t1p2stock1=1
+|l2m1t2p1char1=marth |l2m1t2p1stock1=0 |l2m1t2p2char1=fox |l2m1t2p2stock1=0 |l2m1win1=1 |l2m1stage1=Battlefield
+|l2m1t1p1char2=fox |l2m1t1p1stock2=0 |l2m1t1p2char2=pikachu |l2m1t1p2stock2=0
+|l2m1t2p1char2=marth |l2m1t2p1stock2=1 |l2m1t2p2char2=fox |l2m1t2p2stock2=1 |l2m1win2=2 |l2m1stage2=Pokémon Stadium
+|l2m1t1p1char3=fox |l2m1t1p1stock3=1 |l2m1t1p2char3=pikachu |l2m1t1p2stock3=1
+|l2m1t2p1char3=marth |l2m1t2p1stock3=0 |l2m1t2p2char3=fox |l2m1t2p2stock3=0 |l2m1win3=1 |l2m1stage3=Dream Land
+|l2m1t1p1char4=fox |l2m1t1p1stock4=0 |l2m1t1p2char4=pikachu |l2m1t1p2stock4=0
+|l2m1t2p1char4=marth |l2m1t2p1stock4=1 |l2m1t2p2char4=fox |l2m1t2p2stock4=1 |l2m1win4=2 |l2m1stage4=Yoshi's Story
+|l2m1t1p1char5=fox |l2m1t1p1stock5=0 |l2m1t1p2char5=pikachu |l2m1t1p2stock5=0
+|l2m1t2p1char5=marth |l2m1t2p1stock5=1 |l2m1t2p2char5=fox |l2m1t2p2stock5=2 |l2m1win5=2 |l2m1stage5=Final Destination
+|l2m1date=January 19, 2018
+|l2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=A0ZVBNsZKbw}}
+
+|l2m2t1p1=S2J |l2m2t1p1flag=us
+|l2m2t1p2=Shroomed |l2m2t1p2flag=us |l2m2t1score=3
+|l2m2t2p1=Bladewise |l2m2t2p1flag=us
+|l2m2t2p2=Ryan Ford |l2m2t2p2flag=ca |l2m2t2score=0
+|l2m2win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=Armada |l3m1t1p1flag=se
+|l3m1t1p2=Android |l3m1t1p2flag=se |l3m1t1score=3
+|l3m1t2p1=La Luna |l3m1t2p1flag=us
+|l3m1t2p2=Lucky |l3m1t2p2flag=us |l3m1t2score=1
+|l3m1win=1
+|l3m1t1p1char1=peach |l3m1t1p1stock1=1 |l3m1t1p2char1=sheik |l3m1t1p2stock1=1
+|l3m1t2p1char1=marth |l3m1t2p1stock1=0 |l3m1t2p2char1=fox |l3m1t2p2stock1=0 |l3m1win1=1 |l3m1stage1=Battlefield
+|l3m1t1p1char2=peach |l3m1t1p1stock2=0 |l3m1t1p2char2=sheik |l3m1t1p2stock2=0
+|l3m1t2p1char2=marth |l3m1t2p1stock2=2 |l3m1t2p2char2=fox |l3m1t2p2stock2=2 |l3m1win2=2 |l3m1stage2=Pokémon Stadium
+|l3m1t1p1char3=peach |l3m1t1p1stock3=1 |l3m1t1p2char3=sheik |l3m1t1p2stock3=1
+|l3m1t2p1char3=marth |l3m1t2p1stock3=0 |l3m1t2p2char3=fox |l3m1t2p2stock3=0 |l3m1win3=1 |l3m1stage3=Final Destination
+|l3m1t1p1char4=peach |l3m1t1p1stock4=3 |l3m1t1p2char4=sheik |l3m1t1p2stock4=1
+|l3m1t2p1char4=marth |l3m1t2p1stock4=0 |l3m1t2p2char4=fox |l3m1t2p2stock4=0 |l3m1win4=1 |l3m1stage4=Final Destination
+|l3m1date=January 19, 2018
+|l3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=MLKCG4YMbXE}}
+
+|l3m2t1p1=SFAT |l3m2t1p1flag=us
+|l3m2t1p2=PewPewU |l3m2t1p2flag=us |l3m2t1score=3
+|l3m2t2p1=S2J |l3m2t2p1flag=us
+|l3m2t2p2=Shroomed |l3m2t2p2flag=us |l3m2t2score=2
+|l3m2win=1
+|l3m2t1p1char1=fox |l3m2t1p1stock1=0 |l3m2t1p2char1=marth |l3m2t1p2stock1=0
+|l3m2t2p1char1=cf |l3m2t2p1stock1=2 |l3m2t2p2char1=sheik |l3m2t2p2stock1=2 |l3m2win1=2 |l3m2stage1=Battlefield
+|l3m2t1p1char2=fox |l3m2t1p1stock2=1 |l3m2t1p2char2=marth |l3m2t1p2stock2=1
+|l3m2t2p1char2=cf |l3m2t2p1stock2=0 |l3m2t2p2char2=sheik |l3m2t2p2stock2=0 |l3m2win2=1 |l3m2stage2=Final Destination
+|l3m2t1p1char3=fox |l3m2t1p1stock3=0 |l3m2t1p2char3=fox |l3m2t1p2stock3=0
+|l3m2t2p1char3=cf |l3m2t2p1stock3=1 |l3m2t2p2char3=sheik |l3m2t2p2stock3=1 |l3m2win3=2 |l3m2stage3=Dream Land
+|l3m2t1p1char4=fox |l3m2t1p1stock4=1 |l3m2t1p2char4=marth |l3m2t1p2stock4=2
+|l3m2t2p1char4=cf |l3m2t2p1stock4=0 |l3m2t2p2char4=sheik |l3m2t2p2stock4=0 |l3m2win4=1 |l3m2stage4=Yoshi's Story
+|l3m2t1p1char5=fox |l3m2t1p1stock5=2 |l3m2t1p2char5=marth |l3m2t1p2stock5=1
+|l3m2t2p1char5=cf |l3m2t2p1stock5=0 |l3m2t2p2char5=sheik |l3m2t2p2stock5=0 |l3m2win5=1 |l3m2stage5=Pokémon Stadium
+|l3m2date=January 19, 2018
+|l3m2details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=Cg0f3dnbwlY}}
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=GENESIS/5/Melee
+|tourneyname=GENESIS 5
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Hungrybox |r1m1t1p1flag=us
+|r1m1t1p2=ChuDat |r1m1t1p2flag=us |r1m1t1score=0
+|r1m1t2p1=Plup |r1m1t2p1flag=us
+|r1m1t2p2=Mew2King |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+|r1m1t1p1char1=jigglypuff |r1m1t1p1stock1=0 |r1m1t1p2char1=ic |r1m1t1p2stock1=0
+|r1m1t2p1char1=fox |r1m1t2p1stock1=1 |r1m1t2p2char1=marth |r1m1t2p2stock1=1 |r1m1win1=2 |r1m1stage1=Battlefield
+|r1m1t1p1char2=jigglypuff |r1m1t1p1stock2=0 |r1m1t1p2char2=ic |r1m1t1p2stock2=0
+|r1m1t2p1char2=fox |r1m1t2p1stock2=1 |r1m1t2p2char2=jigglypuff |r1m1t2p2stock2=2 |r1m1win2=2 |r1m1stage2=Dream Land
+|r1m1t1p1char3=jigglypuff |r1m1t1p1stock3=0 |r1m1t1p2char3=ic |r1m1t1p2stock3=0
+|r1m1t2p1char3=fox |r1m1t2p1stock3=2 |r1m1t2p2char3=marth |r1m1t2p2stock3=1 |r1m1win3=2 |r1m1stage3=Final Destination
+|r1m1date=January 21, 2018
+|r1m1details={{BracketMatchDetails|reddit=https://www.reddit.com/r/smashbros/comments/7s26rx/genesis_5_doubles_winners_final_hungrybox_chudat/|comment=|vod=https://www.youtube.com/watch?v=PVtZMkGgT7s}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Armada |l1m1t1p1flag=se
+|l1m1t1p2=Android |l1m1t1p2flag=se |l1m1t1score=3
+|l1m1t2p1=SFAT |l1m1t2p1flag=us
+|l1m1t2p2=PewPewU |l1m1t2p2flag=us |l1m1t2score=0
+|l1m1win=1
+|l1m1t1p1char1=fox |l1m1t1p1stock1=2 |l1m1t1p2char1=sheik |l1m1t1p2stock1=2
+|l1m1t2p1char1=fox |l1m1t2p1stock1=0 |l1m1t2p2char1=marth |l1m1t2p2stock1=0 |l1m1win1=1 |l1m1stage1=Pokémon Stadium
+|l1m1t1p1char2=fox |l1m1t1p1stock2=3 |l1m1t1p2char2=sheik |l1m1t1p2stock2=3
+|l1m1t2p1char2=fox |l1m1t2p1stock2=0 |l1m1t2p2char2=marth |l1m1t2p2stock2=0 |l1m1win2=1 |l1m1stage2=Final Destination
+|l1m1t1p1char3=fox |l1m1t1p1stock3=1 |l1m1t1p2char3=sheik |l1m1t1p2stock3=1
+|l1m1t2p1char3=fox |l1m1t2p1stock3=0 |l1m1t2p2char3=marth |l1m1t2p2stock3=0 |l1m1win3=1 |l1m1stage3=Final Destination
+|l1m1date=January 21, 2018
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=8mUC8w7SP3g}}
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Hungrybox |r2m1t1p1flag=us
+|r2m1t1p2=ChuDat |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Armada |r2m1t2p1flag=se
+|r2m1t2p2=Android |r2m1t2p2flag=se |r2m1t2score=2
+|r2m1win=1
+|r2m1t1p1char1=puff |r2m1t1p1stock1=2 |r2m1t1p2char1=ic |r2m1t1p2stock1=2
+|r2m1t2p1char1=fox |r2m1t2p1stock1=0 |r2m1t2p2char1=sheik |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Pokémon Stadium
+|r2m1t1p1char2=puff |r2m1t1p1stock2=2 |r2m1t1p2char2=ic |r2m1t1p2stock2=1
+|r2m1t2p1char2=fox |r2m1t2p1stock2=0 |r2m1t2p2char2=sheik |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Yoshi's Story
+|r2m1t1p1char3=puff |r2m1t1p1stock3=0 |r2m1t1p2char3=ic |r2m1t1p2stock3=0
+|r2m1t2p1char3=fox |r2m1t2p1stock3=1 |r2m1t2p2char3=sheik |r2m1t2p2stock3=1 |r2m1win3=2 |r2m1stage3=Battlefield
+|r2m1t1p1char4=puff |r2m1t1p1stock4=0 |r2m1t1p2char4=ic |r2m1t1p2stock4=0
+|r2m1t2p1char4=fox |r2m1t2p1stock4=2 |r2m1t2p2char4=sheik |r2m1t2p2stock4=1 |r2m1win4=2 |r2m1stage4=Final Destination
+|r2m1t1p1char5=puff |r2m1t1p1stock5=1 |r2m1t1p2char5=ic |r2m1t1p2stock5=1
+|r2m1t2p1char5=fox |r2m1t2p1stock5=0 |r2m1t2p2char5=sheik |r2m1t2p2stock5=0 |r2m1win5=1 |r2m1stage5=Dream Land
+|r2m1date=January 21, 2018
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=eQw3wDY89o8}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Plup |r3m1t1p1flag=us
+|r3m1t1p2=Mew2King |r3m1t1p2flag=us |r3m1t1score=3 |r3m2t1score=
+|r3m1t2p1=Hungrybox |r3m1t2p1flag=us
+|r3m1t2p2=ChuDat |r3m1t2p2flag=us|r3m1t2score=1 |r3m2t2score=
+|r3m1win=1
+|r3m1t1p1char1=fox |r3m1t1p1stock1=0 |r3m1t1p2char1=marth |r3m1t1p2stock1=0
+|r3m1t2p1char1=puff |r3m1t2p1stock1=1 |r3m1t2p2char1=ic |r3m1t2p2stock1=1 |r3m1win1=2 |r3m1stage1=Pokémon Stadium
+|r3m1t1p1char2=fox |r3m1t1p1stock2=1 |r3m1t1p2char2=sheik |r3m1t1p2stock2=3
+|r3m1t2p1char2=puff |r3m1t2p1stock2=0 |r3m1t2p2char2=ic |r3m1t2p2stock2=0 |r3m1win2=1 |r3m1stage2=Yoshi's Story
+|r3m1t1p1char3=fox |r3m1t1p1stock3=1 |r3m1t1p2char3=marth |r3m1t1p2stock3=2
+|r3m1t2p1char3=puff |r3m1t2p1stock3=0 |r3m1t2p2char3=ic |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Final Destination
+|r3m1t1p1char4=fox |r3m1t1p1stock4=1 |r3m1t1p2char4=marth |r3m1t1p2stock4=1
+|r3m1t2p1char4=puff |r3m1t2p1stock4=0 |r3m1t2p2char4=ic |r3m1t2p2stock4=0 |r3m1win4=1 |r3m1stage4=Final Destination
+|r3m1date=January 21, 2018
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=2q_ZTrrmvlo}}
+}}
+</onlyinclude>

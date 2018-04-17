@@ -1,0 +1,113 @@
+{{DISPLAYTITLE:Tipped Off 5: Singles Bracket}}<!--
+-->{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Tipped Off/5
+|name2=Singles Bracket
+|link2=Tipped Off/5/Singles Bracket
+|This=2
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{4DE4SSmwBracket
+|disableheads=true
+|column-width=130
+|tourneylink=Tipped Off/5
+|tourneyname=Tipped Off 5
+|l1placement=7-8
+|l2placement=5-6
+|l3placement=4
+|l4placement=3
+|r5loserplacement=2
+|r5winnerplacement=1
+|export_score=true
+
+<!-- WINNERS BRACKET -->
+|r2m1p1=Hungrybox |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=Dr. PeePee |r2m1p2flag=us |r2m1p2score=0
+|r2m1p1char1=puff |r2m1p2char1=falco |r2m1p1stock1=2 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Final Destination
+|r2m1p1char2=puff |r2m1p2char2=falco |r2m1p1stock2=1 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1date=
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/8Kw5x8u_Wt8}}
+|r2m1win=1
+
+|r2m2p1=Mew2King |r2m2p1flag=us |r2m2p1score=2
+|r2m2p2=Colbol |r2m2p2flag=us |r2m2p2score=1
+|r2m2p1char1=marth |r2m2p2char1=fox |r2m2p1stock1=2 |r2m2p2stock1=0 |r2m2win1=1 |r2m2stage1=Battlefield
+|r2m2p1char2=marth |r2m2p2char2=fox |r2m2p1stock2=0 |r2m2p2stock2=1 |r2m2win2=2 |r2m2stage2=Dream Land
+|r2m2p1char3=marth |r2m2p2char3=fox |r2m2p1stock3=1 |r2m2p2stock3=0 |r2m2win3=1 |r2m2stage3=Yoshi's Story
+|r2m2date=
+|r2m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/F10k_B10leg}}
+|r2m2win=1
+
+|r4m1p1=Hungrybox |r4m1p1flag=us |r4m1p1score=3
+|r4m1p2=Mew2King |r4m1p2flag=us |r4m1p2score=2
+|r4m1p1char1=puff |r4m1p2char1=fox |r4m1p1stock1=1 |r4m1p2stock1=0 |r4m1win1=1 |r4m1stage1=Yoshi's Story
+|r4m1p1char2=puff |r4m1p2char2=fox |r4m1p1stock2=2 |r4m1p2stock2=0 |r4m1win2=1 |r4m1stage2=Pokémon Stadium
+|r4m1p1char3=puff |r4m1p2char3=fox |r4m1p1stock3=0 |r4m1p2stock3=1 |r4m1win3=2 |r4m1stage3=Pokémon Stadium
+|r4m1p1char4=puff |r4m1p2char4=fox |r4m1p1stock4=0 |r4m1p2stock4=1 |r4m1win4=2 |r4m1stage4=Brinstar
+|r4m1p1char5=puff |r4m1p2char5=fox |r4m1p1stock5=1 |r4m1p2stock5=0 |r4m1win5=1 |r4m1stage5=Fountain of Dreams
+|r4m1date=
+|r4m1details={{BracketMatchDetails|vodgame1=https://youtu.be/QPX_zM3TLes|vodgame2=https://youtu.be/QPX_zM3TLes?t=197|vodgame3=https://youtu.be/0g5Z6JwPXLY|vodgame4=https://youtu.be/0g5Z6JwPXLY?t=165|vodgame5=https://youtu.be/VqGqZKsgWm8?t=193}}
+|r4m1win=1
+
+<!-- LOSERS BRACKET -->
+|l1m1p1=Chaddd |l1m1p1flag=us |l1m1p1score=
+|l1m1p2=Lambchops |l1m1p2flag=us |l1m1p2score={{win}}
+|l1m1details={{BracketMatchDetails |comment=According to a post tournament interview with [[Dr. PeePee]], NES n00b played Tope immediately before his match. [[Chaddd]] is the other player tied for 7th, so he must have lost to Lambchops.<ref name="ppmd interview">{{cite web |url=https://youtu.be/mbb1icjvgGw?t=222 |title=Tipped Off 5 - Impromptu Dr. Peepee Interview by toasty, after the tournament |date=2009-09-06 |accessdate=2017-07-08}}</ref>}}
+|l1m1win=2
+
+|l1m2p1=NES n00b |l1m2p1flag=us |l1m2p1score={{win}}
+|l1m2p2=Tope |l1m2p2flag=us |l1m2p2score=
+|l1m2details={{BracketMatchDetails |comment=According to a post tournament interview with [[Dr. PeePee]], NES n00b played Tope immediately before his match.<ref name="ppmd interview" />}}
+|l1m2win=1
+
+|l2m1p1=Colbol |l2m1p1flag=us |l2m1p1score=2
+|l2m1p2=Lambchops |l2m1p2flag=us |l2m1p2score=1
+|l2m1p1char1=fox |l2m1p2char1=falco |l2m1p1stock1=3 |l2m1p2stock1=0 |l2m1win1=1 |l2m1stage1=Dream Land
+|l2m1p1char2=fox |l2m1p2char2=falco |l2m1p1stock2=0 |l2m1p2stock2=2 |l2m1win2=2 |l2m1stage2=Final Destination
+|l2m1p1char3=fox |l2m1p2char3=falco |l2m1p1stock3=1 |l2m1p2stock3=0 |l2m1win3=1 |l2m1stage3=Pokémon Stadium
+|l2m1date=
+|l2m1details={{BracketMatchDetails|comment=|vod=https://youtu.be/gzPzltdb2hI}}
+|l2m1win=1
+
+|l2m2p1=Dr. PeePee |l2m2p1flag=us |l2m2p1score=2
+|l2m2p2=NES n00b |l2m2p2flag=us |l2m2p2score=0
+|l2m2p1char1=falco |l2m2p2char1=falcon |l2m2p1stock1=2 |l2m2p2stock1=0 |l2m2win1=1 |l2m2stage1=Battlefield
+|l2m2p1char2=falco |l2m2p2char2=falcon |l2m2p1stock2=2 |l2m2p2stock2=0 |l2m2win2=1 |l2m2stage2=Pokémon Stadium
+|l2m2date=
+|l2m2details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=ZhKTN0qz3Hs}}
+|l2m2win=1
+
+|l3m1p1=Colbol |l3m1p1flag=us |l3m1p1score=0
+|l3m1p2=Dr. PeePee |l3m1p2flag=us |l3m1p2score=2
+|l3m1p1char1=fox |l3m1p2char1=falco |l3m1p1stock1=0 |l3m1p2stock1=1 |l3m1win1=2 |l3m1stage1=Final Destination
+|l3m1p1char2=fox |l3m1p2char2=falco |l3m1p1stock2=0 |l3m1p2stock2=1 |l3m1win2=2 |l3m1stage2=Final Destination
+|l3m1date=
+|l3m1details={{BracketMatchDetails|vod=https://youtu.be/64PBR1Ecn90}}
+|l3m1win=2
+
+|l4m1p1=Mew2King |l4m1p1flag=us |l4m1p1score=3
+|l4m1p2=Dr. PeePee |l4m1p2flag=us |l4m1p2score=1
+|l4m1p1char1=marth |l4m1p2char1=falco |l4m1p1stock1=3 |l4m1p2stock1=0 |l4m1win1=1 |l4m1stage1=Yoshi's Story
+|l4m1p1char2=marth |l4m1p2char2=falco |l4m1p1stock2=1 |l4m1p2stock2=0 |l4m1win2=1 |l4m1stage2=Dream Land
+|l4m1p1char3=marth |l4m1p2char3=falco |l4m1p1stock3=0 |l4m1p2stock3=1 |l4m1win3=2 |l4m1stage3=Dream Land
+|l4m1p1char4=marth |l4m1p2char4=falco |l4m1p1stock4=3 |l4m1p2stock4=0 |l4m1win4=1 |l4m1stage4=Battlefield
+|l4m1date=
+|l4m1details={{BracketMatchDetails|vodgame1=https://youtu.be/u185QWhZYLc|vodgame2=https://youtu.be/u185QWhZYLc?t=147|vodgame3=https://youtu.be/yRjZBbAAPmA|vodgame4=https://youtu.be/yRjZBbAAPmA?t=265}}
+|l4m1win=1
+
+<!-- GRAND FINALS -->
+|r5m1p1=Hungrybox |r5m1p1flag=us |r5m1p1score=3
+|r5m1p2=Mew2King |r5m1p2flag=us |r5m1p2score=0
+|r5m1p1char1=unknown |r5m1p2char1=unknown |r5m1p1stock1=? |r5m1p2stock1=? |r5m1win1=1 |r5m1stage1=Unknown
+|r5m1p1char2=puff |r5m1p2char2=fox |r5m1p1stock2=1 |r5m1p2stock2=0 |r5m1win2=1 |r5m1stage2=Unknown
+|r5m1p1char3=puff |r5m1p2char3=fox |r5m1p1stock3=1 |r5m1p2stock3=0 |r5m1win3=1 |r5m1stage3=Pokémon Stadium
+|r5m1date=
+|r5m1details={{BracketMatchDetails|comment=The VOD containing game 1 and the contents of game 2 has been lost.|vod=https://www.youtube.com/watch?v=rti50v4x21U}}
+|r5m1win=1
+}}
+</onlyinclude>
+
+==References==
+{{Reflist}}

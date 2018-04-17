@@ -1,0 +1,528 @@
+{
+    "==Losers==": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Grasshoppa",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Chicken Chaser",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Coupkey",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Loyal",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Deep C Squid",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "ruffian",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Samn",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Kuyashii",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Identity Crisis",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Grasshoppa",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Navatar",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chicken Chaser",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "WoK",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Coupkey",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "The Oak",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Loyal",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Tran",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Deep C Squid",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "ORLY",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "ruffian",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Artificial Flavour",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Samn",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m8": {
+            "p1": "Goodin",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Kuyashii",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Identity Crisis",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Navatar",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "WoK",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "The Oak",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Tran",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "ORLY",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Samn",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Goodin",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "JWN l Nightmare",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Identity Crisis",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Stif",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "The Oak",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Hellsing",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "ORLY",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "Toast",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Goodin",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "l5m2": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "l6m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "l6m2": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        }
+    },
+    "==Winners==": {
+        "r1m1": {
+            "p1": "Kalamazhu",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "The Oak",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Deep C Squid",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "WoK",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Toast",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "ruffian",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Beach",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Navatar",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Samn",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Hellsing",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Identity Crisis",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Kuyashii",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Goodin",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Grasshoppa",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Stif",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Artificial Flavour",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chicken Chaser",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "ORLY",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "LuigigoShard",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Coupkey",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "JWN l Nightmare",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Tran",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Loyal",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Kalamazhu",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Goodin",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Stif",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Artificial Flavour",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "ORLY",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "LuigigoShard",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m4": {
+            "p1": "JWN l Nightmare",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Tran",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "The Oak",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "WoK",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Toast",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "Beach",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Navatar",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Hellsing",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Identity Crisis",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Kalamazhu",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Stif",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "LuigigoShard",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "JWN l Nightmare",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Toast",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Beach",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Hellsing",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        },
+        "r4m2": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        }
+    }
+}

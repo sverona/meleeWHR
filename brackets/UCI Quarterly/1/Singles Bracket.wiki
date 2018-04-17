@@ -1,0 +1,318 @@
+{{DISPLAYTITLE:UCI Quarterly 1: Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=UCI Quarterly/1
+|name2=Singles Bracket
+|link2=UCI Quarterly/1/Singles Bracket
+|name3=Doubles Bracket
+|link3=UCI Quarterly/1/Doubles Bracket
+|This=2
+}}
+==Winners Bracket==
+{{16DEWBracketA2
+|tourneylink=UCI Quarterly/1
+|tourneyname=UCI Quarterly 1
+|column-width=150
+<!-- Ro16 -->
+|r1m1p1=Santiago |r1m1p1flag=us |r1m1p1score=2
+|r1m1p2=Sergio |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+
+|r1m2p1=Bizzarro Flame |r1m2p1flag=us |r1m2p1score=DQ
+|r1m2p2=EastCoastJeff |r1m2p2flag=us |r1m2p2score={{win}} 
+|r1m2win=2
+
+|r1m3p1=Ken |r1m3p1flag=us |r1m3p1score=2
+|r1m3p2=xKobayashi |r1m3p2flag=us |r1m3p2score=1
+|r1m3win=1
+
+|r1m4p1=ARMY |r1m4p1flag=us |r1m4p1score=2
+|r1m4p2=Noire |r1m4p2flag=us |r1m4p2score=0
+|r1m4win=1
+
+|r1m5p1=Squid |r1m5p1flag=us |r1m5p1score=2
+|r1m5p2=SacaSuMoto |r1m5p2flag=us |r1m5p2score=0
+|r1m5win=1
+
+|r1m6p1=Kira |r1m6p1flag=us |r1m6p1score=1
+|r1m6p2=mixx |r1m6p2flag=us |r1m6p2score=2 
+|r1m6win=2
+
+|r1m7p1=LuigiKid |r1m7p1flag=us |r1m7p1score=2
+|r1m7p2=CPU |r1m7p2flag=us |r1m7p2score=1
+|r1m7win=1
+
+|r1m8p1=Foxnard |r1m8p1flag=us |r1m8p1score=0
+|r1m8p2=Zeo |r1m8p2flag=us |r1m8p2score=2
+|r1m8win=2
+
+<!-- QUARTERFINALS -->
+|r2m1p1=Santiago |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=EastCoastJeff |r2m1p2flag=us |r2m1p2score=0
+|r2m1win=1
+
+|r2m2p1=Ken |r2m2p1flag=us |r2m2p1score=3
+|r2m2p2=ARMY |r2m2p2flag=us |r2m2p2score=1
+|r2m2win=1
+
+|r2m3p1=Squid |r2m3p1flag=us |r2m3p1score=2
+|r2m3p2=mixx |r2m3p2flag=us |r2m3p2score=3
+|r2m3win=2
+
+|r2m4p1=LuigiKid |r2m4p1flag=us |r2m4p1score=3
+|r2m4p2=Zeo |r2m4p2flag=us |r2m4p2score=1
+|r2m4win=1
+
+<!-- SEMIFINALS -->
+|r3m1p1=Santiago |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Ken |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=sheik |r3m1p2char1=marth |r3m1p1stock1=1 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=sheik |r3m1p2char2=marth |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Yoshi's Story
+|r3m1p1char3=sheik |r3m1p2char3=marth |r3m1p1stock3=1 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Yoshi's Story
+
+|r3m2p1=mixx |r3m2p1flag=us |r3m2p1score=1
+|r3m2p2=LuigiKid |r3m2p2flag=us |r3m2p2score=3
+|r3m2win=
+}}
+==Losers Bracket==
+{{32DELBracketSmwA
+|tourneylink=UCI Quarterly/1
+|tourneyname=UCI Quarterly 1
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+|column-width=150
+
+|l1m1p1=Oli |l1m1p1flag=us |l1m1p1score=2
+|l1m1p2=Jago |l1m1p2flag=us |l1m1p2score=1
+|l1m1win=1
+
+|l1m2p1=NUT |l1m2p1flag=us |l1m2p1score=2
+|l1m2p2=C0XX |l1m2p2flag=us |l1m2p2score=0
+|l1m2win=1
+
+|l1m3p1=YAMS |l1m3p1flag=us |l1m3p1score=0
+|l1m3p2=Mchi |l1m3p2flag=us |l1m3p2score=2
+|l1m3win=2
+
+|l1m4p1=Anto |l1m4p1flag=us |l1m4p1score=2
+|l1m4p2=Kony |l1m4p2flag=us |l1m4p2score=0
+|l1m4win=1
+
+|l1m5p1=Eloy |l1m5p1flag=us |l1m5p1score=1
+|l1m5p2=Devastation |l1m5p2flag=us |l1m5p2score=2
+|l1m5win=2
+
+|l1m6p1=Vavez |l1m6p1flag=us |l1m6p1score=2
+|l1m6p2=Schmoofy |l1m6p2flag=us |l1m6p2score=1
+|l1m6win=1
+
+|l1m7p1=cpak |l1m7p1flag=us |l1m7p1score=1
+|l1m7p2=toastyb |l1m7p2flag=us |l1m7p2score=2
+|l1m7win=2
+
+|l1m8p1=Zack Fair |l1m8p1flag=us |l1m8p1score=1
+|l1m8p2=Neeco |l1m8p2flag=us |l1m8p2score=2
+|l1m8win=2
+
+|l2m1p1=Noire |l2m1p1flag=us |l2m1p1score=2
+|l2m1p2=Oli |l2m1p2flag=us |l2m1p2score=1
+|l2m1win=1
+
+|l2m2p1=xKobayashi |l2m2p1flag=us |l2m2p1score=2
+|l2m2p2=NUT |l2m2p2flag=us |l2m2p2score=0
+|l2m2win=1
+
+|l2m3p1=Bizzarro Flame |l2m3p1flag=us |l2m3p1score=DQ
+|l2m3p2=Mchi |l2m3p2flag=us |l2m3p2score={{win}}
+|l2m3win=2
+
+|l2m4p1=Sergio |l2m4p1flag=us |l2m4p1score=2
+|l2m4p2=Anto |l2m4p2flag=us |l2m4p2score=0
+|l2m4win=1
+
+|l2m5p1=Foxnard |l2m5p1flag=us |l2m5p1score=0
+|l2m5p2=Devastation |l2m5p2flag=us |l2m5p2score=2
+|l2m5win=2
+
+|l2m6p1=CPU |l2m6p1flag=us |l2m6p1score=2
+|l2m6p2=Vavez |l2m6p2flag=us |l2m6p2score=1
+|l2m6win=1
+
+|l2m7p1=Kira |l2m7p1flag=us |l2m7p1score=2
+|l2m7p2=toastyb |l2m7p2flag=us |l2m7p2score=0
+|l2m7win=1
+
+|l2m8p1=SacaSuMoto |l2m8p1flag=us |l2m8p1score=1
+|l2m8p2=Neeco |l2m8p2flag=us |l2m8p2score=2
+|l2m8win=2
+
+|l3m1p1=Noire |l3m1p1flag=us |l3m1p1score=0
+|l3m1p2=xKobayashi |l3m1p2flag=us |l3m1p2score=2
+|l3m1win=2
+
+|l3m2p1=Mchi |l3m2p1flag=us |l3m2p1score=0
+|l3m2p2=Sergio |l3m2p2flag=us |l3m2p2score=2
+|l3m2win=2
+
+|l3m3p1=Devastation |l3m3p1flag=us |l3m3p1score=0
+|l3m3p2=CPU |l3m3p2flag=us |l3m3p2score=2
+|l3m3win=2
+
+|l3m4p1=Kira |l3m4p1flag=us |l3m4p1score=2
+|l3m4p2=Neeco |l3m4p2flag=us |l3m4p2score=0
+|l3m4win=1
+
+|l4m1p1=Squid |l4m1p1flag=us |l4m1p1score=3
+|l4m1p2=xKobayashi |l4m1p2flag=us |l4m1p2score=2
+|l4m1win=1
+
+|l4m2p1=Zeo |l4m2p1flag=us |l4m2p1score=3
+|l4m2p2=Sergio |l4m2p2flag=us |l4m2p2score=1
+|l4m2win=1
+
+|l4m3p1=EastCoastJeff |l4m3p1flag=us |l4m3p1score=3
+|l4m3p2=CPU |l4m3p2flag=us |l4m3p2score=1
+|l4m3win=1
+
+|l4m4p1=ARMY |l4m4p1flag=us |l4m4p1score=3
+|l4m4p2=Kira |l4m4p2flag=us |l4m4p2score=1
+|l4m4win=1
+
+|l5m1p1=Squid |l5m1p1flag=us |l5m1p1score=3
+|l5m1p2=Zeo |l5m1p2flag=us |l5m1p2score=0
+|l5m1win=1
+
+|l5m2p1=EastCoastJeff |l5m2p1flag=us |l5m2p1score=2
+|l5m2p2=ARMY |l5m2p2flag=us |l5m2p2score=3
+|l5m2win=2
+
+
+|l6m1p1=Ken |l6m1p1flag=us |l6m1p1score=0
+|l6m1p2=Squid |l6m1p2flag=us |l6m1p2score=3
+|l6m1win=2
+|l6m1p1char1=marth |l6m1p2char1=falco |l6m1p1stock1=0 |l6m1p2stock1=3 |l6m1win1=2 |l6m1stage1=Battlefield
+|l6m1p1char2=marth |l6m1p2char2=falco |l6m1p1stock2=0 |l6m1p2stock2=1 |l6m1win2=2 |l6m1stage2=Fountain of Dreams
+|l6m1p1char3=marth |l6m1p2char3=falco |l6m1p1stock3=0 |l6m1p2stock3=1 |l6m1win3=2 |l6m1stage3=Fountain of Dreams
+|l6m1date=November 12, 2016
+|l6m1finished=
+|l6m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|l6m2p1=mixx |l6m2p1flag=us |l6m2p1score=2
+|l6m2p2=ARMY |l6m2p2flag=us |l6m2p2score=3
+|l6m2win=2
+|l6m2p1char1=marth |l6m2p2char1=ic |l6m2p1stock1=0 |l6m2p2stock1=1 |l6m2win1=2 |l6m2stage1=Battlefield
+|l6m2p1char2=marth |l6m2p2char2=ic |l6m2p1stock2=0 |l6m2p2stock2=3 |l6m2win2=2 |l6m2stage2=Battlefield
+|l6m2p1char3=marth |l6m2p2char3=ic |l6m2p1stock3=2 |l6m2p2stock3=0 |l6m2win3=1 |l6m2stage3=Battlefield
+|l6m2p1char4=marth |l6m2p2char4=ic |l6m2p1stock4=1 |l6m2p2stock4=0 |l6m2win4=1 |l6m2stage4=Final Destination
+|l6m2p1char5=marth |l6m2p2char5=ic |l6m2p1stock5=0 |l6m2p2stock5=3 |l6m2win5=2 |l6m2stage5=Final Destination
+|l6m2date=November 12, 2016
+|l6m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|export_score=true
+|tourneylink=UCI Quarterly/1
+|tourneyname=UCI Quarterly 1
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=200
+
+<!-- FROM WINNERS -->
+|r1m1p1=Santiago |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=LuigiKid |r1m1p2flag=us |r1m1p2score=2
+|r1m1win=1
+|r1m1p1char1=falco |r1m1p1stock1=1 |r1m1p2char1=luigi |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Final Destination
+|r1m1p1char2=falco |r1m1p1stock2=2 |r1m1p2char2=luigi |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1p1char3=falco |r1m1p1stock3=0 |r1m1p2char3=luigi |r1m1p2stock3=3 |r1m1win3=2 |r1m1stage3=Final Destination
+|r1m1p1char4=falco |r1m1p1stock4=0 |r1m1p2char4=luigi |r1m1p2stock4=1 |r1m1win4=2 |r1m1stage4=Yoshi's Story
+|r1m1p1char5=falco |r1m1p1stock5=2 |r1m1p2char5=luigi |r1m1p2stock5=0 |r1m1win5=1 |r1m1stage5=Pokémon Stadium
+|r1m1date=November 12, 2016
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Squid |l1m1p1flag=us |l1m1p1score=2
+|l1m1p2=ARMY |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=falco |l1m1p1stock1=1 |l1m1p2char1=ic |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Final Destination
+|l1m1p1char2=falco |l1m1p1stock2=0 |l1m1p2char2=ic |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Final Destination
+|l1m1p1char3=falco |l1m1p1stock3=2 |l1m1p2char3=ic |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Yoshi's Story
+|l1m1p1char4=falco |l1m1p1stock4=0 |l1m1p2char4=ic |l1m1p2stock4=1 |l1m1win4=2 |l1m1stage4=Fountain of Dreams
+|l1m1p1char5=falco |l1m1p1stock5=0 |l1m1p2char5=ic |l1m1p2stock5=2 |l1m1win5=2 |l1m1stage5=Dream Land
+|l1m1date=November 12, 2016
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=LuigiKid |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=ARMY |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=luigi |r2m1p1stock1=0 |r2m1p2char1=ic |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Battlefield 
+|r2m1p1char2=luigi |r2m1p1stock2=0 |r2m1p2char2=ic |r2m1p2stock2=3 |r2m1win2=2 |r2m1stage2=Yoshi's Story
+|r2m1p1char3=luigi |r2m1p1stock3=2 |r2m1p2char3=ic |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Yoshi's Story
+|r2m1p1char4=luigi |r2m1p1stock4=2 |r2m1p2char4=ic |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Final Destination
+|r2m1p1char5=luigi |r2m1p1stock5=0 |r2m1p2char5=ic |r2m1p2stock5=1 |r2m1win5=2 |r2m1stage5=Final Destination
+|r2m1date=November 12, 2016
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Santiago |r3m1p1flag=us |r3m1p1score=3 |r3m2p1score=
+|r3m1p2=ARMY |r3m1p2flag=us |r3m1p2score=0 |r3m2p2score=
+|r3m1win=1
+|r3m1p1char1=falco |r3m1p1stock1=2 |r3m1p2char1=ic |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=falco |r3m1p1stock2=1 |r3m1p2char2=ic |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Final Destination
+|r3m1p1char3=falco |r3m1p1stock3=2 |r3m1p2char3=ic |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Final Destination
+|r3m1p1char4= |r3m1p1stock4= |r3m1p2char4= |r3m1p2stock4= |r3m1win4= |r3m1stage4=
+|r3m1p1char5= |r3m1p1stock5= |r3m1p2char5= |r3m1p2stock5= |r3m1win5= |r3m1stage5=
+
+|r3m2p1char1= |r3m2p1stock1= |r3m2p2char1= |r3m2p2stock1= |r3m2win1= |r3m2stage1=
+|r3m2p1char2= |r3m2p1stock2= |r3m2p2char2= |r3m2p2stock2= |r3m2win2= |r3m2stage2=
+|r3m2p1char3= |r3m2p1stock3= |r3m2p2char3= |r3m2p2stock3= |r3m2win3= |r3m2stage3=
+|r3m2p1char4= |r3m2p1stock4= |r3m2p2char4= |r3m2p2stock4= |r3m2win4= |r3m2stage4=
+|r3m2p1char5= |r3m2p1stock5= |r3m2p2char5= |r3m2p2stock5= |r3m2win5= |r3m2stage5=
+|r3m1date=November 12, 2016
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

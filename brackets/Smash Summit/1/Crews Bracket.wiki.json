@@ -1,0 +1,38 @@
+{
+    "==Crews Bracket==": {
+        "r1m1": {
+            "details": {
+                "vod": "https://www.youtube.com/watch?v=0gh0UtAk9Ag"
+            },
+            "p1": "Team Swedish Delight",
+            "p1flag": "",
+            "p1score": "15",
+            "p2": "Team Alex19",
+            "p2flag": "",
+            "p2score": "16",
+            "win": "2"
+        },
+        "r1m2": {
+            "details": {
+                "vod": "https://www.youtube.com/watch?v=wDzuq13ocgg"
+            },
+            "p1": "Team Kage",
+            "p1flag": "",
+            "p1score": "16",
+            "p2": "Team Zhu",
+            "p2flag": "",
+            "p2score": "15",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Team Alex19",
+            "p1flag": "",
+            "p1score": "15",
+            "p2": "Team Kage",
+            "p2flag": "",
+            "p2score": "16",
+            "win": "2"
+        }
+    },
+    "==Full Rosters==": {}
+}

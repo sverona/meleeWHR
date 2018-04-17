@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Oytun",
+            "p1flag": "gb",
+            "p1score": "",
+            "p2": "Modest Major",
+            "p2flag": "gb",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Frenzy",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Frenzy",
+            "p1flag": "gb",
+            "p1score": "",
+            "p2": "Modest Major",
+            "p2flag": "gb",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Professor Pro",
+            "p1flag": "gb",
+            "p1score": "win",
+            "p2": "Modest Major",
+            "p2flag": "gb",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Buckly",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "JayB",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "LELA",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Boggle",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Harvey",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Tempest Peak",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Dearhunter",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "G",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Liberz",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "JayB",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Oytun",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Boggle",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Henley",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Harvey",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Modest Major",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Dearhunter",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Liberz",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Oytun",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Chobos",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Modest Major",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "sCribble",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Oytun",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Chobos",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Modest Major",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Professor Pro",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Buckly",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Modest Major",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "JayB",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Henley",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "LELA",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "sCribble",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Boggle",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Harvey",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Frenzy",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m6": {
+            "p1": "Tempest Peak",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Oytun",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Liberz",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Dearhunter",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Chobos",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "G",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Professor Pro",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Modest Major",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Henley",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "sCribble",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Frenzy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Oytun",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Liberz",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Chobos",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Professor Pro",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "sCribble",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Frenzy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chobos",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        }
+    }
+}

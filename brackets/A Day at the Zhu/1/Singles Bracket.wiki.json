@@ -1,0 +1,287 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "win": "2"
+        },
+        "r1m1": {
+            "win": "1"
+        },
+        "r2m1": {
+            "win": "2"
+        },
+        "r3m1": {
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vodgame1": "https://www.youtube.com/watch?v=TWW60PPZtqk",
+                "vodgame2": "https://www.youtube.com/watch?v=Bts2BzJ_SKs",
+                "vodgame3": "https://www.youtube.com/watch?v=YdbhH8IX1wE",
+                "vodgame4": ""
+            },
+            "p1": "Lucky",
+            "p1char1": "fox",
+            "p1char2": "fox",
+            "p1char3": "fox",
+            "p1flag": "us",
+            "p1score": "3",
+            "p1stock1": "1",
+            "p1stock2": "1",
+            "p1stock3": "1",
+            "p2": "Zhu",
+            "p2char1": "falco",
+            "p2char2": "fox",
+            "p2char3": "fox",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "p2stock3": "0",
+            "stage1": "Yoshi's Story",
+            "stage2": "Yoshi's Story",
+            "stage3": "Battlefield",
+            "win": "1",
+            "win1": "1",
+            "win2": "1",
+            "win3": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "l1m2": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "l1m3": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "l1m4": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "l2m1": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "l2m2": {
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "l2m4": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "l3m1": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "l3m2": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "HomeMadeWaffles",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Tofu",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m2": {
+            "details": {
+                "comment": "",
+                "reddit": "",
+                "vodgame1": "https://www.youtube.com/watch?v=jePFR7UeFIk",
+                "vodgame2": "https://www.youtube.com/watch?v=IVnYhKH8qGs"
+            },
+            "p1": "Zhu",
+            "p1char1": "falco",
+            "p1char2": "falco",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "3",
+            "p1stock2": "1",
+            "p2": "KFC",
+            "p2char1": "fox",
+            "p2char2": "fox",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Final Destination",
+            "stage2": "Pok\u00e9mon Stadium",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        }
+    },
+    "==References==": {},
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Lucky",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "r1m3": {
+            "p1": "Zhu",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "r1m5": {
+            "p1": "HomeMadeWaffles",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": ""
+        },
+        "r1m7": {
+            "p1": "KFC",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Lunin",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Lucky",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Zhu",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "HomeMadeWaffles",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "win": "2"
+        },
+        "r3m1": {
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "HomeMadeWaffles",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Lunin",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        }
+    }
+}

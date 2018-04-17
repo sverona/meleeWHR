@@ -1,0 +1,528 @@
+{
+    "==Losers==": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "theroguetwinkie",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "kyo",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "beta",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "DayDreamin",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Cat",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "dnoz",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "black mamba",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "ym",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "pimp",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "kv",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "grizzly master",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "connor asada",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "KikoMePlease",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "theroguetwinkie",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "forte freak",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "kyo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "KoopaTroopa895",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "DayDreamin",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "tagless kyle",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "dnoz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "neeco",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "black mamba",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "xtr fist mexico",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "pimp",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m7": {
+            "p1": "JoeJoe",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "kv",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "captain faceroll",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "grizzly master",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "KikoMePlease",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "forte freak",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "KoopaTroopa895",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "tagless kyle",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "neeco",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "pimp",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "JoeJoe",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "captain faceroll",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "SFS A Rookie",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "forte freak",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "XTR Medz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "tagless kyle",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "Connor the Kid",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "neeco",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "OXY DendyPretendy",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "JoeJoe",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "SFS A Rookie",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "XTR Medz",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "Connor the Kid",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "OXY DendyPretendy",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "nonsense",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "XTR Medz",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l6m2": {
+            "p1": "Fiction",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Connor the Kid",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        }
+    },
+    "==Winners==": {
+        "r1m1": {
+            "p1": "Fiction",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "black mamba",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "tagless kyle",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "OXY DendyPretendy",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "ym",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "KoopaTroopa895",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "pimp",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Connor the Kid",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "forte freak",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "kv",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "KikoMePlease",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "grizzly master",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "nonsense",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "connor asada",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "theroguetwinkie",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "captain faceroll",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "XTR Medz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "kyo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "JoeJoe",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "beta",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "MikeHaze",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "xtr fist mexico",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "DayDreamin",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "SFS A Rookie",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Cat",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "dnoz",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "neeco",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m9": {
+            "p1": "S2J",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Fiction",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "captain faceroll",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "XTR Medz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "JoeJoe",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "MikeHaze",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "xtr fist mexico",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "SFS A Rookie",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "neeco",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "S2J",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "tagless kyle",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "OXY DendyPretendy",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "KoopaTroopa895",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Connor the Kid",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "forte freak",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "KikoMePlease",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "nonsense",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Fiction",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "XTR Medz",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "MikeHaze",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "SFS A Rookie",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "S2J",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "OXY DendyPretendy",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Connor the Kid",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "nonsense",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "Fiction",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "MikeHaze",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m2": {
+            "p1": "S2J",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "nonsense",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

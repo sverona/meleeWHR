@@ -1,0 +1,601 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "",
+            "p2": "Akatsuki-planta",
+            "p2flag": "ch",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "1",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "win",
+            "p2": "Akatsuki-planta",
+            "p2flag": "ch",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "interview": "",
+                "live": "</onlyinclude>",
+                "lrthread": "",
+                "preview": "",
+                "recap": "",
+                "vod": "https://www.youtube.com/watch?v=Pfl6DcHaAJA"
+            },
+            "finished": "",
+            "p1": "Shloub",
+            "p1char1": "sheik",
+            "p1char2": "sheik",
+            "p1char3": "sheik",
+            "p1char4": "sheik",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p1stock1": "0",
+            "p1stock2": "2",
+            "p1stock3": "1",
+            "p1stock4": "1",
+            "p2": "Jah Ridin'",
+            "p2char1": "luigi",
+            "p2char2": "luigi",
+            "p2char3": "luigi",
+            "p2char4": "luigi",
+            "p2flag": "ch",
+            "p2score": "1",
+            "p2stock1": "1",
+            "p2stock2": "0",
+            "p2stock3": "0",
+            "p2stock4": "0",
+            "stage1": "Battlefield",
+            "stage2": "Fountain of Dreams",
+            "stage3": "Final Destination",
+            "stage4": "Final Destination",
+            "win": "1",
+            "win1": "2",
+            "win2": "1",
+            "win3": "1",
+            "win4": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "vtr",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "butterflybrain",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m5": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Rouse",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m7": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "puckfigger",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l2m1": {
+            "p1": "lgm",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "vtr",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "glod",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "AE.",
+            "p1flag": "ch",
+            "p1score": "",
+            "p2": "butterflybrain",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "arkano",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "dinimere",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Rouse",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "dos",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Akatsuki-planta",
+            "p1flag": "ch",
+            "p1score": "win",
+            "p2": "puckfigger",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Coelum",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "lgm",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "glod",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "butterflybrain",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "arkano",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "dinimere",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "dos",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Akatsuki-planta",
+            "p1flag": "ch",
+            "p1score": "win",
+            "p2": "Coelum",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Copernicus",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "lgm",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Poney",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "arkano",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "dos",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Prof_Jim",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Akatsuki-planta",
+            "p2flag": "ch",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Copernicus",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Poney",
+            "p2flag": "fr",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Akatsuki-planta",
+            "p2flag": "ch",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "win",
+            "p2": "Copernicus",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "quicksike",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Akatsuki-planta",
+            "p2flag": "ch",
+            "p2score": "win",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "arkano",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Rouse",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "AE.",
+            "p1flag": "ch",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Prof_Jim",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "glod",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "puckfigger",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "lgm",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Coelum",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "vtr",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Akatsuki-planta",
+            "p1flag": "ch",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Poney",
+            "p1flag": "fr",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "quicksike",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "dos",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "butterflybrain",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Copernicus",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "dinimere",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "win",
+            "p2": "Coelum",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Akatsuki-planta",
+            "p1flag": "ch",
+            "p1score": "",
+            "p2": "Poney",
+            "p2flag": "fr",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "quicksike",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "dos",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Copernicus",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "dinimere",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "win",
+            "p2": "arkano",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "AE.",
+            "p1flag": "ch",
+            "p1score": "",
+            "p2": "Prof_Jim",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "glod",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "lgm",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "win",
+            "p2": "Poney",
+            "p2flag": "fr",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "quicksike",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Copernicus",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "win",
+            "p2": "Prof_Jim",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "win",
+            "p2": "Scriptor",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "win",
+            "p2": "quicksike",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "win",
+            "win": "2"
+        }
+    }
+}

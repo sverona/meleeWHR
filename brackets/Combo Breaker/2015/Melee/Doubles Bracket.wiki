@@ -1,0 +1,78 @@
+{{DISPLAYTITLE:Combo Breaker 2015: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Combo Breaker/2015/Melee
+|name2=Singles Pools
+|link2=Combo Breaker/2015/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Combo Breaker/2015/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=Combo Breaker/2015/Melee/Doubles Bracket
+|This=4
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesBracket
+<!-- FROM WINNERS -->
+|r1m1t1p1=The Moon |r1m1t1p1flag=us
+|r1m1t1p2=DJ Nintendo |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=Dart |r1m1t2p1flag=us
+|r1m1t2p2=Darkrain |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1win=1
+|r1m1t1p1char1=fox |r1m1t1p1stock1=2 |r1m1t1p2char1=fox |r1m1t1p2stock1=1
+|r1m1t2p1char1=marth |r1m1t2p1stock1=0 |r1m1t2p2char1=cf |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1t1p1char2=fox |r1m1t1p1stock2=1 |r1m1t1p2char2=fox |r1m1t1p2stock2=2
+|r1m1t2p1char2=marth |r1m1t2p1stock2=0 |r1m1t2p2char2=cf |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1t1p1char3=fox |r1m1t1p1stock3=0 |r1m1t1p2char3=fox |r1m1t1p2stock3=2
+|r1m1t2p1char3=marth |r1m1t2p1stock3=0 |r1m1t2p2char3=cf |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Final Destination
+|r1m1date=
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=zh0nOuKlXSw}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Frootloop |l1m1t1p1flag=us
+|l1m1t1p2=Mundungu |l1m1t1p2flag=us |l1m1t1score=3
+|l1m1t2p1=ORLY |l1m1t2p1flag=us
+|l1m1t2p2=Cosmo |l1m1t2p2flag=us |l1m1t2score=1
+|l1m1win=1
+|l1m1t1p1char1=fox |l1m1t1p1stock1=2 |l1m1t1p2char1=fox |l1m1t1p2stock1=1
+|l1m1t2p1char1=cf |l1m1t2p1stock1=0 |l1m1t2p2char1=fox |l1m1t2p2stock1=0 |l1m1win1=1 |l1m1stage1=Dream Land
+|l1m1t1p1char2=fox |l1m1t1p1stock2=0 |l1m1t1p2char2=fox |l1m1t1p2stock2=0
+|l1m1t2p1char2=cf |l1m1t2p1stock2=1 |l1m1t2p2char2=marth |l1m1t2p2stock2=1 |l1m1win2=2 |l1m1stage2=Yoshi's Story
+|l1m1t1p1char3=fox |l1m1t1p1stock3=4 |l1m1t1p2char3=fox |l1m1t1p2stock3=2
+|l1m1t2p1char3=cf |l1m1t2p1stock3=0 |l1m1t2p2char3=marth |l1m1t2p2stock3=0 |l1m1win3=1 |l1m1stage3=Pokémon Stadium
+|l1m1t1p1char4=fox |l1m1t1p1stock4=3 |l1m1t1p2char4=fox |l1m1t1p2stock4=1
+|l1m1t2p1char4=cf |l1m1t2p1stock4=0 |l1m1t2p2char4=marth |l1m1t2p2stock4=0 |l1m1win4=1 |l1m1stage4=Battlefield
+|l1m1date=
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=KxIb3fiet60}}
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Dart |r2m1t1p1flag=us
+|r2m1t1p2=Darkrain |r2m1t1p2flag=us |r2m1t1score=0
+|r2m1t2p1=Frootloop |r2m1t2p1flag=us
+|r2m1t2p2=Mundungu |r2m1t2p2flag=us |r2m1t2score=3
+|r2m1win=2
+|r2m1t1p1char1=cf |r2m1t1p1stock1=0 |r2m1t1p2char1=marth |r2m1t1p2stock1=0
+|r2m1t2p1char1=fox |r2m1t2p1stock1=1 |r2m1t2p2char1=fox |r2m1t2p2stock1=0 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1t1p1char2=cf |r2m1t1p1stock2=0 |r2m1t1p2char2=marth |r2m1t1p2stock2=0
+|r2m1t2p1char2=fox |r2m1t2p1stock2=2 |r2m1t2p2char2=fox |r2m1t2p2stock2=1 |r2m1win2=2 |r2m1stage2=Final Destination
+|r2m1t1p1char3=cf |r2m1t1p1stock3=0 |r2m1t1p2char3=marth |r2m1t1p2stock3=0
+|r2m1t2p1char3=fox |r2m1t2p1stock3=2 |r2m1t2p2char3=fox |r2m1t2p2stock3=1 |r2m1win3=2 |r2m1stage3=Pokémon Stadium
+|r2m1date=
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=sQ-hmH5ISms}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=The Moon |r3m1t1p1flag=us
+|r3m1t1p2=DJ Nintendo |r3m1t1p2flag=us |r3m1t1score=3
+|r3m1t2p1=Frootloop |r3m1t2p1flag=us
+|r3m1t2p2=Mundungu |r3m1t2p2flag=us |r3m1t2score=0
+|r3m1win=1
+|r3m1t1p1char1=fox |r3m1t1p1stock1=1 |r3m1t1p2char1=fox |r3m1t1p2stock1=1
+|r3m1t2p1char1=fox |r3m1t2p1stock1=0 |r3m1t2p2char1=fox |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1t1p1char2=fox |r3m1t1p1stock2=1 |r3m1t1p2char2=fox |r3m1t1p2stock2=2
+|r3m1t2p1char2=fox |r3m1t2p1stock2=0 |r3m1t2p2char2=fox |r3m1t2p2stock2=0 |r3m1win2=1 |r3m1stage2=Dream Land
+|r3m1t1p1char3=fox |r3m1t1p1stock3=1 |r3m1t1p2char3=fox |r3m1t1p2stock3=2
+|r3m1t2p1char3=fox |r3m1t2p1stock3=0 |r3m1t2p2char3=fox |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Dream Land
+|r3m1date=
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=_J_8AGCzMIk}}
+}}
+</onlyinclude>

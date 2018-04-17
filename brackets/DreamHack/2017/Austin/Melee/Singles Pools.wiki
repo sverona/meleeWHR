@@ -1,0 +1,527 @@
+{{DISPLAYTITLE:DreamHack Austin 2017: ''Melee'' Singles Pools}}{{SetGame|melee}}
+{{DreamHack Austin 2017 Melee Tabs|This=2}}
+==Wave A==
+{{Box|start|padding=2em}}
+{{HiddenSort|===A1===}}
+{{GroupTableStart |Bracket A1|width=300px}}
+{{GroupTableSlot|SFOP|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|UUAA|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Rick|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Jaime_EX|flag=us|win_m=5|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Alex|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Fluke|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|TADEO|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|kevinw0w|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|BOOR|flag=jp|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|mindlessperson|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|toxic_sock|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Mighty|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|2DS|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Toph|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Synthesis|flag=|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Alejandro|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Xteve|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Cucumber Benepact|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Erzengel|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Cuando|flag=|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Armada|flag=se|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|C-Dub$|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|MassKirbycide|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|tpcFalcon|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Cjefe|flag=|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Trichta|flag=de|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Bread|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===A2===}}
+{{GroupTableStart |Bracket A2|width=300px}}
+{{GroupTableSlot|Hungrybox|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Ginta|flag=us|win_m=5|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|ALP|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Tirno|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Sandy|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Zhea|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Little ShOcKeR|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Nevake|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|choochoo|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Checkmate|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Halqery|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Bok Choy|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|cooltigerdude|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|BitterKing|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Ramrow|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|MitchMC|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|castdluna|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|VasT|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|dtmp|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Iceman|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Dap|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|ITzCrazyAngel|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Remdawg|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Sivais|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Trademark T|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|YoRHa No.3 Type S|flag=|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Sorry|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===A3===}}
+{{GroupTableStart |Bracket A3|width=300px}}
+{{GroupTableSlot|Android|flag=se|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|DonB|flag=au|win_m=6|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Axe|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|JF|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Flowers|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|BLOCKHEAD|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|JamminJello|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Steve|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|corkbread|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Ein|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Walnut|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Ashikabi|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Soreman|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Pung|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|El Capítán|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Flashie|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Lify|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|ArmadaSlayer69|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|yarn|flag=ca|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Luderrr|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Cyphus|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Prevaloir|flag=|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|HoodSayian|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Han-kid|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|sixteenbit|flag=|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|boynder|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Crafty|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===A4===}}
+{{GroupTableStart |Bracket A4|width=300px}}
+{{GroupTableSlot|n0ne|flag=ni|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Jeff Foxworthy|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|MacD|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Peachy Keen|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Sourdough|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Starr|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|bliu|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Haipe|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Mush|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Turtleskeet|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|PPB|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Gonzo|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Chainz|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Panda|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Mugiwara Marsh|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Anthem|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Bolimar|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|FUFa|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Xane|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Slacker298|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Big Nate|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Oni|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Blizzy Nuggs|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|revoK|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Joseph|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Paid2Spade|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Palaver|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Qannyen|flag=|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}
+
+==Wave B==
+{{Box|start|padding=2em}}
+{{HiddenSort|===B1===}}
+{{GroupTableStart |Bracket B1|width=300px}}
+{{GroupTableSlot|Shroomed|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Tuesday|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|HugS|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Bean|flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Rowf|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Stoned Toddler|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Gerb|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|SS {{!}} Brother Rob|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|GradyMac|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|dGon|flag=|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|CosmicCreator|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Gspn|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|niman|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Rusty|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Big D|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Daffle|flag=af|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Preme|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Lamb|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|PrettySwift|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Limitid|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|GorillA|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|BeastlyG|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Raalts|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Ringler|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|RedShirt|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Apogee|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|MA$TERMIND|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Nootson|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===B2===}}
+{{GroupTableStart |Bracket B2|width=300px}}
+{{GroupTableSlot|ChuDat|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Chris Best|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|El Fuego|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Younger|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Brr|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|bobby big ballz|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Ion|flag=|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Matches|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Burt|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|flarebear|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Apeezy|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|CJ|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Gob|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Lgoon|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Nitrolibre|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Maridona|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|SpaZ|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Pyrate|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|FrostedTips|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|DopyMuffins|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Icefire|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|SaSSy|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|dueduehead|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Vroxict|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|xornism|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|typo|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Andonna|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===B3===}}
+{{GroupTableStart |Bracket B3|width=300px}}
+{{GroupTableSlot|Crush|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Trademark|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|S2J|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Blue Jay|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Noops|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|E-tos|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|PeachTea|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|envy|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|JNasty|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Gabi|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|PacDan|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Whispy|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|JELLO|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Dong Squared|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|kittydisco|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Kibitzers|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|SofaBear|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Shift|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|PaoloTheDon|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|VITAL_FUSION|flag=gb|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|jd|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|TheNewCSLewis|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|hestoned|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Tchaukovsky|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|God Doom|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|PhD|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|tr00t|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Parker Crowley|flag=|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===B4===}}
+{{GroupTableStart |Bracket B4|width=300px}}
+{{GroupTableSlot|Mew2King|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Aperture|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|NY Joey|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Logos|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Studkip|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Ol' Dirty|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Spudos|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Happens|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Izeron|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Mike Dank|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|WoogieBoogie|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|El Toro|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|fluke|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Spurs9ster|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|pizzsa|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Captain|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|FAILo|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|PARK|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Magnum|flag=|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Filippe|flag=br|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Ivanooz|flag=|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|TheFern|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|ChedderB0b|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Johnnycamine|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|TGI|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Hail|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Nigel Won Jinn|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}
+
+==Wave C==
+{{Box|start|padding=2em}}
+{{HiddenSort|===C1===}}
+{{GroupTableStart |Bracket C1|width=300px}}
+{{GroupTableSlot|Leffen|flag=se|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Albert|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Valdo|flag=mx|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Flux|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Ram|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Overdrive|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Lechero|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Timestop|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Farbog|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Kizu|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Treetrunks|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Legion|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|hubsrico|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|TC|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Lucifer|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|hei5|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Frodan|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Sad1stic|flag=|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Cooper|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Miyata|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|IV|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Clean Calf|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|DeadlyShoc|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Hiruka|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|a bird|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Several Giraffes|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Hawk|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===C2===}}
+{{GroupTableStart |Bracket C2|width=300px}}
+{{GroupTableSlot|SFAT|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Crunch|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Mojo|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Pax|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|X-Rey|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Vash|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Scorpion|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|DarkGenex|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Fuzzard|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Tanooki|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|SkullKid|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Sunnyknight|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|palm|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Caesar|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Paulinus|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Ace|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|DeusEx Valentine|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|ChefSully|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Krabbs|flag=|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Jakulo|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|KiTsuNe|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Dive|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|morocco gaming|flag=ma|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Sig|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Yeti|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Lane|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Watah|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===C3===}}
+{{GroupTableStart |Bracket C3|width=300px}}
+{{GroupTableSlot|Plup|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|MojoMonkey|flag=ca|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Chandy|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Tafokints|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|BCBandit|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Dr. GG|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|HNIC|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Coda|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Phazon|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|KM|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Mattix|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|GP|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Jukebox|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|TheUkuleleGuy|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Sworderailer|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Thiefy|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Koala|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Xenorev|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Equinox|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|wooter|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|DiscountMoose|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|NoobishSquirtle|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|iMissHer|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|DUGLS|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|HugeHoy|flag=|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|ShroomTaco|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|dangoer goingrtsahhe|flag=gb|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===C4===}}
+{{GroupTableStart |Bracket C4|width=300px}}
+{{GroupTableSlot|Duck|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|gaR|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Chillindude|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|GulfCoastBrian|flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Ziggy Stardust|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Vinyl|flag=us|win_m=4|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Ryze|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Virchu|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Bread|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Papa No John's|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Blooangel|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Yuno|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Krell|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Yazz777|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Zug|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Mikeffect|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|MMF|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Shadow Light Master|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|SevnXI|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Jostar|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|VoiD|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Woodoo|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Tempa|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Hutch|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|`BreeZy|flag=|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Melkiah|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|JustVic|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Engdrew|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}
+
+==Wave D==
+{{Box|start|padding=2em}}
+{{HiddenSort|===D1===}}
+{{GroupTableStart |Bracket D1|width=300px}}
+{{GroupTableSlot|Mango|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|LK|flag=pr|win_m=5|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Ken|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Dawn|flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Kandyman|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Snowy|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Unidex|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Shab|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|gh0st|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Ardent Rage|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Cheetos|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|RagingCherry|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|CFH|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Ring|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|quakez|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Wine|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Kid Crimson|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Lazerkitten|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Dallin|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|der|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Saltforce|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|InstantClassic|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|H4 Nade|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|MerK|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|TeddyBehr|flag=de|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|sat00f|flag=|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Squirrel|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===D2===}}
+{{GroupTableStart |Bracket D2|width=300px}}
+{{GroupTableSlot|Wizzrobe|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Bananas|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Laudandus|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Lectril|flag=us|win_m=5|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Lgt|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|AG|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Poison|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Brolylegs|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|argyle|flag=us|win_m=3|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Pika God|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Brane|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|malo|flag=mx|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|christopkek|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|babygotbackup|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|A1c4pwn|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|zachimon|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|GreyArsenic|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Chazay|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|DDF|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|ZAXO|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Dunder|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|EGO|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Cheiftain|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Kapzillion|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Cpt. Sack|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|The Rod|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|TheGhostBustr|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===D3===}}
+{{GroupTableStart |Bracket D3|width=300px}}
+{{GroupTableSlot|Westballz|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Webwipe|flag=ca|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Gahtzu|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|SpaceAnimalz.com|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|LaundryMatt|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Nihlus|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|ChetMagongalo|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|PikaPastor|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Woxy|flag=|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Remo|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Mouse|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Doot|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Hackerz|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Sphinx|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|BustaShines|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|=Do0m|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Lex|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|holyfriedmonkey|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Zyko|flag=|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Lucid|flag=|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Lupe|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Hated|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|osks|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Buns|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|pogdee|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|At0m|flag=|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Smithville|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Flunzy|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+
+{{HiddenSort|===D4===}}
+{{GroupTableStart |Bracket D4|width=300px}}
+{{GroupTableSlot|MikeHaze|flag=us|win_m=4|lose_m=0|place=2|bg=up|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Jake13|flag=us|win_m=4|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Syrox|flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|DreamHack/2017/Austin/Melee/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Big_Red_|flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|P3stkilla|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|the lil d that could|flag=us|win_m=5|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|MicroWade|flag=us|win_m=4|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|bensw|flag=us|win_m=3|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Krispy|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|fern|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|p2|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Bobo|flag=us|win_m=2|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Yushin|flag=us|win_m=2|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|I'm Bill|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Sultan|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Teaspoon|flag=us|win_m=1|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|YoYo|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Tyler|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Shoryu Drew|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|iko|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|suitupalex|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Pride|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|MichaelPangaea|flag=us|win_m=1|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|KTex|flag=us|win_m=0|lose_m=2|place=17|bg=down}}
+{{GroupTableSlot|Amiiboy|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|FlightOfEagles|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Pal|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableSlot|Cr00t|flag=us|win_m=0|lose_m=2|place=25|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}

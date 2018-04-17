@@ -1,0 +1,271 @@
+{{DISPLAYTITLE:Super Bit Wars 4: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Super Bit Wars/4/Melee
+|name2=Singles Bracket
+|link2=Super Bit Wars/4/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=Super Bit Wars/4/Melee/Doubles Bracket
+|This=2
+}}
+==Winners Bracket==
+{{16DEWBracketA2
+|tourneylink=Super Bit Wars/4/Melee
+|tourneyname=Super Bit Wars 4
+|column-width=160
+<!-- Ro16 -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=2
+|r1m1p2=LDB |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+
+|r1m2p1=Mouf |r1m2p1flag=us |r1m2p1score=2
+|r1m2p2=dansdaman |r1m2p2flag=us |r1m2p2score=1
+|r1m2win=1
+
+|r1m3p1=Hazygoose |r1m3p1flag=us |r1m3p1score=2
+|r1m3p2=Aileron |r1m3p2flag=us |r1m3p2score=1
+|r1m3win=1
+
+|r1m4p1=JF |r1m4p1flag=us |r1m4p1score=2
+|r1m4p2=Woogity Wu |r1m4p2flag=us |r1m4p2score=0
+|r1m4win=1
+
+|r1m5p1=ARC |r1m5p1flag=us |r1m5p1score=2
+|r1m5p2=ewd444 |r1m5p2flag=us |r1m5p2score=0
+|r1m5win=1
+
+|r1m6p1=Schythed |r1m6p1flag=us |r1m6p1score=2
+|r1m6p2=Dyl |r1m6p2flag=us |r1m6p2score=0
+|r1m6win=1
+
+|r1m7p1=Bobby Frizz |r1m7p1flag=us |r1m7p1score=2
+|r1m7p2=WaterlessFishie |r1m7p2flag=us |r1m7p2score=0
+|r1m7win=1
+|r1m7p1char1=fox |r1m7p2char1=fox |r1m7p1stock1=3 |r1m7p2stock1=0 |r1m7win1=1 |r1m7stage1=Battlefield
+|r1m7p1char2=falco |r1m7p2char2=fox |r1m7p1stock2=2 |r1m7p2stock2=0 |r1m7win2=1 |r1m7stage2=Final Destination
+|r1m7date=February 21, 2016
+|r1m7details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/QnS_snvWxLs}}
+
+|r1m8p1=Thoraxe |r1m8p1flag=us |r1m8p1score=2
+|r1m8p2=Yardo |r1m8p2flag=us |r1m8p2score=0
+|r1m8win=1
+
+<!-- QUARTERFINALS -->
+|r2m1p1=Mew2King |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=Mouf |r2m1p2flag=us |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=marth |r2m1p2char1=peach |r2m1p1stock1=3 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Fountain of Dreams
+|r2m1p1char2=marth |r2m1p2char2=peach |r2m1p1stock2=4 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1date=February 21, 2016
+|r2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/NTH5Cp6ZQlM}}
+
+|r2m2p1=Hazygoose |r2m2p1flag=us |r2m2p1score=0
+|r2m2p2=JF |r2m2p2flag=us |r2m2p2score=2
+|r2m2win=2
+|r2m2p1char1=sheik |r2m2p2char1=sheik |r2m2p1stock1=2 |r2m2p2stock1=0 |r2m2win1=1 |r2m2stage1=Fountain of Dreams
+|r2m2p1char2=sheik |r2m2p2char2=sheik |r2m2p1stock2=1 |r2m2p2stock2=0 |r2m2win2=1 |r2m2stage2=Yoshi's Story
+|r2m2date=February 21, 2016
+|r2m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/AibmPoQq5Tk}}
+
+|r2m3p1=ARC |r2m3p1flag=us |r2m3p1score=2
+|r2m3p2=Schythed |r2m3p2flag=us |r2m3p2score=0
+|r2m3win=1
+|r2m3p1char1=marth |r2m3p2char1=cf |r2m3p1stock1=3 |r2m3p2stock1=0 |r2m3win1=1 |r2m3stage1=Battlefield
+|r2m3p1char2=marth |r2m3p2char2=ganon |r2m3p1stock2=1 |r2m3p2stock2=0 |r2m3win2=1 |r2m3stage2=Battlefield
+|r2m3date=February 21, 2016
+|r2m3details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/Vdm9WbrPZfw}}
+
+|r2m4p1=Bobby Frizz |r2m4p1flag=us |r2m4p1score=2
+|r2m4p2=Thoraxe |r2m4p2flag=us |r2m4p2score=0
+|r2m4win=1
+|r2m4p1char1=fox |r2m4p2char1=fox |r2m4p1stock1=1 |r2m4p2stock1=0 |r2m4win1=1 |r2m4stage1=Battlefield
+|r2m4p1char2=fox |r2m4p2char2=fox |r2m4p1stock2=1 |r2m4p2stock2=0 |r2m4win2=1 |r2m4stage2=Pokémon Stadium
+|r2m4date=February 21, 2016
+|r2m4details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/Fzr82noMLDE}}
+
+<!-- SEMIFINALS -->
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=JF |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=sheik |r3m1p2char1=sheik |r3m1p1stock1=2 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=sheik |r3m1p2char2=sheik |r3m1p1stock2=2 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Battlefield
+|r3m1p1char3=sheik |r3m1p2char3=sheik |r3m1p1stock3=4 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Battlefield
+|r3m1date=February 21, 2016
+|r3m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/qlzJxwt2BNQ}}
+
+|r3m2p1=ARC |r3m2p1flag=us |r3m2p1score=3
+|r3m2p2=Bobby Frizz |r3m2p2flag=us |r3m2p2score=0
+|r3m2win=1
+|r3m2p1char1=marth |r3m2p2char1=fox |r3m2p1stock1=2 |r3m2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2p1char2=marth |r3m2p2char2=fox |r3m2p1stock2=1 |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Battlefield
+|r3m2p1char3=marth |r3m2p2char3=fox |r3m2p1stock3=1 |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Dream Land
+|r3m2date=February 21, 2016
+|r3m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/v70-1cRHYNk}}
+}}
+==Losers Bracket==
+{{32DELBracketSmwA
+|tourneylink=Super Bit Wars/4/Melee
+|tourneyname=Super Bit Wars 4
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+
+|l1m1p1=GaurdKnight |l1m1p1flag=us |l1m1p1score=2 |l1m1win=1
+|l1m1p2=Poog |l1m1p2flag=us |l1m1p2score=0
+|l1m2p1=JTurley |l1m2p1flag=us |l1m2p1score=0 |l1m2win=2
+|l1m2p2=DayZ |l1m2p2flag=us |l1m2p2score=2
+|l1m3p1=Sambr |l1m3p1flag=us |l1m3p1score=2 |l1m3win=1
+|l1m3p2=Studkip |l1m3p2flag=us |l1m3p2score=0
+|l1m4p1=Nintendoman |l1m4p1flag=us |l1m4p1score=DQ |l1m4win=2
+|l1m4p2=denec |l1m4p2flag=us |l1m4p2score={{win}}
+|l1m5p1=Handles |l1m5p1flag=us |l1m5p1score=2 |l1m5win=1
+|l1m5p2=Dragedo |l1m5p2flag=us |l1m5p2score=0
+|l1m6p1=Wohlgey |l1m6p1flag=us |l1m6p1score=0 |l1m6win=2
+|l1m6p2=Mijo! |l1m6p2flag=us |l1m6p2score=2
+|l1m7p1=greenwalk |l1m7p1flag=us |l1m7p1score=2 |l1m7win=1
+|l1m7p2=FrenchFry |l1m7p2flag=us |l1m7p2score=0
+|l1m8p1=ObamaLlama |l1m8p1flag=us |l1m8p1score={{win}} |l1m8win=1
+|l1m8p2=Mervis |l1m8p2flag=us |l1m8p2score=DQ
+
+|l2m1p1=LDB |l2m1p1flag=us |l2m1p1score=0 |l2m1win=2
+|l2m1p2=GaurdKnight |l2m1p2flag=us |l2m1p2score=2
+|l2m2p1=dansdaman |l2m2p1flag=us |l2m2p1score=2 |l2m2win=1
+|l2m2p2=DayZ |l2m2p2flag=us |l2m2p2score=0
+|l2m3p1=Aileron |l2m3p1flag=us |l2m3p1score=2 |l2m3win=1
+|l2m3p2=Sambr |l2m3p2flag=us |l2m3p2score=0
+|l2m4p1=Woogity Wu |l2m4p1flag=us |l2m4p1score=2 |l2m4win=1
+|l2m4p2=denec |l2m4p2flag=us |l2m4p2score=0
+|l2m5p1=ewd444 |l2m5p1flag=us |l2m5p1score=2 |l2m5win=1
+|l2m5p2=Handles |l2m5p2flag=us |l2m5p2score=0
+|l2m6p1=Dyl |l2m6p1flag=us |l2m6p1score=0 |l2m6win=2
+|l2m6p2=Mijo! |l2m6p2flag=us |l2m6p2score=2
+|l2m7p1=WaterlessFishie |l2m7p1flag=us |l2m7p1score=2 |l2m7win=1
+|l2m7p2=greenwalk |l2m7p2flag=us |l2m7p2score=0
+|l2m8p1=Yardo |l2m8p1flag=us |l2m8p1score=0 |l2m8win=2
+|l2m8p2=ObamaLlama |l2m8p2flag=us |l2m8p2score=2
+
+|l3m1p1=GaurdKnight |l3m1p1flag=us |l3m1p1score=0 |l3m1win=2
+|l3m1p2=dansdaman |l3m1p2flag=us |l3m1p2score=2
+|l3m1p1char1=marth |l3m1p2char1=sheik |l3m1p1stock1=0 |l3m1p2stock1=1 |l3m1win1=2 |l3m1stage1=Battlefield
+|l3m1p1char2=marth |l3m1p2char2=sheik |l3m1p1stock2=0 |l3m1p2stock2=2 |l3m1win2=2 |l3m1stage2=Fountain of Dreams
+|l3m1date=February 21, 2016
+|l3m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/pJUlwrfS704}}
+
+|l3m2p1=Aileron |l3m2p1flag=us |l3m2p1score=0 |l3m2win=2
+|l3m2p2=Woogity Wu |l3m2p2flag=us |l3m2p2score=2
+|l3m3p1=ewd444 |l3m3p1flag=us |l3m3p1score=1 |l3m3win=2
+|l3m3p2=Mijo! |l3m3p2flag=us |l3m3p2score=2
+|l3m4p1=WaterlessFishie |l3m4p1flag=us |l3m4p1score=2 |l3m4win=1
+|l3m4p2=ObamaLlama |l3m4p2flag=us |l3m4p2score=1
+
+|l4m1p1=Thoraxe |l4m1p1flag=us |l4m1p1score=2 |l4m1win=1
+|l4m1p2=dansdaman |l4m1p2flag=us |l4m1p2score=0
+|l4m1p1char1=fox |l4m1p2char1=sheik |l4m1p1stock1=1 |l4m1p2stock1=0 |l4m1win1=1 |l4m1stage1=Dream Land
+|l4m1p1char2=fox |l4m1p2char2=sheik |l4m1p1stock2=3 |l4m1p2stock2=0 |l4m1win2=1 |l4m1stage2=Battlefield
+|l4m1date=February 21, 2016
+|l4m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/CUyZ6coXEO0}}
+
+|l4m2p1=Schythed |l4m2p1flag=us |l4m2p1score=2 |l4m2win=1
+|l4m2p2=Woogity Wu |l4m2p2flag=us |l4m2p2score=0
+|l4m2p1char1=ganon |l4m2p2char1=marth |l4m2p1stock1=2 |l4m2p2stock1=0 |l4m2win1=1 |l4m2stage1=Battlefield
+|l4m2p1char2=ganon |l4m2p2char2=fox |l4m2p1stock2=2 |l4m2p2stock2=0 |l4m2win2=1 |l4m2stage2=Pokémon Stadium
+|l4m2date=February 21, 2016
+|l4m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/RnhPzeB3U58}}
+
+|l4m3p1=Hazygoose |l4m3p1flag=us |l4m3p1score=2 |l4m3win=1
+|l4m3p2=Mijo! |l4m3p2flag=us |l4m3p2score=0
+|l4m3p1char1=sheik |l4m3p2char1=peach |l4m3p1stock1=1 |l4m3p2stock1=0 |l4m3win1=1 |l4m3stage1=Battlefield
+|l4m3p1char2=sheik |l4m3p2char2=peach |l4m3p1stock2=1 |l4m3p2stock2=0 |l4m3win2=1 |l4m3stage2=Final Destination
+|l4m3date=February 21, 2016
+|l4m3details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/9AzCp2fYSOg}}
+
+|l4m4p1=Mouf |l4m4p1flag=us |l4m4p1score=2 |l4m4win=1
+|l4m4p2=WaterlessFishie |l4m4p2flag=us |l4m4p2score=1
+
+|l5m1p1=Thoraxe |l5m1p1flag=us |l5m1p1score=3 |l5m1win=1
+|l5m1p2=Schythed |l5m1p2flag=us |l5m1p2score=2
+|l5m1p1char1=fox |l5m1p2char1=ganon |l5m1p1stock1=0 |l5m1p2stock1=1 |l5m1win1=2 |l5m1stage1=Battlefield
+|l5m1p1char2=fox |l5m1p2char2=ganon |l5m1p1stock2=1 |l5m1p2stock2=0 |l5m1win2=1 |l5m1stage2=Pokémon Stadium
+|l5m1p1char3=fox |l5m1p2char3=ganon |l5m1p1stock3=0 |l5m1p2stock3=1 |l5m1win3=2 |l5m1stage3=Yoshi's Story
+|l5m1p1char4=fox |l5m1p2char4=ganon |l5m1p1stock4=1 |l5m1p2stock4=0 |l5m1win4=1 |l5m1stage4=Final Destination
+|l5m1p1char5=fox |l5m1p2char5=ganon |l5m1p1stock5=2 |l5m1p2stock5=0 |l5m1win5=1 |l5m1stage5=Fountain of Dreams
+|l5m1date=February 21, 2016
+|l5m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/EJaaf9LHI2g}}
+
+|l5m2p1=Hazygoose |l5m2p1flag=us |l5m2p1score=3 |l5m2win=1
+|l5m2p2=Mouf |l5m2p2flag=us |l5m2p2score=0
+
+|l6m1p1=JF |l6m1p1flag=us |l6m1p1score=0 |l6m1win=2
+|l6m1p2=Thoraxe |l6m1p2flag=us |l6m1p2score=3
+|l6m1p1char1=sheik |l6m1p2char1=fox |l6m1p1stock1=0 |l6m1p2stock1=1 |l6m1win1=2 |l6m1stage1=Dream Land
+|l6m1p1char2=sheik |l6m1p2char2=fox |l6m1p1stock2=0 |l6m1p2stock2=2 |l6m1win2=2 |l6m1stage2=Battlefield
+|l6m1p1char3=sheik |l6m1p2char3=fox |l6m1p1stock3=0 |l6m1p2stock3=1 |l6m1win3=2 |l6m1stage3=Battlefield
+|l6m1date=February 21, 2016
+|l6m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/ua4cymwg0wk}}
+
+|l6m2p1=Bobby Frizz |l6m2p1flag=us |l6m2p1score=3 |l6m2win=1
+|l6m2p2=Hazygoose |l6m2p2flag=us |l6m2p2score=1
+|l6m2p1char1=fox |l6m2p2char1=sheik |l6m2p1stock1=2 |l6m2p2stock1=0 |l6m2win1=1 |l6m2stage1=Battlefield
+|l6m2p1char2=fox |l6m2p2char2=sheik |l6m2p1stock2=2 |l6m2p2stock2=0 |l6m2win2=1 |l6m2stage2=Yoshi's Story
+|l6m2p1char3=fox |l6m2p2char3=sheik |l6m2p1stock3=0 |l6m2p2stock3=1 |l6m2win3=2 |l6m2stage3=Yoshi's Story
+|l6m2p1char4=fox |l6m2p2char4=sheik |l6m2p1stock4=2 |l6m2p2stock4=0 |l6m2win4=1 |l6m2stage4=Pokémon Stadium
+|l6m2date=February 21, 2016
+|l6m2details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/SO2X2NRu8-g}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Super Bit Wars/4/Melee
+|tourneyname=Super Bit Wars 4
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=190
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=ARC |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=sheik |r1m1p2char1=marth |r1m1p1stock1=2 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=marth |r1m1p2char2=marth |r1m1p1stock2=3 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1p1char3=sheik |r1m1p2char3=marth |r1m1p1stock3=2 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Yoshi's Story
+|r1m1date=February 21, 2016
+|r1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/fEwmgA6sLcw}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Thoraxe |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Bobby Frizz |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=fox |l1m1p2char1=fox |l1m1p1stock1=0 |l1m1p2stock1=2 |l1m1win1=2 |l1m1stage1=Yoshi's Story
+|l1m1p1char2=fox |l1m1p2char2=fox |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Yoshi's Story
+|l1m1p1char3=marth |l1m1p2char3=fox |l1m1p1stock3=0 |l1m1p2stock3=3 |l1m1win3=2 |l1m1stage3=Yoshi's Story
+|l1m1date=February 21, 2016
+|l1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/82wTuqIocyQ}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=ARC |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Bobby Frizz |r2m1p2flag=us |r2m1p2score=1
+|r2m1win=1
+|r2m1p1char1=marth |r2m1p2char1=fox |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Yoshi's Story
+|r2m1p1char2=marth |r2m1p2char2=fox |r2m1p1stock2=2 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Yoshi's Story
+|r2m1p1char3=marth |r2m1p2char3=fox |r2m1p1stock3=1 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Battlefield
+|r2m1p1char4=marth |r2m1p2char4=fox |r2m1p1stock4=1 |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Battlefield
+|r2m1date=February 21, 2016
+|r2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/CHdy4HlkxBA}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=ARC |r3m1p2flag=us |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=sheik |r3m1p2char1=marth |r3m1p1stock1=2 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=marth |r3m1p2char2=marth |r3m1p1stock2=4 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Final Destination
+|r3m1p1char3=marth |r3m1p2char3=marth |r3m1p1stock3=2 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Yoshi's Story
+|r3m1date=February 21, 2016
+|r3m1details={{BracketMatchDetails|preview=|lrthread=|interview=https://youtu.be/L7tWDHYBtas|recap=|comment=|live=|vod=https://youtu.be/xdEQdOHK3TQ?list=PLDtaGNqrQO2I6cyKTh9KUx9BxY7rH1hEB}}
+}}
+</onlyinclude>

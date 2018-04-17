@@ -1,0 +1,209 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Larry Lurr",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Lucky",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Westballz",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "S2J",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "S2J",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Lucky",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p2": "Lucky",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "1"
+        },
+        "r3m2": {
+            "details": {
+                "export_score": "true"
+            },
+            "p2score": "0"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Adam",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Kira",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "ROFL",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "MacD",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "SUNG475",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Ken",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Connor",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Medz",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "MikeHaze",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Kira",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Eddy Mexico",
+            "p1flag": "mx",
+            "p1score": "1",
+            "p2": "MacD",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Ken",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Fly Amanita",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Connor",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "MikeHaze",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "MacD",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Fly Amanita",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Larry Lurr",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "MikeHaze",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Lucky",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Fly Amanita",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Fly Amanita",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Larry Lurr",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m2": {
+            "p1": "Westballz",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "HugS",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Lucky",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Eddy Mexico",
+            "p2flag": "mx",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "MikeHaze",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "S2J",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Larry Lurr",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Westballz",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m2": {
+            "p1": "Lucky",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "S2J",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "===Final===": {},
+    "===Quarterfinals===": {},
+    "===Semifinals===": {},
+    "==Crew Rosters==": {},
+    "==Crews Bracket==": {
+        "r1m1": {
+            "p1": "Team Ken",
+            "p1flag": "",
+            "p1score": "20",
+            "p2": "Team Axe",
+            "p2flag": "",
+            "p2score": "13",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Team Westballz",
+            "p1flag": "",
+            "p1score": "16",
+            "p2": "Team Hungrybox",
+            "p2flag": "",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Team SFAT",
+            "p1flag": "",
+            "p1score": "20",
+            "p2": "Team HugS",
+            "p2flag": "",
+            "p2score": "14",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Team Scar",
+            "p1flag": "",
+            "p1score": "14",
+            "p2": "Team PewPewU",
+            "p2flag": "",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Team Ken",
+            "p1flag": "",
+            "p1score": "18",
+            "p2": "Team Hungrybox",
+            "p2flag": "",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r2m2": {
+            "p1": "Team SFAT",
+            "p1flag": "",
+            "p1score": "20",
+            "p2": "Team PewPewU",
+            "p2flag": "",
+            "p2score": "16",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Team Hungrybox",
+            "p1flag": "",
+            "p1score": "20",
+            "p2": "Team SFAT",
+            "p2flag": "",
+            "p2score": "19",
+            "win": "1"
+        }
+    },
+    "==Details==": {},
+    "==Sources==": {}
+}

@@ -1,0 +1,566 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "I\u00f1f'",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "MetalFox",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Tekk",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "DjaGoF",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "DjaGoF",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "MetalFox",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Tekk",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "DjaGoF",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Crystal",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Brog",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Eneara",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Ezan",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Maruhai",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Willow",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Fragmads",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Lloyder",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Tchang",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "OtaK_",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "Zeny",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Kirbyvert",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Daav",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Squall",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "NuclearLunch",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Amjo",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "LuK",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Brog",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "I\u00f1f'",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Ezan",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Chaos6",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Willow",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Zeckass",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Fragmads",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Rony",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Tchang",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "Datto",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Kirbyvert",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "CC",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Squall",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "ZCK",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Amjo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "LuK",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "I\u00f1f'",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Chaos6",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Fragmads",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Tchang",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Datto",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "CC",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "ZCK",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Yogui",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "I\u00f1f'",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "JiM",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Fragmads",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "BseeD",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "Datto",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "Undying Mono'",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "CC",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "I\u00f1f'",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "JiM",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Datto",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Undying Mono'",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Meljin",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "I\u00f1f'",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m2": {
+            "p1": "MetalFox",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Datto",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Tekk",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Crystal",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "OtaK_",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Undying Mono'",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "Zeny",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Chaos6",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m12": {
+            "p1": "Kirbyvert",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Meljin",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m13": {
+            "p1": "Daav",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "DjaGoF",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m14": {
+            "p1": "Squall",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "I\u00f1f'",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "NuclearLunch",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "BseeD",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m16": {
+            "p1": "Amjo",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "LuK",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m2": {
+            "p1": "ZCK",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Brog",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "JiM",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Eneara",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "CC",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Ezan",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Yogui",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Maruhai",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Datto",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Willow",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Fragmads",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Rony",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m8": {
+            "p1": "MetalFox",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Lloyder",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Zeckass",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Tchang",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Tekk",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "ZCK",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "JiM",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "CC",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Yogui",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Datto",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Rony",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "MetalFox",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m5": {
+            "p1": "Zeckass",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Undying Mono'",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m6": {
+            "p1": "Chaos6",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Meljin",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "DjaGoF",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "I\u00f1f'",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "BseeD",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "LuK",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Tekk",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "JiM",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Yogui",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "MetalFox",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "Undying Mono'",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Meljin",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m4": {
+            "p1": "DjaGoF",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "BseeD",
+            "p2flag": "fr",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Tekk",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "MetalFox",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Meljin",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "DjaGoF",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

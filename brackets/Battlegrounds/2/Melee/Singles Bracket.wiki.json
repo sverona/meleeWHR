@@ -1,0 +1,431 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "ALP",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Jake13",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Kage",
+            "p1flag": "ca",
+            "p1score": "win",
+            "p2": "Mojo",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Mojo",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Jake13",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Kage",
+            "p1flag": "ca",
+            "p1score": "win",
+            "p2": "Mojo",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Trademark",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Volume",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "JediJake",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "KBarry",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Nobody's Hero",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Zave",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Tapsody",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "minymidge",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "SpaceWaste",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Kohai",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Worth",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "52pickup",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m7": {
+            "p1": "SkillJKfalco",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Kamikaze",
+            "p2flag": "us",
+            "p2score": "DQ",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "P2thedr",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Anytime99",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Tuesday",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Trademark",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Chandy",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "KBarry",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Stripes",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Zave",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Dawn",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "minymidge",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Alex",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Kohai",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "rayzorium",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Worth",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Jake13",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "SkillJKfalco",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "JF",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Anytime99",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Tuesday",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Chandy",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Zave",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Dawn",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Alex",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "rayzorium",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Jake13",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "JF",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Jonjon",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Tuesday",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "TSC",
+            "p1flag": "ve",
+            "p1score": "1",
+            "p2": "Dawn",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Mouf",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "rayzorium",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "BestfriendJohn",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Jake13",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Jonjon",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Dawn",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "Mouf",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Jake13",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "ALP",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Dawn",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Strawhat",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Jake13",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Kage",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Tuesday",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "BestfriendJohn",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Chandy",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "ALP",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Stripes",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Dawn",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Mouf",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "Uncle mojo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Alex",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "TSC",
+            "p1flag": "ve",
+            "p1score": "2",
+            "p2": "rayzorium",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Jake13",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Jonjon",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m8": {
+            "p1": "Strawhat",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "JF",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Kage",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "BestfriendJohn",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "ALP",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Mouf",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Uncle mojo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "TSC",
+            "p2flag": "ve",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Jonjon",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Strawhat",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Kage",
+            "p1flag": "ca",
+            "p1score": "3",
+            "p2": "ALP",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Uncle mojo",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Strawhat",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Kage",
+            "p1flag": "ca",
+            "p1score": "win",
+            "p2": "Uncle mojo",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        }
+    }
+}

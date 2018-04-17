@@ -1,0 +1,203 @@
+{{DISPLAYTITLE:SKTAR 4: ''Melee''}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=SKTAR/4/Melee
+|name2=Singles Pools
+|link2=SKTAR/4/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=SKTAR/4/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=SKTAR/4/Melee/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{8DEWBracketA
+|tourneylink=SKTAR/4/Melee
+|tourneyname=SKTAR 4
+|column-width=190
+
+<!-- Quarterfinals -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=2 |r1m1win=1
+|r1m1p2=Kunai |r1m1p2flag= |r1m1p2score=0
+|r1m1p1char1=sheik |r1m1p2char1=doc |r1m1p1stock1=4 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=pichu |r1m1p2char2=pichu |r1m1p1stock2=4 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Battlefield
+|r1m1date=August 23, 2015
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m2p1=Tweek |r1m2p1flag=us |r1m2p1score=2 |r1m2win=1
+|r1m2p2=CIZ |r1m2p2flag=us |r1m2p2score=0
+|r1m2p1char1=luigi |r1m2p2char1=marth |r1m2p1stock1=2 |r1m2p2stock1=0 |r1m2win1=1 |r1m2stage1=Yoshi's Story
+|r1m2p1char2=luigi |r1m2p2char2=marth |r1m2p1stock2=1 |r1m2p2stock2=0 |r1m2win2=1 |r1m2stage2=Battlefield
+|r1m2date=August 23, 2015
+|r1m2finished=
+|r1m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m3p1=Swedish Delight |r1m3p1flag=us |r1m3p1score=2 |r1m3win=1
+|r1m3p2=Younger |r1m3p2flag= |r1m3p2score=0
+
+|r1m4p1=Vex Kasrani |r1m4p1flag=us |r1m4p1score= |r1m4win=2
+|r1m4p2=PudgyPanda |r1m4p2flag=us |r1m4p2score={{win}}
+
+<!-- SEMIFINALS -->
+|r2m1p1=Mew2King |r2m1p1flag=us |r2m1p1score=3 |r2m1win=1
+|r2m1p2=Tweek |r2m1p2flag=us |r2m1p2score=0
+|r2m1p1char1=sheik |r2m1p2char1=luigi |r2m1p1stock1=2 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=marth |r2m1p2char2=luigi |r2m1p1stock2=2 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Yoshi's Story
+|r2m1p1char3=sheik |r2m1p2char3=luigi |r2m1p1stock3=3 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Yoshi's Story
+|r2m1date=August 23, 2015
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r2m2p1=Swedish Delight |r2m2p1flag=us |r2m2p1score=3 |r2m2win=1
+|r2m2p2=PudgyPanda |r2m2p2flag=us |r2m2p2score=0
+|r2m2p1char1=peach |r2m2p2char1=ic |r2m2p1stock1=2 |r2m2p2stock1=0 |r2m2win1=1 |r2m2stage1=Fountain of Dreams
+|r2m2p1char2=peach |r2m2p2char2=ic |r2m2p1stock2=3 |r2m2p2stock2=0 |r2m2win2=1 |r2m2stage2=Yoshi's Story
+|r2m2p1char3=peach |r2m2p2char3=ic |r2m2p1stock3=3 |r2m2p2stock3=0 |r2m2win3=1 |r2m2stage3=Pokémon Stadium
+|r2m2date=August 23, 2015
+|r2m2finished=
+|r2m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+}}
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=SKTAR/4/Melee
+|tourneyname=SKTAR 4
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+|column-width=190
+
+<!-- Round 1 -->
+|l1m1p1=TootMoses |l1m1p1flag= |l1m1p1score=
+|l1m1p2=NJzFinest |l1m1p2flag= |l1m1p2score={{win}}
+|l1m1win=2
+
+|l1m2p1=IONTheKid |l1m2p1flag= |l1m2p1score=
+|l1m2p2=Zealous5000 |l1m2p2flag=us |l1m2p2score={{win}}
+|l1m2win=2
+
+|l1m3p1=Bebop |l1m3p1flag= |l1m3p1score=
+|l1m3p2=Kevorkian |l1m3p2flag= |l1m3p2score={{win}}
+|l1m3win=2
+
+|l1m4p1=Risen |l1m4p1flag= |l1m4p1score=
+|l1m4p2=ADVANCED |l1m4p2flag= |l1m4p2score={{win}}
+|l1m4win=2
+
+<!-- Round 2 -->
+|l2m1p1=Vex Kasrani |l2m1p1flag=us |l2m1p1score={{win}}
+|l2m1p2=NJzFinest |l2m1p2flag= |l2m1p2score=
+|l2m1win=1
+
+|l2m2p1=Younger |l2m2p1flag= |l2m2p1score=
+|l2m2p2=Zealous5000 |l2m2p2flag=us |l2m2p2score={{win}}
+|l2m2win=2
+
+|l2m3p1=CIZ |l2m3p1flag=us |l2m3p1score={{win}}
+|l2m3p2=Kevorkian |l2m3p2flag= |l2m3p2score=
+|l2m3win=1
+
+|l2m4p1=Kunai |l2m4p1flag= |l2m4p1score=
+|l2m4p2=ADVANCED |l2m4p2flag= |l2m4p2score={{win}}
+|l2m4win=2
+
+<!-- Round 3 -->
+|l3m1p1=Vex Kasrani |l3m1p1flag=us |l3m1p1score=1
+|l3m1p2=Zealous5000 |l3m1p2flag=us |l3m1p2score=2
+|l3m1win=2
+|l3m1p1char1=fox |l3m1p2char1=marth |l3m1p1stock1=1 |l3m1p2stock1=0 |l3m1win1=1 |l3m1stage1=Battlefield
+|l3m1p1char2=fox |l3m1p2char2=marth |l3m1p1stock2=0 |l3m1p2stock2=2 |l3m1win2=2 |l3m1stage2=Yoshi's Story
+|l3m1p1char3=fox |l3m1p2char3=marth |l3m1p1stock3=0 |l3m1p2stock3=2 |l3m1win3=2 |l3m1stage3=Pokémon Stadium
+|l3m1date=August 23, 2015
+|l3m1finished=
+|l3m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|l3m2p1=CIZ |l3m2p1flag=us |l3m2p1score=2
+|l3m2p2=Advanced |l3m2p2flag= |l3m2p2score=0
+|l3m2win=1
+|l3m2p1char1=marth |l3m2p2char1=fox |l3m2p1stock1=3 |l3m2p2stock1=0 |l3m2win1=1 |l3m2stage1=Battlefield
+|l3m2p1char2=marth |l3m2p2char2=fox |l3m2p1stock2=3 |l3m2p2stock2=0 |l3m2win2=1 |l3m2stage2=Fountain of Dreams
+|l3m2date=August 23, 2015
+|l3m2finished=
+|l3m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+<!-- Round 4 -->
+|l4m1p1=Tweek |l4m1p1flag=us |l4m1p1score=1
+|l4m1p2=Zealous5000 |l4m1p2flag=us |l4m1p2score=3
+|l4m1win=2
+|l4m1p1char1=luigi |l4m1p2char1=marth |l4m1p1stock1=3 |l4m1p2stock1=0 |l4m1win1=1 |l4m1stage1=Battlefield
+|l4m1p1char2=luigi |l4m1p2char2=marth |l4m1p1stock2=0 |l4m1p2stock2=1 |l4m1win2=2 |l4m1stage2=Final Destination
+|l4m1p1char3=luigi |l4m1p2char3=marth |l4m1p1stock3=0 |l4m1p2stock3=2 |l4m1win3=2 |l4m1stage3=Yoshi's Story
+|l4m1p1char4=cf |l4m1p2char4=marth |l4m1p1stock4=0 |l4m1p2stock4=3 |l4m1win4=2 |l4m1stage4=Yoshi's Story
+|l4m1date=August 23, 2015
+|l4m1finished=
+|l4m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|l4m2p1=PudgyPanda |l4m2p1flag=us |l4m2p1score=0
+|l4m2p2=CIZ |l4m2p2flag=us |l4m2p2score=3
+|l4m2win=2
+|l4m2p1char1=ic |l4m2p2char1=fox |l4m2p1stock1=0 |l4m2p2stock1=1 |l4m2win1=2 |l4m2stage1=Yoshi's Story
+|l4m2p1char2=ic |l4m2p2char2=fox |l4m2p1stock2=0 |l4m2p2stock2=1 |l4m2win2=2 |l4m2stage2=Final Destination
+|l4m2p1char3=ic |l4m2p2char3=fox |l4m2p1stock3=0 |l4m2p2stock3=1 |l4m2win3=2 |l4m2stage3=Final Destination
+|l4m2date=August 23, 2015
+|l4m2finished=
+|l4m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=SKTAR/4/Melee
+|tourneyname=SKTAR 4
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+|column-width=200
+
+<!-- FROM WINNERS -->
+|r1m1p1=Mew2King |r1m1p1flag=us |r1m1p1score=3 |r1m1win=1
+|r1m1p2=Swedish Delight |r1m1p2flag=us |r1m1p2score=0
+|r1m1p1char1=sheik |r1m1p2char1=sheik |r1m1p1stock1=1 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Dream Land
+|r1m1p1char2=sheik |r1m1p2char2=sheik |r1m1p1stock2=1 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Yoshi's Story
+|r1m1p1char3=sheik |r1m1p2char3=sheik |r1m1p1stock3=1 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Fountain of Dreams
+|r1m1date=August 23, 2015
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Zealous5000 |l1m1p1flag=us |l1m1p1score=1
+|l1m1p2=CIZ |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=marth |l1m1p2char1=marth |l1m1p1stock1=1 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1p1char2=marth |l1m1p2char2=marth |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Battlefield
+|l1m1p1char3=marth |l1m1p2char3=marth |l1m1p1stock3=0 |l1m1p2stock3=2 |l1m1win3=2 |l1m1stage3=Final Destination
+|l1m1p1char4=marth |l1m1p2char4=marth |l1m1p1stock4=0 |l1m1p2stock4=3 |l1m1win4=2 |l1m1stage4=Pokémon Stadium
+|l1m1date=August 23, 2015
+|l1m1finished=
+|l1m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Swedish Delight |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=CIZ |r2m1p2flag=us |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=sheik |r2m1p2char1=marth |r2m1p1stock1=3 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=sheik |r2m1p2char2=marth |r2m1p1stock2=2 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Battlefield
+|r2m1p1char3=sheik |r2m1p2char3=marth |r2m1p1stock3=2 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Battlefield
+|r2m1date=August 23, 2015
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Mew2King |r3m1p1flag=us |r3m1p1score=3 |r3m1win=1
+|r3m1p2=Swedish Delight |r3m1p2flag=us |r3m1p2score=1
+|r3m1p1char1=sheik |r3m1p2char1=sheik |r3m1p1stock1=1 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Dream Land
+|r3m1p1char2=sheik |r3m1p2char2=sheik |r3m1p1stock2=0 |r3m1p2stock2=1 |r3m1win2=2 |r3m1stage2=Yoshi's Story
+|r3m1p1char3=sheik |r3m1p2char3=sheik |r3m1p1stock3=2 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Final Destination
+|r3m1p1char4=sheik |r3m1p2char4=sheik |r3m1p1stock4=3 |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Fountain of Dreams
+|r3m1date=August 23, 2015
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+}}
+</onlyinclude>

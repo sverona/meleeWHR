@@ -1,0 +1,82 @@
+{{DISPLAYTITLE:Super Famicon 2016: ''Melee'' Doubles Pools}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Super Famicon/2016/Melee
+|name2=Singles Pools
+|link2=Super Famicon/2016/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Super Famicon/2016/Melee/Singles Bracket
+|name4=Doubles Pools
+|link4=Super Famicon/2016/Melee/Doubles Pools
+|name5=Doubles Bracket
+|link5=Super Famicon/2016/Melee/Doubles Bracket
+|This=4
+}}
+{{Box|start|padding=2em}}
+{{HiddenSort|===A1===}}
+{{GroupTableStart |Bracket A1|width=300px}}
+{{DoublesGroupTableSlot|p1=Clementine|p1flag=us|p2=Kaeon|p2flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=Wenbobular|p1flag=us|p2=Focus|p2flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=Colbol|p1flag=us|p2=MrBeenReady|p2flag=us|win_m=2|lose_m=1|place=2|bg=stay|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=David|p1flag=us|p2=Nimbus|p2flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=SmashBob SquarePants|p1flag=us|p2=LSD|p2flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Dusk|p1flag=us|p2=Dublat|p2flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=TehPinkEmoBunni|p1flag=us|p2=Quest|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Vulfaerix|p1flag=us|p2=Sarge|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=NinjaSquirtle|p1flag=us|p2=Babe|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Orchard|p1flag=us|p2=Dahv|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=chaoslink|p1flag=us|p2=Master Brawler|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Pygophile|p1flag=us|p2=Lautrec|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+
+{{Box|break|padding=2em}}
+{{HiddenSort|===B1===}}
+{{GroupTableStart |Bracket B1|width=300px}}
+{{DoublesGroupTableSlot|p1=Druggedfox|p1flag=us|p2=n0ne|p2flag=ni|win_m=3|lose_m=0|place=1|bg=up|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=Karn|p1flag=us|p2=Tho|p2flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=Slipnslide|p1flag=us|p2=TAH.|p2flag=us|win_m=2|lose_m=1|place=2|bg=stay|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=Ambition|p1flag=us|p2=Red|p2flag=us|win_m=2|lose_m=2|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=ZENT|p1flag=us|p2=HiFi|p2flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Eddie G.|p1flag=us|p2=Saef|p2flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Swing|p1flag=us|p2=Roma|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=TonyBeers|p1flag=us|p2=IHOP Dan|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Weis|p1flag=us|p2=Vasculinity|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Yang|p1flag=us|p2=CMac|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=AV Ultima|p1flag=us|p2=bonnup|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Macaroni|p1flag=us|p2=Tor|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+
+{{Box|break|padding=2em}}
+{{HiddenSort|===C1===}}
+{{GroupTableStart |Bracket C1|width=300px}}
+{{DoublesGroupTableSlot|p1=Dash|p1flag=us|p2=$mike|p2flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=Een!|p1flag=us|p2=DAB|p2flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=Gato|p1flag=us|p2=Sharkz|p2flag=us|win_m=2|lose_m=1|place=2|bg=stay|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=Weilin|p1flag=us|p2=Bl@ckchris|p2flag=us|win_m=2|lose_m=2|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Tyrone|p1flag=us|p2=BeefTip|p2flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Katharsis|p1flag=us|p2=Espada|p2flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Locke Robster|p1flag=us|p2=Shieldz|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Soup|p1flag=us|p2=Noms|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Mystery|p1flag=|p2=Bilbo Swaggins|p2flag=|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Sampai|p1flag=us|p2=Cold|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Wheat|p1flag=us|p2=paintman|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+
+{{Box|break|padding=2em}}
+{{HiddenSort|===D1===}}
+{{GroupTableStart |Bracket D1|width=300px}}
+{{DoublesGroupTableSlot|p1=Sneak|p1flag=us|p2=Sky|p2flag=|win_m=4|lose_m=0|place=1|bg=up|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=bonfire10|p1flag=us|p2=TwistyTreats|p2flag=us|win_m=5|lose_m=1|place=2|bg=stay|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=Smashdaddy|p1flag=us|p2=Zasa|p2flag=us|win_m=2|lose_m=1|place=2|bg=stay|go={{advance|Super Famicon 2016/Doubles Bracket}}}}
+{{DoublesGroupTableSlot|p1=Yort|p1flag=us|p2=Baeblade|p2flag=us|win_m=2|lose_m=2|place=4|bg=down}}
+{{DoublesGroupTableSlot|p1=Tyrø|p1flag=us|p2=Jwilli|p2flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=stingers|p1flag=us|p2=Dark Hart|p2flag=us|win_m=1|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Zepherz|p1flag=us|p2=YOld|p2flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Flare|p1flag=|p2=Jukes|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=):|p1flag=us|p2=Ryko|p2flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Lorax|p1flag=us|p2=Lonecamel|p2flag=|win_m=1|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Aycio|p1flag=us|p2=Eviox|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Yoda|p1flag=us|p2=GoHahn|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Zann|p1flag=us|p2=Nana Saves Popo|p2flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}

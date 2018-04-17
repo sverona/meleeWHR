@@ -1,0 +1,493 @@
+{{DISPLAYTITLE:The Holiday Bash Smash Invitational: Singles Pools}}{{SetGame|melee}}
+{{The Holiday Bash Smash Invitational Tabs}}
+==Groups==
+{{Box|start|padding=2em}}
+===={{HiddenSort|Group A}}====
+{{GroupTableStart |Group A|width=250px}}
+{{GroupTableSlot|n0ne|flag=ni|win_m=5|lose_m=1|win_g=16|lose_g=6|place=1|bg=up|go={{advance|The Holiday Bash Smash Invitational/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|SFAT|flag=us|win_m=5|lose_m=1|win_g=16|lose_g=9|place=2|bg=stayup|go={{advance|The Holiday Bash Smash Invitational/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Shroomed|flag=us|win_m=4|lose_m=2|win_g=13|lose_g=12|place=3|bg=stayup|go={{advance|The Holiday Bash Smash Invitational/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Lucky|flag=us|win_m=3|lose_m=3|win_g=14|lose_g=11|place=4|bg=stay|go={{advance|The Holiday Bash Smash Invitational/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|lloD|flag=us|win_m=2|lose_m=4|win_g=13|lose_g=14|place=5|bg=stay|go={{advance|The Holiday Bash Smash Invitational/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|KJH|flag=us|win_m=1|lose_m=5|win_g=8|lose_g=16|place=6|bg=down}}
+{{GroupTableSlot|HugS|flag=us|win_m=1|lose_m=5|win_g=5|lose_g=17|place=7|bg=down}}
+{{GroupTableEnd}}
+{{Match list start|width=250px}}
+{{Match stages
+|p1=KJH |p1flag=us |p1score=1
+|p2=n0ne |p2flag=ni |p2score=3
+|win=2
+|p1char1=fox |p2char1=cf |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=fox |p2char2=cf |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Yoshi's Story
+|p1char3=fox |p2char3=cf |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Yoshi's Story
+|p1char4=fox |p2char4=cf |p1stock4=0 |p2stock4=4 |win4=2 |stage4=Dream Land
+|date=December 15, 2017
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=cBj6tbSRWjA}}
+}}
+{{Match stages
+|p1=Lucky |p1flag=us |p1score=2
+|p2=lloD |p2flag=us |p2score=3
+|win=2
+|p1char1=fox |p2char1=peach |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Dream Land
+|p1char2=fox |p2char2=peach |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Pokémon Stadium
+|p1char3=fox |p2char3=peach |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Fountain of Dreams
+|p1char4=fox |p2char4=peach |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Final Destination
+|p1char5=fox |p2char5=peach |p1stock5=0 |p2stock5=1 |win5=2 |stage5=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=5_VSK-04L4U}}
+}}
+{{Match stages
+|p1=SFAT |p1flag=us |p1score=3
+|p2=HugS |p2flag=us |p2score=0
+|win=1
+|p1char1=fox |p2char1=samus |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=fox |p2char2=samus |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Battlefield
+|p1char3=fox |p2char3=samus |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Battlefield
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=5sZN7TUrVjc}}
+}}
+{{Match stages
+|p1=Lucky |p1flag=us |p1score=3
+|p2=n0ne |p2flag=ni |p2score=1
+|win=1
+|p1char1=fox |p2char1=cf |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=fox |p2char2=cf |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Yoshi's Story
+|p1char3=fox |p2char3=cf |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Yoshi's Story
+|p1char4=fox |p2char4=cf |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=XlKBsjlQwNs}}
+}}
+{{Match stages
+|p1=lloD |p1flag=us |p1score=2
+|p2=HugS |p2flag=us |p2score=3
+|win=2
+|p1char1=peach |p2char1=samus |p1stock1=3 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=peach |p2char2=samus |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Battlefield
+|p1char3=peach |p2char3=samus |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Final Destination
+|p1char4=peach |p2char4=samus |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Final Destination
+|p1char5=peach |p2char5=samus |p1stock5=0 |p2stock5=1 |win5=2 |stage5=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=bEABDWkwEA0}}
+}}
+{{Match stages
+|p1=SFAT |p1flag=us |p1score=3
+|p2=KJH |p2flag=us |p2score=1
+|win=1
+|p1char1=fox |p2char1=fox |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Dream Land
+|p1char2=fox |p2char2=fox |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Dream Land
+|p1char3=fox |p2char3=fox |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Final Destination
+|p1char4=fox |p2char4=fox |p1stock4=2 |p2stock4=0 |win4=1 |stage4=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=A-orNNEJin8}}
+}}
+{{Match stages
+|p1=HugS |p1flag=us |p1score=0
+|p2=Lucky |p2flag=us |p2score=3
+|win=2
+|p1char1=samus |p2char1=fox |p1stock1=0 |p2stock1=2 |win1=2 |stage1=Battlefield
+|p1char2=samus |p2char2=fox |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Fountain of Dreams
+|p1char3=samus |p2char3=fox |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Fountain of Dreams
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=r5ep8snP02U}}
+}}
+{{Match stages
+|p1=SFAT |p1flag=us |p1score=1
+|p2=n0ne |p2flag=ni |p2score=3
+|win=2
+|p1char1=fox |p2char1=cf |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Final Destination
+|p1char2=fox |p2char2=cf |p1stock2=0 |p2stock2=3 |win2=2 |stage2=Battlefield
+|p1char3=fox |p2char3=cf |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Fountain of Dreams
+|p1char4=fox |p2char4=cf |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=gEM8Xt6oYO8}}
+}}
+{{Match stages
+|p1=KJH |p1flag=us |p1score=0
+|p2=lloD |p2flag=us |p2score=3
+|win=2
+|p1char1=fox |p2char1=peach |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Dream Land
+|p1char2=fox |p2char2=peach |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Pokémon Stadium
+|p1char3=fox |p2char3=peach |p1stock3=0 |p2stock3=3 |win3=2 |stage3=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=JcUuGN2Faos}}
+}}
+{{Match stages
+|p1=n0ne |p1flag=ni |p1score=3
+|p2=HugS |p2flag=us |p2score=0
+|win=1
+|p1char1=cf |p2char1=samus |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=cf |p2char2=samus |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Battlefield
+|p1char3=cf |p2char3=samus |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Battlefield
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=q8Go3q1yUTc}}
+}}
+{{Match stages
+|p1=SFAT |p1flag=us |p1score=3
+|p2=lloD |p2flag=us |p2score=2
+|win=1
+|p1char1=fox |p2char1=peach |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Fountain of Dreams
+|p1char2=fox |p2char2=peach |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Final Destination
+|p1char3=fox |p2char3=peach |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Fountain of Dreams
+|p1char4=fox |p2char4=peach |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Pokémon Stadium
+|p1char5=fox |p2char5=peach |p1stock5=1 |p2stock5=0 |win5=1 |stage5=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=LydwhJWXwdY}}
+}}
+{{Match stages
+|p1=KJH |p1flag=us |p1score=1
+|p2=Lucky |p2flag=us |p2score=3
+|win=2
+|p1char1=fox |p2char1=fox |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Dream Land
+|p1char2=fox |p2char2=fox |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Battlefield
+|p1char3=fox |p2char3=fox |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Battlefield
+|p1char4=fox |p2char4=fox |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=sTi4dRcHqlc}}
+}}
+{{Match stages
+|p1=Shroomed |p1flag=us |p1score=3
+|p2=lloD |p2flag=us |p2score=2
+|win=1
+|p1char1=sheik |p2char1=peach |p1stock1=3 |p2stock1=0 |win1=1 |stage1=Final Destination
+|p1char2=sheik |p2char2=peach |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Pokémon Stadium
+|p1char3=sheik |p2char3=peach |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Battlefield
+|p1char4=sheik |p2char4=peach |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Fountain of Dreams
+|p1char5=sheik |p2char5=peach |p1stock5=1 |p2stock5=0 |win5=1 |stage5=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=9f5ci1lOSZ8}}
+}}
+{{Match stages
+|p1=HugS |p1flag=us |p1score=1
+|p2=KJH |p2flag=us |p2score=3
+|win=2
+|p1char1=samus |p2char1=fox |p1stock1=0 |p2stock1=2 |win1=2 |stage1=Battlefield
+|p1char2=samus |p2char2=fox |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Battlefield
+|p1char3=samus |p2char3=fox |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Pokémon Stadium
+|p1char4=samus |p2char4=fox |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Dream Land
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=HfN_naliso4}}
+}}
+{{Match stages
+|p1=Shroomed |p1flag=us |p1score=0
+|p2=n0ne |p2flag=ni |p2score=3
+|win=2
+|p1char1=sheik |p2char1=cf |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=sheik |p2char2=cf |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Yoshi's Story
+|p1char3=sheik |p2char3=cf |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=yNItlTa_DNk}}
+}}
+{{Match stages
+|p1=HugS |p1flag=us |p1score=1
+|p2=Shroomed |p2flag=us |p2score=3
+|win=2
+|p1char1=samus |p2char1=sheik |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Yoshi's Story
+|p1char2=samus |p2char2=sheik |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Battlefield
+|p1char3=samus |p2char3=sheik |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Dream Land
+|p1char4=samus |p2char4=sheik |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Dream Land
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=rpWUNYnBWcE}}
+}}
+{{Match stages
+|p1=Lucky |p1flag=us |p1score=2
+|p2=SFAT |p2flag=us |p2score=3
+|win=2
+|p1char1=fox |p2char1=fox |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Fountain of Dreams
+|p1char2=fox |p2char2=fox |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Final Destination
+|p1char3=fox |p2char3=fox |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Pokémon Stadium
+|p1char4=fox |p2char4=fox |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Battlefield
+|p1char5=fox |p2char5=fox |p1stock5=0 |p2stock5=2 |win5=2 |stage5=Dream Land
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=tdxdA4Loj2U}}
+}}
+{{Match stages
+|p1=Shroomed |p1flag=us |p1score=3
+|p2=KJH |p2flag=us |p2score=2
+|win=1
+|p1char1=doc |p2char1=fox |p1stock1=0 |p2stock1=2 |win1=2 |stage1=Yoshi's Story
+|p1char2=marth |p2char2=fox |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Yoshi's Story
+|p1char3=marth |p2char3=fox |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Dream Land
+|p1char4=marth |p2char4=fox |p1stock4=2 |p2stock4=0 |win4=1 |stage4=Battlefield
+|p1char5=marth |p2char5=fox |p1stock5=2 |p2stock5=0 |win5=1 |stage5=Fountain of Dreams
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+{{Match stages
+|p1=Lucky |p1flag=us |p1score=1
+|p2=Shroomed |p2flag=us |p2score=3
+|win=2
+|p1char1=fox |p2char1=marth |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Yoshi's Story
+|p1char2=fox |p2char2=marth |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Dream Land
+|p1char3=fox |p2char3=marth |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Dream Land
+|p1char4=fox |p2char4=marth |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Battlefield
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=WH73hAXLqG8}}
+}}
+{{Match stages
+|p1=lloD |p1flag=us |p1score=1
+|p2=n0ne |p2flag=ni |p2score=3
+|win=2
+|p1char1=peach |p2char1=cf |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Dream Land
+|p1char2=peach |p2char2=cf |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Pokémon Stadium
+|p1char3=peach |p2char3=cf |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Fountain of Dreams
+|p1char4=peach |p2char4=cf |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Fountain of Dreams
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=Iq3G0r6w6a0}}
+}}
+{{Match stages
+|p1=Shroomed |p1flag=us |p1score=1
+|p2=SFAT |p2flag=us |p2score=3
+|win=2
+|p1char1=marth |p2char1=fox |p1stock1=0 |p2stock1=3 |win1=2 |stage1=Yoshi's Story
+|p1char2=sheik |p2char2=fox |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Battlefield
+|p1char3=sheik |p2char3=fox |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Battlefield
+|p1char4=sheik |p2char4=fox |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Final Destination
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=V9rneTgwl5A}}
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableStart |Group B|width=250px}}
+{{GroupTableSlot|PewPewU|flag=us|win_m=5|lose_m=1|win_g=17|lose_g=9|place=1|bg=up|go={{advance|The Holiday Bash Smash Invitational/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Crush|flag=us|win_m=4|lose_m=2|win_g=15|lose_g=10|place=2|bg=stayup|go={{advance|The Holiday Bash Smash Invitational/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|S2J|flag=us|win_m=3|lose_m=3|win_g=13|lose_g=10|place=3|bg=stayup|go={{advance|The Holiday Bash Smash Invitational/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Westballz|flag=us|win_m=3|lose_m=3|win_g=11|lose_g=12|place=4|bg=stay|go={{advance|The Holiday Bash Smash Invitational/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Duck|flag=us|win_m=3|lose_m=3|win_g=10|lose_g=14|place=5|bg=stay|go={{advance|The Holiday Bash Smash Invitational/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|La Luna|flag=us|win_m=2|lose_m=4|win_g=10|lose_g=13|place=6|bg=down}}
+{{GroupTableSlot|Rishi|flag=us|win_m=1|lose_m=5|win_g=7|lose_g=15|place=7|bg=down}}
+{{GroupTableEnd}}
+{{Match list start|width=250px}}
+{{Match stages
+|p1=Duck |p1flag=us |p1score=3
+|p2=Crush |p2flag=us |p2score=1
+|win=1
+|p1char1=samus |p2char1=fox |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=samus |p2char2=fox |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Pokémon Stadium
+|p1char3=samus |p2char3=fox |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Fountain of Dreams
+|p1char4=samus |p2char4=fox |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Yoshi's Story
+|date=December 16, 2017
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=wdsrw-j8tso}}
+}}
+{{Match stages
+|p1=PewPewU |p1flag=us |p1score=3
+|p2=La Luna |p2flag=us |p2score=1
+|win=1
+|p1char1=marth |p2char1=marth |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=marth |p2char2=marth |p1stock2=0 |p2stock2=3 |win2=2 |stage2=Pokémon Stadium
+|p1char3=marth |p2char3=marth |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Final Destination
+|p1char4=marth |p2char4=marth |p1stock4=2 |p2stock4=0 |win4=1 |stage4=Fountain of Dreams
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=ILnng9JQBRc}}
+}}
+{{Match stages
+|p1=Westballz |p1flag=us |p1score=3
+|p2=Rishi |p2flag=us |p2score=2
+|win=1
+|p1char1=cf |p2char1=marth |p1stock1=0 |p2stock1=2 |win1=2 |stage1=Battlefield
+|p1char2=falco |p2char2=marth |p1stock2=3 |p2stock2=0 |win2=1 |stage2=Yoshi's Story
+|p1char3=falco |p2char3=marth |p1stock3=3 |p2stock3=0 |win3=1 |stage3=Final Destination
+|p1char4=falco |p2char4=marth |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Final Destination
+|p1char5=falco |p2char5=marth |p1stock5=2 |p2stock5=0 |win5=1 |stage5=Dream Land
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=A0ySOGWf9FQ}}
+}}
+{{Match stages
+|p1=La Luna |p1flag=us |p1score=2
+|p2=Crush |p2flag=us |p2score=3
+|win=2
+|p1char1=marth |p2char1=fox |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=marth |p2char2=fox |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Battlefield
+|p1char3=marth |p2char3=fox |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Final Destination
+|p1char4=marth |p2char4=fox |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Yoshi's Story
+|p1char5=marth |p2char5=fox |p1stock5=0 |p2stock5=1 |win5=2 |stage5=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=m3zhsQI5-UE}}
+}}
+{{Match stages
+|p1=Rishi |p1flag=us |p1score=0
+|p2=S2J |p2flag=us |p2score=3
+|win=2
+|p1char1=marth |p2char1=cf |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=marth |p2char2=cf |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Battlefield
+|p1char3=marth |p2char3=cf |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=wZOU1A23uSE}}
+}}
+{{Match stages
+|p1=Westballz |p1flag=us |p1score=1
+|p2=PewPewU |p2flag=us |p2score=3
+|win=2
+|p1char1=falco |p2char1=marth |p1stock1=0 |p2stock1=2 |win1=2 |stage1=Battlefield
+|p1char2=falco |p2char2=marth |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Yoshi's Story
+|p1char3=fox |p2char3=marth |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Pokémon Stadium
+|p1char4=fox |p2char4=marth |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Battlefield
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=RrDS0VtTPL0}}
+}}
+{{Match stages
+|p1=Duck |p1flag=us |p1score=3
+|p2=Rishi |p2flag=us |p2score=2
+|win=1
+|p1char1=samus |p2char1=marth |p1stock1=0 |p2stock1=3 |win1=2 |stage1=Battlefield
+|p1char2=samus |p2char2=marth |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Dream Land
+|p1char3=samus |p2char3=marth |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Yoshi's Story
+|p1char4=samus |p2char4=marth |p1stock4=2 |p2stock4=0 |win4=1 |stage4=Pokémon Stadium
+|p1char5=samus |p2char5=marth |p1stock5=3 |p2stock5=0 |win5=1 |stage5=Fountain of Dreams
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=Yv55qHgfI6Q}}
+}}
+{{Match stages
+|p1=S2J |p1flag=us |p1score=2
+|p2=PewPewU |p2flag=us |p2score=3
+|win=2
+|p1char1=cf |p2char1=marth |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Yoshi's Story
+|p1char2=cf |p2char2=marth |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Battlefield
+|p1char3=cf |p2char3=marth |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Yoshi's Story
+|p1char4=cf |p2char4=marth |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Dream Land
+|p1char5=cf |p2char5=marth |p1stock5=0 |p2stock5=1 |win5=2 |stage5=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=A-5CROry4y0}}
+}}
+{{Match stages
+|p1=Westballz |p1flag=us |p1score=1
+|p2=Crush |p2flag=us |p2score=3
+|win=2
+|p1char1=falco |p2char1=fox |p1stock1=0 |p2stock1=3 |win1=2 |stage1=Battlefield
+|p1char2=falco |p2char2=fox |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Dream Land
+|p1char3=falco |p2char3=fox |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Final Destination
+|p1char4=falco |p2char4=fox |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=dN9XsQcKqT4}}
+}}
+{{Match stages
+|p1=La Luna |p1flag=us |p1score=0
+|p2=Rishi |p2flag=us |p2score=3
+|win=2
+|p1char1=marth |p2char1=marth |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=marth |p2char2=marth |p1stock2=0 |p2stock2=3 |win2=2 |stage2=Pokémon Stadium
+|p1char3=marth |p2char3=marth |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=XzGUb9BltBA}}
+}}
+{{Match stages
+|p1=S2J |p1flag=us |p1score=1
+|p2=Crush |p2flag=us |p2score=3
+|win=2
+|p1char1=cf |p2char1=fox |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=cf |p2char2=fox |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Pokémon Stadium
+|p1char3=cf |p2char3=fox |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Yoshi's Story
+|p1char4=cf |p2char4=fox |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Dream Land
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=joLGP-mNJjQ}}
+}}
+{{Match stages
+|p1=Duck |p1flag=us |p1score=3
+|p2=PewPewU |p2flag=us |p2score=2
+|win=1
+|p1char1=samus |p2char1=marth |p1stock1=3 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=samus |p2char2=marth |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Yoshi's Story
+|p1char3=samus |p2char3=cf |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Dream Land
+|p1char4=samus |p2char4=cf |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Dream Land
+|p1char5=samus |p2char5=cf |p1stock5=1 |p2stock5=0 |win5=1 |stage5=Battlefield
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=Uk2JKjznvXg}}
+}}
+{{Match stages
+|p1=S2J |p1flag=us |p1score=3
+|p2=La Luna |p2flag=us |p2score=1
+|win=1
+|p1char1=cf |p2char1=marth |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=cf |p2char2=marth |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Yoshi's Story
+|p1char3=cf |p2char3=marth |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Yoshi's Story
+|p1char4=cf |p2char4=marth |p1stock4=2 |p2stock4=0 |win4=1 |stage4=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=O05uN-FT6Tk}}
+}}
+{{Match stages
+|p1=Duck |p1flag=us |p1score=0
+|p2=Westballz |p2flag=us |p2score=3
+|win=2
+|p1char1=samus |p2char1=falco |p1stock1=0 |p2stock1=3 |win1=2 |stage1=Battlefield
+|p1char2=samus |p2char2=falco |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Fountain of Dreams
+|p1char3=samus |p2char3=falco |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Fountain of Dreams
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=k5POgdzbawc}}
+}}
+{{Match stages
+|p1=PewPewU |p1flag=us |p1score=3
+|p2=Rishi |p2flag=us |p2score=0
+|win=1
+|p1char1=marth |p2char1=marth |p1stock1=3 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=marth |p2char2=marth |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Final Destination
+|p1char3=marth |p2char3=marth |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Final Destination
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=kc6QVC1niX4}}
+}}
+{{Match stages
+|p1=Westballz |p1flag=us |p1score=3
+|p2=S2J |p2flag=us |p2score=1
+|win=1
+|p1char1=falco |p2char1=cf |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=falco |p2char2=cf |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Pokémon Stadium
+|p1char3=falco |p2char3=cf |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Fountain of Dreams
+|p1char4=falco |p2char4=falco |p1stock4=2 |p2stock4=0 |win4=1 |stage4=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=xUxKll7bNmI}}
+}}
+{{Match stages
+|p1=Rishi |p1flag=us |p1score=0
+|p2=Crush |p2flag=us |p2score=3
+|win=2
+|p1char1=marth |p2char1=fox |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Yoshi's Story
+|p1char2=marth |p2char2=fox |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Final Destination
+|p1char3=marth |p2char3=fox |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Final Destination
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=EJFLvHwhjKw}}
+}}
+{{Match stages
+|p1=Duck |p1flag=us |p1score=1
+|p2=La Luna |p2flag=us |p2score=3
+|win=2
+|p1char1=samus |p2char1=marth |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=samus |p2char2=marth |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Yoshi's Story
+|p1char3=samus |p2char3=marth |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Dream Land
+|p1char4=samus |p2char4=marth |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Dream Land
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=3PJ4Gb3fQnM}}
+}}
+{{Match stages
+|p1=Crush |p1flag=us |p1score=2
+|p2=PewPewU |p2flag=us |p2score=3
+|win=2
+|p1char1=fox |p2char1=marth |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=fox |p2char2=marth |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Battlefield
+|p1char3=fox |p2char3=marth |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Pokémon Stadium
+|p1char4=fox |p2char4=marth |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Final Destination
+|p1char5=fox |p2char5=marth |p1stock5=0 |p2stock5=3 |win5=2 |stage5=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=}}
+}}
+{{Match stages
+|p1=Westballz |p1flag=us |p1score=0
+|p2=La Luna |p2flag=us |p2score=3
+|win=2
+|p1char1=falco |p2char1=marth |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=falco |p2char2=marth |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Dream Land
+|p1char3=falco |p2char3=marth |p1stock3=0 |p2stock3=4 |win3=2 |stage3=Battlefield
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=vw3n9TnyLis}}
+}}
+{{Match stages
+|p1=Duck |p1flag=us |p1score=0
+|p2=S2J |p2flag=us |p2score=3
+|win=2
+|p1char1=samus |p2char1=cf |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=samus |p2char2=cf |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Fountain of Dreams
+|p1char3=samus |p2char3=cf |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Fountain of Dreams
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=O5DafAnSc0A}}
+}}
+{{Match list end}}
+{{Box|end}}

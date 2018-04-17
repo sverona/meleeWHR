@@ -1,0 +1,2356 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Chudat",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "SG",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Nintendude",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Nintendude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Chudat",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Chillindude",
+            "p1char1": "fox",
+            "p1char2": "fox",
+            "p1char3": "fox",
+            "p1char4": "",
+            "p1char5": "",
+            "p1flag": "us",
+            "p1score": "win",
+            "p1stock1": "0",
+            "p1stock2": "1",
+            "p1stock3": "0",
+            "p1stock4": "",
+            "p1stock5": "",
+            "p2": "Nintendude",
+            "p2char1": "ic",
+            "p2char2": "samus",
+            "p2char3": "ic",
+            "p2char4": "",
+            "p2char5": "",
+            "p2flag": "us",
+            "p2score": "",
+            "p2stock1": "1",
+            "p2stock2": "0",
+            "p2stock3": "2",
+            "p2stock4": "",
+            "p2stock5": "",
+            "stage1": "Yoshi's Story",
+            "stage2": "Final Destination",
+            "stage3": "Fountain of Dreams",
+            "stage4": "",
+            "stage5": "",
+            "win": "1",
+            "win1": "2",
+            "win2": "1",
+            "win3": "2",
+            "win4": "",
+            "win5": ""
+        },
+        "r3m2": {
+            "p1char1": "fox",
+            "p1char2": "fox",
+            "p1char3": "",
+            "p1char4": "",
+            "p1char5": "",
+            "p1stock1": "1",
+            "p1stock2": "2",
+            "p1stock3": "",
+            "p1stock4": "",
+            "p1stock5": "",
+            "p2char1": "ic",
+            "p2char2": "ic",
+            "p2char3": "",
+            "p2char4": "",
+            "p2char5": "",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "p2stock3": "",
+            "p2stock4": "",
+            "p2stock5": "",
+            "stage1": "Yoshi's Story",
+            "stage2": "Fountain of Dreams",
+            "stage3": "",
+            "stage4": "",
+            "stage5": "",
+            "win1": "1",
+            "win2": "1",
+            "win3": "",
+            "win4": "",
+            "win5": ""
+        }
+    },
+    "==Losers Bracket==": {
+        "l10m1": {
+            "p1": "Chudat",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Plank",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l10m2": {
+            "p1": "MIlk Man",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "SG",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Y2K",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m10": {
+            "p1": "Lou Man",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Coffee Mug",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m11": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Lax",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m12": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "NyeahDaddy",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m13": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Scoob",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m14": {
+            "p1": "KVOCB",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Joe?",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m15": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Wally Long Balls",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m16": {
+            "p1": "Cloud",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "ShakeDrizzle (setup)",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m17": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Quarks0",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m18": {
+            "p1": "Hero",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Check",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m19": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Heavy",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Musiq",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "CTM",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m20": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Beans",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m21": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Moonshoe",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m22": {
+            "p1": "Eguv",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Herc",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m23": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Baine",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m24": {
+            "p1": "DRMark",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mike",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m25": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "PKL",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m26": {
+            "p1": "Hop",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bird",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m27": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Clacker",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m28": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Stan",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m29": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Chopper",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Eggroll",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m30": {
+            "p1": "Airy",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Free Space 2",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m31": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Super Ginger",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m32": {
+            "p1": "Bricky",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Sal",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Chiptune (setup)",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Geno",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Deep Toot",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "SBTIX",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "4est",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Rowsa",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Lrn2tek",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m9": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Chewy G3",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Dad?",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Y2K",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m10": {
+            "p1": "HashShlingingSlasher",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Lou Man",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m11": {
+            "p1": "General Tso",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Lax",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m12": {
+            "p1": "Osiris197",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "NyeahDaddy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m13": {
+            "p1": "Gay Luigi",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Scoob",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m14": {
+            "p1": "Mido",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Joe?",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m15": {
+            "p1": "Starbuck",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Wally Long Balls",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m16": {
+            "p1": "McNutly",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "ShakeDrizzle (setup)",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m17": {
+            "p1": "KS-K9 CrimsonKid",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Quarks0",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m18": {
+            "p1": "Vert",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Hero",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m19": {
+            "p1": "Dr.Lip",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Heavy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Boot E King",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Musiq",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m20": {
+            "p1": "MSC {{!}} Archive",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Beans",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m21": {
+            "p1": "20%",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Moonshoe",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m22": {
+            "p1": "RisingShadow",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Herc",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m23": {
+            "p1": "Cava",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Baine",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m24": {
+            "p1": "Ces",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "DRMark",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m25": {
+            "p1": "Crescentia",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "PKL",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m26": {
+            "p1": "Traytor",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Hop",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m27": {
+            "p1": "Redrum",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Clacker",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m28": {
+            "p1": "Bus",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Stan",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m29": {
+            "p1": "Ral",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chopper",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Dirty Mike",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Eggroll",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m30": {
+            "p1": "Zach (setup)",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Airy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m31": {
+            "p1": "Dirty Dan",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Super Ginger",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m32": {
+            "p1": "Magicubed",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bricky",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Cameron",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chiptune (setup)",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "T34",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Geno",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "Yung Wave Dash",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "SBTIX",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "Jflow",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "4est",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m8": {
+            "p1": "Blue",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Lrn2tek",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m9": {
+            "p1": "Takeover",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chewy G3",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Dad?",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Boot E King",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m10": {
+            "p1": "Dr.Lip",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "MSC {{!}} Archive",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m11": {
+            "p1": "20%",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "RisingShadow",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m12": {
+            "p1": "Cava",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Ces",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m13": {
+            "p1": "Crescentia",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Hop",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m14": {
+            "p1": "Redrum",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Bus",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m15": {
+            "p1": "Ral",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Zach (setup)",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m16": {
+            "p1": "Super Ginger",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Magicubed",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Dirty Mike",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Cameron",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Geno",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Yung Wave Dash",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "4est",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Blue",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m5": {
+            "p1": "Takeover",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Lou Man",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m6": {
+            "p1": "General Tso",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Osiris197",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m7": {
+            "p1": "Gay Luigi",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Joe?",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m8": {
+            "p1": "Starbuck",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "McNutly",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m9": {
+            "p1": "KS-K9 CrimsonKid",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Vert",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "GT",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Dad?",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m10": {
+            "p1": "Nipples",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "MSC {{!}} Archive",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m11": {
+            "p1": "KaiserGL",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "RisingShadow",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m12": {
+            "p1": "Mayo",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Cava",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m13": {
+            "p1": "DanSoFree",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Crescentia",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m14": {
+            "p1": "Wenbo",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bus",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m15": {
+            "p1": "Tipper",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Zach (setup)",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m16": {
+            "p1": "Helix",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Magicubed",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Schun",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Cameron",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "Dominari",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Geno",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "MSC {{!}} TubbywithMilk",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Blue",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m5": {
+            "p1": "mega blissey",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Takeover",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m6": {
+            "p1": "JuiceBox (setup)",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "General Tso",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m7": {
+            "p1": "Nurok",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Gay Luigi",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m8": {
+            "p1": "Popehat",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "McNutly",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m9": {
+            "p1": "Llama",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "KS-K9 CrimsonKid",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "GT",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Schun",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Geno",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "MSC {{!}} TubbywithMilk",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m3": {
+            "p1": "Takeover",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "JuiceBox (setup)",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m4": {
+            "p1": "Nurok",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Popehat",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m5": {
+            "p1": "KS-K9 CrimsonKid",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Nipples",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m6": {
+            "p1": "RisingShadow",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Cava",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m7": {
+            "p1": "DanSoFree",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Wenbo",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m8": {
+            "p1": "Tipper",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Magicubed",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Guac",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "GT",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Fendrick Lamar",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "MSC {{!}} TubbywithMilk",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l6m3": {
+            "p1": "Husband",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Takeover",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m4": {
+            "p1": "Mom! (setup)",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Nurok",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m5": {
+            "p1": "Barracuda",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "KS-K9 CrimsonKid",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m6": {
+            "p1": "Ace of Flakes",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Cava",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m7": {
+            "p1": "PeanutPhobia",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Wenbo",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l6m8": {
+            "p1": "Mike Melee",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Tipper",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l7m1": {
+            "p1": "Guac",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "MSC {{!}} TubbywithMilk",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l7m2": {
+            "p1": "Husband",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Mom! (setup)",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l7m3": {
+            "p1": "Barracuda",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Ace of Flakes",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l7m4": {
+            "p1": "Wenbo",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Tipper",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l8m1": {
+            "p1": "Zain",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Guac",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l8m2": {
+            "p1": "Plank",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mom! (setup)",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l8m3": {
+            "p1": "SG",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Ace of Flakes",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l8m4": {
+            "p1": "Bones",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Wenbo",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l9m1": {
+            "p1": "Zain",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Plank",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l9m2": {
+            "p1": "SG",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bones",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Bus",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Geno",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "JuiceBox (setup)",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Deep Toot",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Redrum",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "SBTIX",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Ace of Flakes",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "4est",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Traytor",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "mega blissey",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Rowsa",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Lrn2tek",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Crescentia",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m17": {
+            "p1": "MIlk Man",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m18": {
+            "p1": "Ces",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chewy G3",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m19": {
+            "p1": "MSC {{!}} TubbywithMilk",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Lou Man",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Y2K",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Magicubed",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m20": {
+            "p1": "Cava",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Coffee Mug",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m21": {
+            "p1": "PeanutPhobia",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m22": {
+            "p1": "RisingShadow",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Lax",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m23": {
+            "p1": "20%",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m24": {
+            "p1": "Dominari",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "NyeahDaddy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m25": {
+            "p1": "Plank",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m26": {
+            "p1": "MSC {{!}} Archive",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Scoob",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m27": {
+            "p1": "Dr.Lip",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "KVOCB",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m28": {
+            "p1": "Schun",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Joe?",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m29": {
+            "p1": "Mike Melee",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Popehat",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Musiq",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m30": {
+            "p1": "Vert",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Wally Long Balls",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m31": {
+            "p1": "KS-K9 CrimsonKid",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Cloud",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m32": {
+            "p1": "ShakeDrizzle (setup)",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "GT",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m33": {
+            "p1": "Nintendude",
+            "p1flag": "us",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m34": {
+            "p1": "McNutly",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Quarks0",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m35": {
+            "p1": "Hero",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Starbuck",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m36": {
+            "p1": "Helix",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Check",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m37": {
+            "p1": "Tipper",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m38": {
+            "p1": "Heavy",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Mido",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m39": {
+            "p1": "Guac",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "CTM",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Dirty Dan",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m40": {
+            "p1": "Gay Luigi",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Beans",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m41": {
+            "p1": "SG",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m42": {
+            "p1": "Moonshoe",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Osiris197",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m43": {
+            "p1": "General Tso",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Eguv",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m44": {
+            "p1": "Herc",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Wenbo",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m45": {
+            "p1": "Fendrick Lamar",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m46": {
+            "p1": "Baine",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "HashShlingingSlasher",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m47": {
+            "p1": "Takeover",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "DRMark",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m48": {
+            "p1": "DanSoFree",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mike",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m49": {
+            "p1": "Chudat",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Barracuda",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m50": {
+            "p1": "PKL",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Blue",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m51": {
+            "p1": "Hop",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Jflow",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m52": {
+            "p1": "Bird",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Mayo",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m53": {
+            "p1": "Husband",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m54": {
+            "p1": "Yung Wave Dash",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Clacker",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m55": {
+            "p1": "KaiserGL",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m56": {
+            "p1": "T34",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Stan",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m57": {
+            "p1": "Bones",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m58": {
+            "p1": "Cameron",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Chopper",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m59": {
+            "p1": "Nipples",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Airy",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Zach (setup)",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Eggroll",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m60": {
+            "p1": "Dirty Mike",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Free Space 2",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m61": {
+            "p1": "Mom! (setup)",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m62": {
+            "p1": "Boot E King",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Super Ginger",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m63": {
+            "p1": "Llama",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bricky",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m64": {
+            "p1": "Dad?",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Sal",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Nurok",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Chiptune (setup)",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Ral",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m9": {
+            "p1": "Zain",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Magicubed",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m10": {
+            "p1": "MSC {{!}} TubbywithMilk",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Cava",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m11": {
+            "p1": "PeanutPhobia",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "RisingShadow",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m12": {
+            "p1": "20%",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Dominari",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m13": {
+            "p1": "Plank",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "MSC {{!}} Archive",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m14": {
+            "p1": "Dr.Lip",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Schun",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m15": {
+            "p1": "Mike Melee",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Vert",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m16": {
+            "p1": "KS-K9 CrimsonKid",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "GT",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m17": {
+            "p1": "Nintendude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "McNutly",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m18": {
+            "p1": "Starbuck",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Helix",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m19": {
+            "p1": "Tipper",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mido",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Popehat",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Dirty Dan",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m20": {
+            "p1": "Guac",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Gay Luigi",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m21": {
+            "p1": "SG",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Osiris197",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m22": {
+            "p1": "General Tso",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Wenbo",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m23": {
+            "p1": "Fendrick Lamar",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "HashShlingingSlasher",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m24": {
+            "p1": "Takeover",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "DanSoFree",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m25": {
+            "p1": "Chudat",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Blue",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m26": {
+            "p1": "Jflow",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Mayo",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m27": {
+            "p1": "Husband",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Yung Wave Dash",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m28": {
+            "p1": "KaiserGL",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "T34",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m29": {
+            "p1": "Bones",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Cameron",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Barracuda",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Zach (setup)",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m30": {
+            "p1": "Nipples",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Dirty Mike",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m31": {
+            "p1": "Mom! (setup)",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Boot E King",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m32": {
+            "p1": "Llama",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Dad?",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Nurok",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Ral",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Zain",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bus",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "JuiceBox (setup)",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Redrum",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Ace of Flakes",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Traytor",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "mega blissey",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Crescentia",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m9": {
+            "p1": "MIlk Man",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Ces",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Popehat",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m10": {
+            "p1": "Tipper",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Guac",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r3m11": {
+            "p1": "SG",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Wenbo",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m12": {
+            "p1": "Fendrick Lamar",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "DanSoFree",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m13": {
+            "p1": "Chudat",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mayo",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m14": {
+            "p1": "Husband",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "KaiserGL",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m15": {
+            "p1": "Bones",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Nipples",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m16": {
+            "p1": "Mom! (setup)",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Llama",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Barracuda",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Nurok",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "Zain",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "JuiceBox (setup)",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Ace of Flakes",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "mega blissey",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m5": {
+            "p1": "MIlk Man",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "MSC {{!}} TubbywithMilk",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m6": {
+            "p1": "PeanutPhobia",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Dominari",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m7": {
+            "p1": "Plank",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Schun",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m8": {
+            "p1": "Mike Melee",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "GT",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m9": {
+            "p1": "Nintendude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Helix",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Barracuda",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Zain",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Ace of Flakes",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m3": {
+            "p1": "MIlk Man",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "PeanutPhobia",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m4": {
+            "p1": "Plank",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mike Melee",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m5": {
+            "p1": "Nintendude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Guac",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m6": {
+            "p1": "SG",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Fendrick Lamar",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m7": {
+            "p1": "Chudat",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Husband",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m8": {
+            "p1": "Bones",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Mom! (setup)",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r5m1": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Zain",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r5m2": {
+            "p1": "MIlk Man",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Plank",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r5m3": {
+            "p1": "Nintendude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "SG",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r5m4": {
+            "p1": "Chudat",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bones",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r6m1": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "MIlk Man",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r6m2": {
+            "p1": "Nintendude",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Chudat",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        }
+    }
+}

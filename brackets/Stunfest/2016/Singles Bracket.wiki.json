@@ -1,0 +1,566 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Damo",
+            "p1flag": "fr",
+            "p1score": "1",
+            "p2": "Rony",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Fauster",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Jugo",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Jugo",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Rony",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Fauster",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Jugo",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Tradeon",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Jiraymin",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Lloyd",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Baloo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Azey",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Shyp3",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Mr Zix",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Basu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Blue Turtle",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Chacha",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "Droma",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Elyan",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Oxxyga",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Fura",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "La sardine masqu\u00e9e",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Cartos",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Paf",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Jiraymin",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "Mika",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Lloyd",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Loli",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Shyp3",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Kt1",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Mr Zix",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Kirbyvert",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Chacha",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "Gugu",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Elyan",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m7": {
+            "p1": "Gregeek",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Oxxyga",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Godwin point",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Cartos",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Jiraymin",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Mika",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Loli",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Kt1",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Chacha",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Elyan",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Gregeek",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Cartos",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Amoz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Mika",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Chaca",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Loli",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Gurk",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Elyan",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "Hark",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Gregeek",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Amoz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Loli",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Elyan",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Gregeek",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "Damo",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Amoz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Rony",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Gregeek",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Fauster",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Tradeon",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Hark",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Chacha",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Damo",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Droma",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Loli",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Elyan",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Jugo",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Oxxyga",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Mika",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Fura",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Paf",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "La sardine masqu\u00e9e",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Cartos",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Gurk",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m2": {
+            "p1": "Godwin point",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Jiraymin",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Lloyd",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Gregeek",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "Baloo",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Chaca",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "Amoz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Azey",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Gugu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Shyp3",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Mr Zix",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Rony",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m8": {
+            "p1": "Basu",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Kirbyvert",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m9": {
+            "p1": "Kt1",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Blue Turtle",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Fauster",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Godwin point",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Gregeek",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Chaca",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Amoz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Gugu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Rony",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Kirbyvert",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Kt1",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Hark",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m6": {
+            "p1": "Damo",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Loli",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m7": {
+            "p1": "Jugo",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Mika",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Paf",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Gurk",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Fauster",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Chaca",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Amoz",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Rony",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "Hark",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Damo",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m4": {
+            "p1": "Jugo",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Gurk",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Fauster",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Rony",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Damo",
+            "p1flag": "fr",
+            "p1score": "0",
+            "p2": "Jugo",
+            "p2flag": "fr",
+            "p2score": "2",
+            "win": "2"
+        }
+    }
+}

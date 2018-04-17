@@ -1,0 +1,177 @@
+{{DISPLAYTITLE:Function(1): Doubles Bracket}}{{SetGame|melee}}{{BracketMatchSMWDisambig |oldtags=Silver |newtags=Silver (Georgian player)}}
+{{tabs static
+|name1=Overview
+|link1=Function/1
+|name2=Singles Pools
+|link2=Function/1/Singles Pools
+|name3=Singles Bracket
+|link3=Function/1/Singles Bracket
+|name4=Doubles Pools
+|link4=Function/1/Doubles Pools
+|name5=Doubles Bracket
+|link5=Function/1/Doubles Bracket
+|This=5
+}}
+==Winners Bracket==
+{{8DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=Colbol |r1m1t1p1flag=us
+|r1m1t1p2=Oaty |r1m1t1p2flag=us |r1m1t1score=2
+|r1m1t2p1=Chaddd |r1m1t2p1flag=us
+|r1m1t2p2=Flamin Roy |r1m1t2p2flag=us |r1m1t2score=1
+|r1m1win=1
+
+|r1m2t1p1=KPAN |r1m2t1p1flag=us
+|r1m2t1p2=Wizzrobe |r1m2t1p2flag=us |r1m2t1score=2
+|r1m2t2p1=Yort |r1m2t2p1flag=us
+|r1m2t2p2=R2DLiu |r1m2t2p2flag=us |r1m2t2score=1
+|r1m2win=1
+
+|r1m3t1p1=jarrod |r1m3t1p1flag=us
+|r1m3t1p2=Druggedfox |r1m3t1p2flag=us |r1m3t1score=2
+|r1m3t2p1=Dash |r1m3t2p1flag=us
+|r1m3t2p2=$mike |r1m3t2p2flag=us |r1m3t2score=1
+|r1m3win=1
+
+|r1m4t1p1=baka4moe |r1m4t1p1flag=us
+|r1m4t1p2=DAB |r1m4t1p2flag=us |r1m4t1score=2
+|r1m4t2p1=Greenmario |r1m4t2p1flag=us
+|r1m4t2p2=XIF |r1m4t2p2flag=us |r1m4t2score=1
+|r1m4win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Colbol |r2m1t1p1flag=us
+|r2m1t1p2=Oaty |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=KPAN |r2m1t2p1flag=us
+|r2m1t2p2=Wizzrobe |r2m1t2p2flag=us |r2m1t2score=1
+|r2m1win=1
+
+|r2m2t1p1=jarrod |r2m2t1p1flag=us
+|r2m2t1p2=Druggedfox |r2m2t1p2flag=us |r2m2t1score=1
+|r2m2t2p1=baka4moe |r2m2t2p1flag=us
+|r2m2t2p2=DAB |r2m2t2p2flag=us |r2m2t2score=3
+|r2m2win=2
+}}
+==Losers Bracket==
+{{16DEDoublesLBracketSmwA
+|tourneylink=Function/1
+|tourneyname=Function(1)
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=2KrunkVillain |l1m1t1p1flag=us
+|l1m1t1p2=Dezno |l1m1t1p2flag=us |l1m1t1score=0
+|l1m1t2p1=Slipnslide |l1m1t2p1flag=us
+|l1m1t2p2=MrBeenReady |l1m1t2p2flag=us |l1m1t2score=2
+|l1m1win=2
+
+|l1m2t1p1=GAwes |l1m2t1p1flag=us
+|l1m2t1p2=Tubesssbm |l1m2t1p2flag=us |l1m2t1score=2
+|l1m2t2p1=iluvcrispix |l1m2t2p1flag=us
+|l1m2t2p2=Type1 |l1m2t2p2flag=us |l1m2t2score=1
+|l1m2win=1
+
+|l1m3t1p1=TwistyTreats |l1m3t1p1flag=us
+|l1m3t1p2=Sprankles |l1m3t1p2flag=us |l1m3t1score=0
+|l1m3t2p1=ZENT |l1m3t2p1flag=us
+|l1m3t2p2=HiFi |l1m3t2p2flag=us |l1m3t2score=2
+|l1m3win=2
+
+|l1m4t1p1=Mike G |l1m4t1p1flag=us
+|l1m4t1p2=Silver |l1m4t1p2flag=us |l1m4t1score=0
+|l1m4t2p1=Tyrø |l1m4t2p1flag=us
+|l1m4t2p2=Jwilli |l1m4t2p2flag=us |l1m4t2score=2
+|l1m4win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Yort |l2m1t1p1flag=us
+|l2m1t1p2=R2DLiu |l2m1t1p2flag=us |l2m1t1score=0
+|l2m1t2p1=Slipnslide |l2m1t2p1flag=us
+|l2m1t2p2=MrBeenReady |l2m1t2p2flag=us |l2m1t2score=2
+|l2m1win=2
+
+|l2m2t1p1=Chaddd |l2m2t1p1flag=us
+|l2m2t1p2=Flamin Roy |l2m2t1p2flag=us |l2m2t1score=2
+|l2m2t2p1=GAwes |l2m2t2p1flag=us
+|l2m2t2p2=Tubesssbm |l2m2t2p2flag=us |l2m2t2score=1
+|l2m2win=1
+
+|l2m3t1p1=Greenmario |l2m3t1p1flag=us
+|l2m3t1p2=XIF |l2m3t1p2flag=us |l2m3t1score=2
+|l2m3t2p1=ZENT |l2m3t2p1flag=us
+|l2m3t2p2=HiFi |l2m3t2p2flag=us |l2m3t2score=0
+|l2m3win=1
+
+|l2m4t1p1=Dash |l2m4t1p1flag=us
+|l2m4t1p2=$mike |l2m4t1p2flag=us |l2m4t1score=2
+|l2m4t2p1=Tyrø |l2m4t2p1flag=us
+|l2m4t2p2=Jwilli |l2m4t2p2flag=us |l2m4t2score=0
+|l2m4win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=Slipnslide |l3m1t1p1flag=us
+|l3m1t1p2=MrBeenReady |l3m1t1p2flag=us |l3m1t1score=0
+|l3m1t2p1=Chaddd |l3m1t2p1flag=us
+|l3m1t2p2=Flamin Roy |l3m1t2p2flag=us |l3m1t2score=2
+|l3m1win=2
+
+|l3m2t1p1=Greenmario |l3m2t1p1flag=us
+|l3m2t1p2=XIF |l3m2t1p2flag=us |l3m2t1score=2
+|l3m2t2p1=Dash |l3m2t2p1flag=us
+|l3m2t2p2=$mike |l3m2t2p2flag=us |l3m2t2score=0
+|l3m2win=1
+
+<!-- ROUND 4 -->
+|l4m1t1p1=jarrod |l4m1t1p1flag=us
+|l4m1t1p2=Druggedfox |l4m1t1p2flag=us |l4m1t1score=2
+|l4m1t2p1=Chaddd |l4m1t2p1flag=us
+|l4m1t2p2=Flamin Roy |l4m1t2p2flag=us |l4m1t2score=3
+|l4m1win=2
+
+|l4m2t1p1=KPAN |l4m2t1p1flag=us
+|l4m2t1p2=Wizzrobe |l4m2t1p2flag=us |l4m2t1score=3
+|l4m2t2p1=Greenmario |l4m2t2p1flag=us
+|l4m2t2p2=XIF |l4m2t2p2flag=us |l4m2t2score=1
+|l4m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Function/1
+|tourneyname=Function(1)
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Colbol |r1m1t1p1flag=us
+|r1m1t1p2=Oaty |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=baka4moe |r1m1t2p1flag=us
+|r1m1t2p2=DAB |r1m1t2p2flag=us |r1m1t2score=2
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Chaddd |l1m1t1p1flag=us
+|l1m1t1p2=Flamin Roy |l1m1t1p2flag=us |l1m1t1score=3
+|l1m1t2p1=KPAN |l1m1t2p1flag=us
+|l1m1t2p2=Wizzrobe |l1m1t2p2flag=us |l1m1t2score=2
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=baka4moe |r2m1t1p1flag=us
+|r2m1t1p2=DAB |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Chaddd |r2m1t2p1flag=us
+|r2m1t2p2=Flamin Roy |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Colbol |r3m1t1p1flag=us
+|r3m1t1p2=Oaty |r3m1t1p2flag=us |r3m1t1score=0 |r3m2t1score=1
+|r3m1t2p1=baka4moe |r3m1t2p1flag=us
+|r3m1t2p2=DAB |r3m1t2p2flag=us |r3m1t2score=3 |r3m2t2score=3
+|r3m1win=2
+}}</onlyinclude>

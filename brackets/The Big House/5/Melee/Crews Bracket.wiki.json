@@ -1,0 +1,73 @@
+{
+    "===Final===": {},
+    "===Quarterfinals===": {},
+    "===Semifinals===": {},
+    "==Crews Bracket==": {
+        "r1m1": {
+            "p1": "SoCal",
+            "p1flag": "us",
+            "p1score": "20",
+            "p2": "New England",
+            "p2flag": "us",
+            "p2score": "11",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Florida",
+            "p1flag": "us",
+            "p1score": "20",
+            "p2": "Tri-State",
+            "p2flag": "us",
+            "p2score": "15",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Europe",
+            "p1flag": "eu",
+            "p1score": "20",
+            "p2": "Midwest",
+            "p2flag": "us",
+            "p2score": "19",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "NorCal",
+            "p1flag": "us",
+            "p1score": "18",
+            "p2": "Canada",
+            "p2flag": "ca",
+            "p2score": "20",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "SoCal",
+            "p1flag": "us",
+            "p1score": "20",
+            "p2": "Florida",
+            "p2flag": "us",
+            "p2score": "15",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Europe",
+            "p1flag": "eu",
+            "p1score": "20",
+            "p2": "Canada",
+            "p2flag": "ca",
+            "p2score": "19",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "SoCal",
+            "p1flag": "us",
+            "p1score": "20",
+            "p2": "Europe",
+            "p2flag": "eu",
+            "p2score": "18",
+            "win": "1"
+        }
+    },
+    "==Details==": {},
+    "==Full Rosters==": {},
+    "==Sources==": {}
+}

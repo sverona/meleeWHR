@@ -1,0 +1,109 @@
+{{DISPLAYTITLE:DreamHack Winter 2015: Singles Bracket}}{{SetGame|melee}}
+{{DreamHack Winter 2015 Tabs|This=3}}<br/>
+
+{{:DreamHack/2015/Winter/Winners_Bracket}}
+{{:DreamHack/2015/Winter/Losers_Bracket}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=DreamHack/2015/Winter
+|tourneyname=DreamHack Winter 2015
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=190
+|column-width-finals=230
+|export_score=true
+
+<!-- FROM WINNERS -->
+|r1m1p1=Armada |r1m1p1flag=se |r1m1p1score=1
+|r1m1p2=Hungrybox |r1m1p2flag=us |r1m1p2score=3
+|r1m1win=2
+|r1m1p1char1=fox |r1m1p1stock1=2 |r1m1p2char1=jigglypuff |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield 
+|r1m1p1char2=fox |r1m1p1stock2=0 |r1m1p2char2=jigglypuff |r1m1p2stock2=1 |r1m1win2=2 |r1m1stage2=Dream Land
+|r1m1p1char3=fox |r1m1p1stock3=0 |r1m1p2char3=jigglypuff |r1m1p2stock3=1 |r1m1win3=2 |r1m1stage3=Pokémon Stadium
+|r1m1p1char4=fox |r1m1p1stock4=0 |r1m1p2char4=jigglypuff |r1m1p2stock4=2 |r1m1win4=2 |r1m1stage4=Final Destination
+|r1m1p1char5= |r1m1p1stock5= |r1m1p2char5= |r1m1p2stock5= |r1m1win5= |r1m1stage5=
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=ZcY8x75Jwnk
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Westballz |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Plup |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+|l1m1p1char1=falco |l1m1p1stock1=0 |l1m1p2char1=sheik |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Battlefield 
+|l1m1p1char2=fox |l1m1p1stock2=0 |l1m1p2char2=sheik |l1m1p2stock2=2 |l1m1win2=2 |l1m1stage2=Yoshi's Story
+|l1m1p1char3=falco |l1m1p1stock3=0 |l1m1p2char3=sheik |l1m1p2stock3=3 |l1m1win3=2 |l1m1stage3=Yoshi's Story
+|l1m1p1char4= |l1m1p1stock4= |l1m1p2char4= |l1m1p2stock4= |l1m1win4= |l1m1stage4=
+|l1m1p1char5= |l1m1p1stock5= |l1m1p2char5= |l1m1p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=3fySyqijYtM
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Armada |r2m1p1flag=se |r2m1p1score=3
+|r2m1p2=Plup |r2m1p2flag=us |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=peach |r2m1p1stock1=2 |r2m1p2char1=sheik |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Final Destination 
+|r2m1p1char2=peach |r2m1p1stock2=1 |r2m1p2char2=sheik |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Battlefield
+|r2m1p1char3=peach |r2m1p1stock3=2 |r2m1p2char3=sheik |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Battlefield
+|r2m1p1char4= |r2m1p1stock4= |r2m1p2char4= |r2m1p2stock4= |r2m1win4= |r2m1stage4=
+|r2m1p1char5= |r2m1p1stock5= |r2m1p2char5= |r2m1p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=ki2V5EE1lFg
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Hungrybox |r3m1p1flag=us |r3m1p1score=0 |r3m2p1score=3
+|r3m1p2=Armada |r3m1p2flag=se |r3m1p2score=3 |r3m2p2score=1
+|r3m1win=1
+|r3m1p1char1=jigglypuff |r3m1p1stock1=0 |r3m1p2char1=fox |r3m1p2stock1=1 |r3m1win1=2 |r3m1stage1=Battlefield 
+|r3m1p1char2=jigglypuff |r3m1p1stock2=0 |r3m1p2char2=fox |r3m1p2stock2=1 |r3m1win2=2 |r3m1stage2=Dream Land
+|r3m1p1char3=jigglypuff |r3m1p1stock3=0 |r3m1p2char3=fox |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Dream Land
+|r3m1p1char4= |r3m1p1stock4= |r3m1p2char4= |r3m1p2stock4= |r3m1win4= |r3m1stage4=
+|r3m1p1char5= |r3m1p1stock5= |r3m1p2char5= |r3m1p2stock5= |r3m1win5= |r3m1stage5=
+
+|r3m2p1char1=jigglypuff |r3m2p1stock1=3 |r3m2p2char1=fox |r3m2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2p1char2=jigglypuff |r3m2p1stock2=2 |r3m2p2char2=fox |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Pokémon Stadium
+|r3m2p1char3=jigglypuff |r3m2p1stock3=0 |r3m2p2char3=fox |r3m2p2stock3=2 |r3m2win3=2 |r3m2stage3=Pokémon Stadium
+|r3m2p1char4=jigglypuff |r3m2p1stock4=2 |r3m2p2char4=fox |r3m2p2stock4=0 |r3m2win4=1 |r3m2stage4=Dream Land
+|r3m2p1char5= |r3m2p1stock5= |r3m2p2char5= |r3m2p2stock5= |r3m2win5= |r3m2stage5=
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=https://www.youtube.com/watch?v=PCNbllkegR0
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

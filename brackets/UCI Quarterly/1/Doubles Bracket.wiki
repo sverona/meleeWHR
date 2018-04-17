@@ -1,0 +1,87 @@
+{{DISPLAYTITLE:UCI Quarterly 1: Doubles Bracket}}{{tabs static
+|name1=Overview
+|link1=UCI Quarterly/1
+|name2=Singles Bracket
+|link2=UCI Quarterly/1/Singles Bracket
+|name3=Doubles Bracket
+|link3=UCI Quarterly/1/Doubles Bracket
+|This=3
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{4DE4SDoublesBracket
+|column-width=150
+<!-- WINNERS BRACKET -->
+<!-- SEMIFINALS -->
+|r2m1t1p1=Kira |r2m1t1p1flag=us
+|r2m1t1p2=PsychoMidget |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=DavidChong |r2m1t2p1flag=us
+|r2m1t2p2=Sergio |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=Ken |r2m2t1p1flag=us
+|r2m2t1p2=Santiago |r2m2t1p2flag=us |r2m2t1score=3
+|r2m2t2p1=LuigiKid |r2m2t2p1flag=us
+|r2m2t2p2=Mchi |r2m2t2p2flag=us |r2m2t2score=0
+|r2m2win=1
+
+<!-- WINNERS FINALS -->
+|r4m1t1p1=Kira |r4m1t1p1flag=us
+|r4m1t1p2=PsychoMidget |r4m1t1p2flag=us |r4m1t1score=1
+|r4m1t2p1=Ken |r4m1t2p1flag=us
+|r4m1t2p2=Santiago |r4m1t2p2flag=us |r4m1t2score=3
+|r4m1win=2
+
+<!-- LOSERS BRACKET -->
+<!-- ROUND 1 -->
+|l1m1t1p1=EastCoastJeff |l1m1t1p1flag=us
+|l1m1t1p2=mixx |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=NUT |l1m1t2p1flag=us
+|l1m1t2p2=Vavez |l1m1t2p2flag=us |l1m1t2score=1
+|l1m1win=1
+
+|l1m2t1p1=Sokka |l1m2t1p1flag=us
+|l1m2t1p2=cpak |l1m2t1p2flag=us |l1m2t1score=1
+|l1m2t2p1=Neeco |l1m2t2p1flag=us
+|l1m2t2p2=Oli |l1m2t2p2flag=us |l1m2t2score=2
+|l1m2win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=DavidChong |l2m1t1p1flag=us
+|l2m1t1p2=Sergio |l2m1t1p2flag=us |l2m1t1score=2
+|l2m1t2p1=EastCoastJeff |l2m1t2p1flag=us
+|l2m1t2p2=mixx |l2m1t2p2flag=us |l2m1t2score=3
+|l2m1win=2
+
+|l2m2t1p1=LuigiKid |l2m2t1p1flag=us
+|l2m2t1p2=Mchi |l2m2t1p2flag=us |l2m2t1score=3
+|l2m2t2p1=Neeco |l2m2t2p1flag=us
+|l2m2t2p2=Oli |l2m2t2p2flag=us |l2m2t2score=1
+|l2m2win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=EastCoastJeff |l3m1t1p1flag=us
+|l3m1t1p2=mixx |l3m1t1p2flag=us |l3m1t1score=2
+|l3m1t2p1=LuigiKid |l3m1t2p1flag=us
+|l3m1t2p2=Mchi |l3m1t2p2flag=us |l3m1t2score=3
+|l3m1win=2
+
+<!-- LOSERS FINALS -->
+|l4m1t1p1=Kira |l4m1t1p1flag=us
+|l4m1t1p2=PsychoMidget |l4m1t1p2flag=us |l4m1t1score=3
+|l4m1t2p1=LuigiKid |l4m1t2p1flag=us
+|l4m1t2p2=Mchi |l4m1t2p2flag=us |l4m1t2score=2
+|l4m1win=1
+
+<!-- GRAND FINALS -->
+|r5m1t1p1=Ken |r5m1t1p1flag=us
+|r5m1t1p2=Santiago |r5m1t1p2flag=us |r5m1t1score=3
+|r5m1t2p1=Kira |r5m1t2p1flag=us
+|r5m1t2p2=PsychoMidget |r5m1t2p2flag=us |r5m1t2score=2
+|r5m1win=1
+<!-- Bracket reset (optional) -->
+|r5m2t1score=
+|r5m2t2score=
+}}
+
+</onlyinclude>

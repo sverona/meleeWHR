@@ -1,0 +1,74 @@
+{{DISPLAYTITLE:Game Underground Tournament Spectacular 3: Singles Bracket}}
+{{tabs static
+|name1=Overview
+|link1=GUTS 3
+|name2=Singles Bracket
+|link2=GUTS 3/Singles Bracket
+|This=2
+}}
+{{:GUTS 3/Winner's Bracket}}
+{{:GUTS 3/Loser's Bracket}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=GUTS 3
+|tourneyname=GUTS 3
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=200
+
+<!-- FROM WINNERS -->
+|r1m1p1=Hax |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=The Moon |r1m1p2flag=us |r1m1p2score=2
+|r1m1win=1
+|r1m1p1char1=fox |r1m1p2char1=marth |r1m1p1stock1=0 |r1m1p2stock1=2 |r1m1win1=2 |r1m1stage1=Battlefield
+|r1m1p1char2=fox |r1m1p2char2=marth |r1m1p1stock2=3 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Battlefield
+|r1m1p1char3=fox |r1m1p2char3=marth |r1m1p1stock3=2 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Yoshi's Story
+|r1m1p1char4=fox |r1m1p2char4=marth |r1m1p1stock4=0 |r1m1p2stock4=3 |r1m1win4=2 |r1m1stage4=Yoshi's Story
+|r1m1p1char5=fox |r1m1p2char5=marth |r1m1p1stock5=2 |r1m1p2stock5=0 |r1m1win5=1 |r1m1stage5=Dream Land
+|r1m1date=September 21st, 0214
+|r1m1finished=true
+|r1m1details={{BracketMatchDetails|lrthread=|vod=}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Slox |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=MattDotZeb |l1m1p2flag=us |l1m1p2score=1
+|l1m1win=1
+|l1m1p1char1=fox |l1m1p2char1=falco |l1m1p1stock1=2 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1p1char2=fox |l1m1p2char2=falco |l1m1p1stock2=1 |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Pokémon Stadium
+|l1m1p1char3=fox |l1m1p2char3=falco |l1m1p1stock3=0 |l1m1p2stock3=1 |l1m1win3=2 |l1m1stage3=Final Destination
+|l1m1p1char4=fox |l1m1p2char4=falco |l1m1p1stock4=1 |l1m1p2stock4=0 |l1m1win4=1 |l1m1stage4=Yoshi's Story
+|l1m1p1char5= |l1m1p2char5= |l1m1p1stock5= |l1m1p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=September 21st, 2014
+|l1m1finished=true
+|l1m1details={{BracketMatchDetails|lrthread=|vod=}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=The Moon |r2m1p1flag=us |r2m1p1score=2
+|r2m1p2=Slox |r2m1p2flag=us |r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=marth |r2m1p2char1=fox |r2m1p1stock1=2 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=marth |r2m1p2char2=fox |r2m1p1stock2=2 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1p1char3=marth |r2m1p2char3=captain falcon |r2m1p1stock3=0 |r2m1p2stock3=1 |r2m1win3=2 |r2m1stage3=Dream Land
+|r2m1p1char4=marth |r2m1p2char4=captain falcon |r2m1p1stock4=0 |r2m1p2stock4=1 |r2m1win4=2 |r2m1stage4=Yoshi's Story
+|r2m1p1char5=marth |r2m1p2char5=captain falcon |r2m1p1stock5=0 |r2m1p2stock5=1 |r2m1win5=2 |r2m1stage5=Yoshi's Story
+|r2m1date=September 21st, 2014
+|r2m1finished=true
+|r2m1details={{BracketMatchDetails|lrthread=|vod=}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Hax |r3m1p1flag=us |r3m1p1score1=3
+|r3m1p2=Slox |r3m1p2flag=us |r3m1p2score1=2
+|r3m1win=1
+|r3m1p1char1=fox |r3m1p2char1=captain falcon |r3m1p1stock1=0 |r3m1p2stock1=2 |r3m1win1=2 |r3m1stage1=Battlefield
+|r3m1p1char2=fox |r3m1p2char2=captain falcon |r3m1p1stock2=4 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Fountain of Dreams
+|r3m1p1char3=fox |r3m1p2char3=captain falcon |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Pokémon Stadium
+|r3m1p1char4=fox |r3m1p2char4=captain falcon |r3m1p1stock4=3 |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Yoshi's Story
+|r3m1p1char5=fox |r3m1p2char5=captain falcon |r3m1p1stock5=1 |r3m1p2stock5=0 |r3m1win5=1 |r3m1stage5=Final Destination
+|r3m1date=September 21st, 2014
+|r3m1finished=true
+|r3m1details={{BracketMatchDetails|lrthread=|vod=}}
+}}
+</onlyinclude>

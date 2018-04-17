@@ -1,0 +1,170 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "Flow",
+            "t1p1flag": "us",
+            "t1p2": "Flamin Roy",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "KPAN",
+            "t2p1flag": "us",
+            "t2p2": "iluvcrispix",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "t1p1": "Slox",
+            "t1p1flag": "us",
+            "t1p2": "Crush",
+            "t1p2flag": "us",
+            "t1score": "1",
+            "t2p1": "baka4moe",
+            "t2p1flag": "us",
+            "t2p2": "DAB",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "t1p1": "Slox",
+            "t1p1flag": "us",
+            "t1p2": "Crush",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "KPAN",
+            "t2p1flag": "us",
+            "t2p2": "iluvcrispix",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "2}}</onlyinclude>"
+        },
+        "r3m2": {
+            "t2score": "3"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "t1p1": "Dash",
+            "t1p1flag": "us",
+            "t1p2": "$mike",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Sharkz",
+            "t2p1flag": "us",
+            "t2p2": "Gato",
+            "t2p2flag": "us",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l1m2": {
+            "t1p1": "2KrunkVillain",
+            "t1p1flag": "us",
+            "t1p2": "Iori",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "A Rookie",
+            "t2p1flag": "us",
+            "t2p2": "Greenmario",
+            "t2p2flag": "us",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l1m3": {
+            "t1p1": "Googlyeyed",
+            "t1p1flag": "us",
+            "t1p2": "DairDev1L",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "StackDolla$",
+            "t2p1flag": "us",
+            "t2p2": "Colbol",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "t1p1": "Druggedfox",
+            "t1p1flag": "us",
+            "t1p2": "DanDan",
+            "t1p2flag": "us",
+            "t1score": "2",
+            "t2p1": "Suezo",
+            "t2p1flag": "us",
+            "t2p2": "Zook",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "t1p1": "Dash",
+            "t1p1flag": "us",
+            "t1p2": "$mike",
+            "t1p2flag": "us",
+            "t1score": "1",
+            "t2p1": "2KrunkVillain",
+            "t2p1flag": "us",
+            "t2p2": "Iori",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "l2m2": {
+            "t1p1": "StackDolla$",
+            "t1p1flag": "us",
+            "t1p2": "Colbol",
+            "t1p2flag": "us",
+            "t1score": "1",
+            "t2p1": "Druggedfox",
+            "t2p1flag": "us",
+            "t2p2": "DanDan",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "l3m1": {
+            "t1p1": "Flow",
+            "t1p1flag": "us",
+            "t1p2": "Flamin Roy",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "2KrunkVillain",
+            "t2p1flag": "us",
+            "t2p2": "Iori",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "t1p1": "KPAN",
+            "t1p1flag": "us",
+            "t1p2": "iluvcrispix",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Druggedfox",
+            "t2p1flag": "us",
+            "t2p2": "DanDan",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "t1p1": "baka4moe",
+            "t1p1flag": "us",
+            "t1p2": "DAB",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "KPAN",
+            "t2p1flag": "us",
+            "t2p2": "iluvcrispix",
+            "t2p2flag": "us",
+            "t2score": "2",
+            "win": "1"
+        }
+    }
+}

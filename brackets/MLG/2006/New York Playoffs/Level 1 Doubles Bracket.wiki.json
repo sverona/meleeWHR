@@ -1,0 +1,194 @@
+{
+    "==Final Level 1 Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "Tink",
+            "t1p1flag": "us",
+            "t1p2": "IK_GHOST",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Tetra",
+            "t2p1flag": "",
+            "t2p2": "Alejandro_P",
+            "t2p2flag": "",
+            "t2score": "2",
+            "win": "1"
+        },
+        "r1m1": {
+            "t1p1": "Eddie",
+            "t1p1flag": "us",
+            "t1p2": "HugS",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "PC Chris",
+            "t2p1flag": "us",
+            "t2p2": "Wes",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "t1p1": "Eddie",
+            "t1p1flag": "us",
+            "t1p2": "HugS",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Tink",
+            "t2p1flag": "us",
+            "t2p2": "IK_GHOST",
+            "t2p2flag": "us",
+            "t2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "details": {
+                "comment": "The 3-0 score from Winners Finals carried over to this set.",
+                "reddit": ""
+            },
+            "t1p1": "PC Chris",
+            "t1p1flag": "us",
+            "t1p2": "Wes",
+            "t1p2flag": "us",
+            "t1score": "6",
+            "t2p1": "Eddie",
+            "t2p1flag": "us",
+            "t2p2": "HugS",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "t1p1": "Rafa",
+            "t1p1flag": "",
+            "t1p2": "Dire",
+            "t1p2flag": "",
+            "t1score": "3",
+            "t2p1": "Tope",
+            "t2p1flag": "us",
+            "t2p2": "Inui",
+            "t2p2flag": "",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "t1p1": "KillaOR",
+            "t1p1flag": "us",
+            "t1p2": "Cort",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "Tetra",
+            "t2p1flag": "",
+            "t2p2": "Alejandro_P",
+            "t2p2flag": "",
+            "t2score": "3",
+            "win": "2"
+        },
+        "l2m1": {
+            "t1p1": "Tink",
+            "t1p1flag": "us",
+            "t1p2": "IK_GHOST",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Rafa",
+            "t2p1flag": "",
+            "t2p2": "Dire",
+            "t2p2flag": "",
+            "t2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "t1p1": "Kaiser",
+            "t1p1flag": "",
+            "t1p2": "Chinesah",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "Tetra",
+            "t2p1flag": "",
+            "t2p2": "Alejandro_P",
+            "t2p2flag": "",
+            "t2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "t1p1": "Eddie",
+            "t1p1flag": "us",
+            "t1p2": "HugS",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Rafa",
+            "t2p1flag": "",
+            "t2p2": "Dire",
+            "t2p2flag": "",
+            "t2score": "1",
+            "win": "1"
+        },
+        "r1m2": {
+            "t1p1": "Kaiser",
+            "t1p1flag": "",
+            "t1p2": "Chinesah",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Tope",
+            "t2p1flag": "us",
+            "t2p2": "Inui",
+            "t2p2flag": "",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "t1p1": "Tink",
+            "t1p1flag": "us",
+            "t1p2": "IK_GHOST",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "KillaOR",
+            "t2p1flag": "us",
+            "t2p2": "Cort",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "t1p1": "Tetra",
+            "t1p1flag": "",
+            "t1p2": "Alezandro_P",
+            "t1p2flag": "",
+            "t1score": "1",
+            "t2p1": "PC Chris",
+            "t2p1flag": "us",
+            "t2p2": "Wes",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "t1p1": "Eddie",
+            "t1p1flag": "us",
+            "t1p2": "HugS",
+            "t1p2flag": "us",
+            "t1score": "3",
+            "t2p1": "Kaiser",
+            "t2p1flag": "",
+            "t2p2": "Chinesah",
+            "t2p2flag": "us",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "t1p1": "Tink",
+            "t1p1flag": "us",
+            "t1p2": "IK_GHOST",
+            "t1p2flag": "us",
+            "t1score": "0",
+            "t2p1": "PC Chris",
+            "t2p1flag": "us",
+            "t2p2": "Wes",
+            "t2p2flag": "us",
+            "t2score": "3",
+            "win": "2"
+        }
+    }
+}

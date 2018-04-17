@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Time Muffin",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Socks",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Captain Zeppo",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Phade",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Phade",
+            "p1flag": "gb",
+            "p1score": "1",
+            "p2": "Socks",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Captain Zeppo",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Socks",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Lumachan",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Hen",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Flick",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Ebisu",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Bubba Flappies",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "PidgeY",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Duckslayer",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Suff",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Time Muffin",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Hen",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Davemans",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Ebisu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Loo",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "PidgeY",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Ty",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Duckslayer",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Time Muffin",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Davemans",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Loo",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Duckslayer",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Maskless",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Time Muffin",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Socks",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Loo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Captain Zeppo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Lumachan",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Ty",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Hen",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Maskless",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Flick",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Loo",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Ebisu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Phade",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Bubba Flappies",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Davemans",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "PidgeY",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Socks",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Duckslayer",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Time Muffin",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Suff",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Captain Zeppo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Ty",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Maskless",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Loo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Phade",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Davemans",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Socks",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Time Muffin",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Captain Zeppo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Maskless",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Phade",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Socks",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

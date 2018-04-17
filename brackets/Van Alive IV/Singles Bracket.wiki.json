@@ -1,0 +1,563 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Edgeluca",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Espi",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Blunted_Object10",
+            "p1flag": "ca",
+            "p1score": "3",
+            "p2": "Sion",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Sion",
+            "p1flag": "ca",
+            "p1score": "3",
+            "p2": "Edgeluca",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "1}}</onlyinclude>"
+        },
+        "r3m2": {
+            "p2score": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Jim Shaw",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Ruin",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "bwmat",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Ori",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "zilo",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Dime",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Firefly",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "TPS",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Skidd",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Polo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "TheGTree",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "WebWipe",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "TKO",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Killerwhale",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m8": {
+            "p1": "Elate",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Yield",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Bodlack",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Jim Shaw",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Yakal",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "bwmat",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Mike Li",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "zilo",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "MojoMonkey",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Firefly",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Espi",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Skidd",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Patooty",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "WebWipe",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "RK",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Killerwhale",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m8": {
+            "p1": "Booshk",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Yield",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Bodlack",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Yakal",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Mike Li",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "MojoMonkey",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Espi",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Patooty",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "Killerwhale",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Booshk",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "A6M",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Yakal",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "MadJ",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "MojoMonkey",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "TheIntern",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "Espi",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "DaWreck",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Killerwhale",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "Yakal",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "MadJ",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Espi",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "DaWreck",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Edgeluca",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Yakal",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "NoobKing",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Espi",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Blunted_Object10",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Jim Shaw",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "MojoMonkey",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Polo",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Mike Li",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "TheGTree",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "DaWreck",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "WebWipe",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Yakal",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "TKO",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "Killerwhale",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "TheIntern",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "Edgeluca",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Elate",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Bodlack",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Yield",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Booshk",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Ruin",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "bwmat",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "RK",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "MadJ",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Ori",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Patooty",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "zilo",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "A6M",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Dime",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "NoobKing",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Firefly",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Espi",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "TPS",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Sion",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Skidd",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Blunted_Object10",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Booshk",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "RK",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "MadJ",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Patooty",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "A6M",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m4": {
+            "p1": "NoobKing",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Espi",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Sion",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "MojoMonkey",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Mike Li",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "DaWreck",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "Yakal",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "TheIntern",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m8": {
+            "p1": "Edgeluca",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Bodlack",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Blunted_Object10",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "MadJ",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "A6M",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "NoobKing",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "Sion",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "DaWreck",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "TheIntern",
+            "p1flag": "ca",
+            "p1score": "0",
+            "p2": "Edgeluca",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "Blunted_Object10",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "NoobKing",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Sion",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "Edgeluca",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        }
+    }
+}

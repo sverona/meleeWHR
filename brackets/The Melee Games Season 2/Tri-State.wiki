@@ -1,0 +1,237 @@
+<noinclude>{{tabs static
+|name1=Overview
+|link1=The Melee Games Season 2
+|name2=New England
+|link2=The Melee Games Season 2/New England
+|name3=Tri-State
+|link3=The Melee Games Season 2/Tri-State
+|This=3
+}}
+</noinclude>
+
+The Tri-State division of The Melee Games began September 13, 2014 with 30 teams participating. The finals took place at [[Super Nebulous]] on November 30, and the winner of the division will play against the winner of the [[The Melee Games Season 2/New_England|New England]] division at [[Apex 2015]] for the grand finals of Season 2.
+
+===Bracket===
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia 
+
+Need to port 32SEBracket to 64SEBracket!
+{{64SEBracket
+|r1m1p1=Oneonta |r1m1p1flag= |r1m1p1score=W |r1m1win=1
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=-
+
+|r1m2p1=SUNY Cortland |r1m2p1flag= |r1m2p1score=6 |r1m2win=2
+|r1m2p2=Cornell |r1m2p2flag= |r1m2p2score=28
+
+|r1m3p1=RPI |r1m3p1flag= |r1m3p1score=W |r1m3win=1
+|r1m3p2=Bye |r1m3p2flag= |r1m3p2score=-
+
+|r1m4p1=Binghamton |r1m4p1flag= |r1m4p1score=W |r1m4win=1
+|r1m4p2=Bye |r1m4p2flag= |r1m4p2score=-
+
+|r1m5p1=RIT |r1m5p1flag= |r1m5p1score=W |r1m5win=1
+|r1m5p2=Bye |r1m5p2flag= |r1m5p2score=-
+
+|r1m6p1=U Rochester |r1m6p1flag= |r1m6p1score=W |r1m6win=1
+|r1m6p2=Bye |r1m6p2flag= |r1m6p2score=-
+
+|r1m7p1=SUNY Buffalo |r1m7p1flag= |r1m7p1score=W |r1m7win=1
+|r1m7p2=Bye |r1m7p2flag= |r1m7p2score=-
+
+|r1m8p1=<placeholder1> |r1m8p1flag= |r1m8p1score=W |r1m8win=1
+|r1m8p2=Bye |r1m8p2flag= |r1m8p2score=-
+
+|r1m9p1=NYU |r1m9p1flag= |r1m9p1score=W |r1m9win=1
+|r1m9p2=Bye |r1m9p2flag= |r1m9p2score=-
+
+|r1m10p1=Cooper Union |r1m10p1flag= |r1m10p1score=0 |r1m10win=1
+|r1m10p2=<placeholder4> |r1m10p2flag= |r1m10p2score=0
+
+|r1m11p1=SBU |r1m11p1flag= |r1m11p1score=W |r1m11win=1
+|r1m11p2=Bye |r1m11p2flag= |r1m11p2score=-
+
+|r1m12p1=SJU |r1m12p1flag= |r1m12p1score=W |r1m12win=1
+|r1m12p2=Bye |r1m12p2flag= |r1m12p2score=-
+
+|r1m13p1=MSM |r1m13p1flag= |r1m13p1score=W |r1m13win=1
+|r1m13p2=Bye |r1m13p2flag= |r1m13p2score=-
+
+|r1m14p1=Columbia |r1m14p1flag= |r1m14p1score=0 |r1m14win=1
+|r1m14p2=<placeholder3> |r1m14p2flag= |r1m14p2score=0
+
+|r1m15p1=Juliard |r1m15p1flag= |r1m15p1score=W |r1m15win=1
+|r1m15p2=Bye |r1m15p2flag= |r1m15p2score=-
+
+|r1m16p1=Manhattan College |r1m16p1flag= |r1m16p1score=W |r1m16win=1
+|r1m16p2=Bye |r1m16p2flag= |r1m16p2score=-
+
+|r1m17p1=Pitt |r1m17p1flag= |r1m17p1score=W |r1m17win=1
+|r1m17p2=Bye |r1m17p2flag= |r1m17p2score=-
+
+|r1m18p1=<placeholder7> |r1m18p1flag= |r1m18p1score=0 |r1m18win=2
+|r1m18p2=CMU |r1m18p2flag= |r1m18p2score=0
+
+|r1m19p1=<placeholder5> |r1m19p1flag= |r1m19p1score=W |r1m19win=1
+|r1m19p2=Bye |r1m19p2flag= |r1m19p2score=-
+
+|r1m20p1=PSU |r1m20p1flag= |r1m20p1score=W |r1m20win=1
+|r1m20p2=Bye |r1m20p2flag= |r1m20p2score=-
+
+|r1m21p1=WCU |r1m21p1flag= |r1m21p1score=W |r1m21win=1
+|r1m21p2=Bye |r1m21p2flag= |r1m21p2score=-
+
+|r1m22p1=Rowan |r1m22p1flag= |r1m22p1score=0 |r1m22win=1
+|r1m22p2=<placeholder8> |r1m22p2flag= |r1m22p2score=0
+
+|r1m23p1=UPenn |r1m23p1flag= |r1m23p1score=W |r1m23win=1
+|r1m23p2=Bye |r1m23p2flag= |r1m23p2score=-
+
+|r1m24p1=Temple |r1m24p1flag= |r1m24p1score=W |r1m24win=1
+|r1m24p2=Bye |r1m24p2flag= |r1m24p2score=-
+
+|r1m25p1=Montclair State |r1m25p1flag= |r1m25p1score=W |r1m25win=1
+|r1m25p2=Bye |r1m25p2flag= |r1m25p2score=-
+
+|r1m26p1=<placeholder2> |r1m26p1flag= |r1m26p1score=0 |r1m26win=2
+|r1m26p2=NJIT |r1m26p2flag= |r1m26p2score=0
+
+|r1m27p1=Ramapo |r1m27p1flag= |r1m27p1score=W |r1m27win=1
+|r1m27p2=Bye |r1m27p2flag= |r1m27p2score=-
+
+|r1m28p1=<placeholder6> |r1m28p1flag= |r1m28p1score=W |r1m28win=1
+|r1m28p2=Bye |r1m28p2flag= |r1m28p2score=-
+
+|r1m29p1=Rutgers |r1m29p1flag= |r1m29p1score=W |r1m29win=1
+|r1m29p2=Bye |r1m29p2flag= |r1m29p2score=-
+
+|r1m30p1=<placeholder9> |r1m30p1flag= |r1m30p1score=0 |r1m30win=2
+|r1m30p2=Monmouth U |r1m30p2flag= |r1m30p2score=0
+
+|r1m31p1=TCNJ |r1m31p1flag= |r1m31p1score=W |r1m31win=1
+|r1m31p2=Bye |r1m31p2flag= |r1m31p2score=-
+
+|r1m32p1=Princeton |r1m32p1flag= |r1m32p1score=W |r1m32win=1
+|r1m32p2=Bye |r1m32p2flag= |r1m32p2score=-
+
+|r2m1p1=Oneonta |r2m1p1flag= |r2m1p1score=18 |r2m1win=2
+|r2m1p2=Cornell |r2m1p2flag= |r2m1p2score=20
+
+|r2m2p1=RPI |r2m2p1flag= |r2m2p1score=20 |r2m2win=1
+|r2m2p2=Binghamton |r2m2p2flag= |r2m2p2score=17
+
+|r2m3p1=RIT |r2m3p1flag= |r2m3p1score=24 |r2m3win=1
+|r2m3p2=U Rochester |r2m3p2flag= |r2m3p2score=19
+
+|r2m4p1=SUNY Buffalo |r2m4p1flag= |r2m4p1score=0 |r2m4win=1
+|r2m4p2=<placeholder1> |r2m4p2flag= |r2m4p2score=0
+
+|r2m5p1=NYU |r2m5p1flag= |r2m5p1score=20 |r2m5win=1
+|r2m5p2=Cooper Union |r2m5p2flag= |r2m5p2score=15
+
+|r2m6p1=SBU |r2m6p1flag= |r2m6p1score=20 |r2m6win=1
+|r2m6p2=SJU |r2m6p2flag= |r2m6p2score=3
+
+|r2m7p1=MSM |r2m7p1flag= |r2m7p1score=9 |r2m7win=2
+|r2m7p2=Columbia |r2m7p2flag= |r2m7p2score=20
+
+|r2m8p1=Juliard |r2m8p1flag= |r2m8p1score=18 |r2m8win=2
+|r2m8p2=Manhattan College |r2m8p2flag= |r2m8p2score=20
+
+|r2m9p1=Pitt |r2m9p1flag= |r2m9p1score=20 |r2m9win=1
+|r2m9p2=CMU |r2m9p2flag= |r2m9p2score=14
+
+|r2m10p1=<placeholder5> |r2m10p1flag= |r2m10p1score=0 |r2m10win=2
+|r2m10p2=PSU |r2m10p2flag= |r2m10p2score=0
+
+|r2m11p1=WCU |r2m11p1flag= |r2m11p1score=19 |r2m11win=2
+|r2m11p2=Rowan |r2m11p2flag= |r2m11p2score=20
+
+|r2m12p1=UPenn |r2m12p1flag= |r2m12p1score=20 |r2m12win=1
+|r2m12p2=Temple |r2m12p2flag= |r2m12p2score=19
+
+|r2m13p1=Montclair State |r2m13p1flag= |r2m13p1score=13 |r2m13win=2
+|r2m13p2=NJIT |r2m13p2flag= |r2m13p2score=20
+
+|r2m14p1=Ramapo |r2m14p1flag= |r2m14p1score=0 |r2m14win=1
+|r2m14p2=<placeholder6> |r2m14p2flag= |r2m14p2score=0
+
+|r2m15p1=Rutgers |r2m15p1flag= |r2m15p1score=36 |r2m15win=1
+|r2m15p2=Monmouth U |r2m15p2flag= |r2m15p2score=9
+
+|r2m16p1=TCNJ |r2m16p1flag= |r2m16p1score=19 |r2m16win=2
+|r2m16p2=Princeton |r2m16p2flag= |r2m16p2score=20
+
+|r3m1p1=Cornell |r3m1p1flag= |r3m1p1score={{win}} |r3m1win=1
+|r3m1p2=RPI |r3m1p2flag= |r3m1p2score=
+
+|r3m2p1=RIT |r3m2p1flag= |r3m2p1score=20 |r3m2win=1
+|r3m2p2=SUNY Buffalo |r3m2p2flag= |r3m2p2score=10
+
+|r3m3p1=NYU |r3m3p1flag= |r3m3p1score=14 |r3m3win=2
+|r3m3p2=SBU |r3m3p2flag= |r3m3p2score=20
+
+|r3m4p1=Columbia |r3m4p1flag= |r3m4p1score=24 |r3m4win=1
+|r3m4p2=Manhattan College |r3m4p2flag= |r3m4p2score=18
+
+|r3m5p1=Pitt |r3m5p1flag= |r3m5p1score=20 |r3m5win=1
+|r3m5p2=PSU |r3m5p2flag= |r3m5p2score=15
+
+|r3m6p1=Rowan |r3m6p1flag= |r3m6p1score=29 |r3m6win=2
+|r3m6p2=UPenn |r3m6p2flag= |r3m6p2score=36
+
+|r3m7p1=NJIT |r3m7p1flag= |r3m7p1score=20 |r3m7win=1
+|r3m7p2=Ramapo |r3m7p2flag= |r3m7p2score=4
+
+|r3m8p1=Rutgers |r3m8p1flag= |r3m8p1score=28 |r3m8win=1
+|r3m8p2=Princeton |r3m8p2flag= |r3m8p2score=18
+
+|r4m1p1=Cornell |r4m1p1flag= |r4m1p1score=20 |r4m1win=1
+|r4m1p2=RIT |r4m1p2flag= |r4m1p2score=18
+
+|r4m2p1=SBU |r4m2p1flag= |r4m2p1score=15 |r4m2win=2
+|r4m2p2=Columbia |r4m2p2flag= |r4m2p2score=20
+
+|r4m3p1=Pitt |r4m3p1flag= |r4m3p1score=20 |r4m3win=1
+|r4m3p2=UPenn |r4m3p2flag= |r4m3p2score=18
+
+|r4m4p1=NJIT |r4m4p1flag= |r4m4p1score=13 |r4m4win=2
+|r4m4p2=Rutgers |r4m4p2flag= |r4m4p2score=20
+
+|r5m1p1=Cornell |r5m1p1flag= |r5m1p1score=18 |r5m1win=2
+|r5m1p2=Columbia |r5m1p2flag= |r5m1p2score=20
+
+|r5m2p1=Pitt |r5m2p1flag= |r5m2p1score=17 |r5m2win=2
+|r5m2p2=Rutgers |r5m2p2flag= |r5m2p2score=20
+
+|r6m1p1=Columbia |r6m1p1flag= |r6m1p1score=20 |r6m1win=1
+|r6m1p2=Rutgers |r6m1p2flag= |r6m1p2score=18
+}}-->
+
+===Finals Results===
+{{TeamMatch
+|team1literal='''Rutgers'''
+|team2literal='''Columbia'''
+|date=November 30, 2014
+|finished=true
+|live=
+|vod=https://www.youtube.com/watch?v=ezLjmKVDbH0
+|teamwin=2
+|lrthread=
+|interview=
+|review=
+|width=320
+
+|team1matches=4
+|team2matches=5
+|team1stocks=0
+|team2stocks=2
+
+|m1p1=Overflow |m1p1char=fox |m1p1s1=4 |m1p1s2=0 |m1p2=ZeroOmega |m1p2char=falco |m1p2s1=4 |m1p2s2=1 |m1win=2 |m1stage=Dream Land
+|m2p1=Cheezit |m2p1char=peach |m2p1s1=4 |m2p1s2=0 |m2p2=ZeroOmega |m2p2char=falco |m2p2s1=1 |m2p2s2=1 |m2win=2 |m2stage=Battlefield
+|m3p1=Internet Explorer |m3p1char=link |m3p1s1=4 |m3p1s2=3 |m3p2=ZeroOmega |m3p2char=falco |m3p2s1=1 |m3p2s2=0 |m3win=1 |m3stage=Battlefield
+|m4p1=Internet Explorer |m4p1char=link |m4p1s1=3 |m4p1s2=0 |m4p2=FLOTUS |m4p2char=peach |m4p2s1=4 |m4p2s2=2 |m4win=2 |m4stage=Battlefield
+|m5p1=Takoyaki |m5p1char=fox |m5p1s1=4 |m5p1s2=2 |m5p2=FLOTUS |m5p2char=peach |m5p2s1=2 |m5p2s2=0 |m5win=1 |m5stage=Final Destination
+|m6p1=Takoyaki |m6p1char=fox |m6p1s1=2 |m6p1s2=1 |m6p2=Whiskers |m6p2char=yoshi |m6p2s1=4 |m6p2s2=0 |m6win=1 |m6stage=Final Destination
+|m7p1=Takoyaki |m7p1char=fox |m7p1s1=1 |m7p1s2=0 |m7p2=Cheezpuff |m7p2char=jigglypuff |m7p2s1=4 |m7p2s2=3 |m7win=2 |m7stage=Battlefield
+|m8p1=Swedish Delight |m8p1char=sheik |m8p1s1=4 |m8p1s2=2 |m8p2=Cheezpuff |m8p2char=jigglypuff |m8p2s1=3 |m8p2s2=0 |m8win=1 |m8stage=Dream Land
+|m9p1=Swedish Delight |m9p1char=sheik |m9p1s1=2 |m9p1s2=0 |m9p2=Fiya |m9p2char=fox |m9p2s1=4 |m9p2s2=2 |m9win=2 |m9stage=Battlefield
+}}

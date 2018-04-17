@@ -1,0 +1,281 @@
+{
+    "===Pool 1===": {},
+    "===Pool 2===": {},
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "0",
+            "p2": "Overgamer",
+            "p2flag": "ch",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "2",
+            "p2": "Shloub",
+            "p2flag": "fr",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Overgamer",
+            "p2flag": "ch",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p2": "Jah Ridin'",
+            "p2flag": "ch",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m2": {
+            "p2score": "3"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Coilerr",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "W",
+            "win": ""
+        },
+        "l1m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Octodecim",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Tristan",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Akatsuki-planta",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Coilerr",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "Octodecim",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "ChouX",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Tristan",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Akatsuki-planta",
+            "p1flag": "ch",
+            "p1score": "2",
+            "p2": "Tits",
+            "p2flag": "ch",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "3",
+            "p2": "ChouX",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Poney",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Tits",
+            "p2flag": "ch",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Overgamer",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Scriptor",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Pools==": {},
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Coilerr",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "ChouX",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Poney",
+            "p1flag": "fr",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Scriptor",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Tits",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Octodecim",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Overgamer",
+            "p1flag": "ch",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Akatsuki-planta",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Tristan",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "ChouX",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Poney",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Scriptor",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Tits",
+            "p2flag": "ch",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Overgamer",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Akatsuki-planta",
+            "p2flag": "ch",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Jah Ridin'",
+            "p1flag": "ch",
+            "p1score": "3",
+            "p2": "Poney",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Shloub",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Overgamer",
+            "p2flag": "ch",
+            "p2score": "2",
+            "win": "1"
+        }
+    }
+}

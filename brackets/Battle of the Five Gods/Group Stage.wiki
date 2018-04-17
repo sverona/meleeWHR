@@ -1,0 +1,488 @@
+{{DISPLAYTITLE:Battle of the Five Gods: Group Stage}}{{SetGame|melee}}{{GroupTableSlotSmwInfo
+|tourneylink=Battle of the Five Gods
+|tourneyname=Battle of the Five Gods
+|group_placements=3,4
+|final_placements=11-15,16-20
+}}
+{{Battle of the Five Gods Tabs|This=2}}
+==Group Stage==
+{{Box|start|padding=2em}}
+==={{HiddenSort|Group A}}===
+{{GroupTableStart| Group A |width=350px}}
+{{GroupTableSlot|flag=se|Armada |team=alliance|place=1 |win_m=3 |lose_m=0 |win_g=9 |lose_g=2 |bg=up}}
+{{GroupTableSlot|flag=us|Silent Wolf |team=gameclucks|place=2 |win_m=1 |lose_m=2 |win_g=6 |lose_g=7 |bg=stay}}
+{{GroupTableSlotSmw|flag=us|SFAT |team=clg|place=3 |win_m=1 |lose_m=2 |win_g=6 |lose_g=8 |bg=down}}
+{{GroupTableSlotSmw|flag=us|HugS |team=noteam|place=4 |win_m=1 |lose_m=2 |win_g=4 |lose_g=8 |bg=down}}
+{{GroupTableEnd}}
+{{Match list start |title=Group A Matches |width=350px}}
+{{Match stages
+|p1=Armada |p1flag=se
+|p2=SFAT |p2flag=us
+|p1score=3
+|p2score=1
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=fox |p2char1=fox |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=2 |p1char2=fox |p2char2=fox |p1stock2=0 |p2stock2=1 |stage2=Battlefield
+|stage3win=1 |p1char3=fox |p2char3=fox |p1stock3=2 |p2stock3=0 |stage3=Dream Land
+|stage4win=1 |p1char4=fox |p2char4=fox |p1stock4=3 |p2stock4=0 |stage4=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=oU9PphN8rXE
+}}
+
+{{Match stages
+|p1=HugS |p1flag=us
+|p2=Silent Wolf |p2flag=us
+|p1score=1
+|p2score=3
+|date=March 17, 2016
+|winner=2
+|stage1win=1 |p1char1=samus |p2char1=fox |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=2 |p1char2=samus |p2char2=fox |p1stock2=0 |p2stock2=2 |stage2=Pokémon Stadium
+|stage3win=2 |p1char3=samus |p2char3=fox |p1stock3=0 |p2stock3=1 |stage3=Fountain of Dreams
+|stage4win=2 |p1char4=samus |p2char4=fox |p1stock4=0 |p2stock4=1 |stage4=Dream Land
+|vod=https://www.youtube.com/watch?v=KiQKO-_E1qg
+}}
+
+{{Match stages
+|p1=Armada |p1flag=se
+|p2=HugS |p2flag=us
+|p1score=3
+|p2score=0
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=peach |p2char1=samus |p1stock1=2 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=peach |p2char2=samus |p1stock2=2 |p2stock2=0 |stage2=Yoshi's Story
+|stage3win=1 |p1char3=peach |p2char3=samus |p1stock3=2 |p2stock3=0 |stage3=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=wx937sOlaNk
+}}
+
+{{Match stages
+|p1=SFAT |p1flag=us
+|p2=Silent Wolf |p2flag=us
+|p1score=3
+|p2score=2
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=fox |p2char1=fox |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=2 |p1char2=fox |p2char2=fox |p1stock2=0 |p2stock2=1 |stage2=Dream Land
+|stage3win=2 |p1char3=fox |p2char3=fox |p1stock3=0 |p2stock3=3 |stage3=Final Destination
+|stage4win=1 |p1char4=fox |p2char4=fox |p1stock4=2 |p2stock4=0 |stage4=Fountain of Dreams
+|stage5win=1 |p1char5=fox |p2char5=fox |p1stock5=1 |p2stock5=0 |stage5=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=tK9_NUMhmcI
+}}
+
+{{Match stages
+|p1=SFAT |p1flag=us
+|p2=HugS |p2flag=us
+|p1score=2
+|p2score=3
+|date=March 18, 2016
+|winner=2
+|stage1win=2 |p1char1=fox |p2char1=samus |p1stock1=0 |p2stock1=2 |stage1=Battlefield
+|stage2win=1 |p1char2=fox |p2char2=samus |p1stock2=2 |p2stock2=0 |stage2=Final Destination
+|stage3win=2 |p1char3=fox |p2char3=samus |p1stock3=0 |p2stock3=1 |stage3=Fountain of Dreams
+|stage4win=1 |p1char4=fox |p2char4=samus |p1stock4=2 |p2stock4=0 |stage4=Pokémon Stadium
+|stage5win=2 |p1char5=fox |p2char5=samus |p1stock5=0 |p2stock5=1 |stage5=Dream Land
+|vod=https://www.youtube.com/watch?v=3xJ4UrmTvZc
+}}
+
+{{Match stages
+|p1=Armada |p1flag=se
+|p2=Silent Wolf |p2flag=us
+|p1score=3
+|p2score=1
+|date=March 18, 2016
+|winner=1
+|stage1win=1 |p1char1=fox |p2char1=fox |p1stock1=3 |p2stock1=0 |stage1=Battlefield
+|stage2win=2 |p1char2=fox |p2char2=fox |p1stock2=0 |p2stock2=1 |stage2=Dream Land
+|stage3win=1 |p1char3=fox |p2char3=fox |p1stock3=3 |p2stock3=0 |stage3=Pokémon Stadium
+|stage4win=1 |p1char4=fox |p2char4=falco |p1stock4=3 |p2stock4=0 |stage4=Yoshi's Story
+|stage5win= |p1char5= |p2char5= |p1stock5= |p2stock5= |stage5=
+|vod=https://www.youtube.com/watch?v=Xu4ewBmr3Ws
+}}
+{{Match list end}}
+
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|Group B}}===
+{{GroupTableStart| Group B |width=350px}}
+{{GroupTableSlot|{{flag/us}} Westballz |team=tempo storm|place=1 |win_m=3 |lose_m=0 |win_g=9 |lose_g=4 |bg=up}}
+{{GroupTableSlot|{{flag/us}} PPMD |team=eg|place=2 |win_m=2 |lose_m=1 |win_g=7 |lose_g=4 |bg=stay}}
+{{GroupTableSlotSmw|flag=us|PewPewU |team=clg|place=3 |win_m=1 |lose_m=2 |win_g=5 |lose_g=7 |bg=down}}
+{{GroupTableSlotSmw|flag=de|Ice |team=myinsanity|place=4 |win_m=0 |lose_m=3 |win_g=3 |lose_g=9 |bg=down}}
+{{GroupTableEnd}}
+{{Match list start |title=Group B Matches |width=350px}}
+{{Match stages
+|p1=PPMD |p1flag=us
+|p2=PewPewU |p2flag=us
+|p1score=3
+|p2score=0
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=marth |p2char1=marth |p1stock1=3 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=marth |p2char2=marth |p1stock2=2 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win=1 |p1char3=marth |p2char3=marth |p1stock3=1 |p2stock3=0 |stage3=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=0F8CWqvD-uA
+}}
+
+{{Match stages
+|p1=Westballz |p1flag=us
+|p2=Ice |p2flag=de
+|p1score=3
+|p2score=1
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=falco |p2char1=fox |p1stock1=2 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=falco |p2char2=fox |p1stock2=2 |p2stock2=0 |stage2=Battlefield
+|stage3win=2 |p1char3=falco |p2char3=fox |p1stock3=0 |p2stock3=1 |stage3=Final Destination
+|stage4win=1 |p1char4=falco |p2char4=fox |p1stock4=1 |p2stock4=0 |stage4=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=sf8fuPtmZSM
+}}
+
+{{Match stages
+|p1=PPMD |p1flag=us
+|p2=Ice |p2flag=de
+|p1score=3
+|p2score=1
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=falco |p2char1=fox |p1stock1=1 |p2stock1=0 |stage1=Final Destination
+|stage2win=1 |p1char2=marth |p2char2=cf |p1stock2=3 |p2stock2=0 |stage2=Final Destination
+|stage3win=2 |p1char3=marth |p2char3=fox |p1stock3=0 |p2stock3=2 |stage3=Pokémon Stadium
+|stage4win=1 |p1char4=marth |p2char4=fox |p1stock4=1 |p2stock4=0 |stage4=Battlefield
+|vod=https://www.youtube.com/watch?v=3qn6iwIHkic
+}}
+
+{{Match stages
+|p1=Westballz |p1flag=us
+|p2=PewPewU |p2flag=us
+|p1score=3
+|p2score=2
+|date=March 17, 2016
+|winner=1
+|stage1win=2 |p1char1=falco |p2char1=marth |p1stock1=0 |p2stock1=1 |stage1=Battlefield
+|stage2win=2 |p1char2=falco |p2char2=marth |p1stock2=0 |p2stock2=2 |stage2=Yoshi's Story
+|stage3win=1 |p1char3=falco |p2char3=marth |p1stock3=2 |p2stock3=0 |stage3=Yoshi's Story
+|stage4win=1 |p1char4=falco |p2char4=marth |p1stock4=1 |p2stock4=0 |stage4=Final Destination
+|stage5win=1 |p1char5=falco |p2char5=marth |p1stock5=1 |p2stock5=0 |stage5=Final Destination
+|vod=https://www.youtube.com/watch?v=pKJGckxzuTw
+}}
+
+{{Match stages
+|p1=PewPewU |p1flag=us
+|p2=Ice |p2flag=de
+|p1score=3
+|p2score=1
+|date=March 18, 2016
+|winner=1
+|stage1win=1 |p1char1=marth |p2char1=fox |p1stock1=2 |p2stock1=0 |stage1=Yoshi's Story
+|stage2win=1 |p1char2=marth |p2char2=fox |p1stock2=1 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win=2 |p1char3=marth |p2char3=fox |p1stock3=0 |p2stock3=2 |stage3=Pokémon Stadium
+|stage4win=1 |p1char4=marth |p2char4=fox |p1stock4=1 |p2stock4=0 |stage4=Final Destination
+|stage5win= |p1char5= |p2char5= |p1stock5= |p2stock5= |stage5=
+|vod=https://www.youtube.com/watch?v=A4RTLiWfpU8
+}}
+
+{{Match stages
+|p1=PPMD |p1flag=us
+|p2=Westballz |p2flag=us
+|p1score=1
+|p2score=3
+|date=March 18, 2016
+|winner=2
+|stage1win=1 |p1char1=marth |p2char1=falco |p1stock1=1 |p2stock1=0 |stage1=Yoshi's Story
+|stage2win=2 |p1char2=marth |p2char2=falco |p1stock2=0 |p2stock2=1 |stage2=Battlefield
+|stage3win=1 |p1char3=marth |p2char3=falco |p1stock3=0 |p2stock3=1 |stage3=Fountain of Dreams
+|stage4win=1 |p1char4=marth |p2char4=falco |p1stock4=0 |p2stock4=1 |stage4=Fountain of Dreams
+|stage5win= |p1char5= |p2char5= |p1stock5= |p2stock5= |stage5=
+|vod=https://www.youtube.com/watch?v=G0gHyLT0fXc
+}}
+{{Match list end}}
+
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|Group C}}===
+{{GroupTableStart| Group C |width=350px}}
+{{GroupTableSlot|{{flag/us}} Mango |team=cloud9|place=1 |win_m=3 |lose_m=0 |win_g=9 |lose_g=2 |bg=up}}
+{{GroupTableSlot|{{flag/us}} MacD |team=splyce|place=2 |win_m=1 |lose_m=2 |win_g=5 |lose_g=6 |bg=stay}}
+{{GroupTableSlotSmw|flag=us|Axe |team=tempo storm|place=3 |win_m=1 |lose_m=2 |win_g=5 |lose_g=8 |bg=down}}
+{{GroupTableSlotSmw|flag=us|Druggedfox |team=noteam|place=4 |win_m=1 |lose_m=2 |win_g=5 |lose_g=8 |bg=down}}
+{{GroupTableEnd}}
+{{Match list start |title=Group C Matches |width=350px}}
+{{Match stages
+|p1=Mango |p1flag=us
+|p2=MacD |p2flag=us
+|p1score=3
+|p2score=0
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=fox |p2char1=peach |p1stock1=2 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=fox |p2char2=peach |p1stock2=1 |p2stock2=0 |stage2=Fountain of Dreams
+|stage3win=1 |p1char3=fox |p2char3=peach |p1stock3=1 |p2stock3=0 |stage3=Fountain of Dreams
+|vod=https://www.youtube.com/watch?v=PW6NJx5TDYU
+}}
+
+{{Match stages
+|p1=Axe |p1flag=us
+|p2=Druggedfox |p2flag=us
+|p1score=3
+|p2score=2
+|date=March 17, 2016
+|winner=1
+|stage1win=2 |p1char1=pikachu |p2char1=fox |p1stock1=0 |p2stock1=1 |stage1=Battlefield
+|stage2win=1 |p1char2=pikachu |p2char2=fox |p1stock2=1 |p2stock2=0 |stage2=Final Destination
+|stage3win=2 |p1char3=pikachu |p2char3=fox |p1stock3=0 |p2stock3=1 |stage3=Yoshi's Story
+|stage4win=1 |p1char4=pikachu |p2char4=fox |p1stock4=1 |p2stock4=0 |stage4=Fountain of Dreams
+|stage5win=1 |p1char5=pikachu |p2char5=fox |p1stock5=1 |p2stock5=0 |stage5=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=Qctb-HVBdzE
+}}
+
+{{Match stages
+|p1=Mango |p1flag=us
+|p2=Druggedfox |p2flag=us
+|p1score=3
+|p2score=0
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=fox |p2char1=fox |p1stock1=1 |p2stock1=0 |stage1=Yoshi's Story
+|stage2win=1 |p1char2=fox |p2char2=fox |p1stock2=1 |p2stock2=0 |stage2=Final Destination
+|stage3win=1 |p1char3=fox |p2char3=fox |p1stock3=2 |p2stock3=0 |stage3=Final Destination
+|vod=https://www.youtube.com/watch?v=HoX5bYYBmvo
+}}
+
+{{Match stages
+|p1=Axe |p1flag=us
+|p2=MacD |p2flag=us
+|p1score=0
+|p2score=3
+|date=March 17, 2016
+|winner=2
+|stage1win=2 |p1char1=pikachu |p2char1=peach |p1stock1=0 |p2stock1=2 |stage1=Battlefield
+|stage2win=2 |p1char2=pikachu |p2char2=peach |p1stock2=0 |p2stock2=1 |stage2=Pokémon Stadium
+|stage3win=2 |p1char3=pikachu |p2char3=peach |p1stock3=0 |p2stock3=1 |stage3=Battlefield
+|vod=https://www.youtube.com/watch?v=CYPVLRJlLVs
+}}
+
+{{Match stages
+|p1=MacD |p1flag=us
+|p2=Druggedfox |p2flag=us
+|p1score=2
+|p2score=3
+|date=March 18, 2016
+|winner=2
+|stage1win=1 |p1char1=peach |p2char1=fox |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=2 |p1char2=peach |p2char2=fox |p1stock2=0 |p2stock2=2 |stage2=Pokémon Stadium
+|stage3win=1 |p1char3=peach |p2char3=fox |p1stock3=1 |p2stock3=0 |stage3=Fountain of Dreams
+|stage4win=2 |p1char4=peach |p2char4=fox |p1stock4=0 |p2stock4=1 |stage4=Yoshi's Story
+|stage5win=2 |p1char5=peach |p2char5=fox |p1stock5=0 |p2stock5=1 |stage5=Final Destination
+|vod=https://www.youtube.com/watch?v=kqmukzc52cs
+}}
+
+{{Match stages
+|p1=Mango |p1flag=us
+|p2=Axe |p2flag=us
+|p1score=3
+|p2score=2
+|date=March 18, 2016
+|winner=1
+|stage1win=1 |p1char1=fox |p2char1=pikachu |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=2 |p1char2=fox |p2char2=pikachu |p1stock2=0 |p2stock2=1 |stage2=Fountain of Dreams
+|stage3win=1 |p1char3=fox |p2char3=pikachu |p1stock3=1 |p2stock3=0 |stage3=Yoshi's Story
+|stage4win=2 |p1char4=fox |p2char4=pikachu |p1stock4=0 |p2stock4=1 |stage4=Final Destination
+|stage5win=1 |p1char5=fox |p2char5=pikachu |p1stock5=2 |p2stock5=0 |stage5=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=H0eZr1a3JbQ
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|Group D}}===
+{{GroupTableStart| Group D |width=350px}}
+{{GroupTableSlot|{{flag/us}} Mew2King |team=cog|place=1 |win_m=3 |lose_m=0 |win_g=9 |lose_g=1 |bg=up}}
+{{GroupTableSlot|{{flag/us}} Plup |team=pg|place=2 |win_m=2 |lose_m=1 |win_g=6 |lose_g=3 |bg=stay}}
+{{GroupTableSlotSmw|flag=us|S2J |team=miom|place=3 |win_m=1 |lose_m=2 |win_g=4 |lose_g=7 |bg=down}}
+{{GroupTableSlotSmw|flag=us|Nintendude |team=splyce|place=4 |win_m=0 |lose_m=3 |win_g=1 |lose_g=9 |bg=down}}
+{{GroupTableEnd}}
+{{Match list start |title=Group D Matches |width=350px}}
+{{Match stages
+|p1=Mew2King |p1flag=us
+|p2=S2J |p2flag=us
+|p1score=3
+|p2score=1
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=sheik |p2char1=cf |p1stock1=1 |p2stock1=0 |stage1=Dream Land
+|stage2win=1 |p1char2=sheik |p2char2=cf |p1stock2=2 |p2stock2=0 |stage2=Final Destination
+|stage3win=2 |p1char3=sheik |p2char3=cf |p1stock3=0 |p2stock3=1 |stage3=Pokémon Stadium
+|stage4win=1 |p1char4=sheik |p2char4=cf |p1stock4=2 |p2stock4=0 |stage4=Fountain of Dreams
+|vod=https://www.youtube.com/watch?v=SAx1lmiyA3s
+}}
+
+{{Match stages
+|p1=Plup |p1flag=us
+|p2=Nintendude |p2flag=us
+|p1score=3
+|p2score=0
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=samus |p2char1=ic |p1stock1=1 |p2stock1=0 |stage1=Dream Land
+|stage2win=1 |p1char2=samus |p2char2=ic |p1stock2=1 |p2stock2=0 |stage2=Battlefield
+|stage3win=1 |p1char3=samus |p2char3=ic |p1stock3=2 |p2stock3=0 |stage3=Final Destination
+|vod=https://www.youtube.com/watch?v=HbLRtYhDCtw
+}}
+
+{{Match stages
+|p1=Mew2King |p1flag=us
+|p2=Nintendude |p2flag=us
+|p1score=3
+|p2score=0
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=peach |p2char1=ic |p1stock1=1 |p2stock1=0 |stage1=Fountain of Dreams
+|stage2win=1 |p1char2=peach |p2char2=ic |p1stock2=2 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win=1 |p1char3=marth |p2char3=ic |p1stock3=2 |p2stock3=0 |stage3=Battlefield
+|vod=https://www.youtube.com/watch?v=mBFEZM7i71c
+}}
+
+{{Match stages
+|p1=Plup |p1flag=us
+|p2=S2J |p2flag=us
+|p1score=3
+|p2score=0
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=sheik |p2char1=cf |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=sheik |p2char2=cf |p1stock2=2 |p2stock2=0 |stage2=Final Destination
+|stage3win=1 |p1char3=sheik |p2char3=cf |p1stock3=2 |p2stock3=0 |stage3=Battlefield
+|vod=https://www.youtube.com/watch?v=C36dh7W_tIE
+}}
+
+{{Match stages
+|p1=Nintendude |p1flag=us
+|p2=S2J |p2flag=us
+|p1score=1
+|p2score=3
+|date=March 18, 2016
+|winner=2
+|stage1win=2 |p1char1=ic |p2char1=cf |p1stock1=0 |p2stock1=1 |stage1=Yoshi's Story
+|stage2win=1 |p1char2=ic |p2char2=cf |p1stock2=1 |p2stock2=0 |stage2=Final Destination
+|stage3win=2 |p1char3=ic |p2char3=cf |p1stock3=0 |p2stock3=3 |stage3=Battlefield
+|stage4win=2 |p1char4=ic |p2char4=cf |p1stock4=0 |p2stock4=1 |stage4=Fountain of Dreams
+|stage5win= |p1char5= |p2char5= |p1stock5= |p2stock5= |stage5=
+|vod=https://www.youtube.com/watch?v=pLc0JBqo-RM
+}}
+
+{{Match stages
+|p1=Mew2King |p1flag=us
+|p2=Plup |p2flag=us
+|p1score=3
+|p2score=0
+|date=March 18, 2016
+|winner=1
+|stage1win=1 |p1char1=sheik |p2char1=samus |p1stock1=1 |p2stock1=0 |stage1=Dream Land
+|stage2win=1 |p1char2=sheik |p2char2=samus |p1stock2=3 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win=1 |p1char3=sheik |p2char3=samus |p1stock3=1 |p2stock3=0 |stage3=Fountain of Dreams
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|stage5win= |p1char5= |p2char5= |p1stock5= |p2stock5= |stage5=
+|vod=https://www.youtube.com/watch?v=k6dZytyxI2w
+}}
+{{Match list end}}
+
+{{Box|break|padding=2em}}
+
+==={{HiddenSort|Group E}}===
+{{GroupTableStart| Group E |width=350px}}
+{{GroupTableSlot|{{flag/us}} Hungrybox |team=team liquid|place=1 |win_m=3 |lose_m=0 |win_g=9 |lose_g=1 |bg=up}}
+{{GroupTableSlot|{{flag/us}} Wobbles |team=pg|place=2 |win_m=2 |lose_m=1 |win_g=6 |lose_g=6 |bg=stay}}
+{{GroupTableSlotSmw|flag=us|Shroomed |team=winterfox|place=3 |win_m=1 |lose_m=2 |win_g=5 |lose_g=7 |bg=down}}
+{{GroupTableSlotSmw|flag=us|Lucky |team=noteam|place=4 |win_m=0 |lose_m=3 |win_g=3 |lose_g=9 |bg=down}}
+{{GroupTableEnd}}
+{{Match list start |title=Group E Matches |width=350px}}
+{{Match stages
+|p1=Shroomed |p1flag=us
+|p2=Lucky |p2flag=us
+|p1score=3
+|p2score=1
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=sheik |p2char1=fox |p1stock1=2 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=sheik |p2char2=fox |p1stock2=1 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win=2 |p1char3=sheik |p2char3=fox |p1stock3=0 |p2stock3=2 |stage3=Pokémon Stadium
+|stage4win=1 |p1char4=sheik |p2char4=fox |p1stock4=2 |p2stock4=0 |stage4=Yoshi's Story
+|vod=https://www.youtube.com/watch?v=5R3PbyJnyQk
+}}
+
+{{Match stages
+|p1=Wobbles |p1flag=us
+|p2=Shroomed |p2flag=us
+|p1score=3
+|p2score=1
+|date=March 17, 2016
+|winner=1
+|stage1win=1 |p1char1=ic |p2char1=sheik |p1stock1=2 |p2stock1=0 |stage1=Dream Land
+|stage2win=2 |p1char2=ic |p2char2=sheik |p1stock2=0 |p2stock2=3 |stage2=Battlefield
+|stage3win=1 |p1char3=ic |p2char3=sheik |p1stock3=1 |p2stock3=0 |stage3=Pokémon Stadium
+|stage4win=1 |p1char4=ic |p2char4=sheik |p1stock4=1 |p2stock4=0 |stage4=Pokémon Stadium
+|vod=https://www.youtube.com/watch?v=L5r5kek1e54
+}}
+
+{{Match stages
+|p1=Lucky |p1flag=us
+|p2=Wobbles |p2flag=us
+|p1score=2
+|p2score=3
+|date=March 17, 2016
+|winner=2
+|stage1win=1 |p1char1=fox |p2char1=ic |p1stock1=1 |p2stock1=0 |stage1=Yoshi's Story
+|stage2win=2 |p1char2=fox |p2char2=ic |p1stock2=0 |p2stock2=3 |stage2=Fountain of Dreams
+|stage3win=2 |p1char3=fox |p2char3=ic |p1stock3=0 |p2stock3=1 |stage3=Dream Land
+|stage4win=1 |p1char4=fox |p2char4=ic |p1stock4=2 |p2stock4=0 |stage4=Dream Land
+|stage5win=2 |p1char5=fox |p2char5=ic |p1stock5=0 |p2stock5=2 |stage5=Final Destination
+|vod=https://www.youtube.com/watch?v=nIrDtYelNE8
+}}
+
+{{Match stages
+|p1=Wobbles |p1flag=us
+|p2=Hungrybox |p2flag=us
+|p1score=0
+|p2score=3
+|date=March 18, 2016
+|winner=2
+|stage1win=2 |p1char1=ic |p2char1=puff |p1stock1=0 |p2stock1=1 |stage1=Dream Land
+|stage2win=2 |p1char2=ic |p2char2=puff |p1stock2=0 |p2stock2=2 |stage2=Pokémon Stadium
+|stage3win=2 |p1char3=ic |p2char3=puff |p1stock3=0 |p2stock3=2 |stage3=Yoshi's Story
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|stage5win= |p1char5= |p2char5= |p1stock5= |p2stock5= |stage5=
+|vod=https://www.youtube.com/watch?v=KVw_FGTDmZQ
+}}
+
+{{Match stages
+|p1=Hungrybox |p1flag=us
+|p2=Lucky |p2flag=us
+|p1score=3
+|p2score=0
+|date=March 18, 2016
+|winner=1
+|stage1win=1 |p1char1=puff |p2char1=fox |p1stock1=2 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=puff |p2char2=fox |p1stock2=1 |p2stock2=0 |stage2=Final Destination
+|stage3win=1 |p1char3=puff |p2char3=fox |p1stock3=2 |p2stock3=0 |stage3=Final Destination
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|stage5win= |p1char5= |p2char5= |p1stock5= |p2stock5= |stage5=
+|vod=https://www.youtube.com/watch?v=v4UIUg0mYf4
+}}
+
+{{Match stages
+|p1=Hungrybox |p1flag=us
+|p2=Shroomed |p2flag=us
+|p1score=3
+|p2score=1
+|date=March 18, 2016
+|winner=1
+|stage1win=1 |p1char1=puff |p2char1=sheik |p1stock1=1 |p2stock1=0 |stage1=Dream Land
+|stage2win=2 |p1char2=puff |p2char2=sheik |p1stock2=0 |p2stock2=1 |stage2=Battlefield
+|stage3win=1 |p1char3=puff |p2char3=sheik |p1stock3=2 |p2stock3=0 |stage3=Fountain of Dreams
+|stage4win=1 |p1char4=puff |p2char4=sheik |p1stock4=2 |p2stock4=0 |stage4=Pokémon Stadium
+|stage5win= |p1char5= |p2char5= |p1stock5= |p2stock5= |stage5=
+|vod=https://www.youtube.com/watch?v=8CmQTsD3JE8
+}}
+{{Match list end}}
+{{box|end}}

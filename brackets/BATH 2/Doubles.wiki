@@ -1,0 +1,236 @@
+{{tabs static
+|name1=Overview
+|link1=BATH 2
+|name2=Singles Bracket
+|link2=BATH 2/Singles Bracket
+|name3=Doubles
+|link3=BATH 2/Doubles
+|This=3
+}}
+
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipediadoubles name=bath2doubles -->
+
+==Winners Bracket==
+{{16DEDoublesWBracketA
+|r1m1t1p1=R23  |r1m1t1p1flag=gb
+|r1m1t1p2= X1 |r1m1t1p2flag=gb |r1m1t1score=W
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=-
+|r1m1win=1
+
+
+|r1m2t1p1=Nyon  |r1m2t1p1flag=
+|r1m2t1p2= Joob |r1m2t1p2flag= |r1m2t1score=3
+|r1m2t2p1=LuNa  |r1m2t2p1flag=gb
+|r1m2t2p2= Jim |r1m2t2p2flag=gb |r1m2t2score=1
+|r1m2win=1
+
+
+|r1m3t1p1=ModestMajor  |r1m3t1p1flag=gb
+|r1m3t1p2= PugMug |r1m3t1p2flag=gb |r1m3t1score=W
+|r1m3t2p1=Bye |r1m3t2p1flag=
+|r1m3t2p2=Bye |r1m3t2p2flag= |r1m3t2score=-
+|r1m3win=1
+
+
+|r1m4t1p1=Hylian Reaper  |r1m4t1p1flag=gb
+|r1m4t1p2= Sleepsjr |r1m4t1p2flag=gb |r1m4t1score=W
+|r1m4t2p1=Bye |r1m4t2p1flag=
+|r1m4t2p2=Bye |r1m4t2p2flag= |r1m4t2score=-
+|r1m4win=1
+
+
+|r1m5t1p1=Jam  |r1m5t1p1flag=gb
+|r1m5t1p2= Stan Sasquatch |r1m5t1p2flag= |r1m5t1score=W
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=-
+|r1m5win=1
+
+
+|r1m6t1p1=turtle  |r1m6t1p1flag=gb
+|r1m6t1p2= Can~D |r1m6t1p2flag=gb |r1m6t1score=3
+|r1m6t2p1=Rinqed  |r1m6t2p1flag=
+|r1m6t2p2= Leo |r1m6t2p2flag= |r1m6t2score=0
+|r1m6win=1
+
+
+|r1m7t1p1=Sylveon  |r1m7t1p1flag=gb
+|r1m7t1p2= Pripps |r1m7t1p2flag=se |r1m7t1score=W
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=-
+|r1m7win=1
+
+
+|r1m8t1p1=Aiken  |r1m8t1p1flag=gb
+|r1m8t1p2= Twig |r1m8t1p2flag=gb |r1m8t1score=3
+|r1m8t2p1=Matthew Liberson  |r1m8t2p1flag=
+|r1m8t2p2= CPU |r1m8t2p2flag= |r1m8t2score=1
+|r1m8win=1
+
+
+|r2m1t1p1=R23  |r2m1t1p1flag=gb
+|r2m1t1p2= X1 |r2m1t1p2flag=gb |r2m1t1score=3
+|r2m1t2p1=Nyon  |r2m1t2p1flag=
+|r2m1t2p2= Joob |r2m1t2p2flag= |r2m1t2score=0
+|r2m1win=1
+
+
+|r2m2t1p1=ModestMajor  |r2m2t1p1flag=gb
+|r2m2t1p2= PugMug |r2m2t1p2flag=gb |r2m2t1score=3
+|r2m2t2p1=Hylian Reaper  |r2m2t2p1flag=gb
+|r2m2t2p2= Sleepsjr |r2m2t2p2flag=gb |r2m2t2score=2
+|r2m2win=1
+
+
+|r2m3t1p1=Jam  |r2m3t1p1flag=gb
+|r2m3t1p2= Stan Sasquatch |r2m3t1p2flag= |r2m3t1score=3
+|r2m3t2p1=turtle  |r2m3t2p1flag=gb
+|r2m3t2p2= Can~D |r2m3t2p2flag=gb |r2m3t2score=0
+|r2m3win=1
+
+
+|r2m4t1p1=Sylveon  |r2m4t1p1flag=gb
+|r2m4t1p2= Pripps |r2m4t1p2flag=se |r2m4t1score=3
+|r2m4t2p1=Aiken  |r2m4t2p1flag=gb
+|r2m4t2p2= Twig |r2m4t2p2flag=gb |r2m4t2score=1
+|r2m4win=1
+
+
+|r3m1t1p1=R23  |r3m1t1p1flag=gb
+|r3m1t1p2= X1 |r3m1t1p2flag=gb |r3m1t1score=3
+|r3m1t2p1=ModestMajor  |r3m1t2p1flag=gb
+|r3m1t2p2= PugMug |r3m1t2p2flag=gb |r3m1t2score=0
+|r3m1win=1
+
+
+|r3m2t1p1=Jam  |r3m2t1p1flag=gb
+|r3m2t1p2= Stan Sasquatch |r3m2t1p2flag= |r3m2t1score=2
+|r3m2t2p1=Sylveon  |r3m2t2p1flag=gb
+|r3m2t2p2= Pripps |r3m2t2p2flag=se |r3m2t2score=3
+|r3m2win=2
+
+}}
+
+==Losers Bracket==
+{{16DEDoublesLBracketA
+|l1m1t1p1=Bye |l1m1t1p1flag=
+|l1m1t1p2=Bye |l1m1t1p2flag= |l1m1t1score=-
+|l1m1t2p1=LuNa  |l1m1t2p1flag=gb
+|l1m1t2p2= Jim |l1m1t2p2flag=gb |l1m1t2score=W
+|l1m1win=2
+
+
+|l1m2t1p1=Bye |l1m2t1p1flag=
+|l1m2t1p2=Bye |l1m2t1p2flag= |l1m2t1score=-
+|l1m2t2p1=Bye |l1m2t2p1flag=
+|l1m2t2p2=Bye |l1m2t2p2flag= |l1m2t2score=W
+|l1m2win=
+
+
+|l1m3t1p1=Bye |l1m3t1p1flag=
+|l1m3t1p2=Bye |l1m3t1p2flag= |l1m3t1score=-
+|l1m3t2p1=Rinqed  |l1m3t2p1flag=
+|l1m3t2p2= Leo |l1m3t2p2flag= |l1m3t2score=W
+|l1m3win=2
+
+
+|l1m4t1p1=Bye |l1m4t1p1flag=
+|l1m4t1p2=Bye |l1m4t1p2flag= |l1m4t1score=-
+|l1m4t2p1=Matthew Liberson  |l1m4t2p1flag=
+|l1m4t2p2= CPU |l1m4t2p2flag= |l1m4t2score=W
+|l1m4win=2
+
+
+|l2m1t1p1=Aiken  |l2m1t1p1flag=gb
+|l2m1t1p2= Twig |l2m1t1p2flag=gb |l2m1t1score=3
+|l2m1t2p1=LuNa  |l2m1t2p1flag=gb
+|l2m1t2p2= Jim |l2m1t2p2flag=gb |l2m1t2score=0
+|l2m1win=1
+
+
+|l2m2t1p1=turtle  |l2m2t1p1flag=gb
+|l2m2t1p2= Can~D |l2m2t1p2flag=gb |l2m2t1score=W
+|l2m2t2p1=Bye |l2m2t2p1flag=
+|l2m2t2p2=Bye |l2m2t2p2flag= |l2m2t2score=-
+|l2m2win=1
+
+
+|l2m3t1p1=Hylian Reaper  |l2m3t1p1flag=gb
+|l2m3t1p2= Sleepsjr |l2m3t1p2flag=gb |l2m3t1score=3
+|l2m3t2p1=Rinqed  |l2m3t2p1flag=
+|l2m3t2p2= Leo |l2m3t2p2flag= |l2m3t2score=0
+|l2m3win=1
+
+
+|l2m4t1p1=Nyon  |l2m4t1p1flag=
+|l2m4t1p2= Joob |l2m4t1p2flag= |l2m4t1score=3
+|l2m4t2p1=Matthew Liberson  |l2m4t2p1flag=
+|l2m4t2p2= CPU |l2m4t2p2flag= |l2m4t2score=2
+|l2m4win=1
+
+
+|l3m1t1p1=Aiken  |l3m1t1p1flag=gb
+|l3m1t1p2= Twig |l3m1t1p2flag=gb |l3m1t1score=3
+|l3m1t2p1=turtle  |l3m1t2p1flag=gb
+|l3m1t2p2= Can~D |l3m1t2p2flag=gb |l3m1t2score=1
+|l3m1win=1
+
+
+|l3m2t1p1=Hylian Reaper  |l3m2t1p1flag=gb
+|l3m2t1p2= Sleepsjr |l3m2t1p2flag=gb |l3m2t1score=3
+|l3m2t2p1=Nyon  |l3m2t2p1flag=
+|l3m2t2p2= Joob |l3m2t2p2flag= |l3m2t2score=0
+|l3m2win=1
+
+
+|l4m1t1p1=ModestMajor  |l4m1t1p1flag=gb
+|l4m1t1p2= PugMug |l4m1t1p2flag=gb |l4m1t1score=3
+|l4m1t2p1=Aiken  |l4m1t2p1flag=gb
+|l4m1t2p2= Twig |l4m1t2p2flag=gb |l4m1t2score=0
+|l4m1win=1
+
+
+|l4m2t1p1=Jam  |l4m2t1p1flag=gb
+|l4m2t1p2= Stan Sasquatch |l4m2t1p2flag= |l4m2t1score=3
+|l4m2t2p1=Hylian Reaper  |l4m2t2p1flag=gb
+|l4m2t2p2= Sleepsjr |l4m2t2p2flag=gb |l4m2t2score=0
+|l4m2win=1
+
+}}
+
+==Finals Bracket==
+<onlyinclude>
+{{DEFinalDoublesBracket
+<!-- FROM WINNERS -->
+|r1m1t1p1=R23  |r1m1t1p1flag=gb
+|r1m1t1p2= X1 |r1m1t1p2flag=gb |r1m1t1score=3
+|r1m1t2p1=Sylveon  |r1m1t2p1flag=gb
+|r1m1t2p2= Pripps |r1m1t2p2flag=se |r1m1t2score=0
+|r1m1win=1
+
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=ModestMajor  |l1m1t1p1flag=gb
+|l1m1t1p2= PugMug |l1m1t1p2flag=gb |l1m1t1score=0
+|l1m1t2p1=Jam  |l1m1t2p1flag=gb
+|l1m1t2p2= Stan Sasquatch |l1m1t2p2flag= |l1m1t2score=3
+|l1m1win=2
+
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Sylveon  |r2m1t1p1flag=gb
+|r2m1t1p2= Pripps |r2m1t1p2flag=se |r2m1t1score=0
+|r2m1t2p1=Jam  |r2m1t2p1flag=gb
+|r2m1t2p2= Stan Sasquatch |r2m1t2p2flag= |r2m1t2score=3
+|r2m1win=2
+
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=R23  |r3m1t1p1flag=gb
+|r3m1t1p2= X1 |r3m1t1p2flag=gb |r3m1t1score=3
+|r3m1t2p1=Jam  |r3m1t2p1flag=gb
+|r3m1t2p2= Stan Sasquatch |r3m1t2p2flag= |r3m1t2score=0
+|r3m1win=1
+
+}}
+</onlyinclude>

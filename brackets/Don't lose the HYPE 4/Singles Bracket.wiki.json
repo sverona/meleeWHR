@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Bobesco",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Aisengobay",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Izzi",
+            "p1flag": "br",
+            "p1score": "3",
+            "p2": "Quip",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Quip",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Aisengobay",
+            "p2flag": "br",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p2": "Aisengobay",
+            "p2flag": "br",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m2": {
+            "p2score": "3"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Player 7",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "The Boss",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Leso",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "McS33",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Garcas",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Doctor Luigi",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Kris",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Slug",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Walk",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Player 7",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Phil",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Leso",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "CaioNintendo",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Doctor Luigi",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Godz",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Slug",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Walk",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Phil",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "CaioNintendo",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Godz",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Bobesco",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Walk",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Aisengobay",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "CaioNintendo",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Bobesco",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Player 7",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "The Boss",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Godz",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Leso",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "CaioNintendo",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "Izzi",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "McS33",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Phil",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Garcas",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Quip",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Doctor Luigi",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Walk",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Kris",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Aisengobay",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Slug",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Bobesco",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Godz",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "CaioNintendo",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Izzi",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Phil",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Quip",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m4": {
+            "p1": "Walk",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Aisengobay",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Bobesco",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Izzi",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m2": {
+            "p1": "Quip",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Aisengobay",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        }
+    }
+}

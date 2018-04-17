@@ -1,0 +1,121 @@
+{{DISPLAYTITLE:SSS Blood For Blood 2: Doubles Bracket}}{{BracketMatchSMWDisambig |oldtags=Rocky|newtags=Rocky (American player)}}{{SetGame|melee}}
+{{SSS Blood For Blood 2 Tabs|This=5}}
+==Winners Bracket==
+{{2SEDoublesBracket
+|column-width=170
+|R1=Winners Semis
+|r1m1t1p1=HomeMadeWaffles |r1m1t1p1flag=us
+|r1m1t1p2=Reno |r1m1t1p2flag=us |r1m1t1score=1
+|r1m1t2p1=Rocky |r1m1t2p1flag=us
+|r1m1t2p2=Spark |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+}}
+{{2SEDoublesBracket
+|column-width=170
+|hideroundtitles=true
+|r1m1t1p1=Westballz |r1m1t1p1flag=us
+|r1m1t1p2=Lucky |r1m1t1p2flag=us |r1m1t1score=0
+|r1m1t2p1=Ralph |r1m1t2p1flag=us
+|r1m1t2p2=Wavebringer |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+}}
+
+==Losers Bracket==
+{{12DEDoublesLBracketSmwA
+|column-width=170
+|tourneylink= SSS Blood For Blood/2
+|tourneyname= SSS Blood For Blood 2
+|l1placement=9-12
+|l2placement=7-8
+|l3placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=silentspectre |l1m1t1p1flag=us
+|l1m1t1p2=Tang |l1m1t1p2flag=us |l1m1t1score=0
+|l1m1t2p1=NMW |l1m1t2p1flag=us
+|l1m1t2p2=L |l1m1t2p2flag=us |l1m1t2score=2
+|l1m1win=2
+
+|l1m2t1p1=Darkatma |l1m2t1p1flag=us
+|l1m2t1p2=Kalamazhu |l1m2t1p2flag=us |l1m2t1score=2
+|l1m2t2p1=Toph |l1m2t2p1flag=us
+|l1m2t2p2=Dr. Z |l1m2t2p2flag=us |l1m2t2score=0
+|l1m2win=1
+
+|l1m3t1p1=Nintendude |l1m3t1p1flag=us
+|l1m3t1p2=Cactuar |l1m3t1p2flag=us |l1m3t1score=2
+|l1m3t2p1=Laudandus |l1m3t2p1flag=us
+|l1m3t2p2=Azusa |l1m3t2p2flag=us |l1m3t2score=0
+|l1m3win=1
+
+|l1m4t1p1=dizzkidboogie |l1m4t1p1flag=us
+|l1m4t1p2=Kevbot |l1m4t1p2flag=us |l1m4t1score=2
+|l1m4t2p1=ARMY |l1m4t2p1flag=us
+|l1m4t2p2=Captain Faceroll |l1m4t2p2flag=us |l1m4t2score=0
+|l1m4win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=NMW |l2m1t1p1flag=us
+|l2m1t1p2=L |l2m1t1p2flag=us |l2m1t1score=3
+|l2m1t2p1=Darkatma |l2m1t2p1flag=us
+|l2m1t2p2=Kalamazhu |l2m1t2p2flag=us |l2m1t2score=0
+|l2m1win=1
+
+|l2m2t1p1=Nintendude |l2m2t1p1flag=us
+|l2m2t1p2=Cactuar |l2m2t1p2flag=us |l2m2t1score=1
+|l2m2t2p1=dizzkidboogie |l2m2t2p1flag=us
+|l2m2t2p2=Kevbot |l2m2t2p2flag=us |l2m2t2score=2
+|l2m2win=2
+
+<!-- ROUND 3 -->
+|l3m1t1p1=HomeMadeWaffles |l3m1t1p1flag=us
+|l3m1t1p2=Reno |l3m1t1p2flag=us |l3m1t1score=1
+|l3m1t2p1=NMW |l3m1t2p1flag=us
+|l3m1t2p2=L |l3m1t2p2flag=us |l3m1t2score=3
+|l3m1win=2
+
+|l3m2t1p1=Westballz |l3m2t1p1flag=us
+|l3m2t1p2=Lucky |l3m2t1p2flag=us |l3m2t1score=3
+|l3m2t2p1=dizzkidboogie |l3m2t2p1flag=us
+|l3m2t2p2=Kevbot |l3m2t2p2flag=us |l3m2t2score=0
+|l3m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=SSS Blood For Blood/2
+|tourneyname=SSS Blood For Blood 2
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Rocky |r1m1t1p1flag=us
+|r1m1t1p2=Spark |r1m1t1p2flag=us |r1m1t1score=0
+|r1m1t2p1=Ralph |r1m1t2p1flag=us
+|r1m1t2p2=Wavebringer |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=NMW |l1m1t1p1flag=us
+|l1m1t1p2=L |l1m1t1p2flag=us |l1m1t1score=0
+|l1m1t2p1=Westballz |l1m1t2p1flag=us
+|l1m1t2p2=Lucky |l1m1t2p2flag=us |l1m1t2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Rocky |r2m1t1p1flag=us
+|r2m1t1p2=Spark |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Westballz |r2m1t2p1flag=us
+|r2m1t2p2=Lucky |r2m1t2p2flag=us |r2m1t2score=3
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Ralph |r3m1t1p1flag=us
+|r3m1t1p2=Wavebringer |r3m1t1p2flag=us |r3m1t1score=3 |r3m2t1score=
+|r3m1t2p1=Westballz |r3m1t2p1flag=us
+|r3m1t2p2=Lucky |r3m1t2p2flag=us |r3m1t2score=1 |r3m2t2score=
+|r3m1win=1
+}}
+</onlyinclude>

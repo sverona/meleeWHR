@@ -1,0 +1,70 @@
+{{DISPLAYTITLE:Function(1): Doubles Pools}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Function/1
+|name2=Singles Pools
+|link2=Function/1/Singles Pools
+|name3=Singles Bracket
+|link3=Function/1/Singles Bracket
+|name4=Doubles Pools
+|link4=Function/1/Doubles Pools
+|name5=Doubles Bracket
+|link5=Function/1/Doubles Bracket
+|This=4
+}}
+==Bracket Pools==
+{{Box|start|padding=2em}}
+{{HiddenSort|===A1===}}
+{{GroupTableStart |Bracket A1|width=300px}}
+{{DoublesGroupTableSlot|p1=jarrod|p1flag=us|p2=Druggedfox|p2flag=us|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Function/1/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=Dash|p1flag=us|p2=$mike|p2flag=us|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Function/1/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=GAwes|p1flag=us|p2=Tubesssbm|p2flag=us|win_m=2|lose_m=1|place=3|bg=stay|go={{advance|Function/1/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=iluvcrispix|p1flag=us|p2=Type1|p2flag=us|win_m=2|lose_m=1|place=3|bg=stay|go={{advance|Function/1/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=tenpai!!|p1flag=us|p2=Sycorax|p2flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=dashdancedan|p1flag=us|p2=RJW|p2flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=MarVeL|p1flag=us|p2=Dr. Payne|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=wafis|p1flag=us|p2=Skeletom|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Flavagolfco|p1flag=us|p2=Manamana|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=ATG|p1flag=us|p2=Ni-bo|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+{{HiddenSort|===B1===}}
+{{GroupTableStart |Bracket B1|width=300px}}
+{{DoublesGroupTableSlot|p1=Chaddd|p1flag=us|p2=Flamin Roy|p2flag=us|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Function/1/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=Colbol|p1flag=us|p2=Oaty|p2flag=us|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Function/1/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=Slipnslide|p1flag=us|p2=MrBeenReady|p2flag=us|win_m=2|lose_m=1|place=3|bg=stay|go={{advance|Function/1/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=2KrunkVillain|p1flag=us|p2=Dezno|p2flag=us|win_m=2|lose_m=1|place=3|bg=stay|go={{advance|Function/1/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Dog|p1flag=us|p2=Octopi Stirfry|p2flag=us|win_m=1|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Bottle|p1flag=us|p2=RobinHood|p2flag=us|win_m=1|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=MOP|p1flag=us|p2=Pants|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=McNuggets|p1flag=us|p2=Ryko|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=bag|p1flag=us|p2=MAXE|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+{{HiddenSort|===C1===}}
+{{GroupTableStart |Bracket C1|width=300px}}
+{{DoublesGroupTableSlot|p1=KPAN|p1flag=us|p2=Wizzrobe|p2flag=us|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Function/1/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=Yort|p1flag=us|p2=R2DLiu|p2flag=us|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Function/1/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=ZENT|p1flag=us|p2=HiFi|p2flag=us|win_m=2|lose_m=1|place=3|bg=stay|go={{advance|Function/1/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=TwistyTreats|p1flag=us|p2=Sprankles|p2flag=us|win_m=2|lose_m=1|place=3|bg=stay|go={{advance|Function/1/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=mouse shampoo|p1flag=us|p2=paintman|p2flag=us|win_m=1|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Yeroc|p1flag=us|p2=BroChill|p2flag=us|win_m=1|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Legoplush|p1flag=us|p2=Othingar Fireblood|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=bearsfan092|p1flag=us|p2=Shuffla|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=beanhaüs|p1flag=us|p2=Spilled Milk|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=2em}}
+{{HiddenSort|===D1===}}
+{{GroupTableStart |Bracket D1|width=300px}}
+{{DoublesGroupTableSlot|p1=Greenmario|p1flag=us|p2=XIF|p2flag=us|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Function/1/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=baka4moe|p1flag=us|p2=DAB|p2flag=us|win_m=2|lose_m=0|place=1|bg=up|go={{advance|Function/1/Doubles Bracket#Winners Bracket}}}}
+{{DoublesGroupTableSlot|p1=Tyrø|p1flag=us|p2=Jwilli|p2flag=us|win_m=3|lose_m=1|place=3|bg=stay|go={{advance|Function/1/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Mike G|p1flag=us|p2=Silver|p2flag=us|win_m=2|lose_m=1|place=3|bg=stay|go={{advance|Function/1/Doubles Bracket#Losers Bracket}}}}
+{{DoublesGroupTableSlot|p1=Absolome|p1flag=us|p2=tenbutts|p2flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=Sharkz|p1flag=us|p2=Gato|p2flag=us|win_m=1|lose_m=2|place=5|bg=down}}
+{{DoublesGroupTableSlot|p1=SDeems|p1flag=us|p2=Wills|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=What.|p1flag=us|p2=Agent|p2flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{DoublesGroupTableSlot|p1=Who?|p1flag=us|p2=iKrager|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{DoublesGroupTableSlot|p1=Soap|p1flag=us|p2=Sampai|p2flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}

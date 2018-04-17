@@ -1,0 +1,224 @@
+{{DISPLAYTITLE:Nemesis: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Nemesis/Melee
+|name2=Singles Pools
+|link2=Nemesis/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Nemesis/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=Nemesis/Melee/Doubles Bracket
+|This=4
+}}
+==Winners Bracket==
+{{16DEDoublesWBracketA
+<!-- ROUND 1 -->
+|r1m1t1p1=Bladewise |r1m1t1p1flag=us
+|r1m1t1p2=Eggz |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=
+|r1m1win=1
+
+|r1m2t1p1=Chango |r1m2t1p1flag=us
+|r1m2t1p2=Billy |r1m2t1p2flag=us |r1m2t1score={{win}}
+|r1m2t2p1=Almond |r1m2t2p1flag=us
+|r1m2t2p2=Ganobrator |r1m2t2p2flag=us |r1m2t2score=DQ
+|r1m2win=1
+
+|r1m3t1p1=TMC |r1m3t1p1flag=us
+|r1m3t1p2=Zaandaa |r1m3t1p2flag=us |r1m3t1score=2
+|r1m3t2p1=NeoNinja |r1m3t2p1flag=us
+|r1m3t2p2=NoStock0000 |r1m3t2p2flag=us |r1m3t2score=0
+|r1m3win=1
+
+|r1m4t1p1=Dz |r1m4t1p1flag=us
+|r1m4t1p2=Iceman |r1m4t1p2flag=us |r1m4t1score=2
+|r1m4t2p1=Sox |r1m4t2p1flag=us
+|r1m4t2p2=Quad |r1m4t2p2flag=us |r1m4t2score=0
+|r1m4win=1
+
+|r1m5t1p1=Oreo |r1m5t1p1flag=us
+|r1m5t1p2=Ka-Master |r1m5t1p2flag=us |r1m5t1score=2
+|r1m5t2p1=ZRider |r1m5t2p1flag=us
+|r1m5t2p2=Aero |r1m5t2p2flag=us |r1m5t2score=0
+|r1m5win=1
+
+|r1m6t1p1=Amrit |r1m6t1p1flag=us
+|r1m6t1p2=Puff mayne |r1m6t1p2flag=us |r1m6t1score=2
+|r1m6t2p1=Aran |r1m6t2p1flag=us
+|r1m6t2p2=JP |r1m6t2p2flag=us |r1m6t2score=0
+|r1m6win=1
+
+|r1m7t1p1=Rustin |r1m7t1p1flag=us
+|r1m7t1p2=Shoyo |r1m7t1p2flag=us |r1m7t1score=2
+|r1m7t2p1=Kaliki |r1m7t2p1flag=us
+|r1m7t2p2=Bozion |r1m7t2p2flag=us |r1m7t2score=0
+|r1m7win=1
+
+|r1m8t1p1=Pookie |r1m8t1p1flag=us
+|r1m8t1p2=Salty Seth |r1m8t1p2flag=us |r1m8t1score=2
+|r1m8t2p1=DDaws |r1m8t2p1flag=us
+|r1m8t2p2=Revan |r1m8t2p2flag=us |r1m8t2score=0
+|r1m8win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Bladewise |r2m1t1p1flag=us
+|r2m1t1p2=Eggz |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Chango |r2m1t2p1flag=us
+|r2m1t2p2=Billy |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=TMC |r2m2t1p1flag=us
+|r2m2t1p2=Zaandaa |r2m2t1p2flag=us |r2m2t1score=2
+|r2m2t2p1=Dz |r2m2t2p1flag=us
+|r2m2t2p2=Iceman |r2m2t2p2flag=us |r2m2t2score=1
+|r2m2win=1
+
+|r2m3t1p1=Oreo |r2m3t1p1flag=us
+|r2m3t1p2=Ka-Master |r2m3t1p2flag=us |r2m3t1score=2
+|r2m3t2p1=Amrit |r2m3t2p1flag=us
+|r2m3t2p2=Puff mayne |r2m3t2p2flag=us |r2m3t2score=0
+|r2m3win=1
+
+|r2m4t1p1=Rustin |r2m4t1p1flag=us
+|r2m4t1p2=Shoyo |r2m4t1p2flag=us |r2m4t1score=2
+|r2m4t2p1=Pookie |r2m4t2p1flag=us
+|r2m4t2p2=Salty Seth |r2m4t2p2flag=us |r2m4t2score=0
+|r2m4win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Bladewise |r3m1t1p1flag=us
+|r3m1t1p2=Eggz |r3m1t1p2flag=us |r3m1t1score=3
+|r3m1t2p1=TMC |r3m1t2p1flag=us
+|r3m1t2p2=Zaandaa |r3m1t2p2flag=us |r3m1t2score=0
+|r3m1win=1
+
+|r3m2t1p1=Oreo |r3m2t1p1flag=us
+|r3m2t1p2=Ka-Master |r3m2t1p2flag=us |r3m2t1score=2
+|r3m2t2p1=Rustin |r3m2t2p1flag=us
+|r3m2t2p2=Shoyo |r3m2t2p2flag=us |r3m2t2score=3
+|r3m2win=2
+}}
+==Losers Bracket==
+{{16DEDoublesLBracketSmwA
+|tourneylink=Nemesis/Melee
+|tourneyname=Nemesis
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Bye |l1m1t1p1flag=
+|l1m1t1p2=Bye |l1m1t1p2flag= |l1m1t1score=
+|l1m1t2p1=Almond |l1m1t2p1flag=us
+|l1m1t2p2=Ganobrator |l1m1t2p2flag=us |l1m1t2score={{win}}
+|l1m1win=2
+
+|l1m2t1p1=NeoNinja |l1m2t1p1flag=us
+|l1m2t1p2=NoStock0000 |l1m2t1p2flag=us |l1m2t1score=0
+|l1m2t2p1=Sox |l1m2t2p1flag=us
+|l1m2t2p2=Quad |l1m2t2p2flag=us |l1m2t2score=2
+|l1m2win=2
+
+|l1m3t1p1=ZRider |l1m3t1p1flag=us
+|l1m3t1p2=Aero |l1m3t1p2flag=us |l1m3t1score=2
+|l1m3t2p1=Aran |l1m3t2p1flag=us
+|l1m3t2p2=JP |l1m3t2p2flag=us |l1m3t2score=1
+|l1m3win=1
+
+|l1m4t1p1=Kaliki |l1m4t1p1flag=us
+|l1m4t1p2=Bozion |l1m4t1p2flag=us |l1m4t1score=0
+|l1m4t2p1=DDaws |l1m4t2p1flag=us
+|l1m4t2p2=Revan |l1m4t2p2flag=us |l1m4t2score=2
+|l1m4win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Pookie |l2m1t1p1flag=us
+|l2m1t1p2=Salty Seth |l2m1t1p2flag=us |l2m1t1score={{win}}
+|l2m1t2p1=Almond |l2m1t2p1flag=us
+|l2m1t2p2=Ganobrator |l2m1t2p2flag=us |l2m1t2score=DQ
+|l2m1win=1
+
+|l2m2t1p1=Amrit |l2m2t1p1flag=us
+|l2m2t1p2=Puff mayne |l2m2t1p2flag=us |l2m2t1score=2
+|l2m2t2p1=Sox |l2m2t2p1flag=us
+|l2m2t2p2=Quad |l2m2t2p2flag=us |l2m2t2score=1
+|l2m2win=1
+
+|l2m3t1p1=Dz |l2m3t1p1flag=us
+|l2m3t1p2=Iceman |l2m3t1p2flag=us |l2m3t1score=2
+|l2m3t2p1=ZRider |l2m3t2p1flag=us
+|l2m3t2p2=Aero |l2m3t2p2flag=us |l2m3t2score=0
+|l2m3win=1
+
+|l2m4t1p1=Chango |l2m4t1p1flag=us
+|l2m4t1p2=Billy |l2m4t1p2flag=us |l2m4t1score=2
+|l2m4t2p1=DDaws |l2m4t2p1flag=us
+|l2m4t2p2=Revan |l2m4t2p2flag=us |l2m4t2score=1
+|l2m4win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=Pookie |l3m1t1p1flag=us
+|l3m1t1p2=Salty Seth |l3m1t1p2flag=us |l3m1t1score=2
+|l3m1t2p1=Amrit |l3m1t2p1flag=us
+|l3m1t2p2=Puff mayne |l3m1t2p2flag=us |l3m1t2score=1
+|l3m1win=1
+
+|l3m2t1p1=Dz |l3m2t1p1flag=us
+|l3m2t1p2=Iceman |l3m2t1p2flag=us |l3m2t1score=2
+|l3m2t2p1=Chango |l3m2t2p1flag=us
+|l3m2t2p2=Billy |l3m2t2p2flag=us |l3m2t2score=0
+|l3m2win=1
+
+<!-- ROUND 4 -->
+|l4m1t1p1=TMC |l4m1t1p1flag=us
+|l4m1t1p2=Zaandaa |l4m1t1p2flag=us |l4m1t1score=1
+|l4m1t2p1=Pookie |l4m1t2p1flag=us
+|l4m1t2p2=Salty Seth |l4m1t2p2flag=us |l4m1t2score=3
+|l4m1win=2
+
+|l4m2t1p1=Oreo |l4m2t1p1flag=us
+|l4m2t1p2=Ka-Master |l4m2t1p2flag=us |l4m2t1score=3
+|l4m2t2p1=Dz |l4m2t2p1flag=us
+|l4m2t2p2=Iceman |l4m2t2p2flag=us |l4m2t2score=0
+|l4m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Nemesis/Melee
+|tourneyname=Nemesis
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Bladewise |r1m1t1p1flag=us
+|r1m1t1p2=Eggz |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=Rustin |r1m1t2p1flag=us
+|r1m1t2p2=Shoyo |r1m1t2p2flag=us |r1m1t2score=1
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Pookie |l1m1t1p1flag=us
+|l1m1t1p2=Salty Seth |l1m1t1p2flag=us |l1m1t1score=3
+|l1m1t2p1=Oreo |l1m1t2p1flag=us
+|l1m1t2p2=Ka-Master |l1m1t2p2flag=us |l1m1t2score=0
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Rustin |r2m1t1p1flag=us
+|r2m1t1p2=Shoyo |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Pookie |r2m1t2p1flag=us
+|r2m1t2p2=Salty Seth |r2m1t2p2flag=us |r2m1t2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Bladewise |r3m1t1p1flag=us
+|r3m1t1p2=Eggz |r3m1t1p2flag=us |r3m1t1score=3 |r3m2t1score=
+|r3m1t2p1=Rustin |r3m1t2p1flag=us
+|r3m1t2p2=Shoyo |r3m1t2p2flag=us |r3m1t2score=2 |r3m2t2score=
+|r3m1win=1
+}}</onlyinclude>

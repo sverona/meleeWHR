@@ -1,0 +1,563 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Zoso",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "MikeHaze",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Colbol",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Slox",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "MikeHaze",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "1}}</onlyinclude>"
+        },
+        "r3m2": {
+            "p2score": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Jmook",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "trilok",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Sway Valentine",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Patrick",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "codeman",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Gart",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "JZ",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "LightningJG",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Space Ghost",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Seabass",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "Connor",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "GoodleShoes",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m7": {
+            "p1": "Accomplice",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Spritznok",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "Patches",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "JYIN",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Andy Rivers",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Jmook",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "Hoodcash",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Sway Valentine",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "Pig",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Gart",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Jank",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "JZ",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Rold Gold",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Space Ghost",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "PikaPika!",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Connor",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m7": {
+            "p1": "shminkledorf",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Accomplice",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Poonslayer7",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Patches",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Jmook",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Sway Valentine",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Pig",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Jank",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Rold Gold",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "PikaPika!",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "shminkledorf",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Poonslayer7",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Hungry Pigeon",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Jmook",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Mask",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Jank",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "vortex",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "PikaPika!",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "GSO",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "shminkledorf",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "Hungry Pigeon",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Mask",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "vortex",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "GSO",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m1": {
+            "p1": "Zoso",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Hungry Pigeon",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "MikeHaze",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "vortex",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Colbol",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Space Ghost",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "trilok",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Poonslayer7",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "shminkledorf",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Sway Valentine",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Mask",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Patrick",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "codeman",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "PikaPika!",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Gart",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m15": {
+            "p1": "Hungry Pigeon",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "JZ",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Rold Gold",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "LightningJG",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Jank",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Seabass",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "GSO",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Connor",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Pig",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "GoodleShoes",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Zoso",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Accomplice",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Hoodcash",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Spritznok",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "vortex",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Patches",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Andy Rivers",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "JYIN",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "MikeHaze",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Jmook",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Colbol",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Jank",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "GSO",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Pig",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Zoso",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Hoodcash",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "vortex",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Andy Rivers",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "MikeHaze",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Poonslayer7",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "shminkledorf",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Mask",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "PikaPika!",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Hungry Pigeon",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Rold Gold",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Colbol",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "GSO",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Zoso",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "vortex",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "MikeHaze",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Mask",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Slox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Hungry Pigeon",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Colbol",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Zoso",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "MikeHaze",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Slox",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

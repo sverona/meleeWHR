@@ -1,0 +1,589 @@
+{
+    "===5th Place Match===": {
+        "r1m1": {
+            "p1": "FastLikeTree",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "King",
+            "p2flag": "ca",
+            "p2score": "win",
+            "win": "2"
+        }
+    },
+    "===7th Place Match===": {
+        "r1m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Dope",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        }
+    },
+    "===Top 4===": {
+        "l1m1": {
+            "p1": "ChuDat",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "KoreanDJ",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "PC Chris",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Ken",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "PC Chris",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "ChuDat",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Ken",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "ChuDat",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Final Singles Bracket==": {},
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "DoH",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "TIxTetra",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Leprechaun",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "drew",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Xelic",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Zulu",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Husband",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Tink",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l1m5": {
+            "p1": "Forward",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Zelgadis",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l1m6": {
+            "p1": "z",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Isai",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l1m7": {
+            "p1": "Taj",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "BloodOfTheFallen",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "KillaOR",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "S.O.S.",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "TIxTetra",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Caveman",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "drew",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Rob$",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Xelic",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "ChuDat",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Tink",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m5": {
+            "p1": "Dope",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Zelgadis",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m6": {
+            "p1": "Razorium",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Isai",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l2m7": {
+            "p1": "KoreanDJ",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Taj",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Eddie",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "KillaOR",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Caveman",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Rob$",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "ChuDat",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l3m3": {
+            "p1": "Dope",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Isai",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m4": {
+            "p1": "KoreanDJ",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Eddie",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Caveman",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Neo",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "ChuDat",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m3": {
+            "p1": "Wife",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Dope",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m4": {
+            "p1": "JBlaze",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "KoreanDJ",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "ChuDat",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "Dope",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "KoreanDJ",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "FastLikeTree",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "ChuDat",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l6m2": {
+            "p1": "King",
+            "p1flag": "ca",
+            "p1score": "2",
+            "p2": "KoreanDJ",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "PC Chris",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "DoH",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Zelgadis",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Wife",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m11": {
+            "p1": "Rob$",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "z",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "FastLikeTree",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Isai",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "JBlaze",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Taj",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "BloodOfTheFallen",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Caveman",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "KillaOR",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "S.O.S.",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Ken",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m2": {
+            "p1": "TIxTetra",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Eddie",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "KoreanDJ",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Leprechaun",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "drew",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Mew2King",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m5": {
+            "p1": "Neo",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Xelic",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Zulu",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Razorium",
+            "p2flag": "",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Husband",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Dope",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m8": {
+            "p1": "King",
+            "p1flag": "ca",
+            "p1score": "3",
+            "p2": "Tink",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "ChuDat",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Forward",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "PC Chris",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Eddie",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "KoreanDJ",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Mew2King",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Neo",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Razorium",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Dope",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "King",
+            "p2flag": "ca",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m5": {
+            "p1": "ChuDat",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Wife",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m6": {
+            "p1": "Rob$",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "FastLikeTree",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "JBlaze",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Caveman",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "HugS",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Ken",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "PC Chris",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Mew2King",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Neo",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "King",
+            "p2flag": "ca",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m3": {
+            "p1": "Wife",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "FastLikeTree",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r3m4": {
+            "p1": "JBlaze",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Ken",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r4m1": {
+            "p1": "PC Chris",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "King",
+            "p2flag": "ca",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "FastLikeTree",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Ken",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

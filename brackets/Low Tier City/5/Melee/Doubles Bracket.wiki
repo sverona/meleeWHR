@@ -1,0 +1,206 @@
+{{DISPLAYTITLE:Low Tier City 5: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Low Tier City/5/Melee
+|name2=Singles Pools
+|link2=Low Tier City/5/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Low Tier City/5/Melee/Singles Bracket
+|name4=Doubles Pools
+|link4=Low Tier City/5/Melee/Doubles Pools
+|name5=Doubles Bracket
+|link5=Low Tier City/5/Melee/Doubles Bracket
+|This=5
+}}
+==Winners Bracket==
+{{2SEDoublesBracket
+|R1=Winners Semis
+|r1m1t1p1=Lucky |r1m1t1p1flag=us
+|r1m1t1p2=Alex19 |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=SFOP |r1m1t2p1flag=us
+|r1m1t2p2=Nerin |r1m1t2p2flag=us |r1m1t2score=1
+|r1m1win=1
+|r1m1t1p1char1=fox |r1m1t1p1stock1=0 |r1m1t1p2char1=fox |r1m1t1p2stock1=0
+|r1m1t2p1char1=fox |r1m1t2p1stock1=1 |r1m1t2p2char1=fox |r1m1t2p2stock1=1 |r1m1win1=2 |r1m1stage1=Pokémon Stadium
+|r1m1t1p1char2=fox |r1m1t1p1stock2=2 |r1m1t1p2char2=fox |r1m1t1p2stock2=2
+|r1m1t2p1char2=fox |r1m1t2p1stock2=0 |r1m1t2p2char2=fox |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1t1p1char3=fox |r1m1t1p1stock3=1 |r1m1t1p2char3=fox |r1m1t1p2stock3=1
+|r1m1t2p1char3=fox |r1m1t2p1stock3=0 |r1m1t2p2char3=fox |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Battlefield
+|r1m1t1p1char4=fox |r1m1t1p1stock4=3 |r1m1t1p2char4=fox |r1m1t1p2stock4=2
+|r1m1t2p1char4=fox |r1m1t2p1stock4=0 |r1m1t2p2char4=fox |r1m1t2p2stock4=0 |r1m1win4=1 |r1m1stage4=Battlefield
+|r1m1date=August 6, 2017
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/DA1hrX99kjA}}
+}}
+{{2SEDoublesBracket
+|hideroundtitles=true
+|r1m1t1p1=Albert |r1m1t1p1flag=us
+|r1m1t1p2=Tai |r1m1t1p2flag=us |r1m1t1score=0
+|r1m1t2p1=Mojo |r1m1t2p1flag=us
+|r1m1t2p2=Jake13 |r1m1t2p2flag=us |r1m1t2score=3
+|r1m1win=2
+|r1m1t1p1char1=falco |r1m1t1p1stock1=0 |r1m1t1p2char1=marth |r1m1t1p2stock1=0
+|r1m1t2p1char1=fox |r1m1t2p1stock1=1 |r1m1t2p2char1=falco |r1m1t2p2stock1=1 |r1m1win1=2 |r1m1stage1=Battlefield
+|r1m1t1p1char2=falco |r1m1t1p1stock2=0 |r1m1t1p2char2=marth |r1m1t1p2stock2=0
+|r1m1t2p1char2=fox |r1m1t2p1stock2=1 |r1m1t2p2char2=falco |r1m1t2p2stock2=1 |r1m1win2=2 |r1m1stage2=Pokémon Stadium
+|r1m1t1p1char3=falco |r1m1t1p1stock3=0 |r1m1t1p2char3=marth |r1m1t1p2stock3=0
+|r1m1t2p1char3=fox |r1m1t2p1stock3=1 |r1m1t2p2char3=falco |r1m1t2p2stock3=0 |r1m1win3=2 |r1m1stage3=Battlefield
+|r1m1date=August 6, 2017
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/-1JZ6kr6sig}}
+}}
+
+==Losers Bracket==
+{{8DEDoublesLBracketSmwA
+|tourneylink=Low Tier City/5/Melee
+|tourneyname=Low Tier City 5
+|l1placement=7-8
+|l2placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=ALP |l1m1t1p1flag=us
+|l1m1t1p2=Die-Lawn |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=Schythed |l1m1t2p1flag=us
+|l1m1t2p2=Yardo |l1m1t2p2flag=us |l1m1t2score=3
+|l1m1win=2
+|l1m1t1p1char1=fox |l1m1t1p1stock1=0 |l1m1t1p2char1=peach |l1m1t1p2stock1=0
+|l1m1t2p1char1=cf |l1m1t2p1stock1=0 |l1m1t2p2char1=fox |l1m1t2p2stock1=1 |l1m1win1=2 |l1m1stage1=Final Destination
+|l1m1t1p1char2=fox |l1m1t1p1stock2=2 |l1m1t1p2char2=peach |l1m1t1p2stock2=2
+|l1m1t2p1char2=cf |l1m1t2p1stock2=0 |l1m1t2p2char2=fox |l1m1t2p2stock2=0 |l1m1win2=1 |l1m1stage2=Battlefield
+|l1m1t1p1char3=fox |l1m1t1p1stock3=0 |l1m1t1p2char3=peach |l1m1t1p2stock3=0
+|l1m1t2p1char3=cf |l1m1t2p1stock3=2 |l1m1t2p2char3=fox |l1m1t2p2stock3=0 |l1m1win3=2 |l1m1stage3=Pokémon Stadium
+|l1m1t1p1char4=fox |l1m1t1p1stock4=2 |l1m1t1p2char4=peach |l1m1t1p2stock4=1
+|l1m1t2p1char4=cf |l1m1t2p1stock4=0 |l1m1t2p2char4=fox |l1m1t2p2stock4=0 |l1m1win4=1 |l1m1stage4=Yoshi's Story
+|l1m1t1p1char5=fox |l1m1t1p1stock5=0 |l1m1t1p2char5=peach |l1m1t1p2stock5=0
+|l1m1t2p1char5=cf |l1m1t2p1stock5=1 |l1m1t2p2char5=fox |l1m1t2p2stock5=0 |l1m1win5=2 |l1m1stage5=Dream Land
+|l1m1date=August 6, 2017
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/a4TnR1Mztxg}}
+
+|l1m2t1p1=bluezaft |l1m2t1p1flag=us
+|l1m2t1p2=Bananas |l1m2t1p2flag=us |l1m2t1score=3
+|l1m2t2p1=Bobby Frizz |l1m2t2p1flag=us
+|l1m2t2p2=Unspecial |l1m2t2p2flag=us |l1m2t2score=1
+|l1m2win=1
+|l1m2t1p1char1=jigglypuff |l1m2t1p1stock1=1 |l1m2t1p2char1=ic |l1m2t1p2stock1=1
+|l1m2t2p1char1=fox |l1m2t2p1stock1=0 |l1m2t2p2char1=fox |l1m2t2p2stock1=0 |l1m2win1=1 |l1m2stage1=Yoshi's Story
+|l1m2t1p1char2=jigglypuff |l1m2t1p1stock2=0 |l1m2t1p2char2=ic |l1m2t1p2stock2=0
+|l1m2t2p1char2=fox |l1m2t2p1stock2=1 |l1m2t2p2char2=falco |l1m2t2p2stock2=1 |l1m2win2=2 |l1m2stage2=Yoshi's Story
+|l1m2t1p1char3=jigglypuff |l1m2t1p1stock3=3 |l1m2t1p2char3=ic |l1m2t1p2stock3=1
+|l1m2t2p1char3=fox |l1m2t2p1stock3=0 |l1m2t2p2char3=falco |l1m2t2p2stock3=0 |l1m2win3=1 |l1m2stage3=Final Destination
+|l1m2t1p1char4=jigglypuff |l1m2t1p1stock4=2 |l1m2t1p2char4=ic |l1m2t1p2stock4=1
+|l1m2t2p1char4=fox |l1m2t2p1stock4=0 |l1m2t2p2char4=fox |l1m2t2p2stock4=0 |l1m2win4=1 |l1m2stage4=Pokémon Stadium
+|l1m2date=August 6, 2017
+|l1m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/Hlq-CjbUlf0}}
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Albert |l2m1t1p1flag=us
+|l2m1t1p2=Tai |l2m1t1p2flag=us |l2m1t1score=3
+|l2m1t2p1=Schythed |l2m1t2p1flag=us
+|l2m1t2p2=Yardo |l2m1t2p2flag=us |l2m1t2score=0
+|l2m1win=1
+|l2m1t1p1char1=falco |l2m1t1p1stock1=2 |l2m1t1p2char1=marth |l2m1t1p2stock1=1
+|l2m1t2p1char1=ganon |l2m1t2p1stock1=0 |l2m1t2p2char1=fox |l2m1t2p2stock1=0 |l2m1win1=1 |l2m1stage1=Pokémon Stadium
+|l2m1t1p1char2=falco |l2m1t1p1stock2=2 |l2m1t1p2char2=marth |l2m1t1p2stock2=2
+|l2m1t2p1char2=cf |l2m1t2p1stock2=0 |l2m1t2p2char2=fox |l2m1t2p2stock2=0 |l2m1win2=1 |l2m1stage2=Dream Land
+|l2m1t1p1char3=falco |l2m1t1p1stock3=1 |l2m1t1p2char3=marth |l2m1t1p2stock3=1
+|l2m1t2p1char3=ganon |l2m1t2p1stock3=0 |l2m1t2p2char3=falco |l2m1t2p2stock3=0 |l2m1win3=1 |l2m1stage3=Yoshi's Story
+|l2m1date=August 6, 2017
+|l2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/_dfX3LSuaoU}}
+
+|l2m2t1p1=SFOP |l2m2t1p1flag=us
+|l2m2t1p2=Nerin |l2m2t1p2flag=us |l2m2t1score=3
+|l2m2t2p1=bluezaft |l2m2t2p1flag=us
+|l2m2t2p2=Bananas |l2m2t2p2flag=us |l2m2t2score=0
+|l2m2win=1
+|l2m2t1p1char1=fox |l2m2t1p1stock1=0 |l2m2t1p2char1=fox |l2m2t1p2stock1=1
+|l2m2t2p1char1=jigglypuff |l2m2t2p1stock1=0 |l2m2t2p2char1=ic |l2m2t2p2stock1=0 |l2m2win1=1 |l2m2stage1=Battlefield
+|l2m2t1p1char2=fox |l2m2t1p1stock2=2 |l2m2t1p2char2=fox |l2m2t1p2stock2=1
+|l2m2t2p1char2=jigglypuff |l2m2t2p1stock2=0 |l2m2t2p2char2=ic |l2m2t2p2stock2=0 |l2m2win2=1 |l2m2stage2=Final Destination
+|l2m2t1p1char3=fox |l2m2t1p1stock3=1 |l2m2t1p2char3=fox |l2m2t1p2stock3=1
+|l2m2t2p1char3=jigglypuff |l2m2t2p1stock3=0 |l2m2t2p2char3=fox |l2m2t2p2stock3=0 |l2m2win3=1 |l2m2stage3=Yoshi's Story
+|l2m2date=August 6, 2017
+|l2m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/3iUvUsEOIMA}}
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Low Tier City/5/Melee
+|tourneyname=Low Tier City 5
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Lucky |r1m1t1p1flag=us
+|r1m1t1p2=Alex19 |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=Mojo |r1m1t2p1flag=us
+|r1m1t2p2=Jake13 |r1m1t2p2flag=us |r1m1t2score=2
+|r1m1win=1
+|r1m1t1p1char1=fox |r1m1t1p1stock1=1 |r1m1t1p2char1=fox |r1m1t1p2stock1=1
+|r1m1t2p1char1=fox |r1m1t2p1stock1=0 |r1m1t2p2char1=falco |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Final Destination
+|r1m1t1p1char2=fox |r1m1t1p1stock2=1 |r1m1t1p2char2=fox |r1m1t1p2stock2=1
+|r1m1t2p1char2=fox |r1m1t2p1stock2=0 |r1m1t2p2char2=falco |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Dream Land
+|r1m1t1p1char3=fox |r1m1t1p1stock3=0 |r1m1t1p2char3=fox |r1m1t1p2stock3=0
+|r1m1t2p1char3=fox |r1m1t2p1stock3=1 |r1m1t2p2char3=fox |r1m1t2p2stock3=1 |r1m1win3=2 |r1m1stage3=Dream Land
+|r1m1t1p1char4=fox |r1m1t1p1stock4=0 |r1m1t1p2char4=fox |r1m1t1p2stock4=0
+|r1m1t2p1char4=fox |r1m1t2p1stock4=2 |r1m1t2p2char4=fox |r1m1t2p2stock4=2 |r1m1win4=2 |r1m1stage4=Pokémon Stadium
+|r1m1t1p1char5=fox |r1m1t1p1stock5=1 |r1m1t1p2char5=fox |r1m1t1p2stock5=2
+|r1m1t2p1char5=fox |r1m1t2p1stock5=0 |r1m1t2p2char5=fox |r1m1t2p2stock5=0 |r1m1win5=1 |r1m1stage5=Pokémon Stadium
+|r1m1date=August 6, 2017
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/qGB78l8ZmMI}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Albert |l1m1t1p1flag=us
+|l1m1t1p2=Tai |l1m1t1p2flag=us |l1m1t1score=3
+|l1m1t2p1=SFOP |l1m1t2p1flag=us
+|l1m1t2p2=Nerin |l1m1t2p2flag=us |l1m1t2score=2
+|l1m1win=1
+|l1m1t1p1char1=falco |l1m1t1p1stock1=1 |l1m1t1p2char1=marth |l1m1t1p2stock1=0
+|l1m1t2p1char1=fox |l1m1t2p1stock1=0 |l1m1t2p2char1=fox |l1m1t2p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1t1p1char2=falco |l1m1t1p1stock2=0 |l1m1t1p2char2=marth |l1m1t1p2stock2=0
+|l1m1t2p1char2=fox |l1m1t2p1stock2=0 |l1m1t2p2char2=fox |l1m1t2p2stock2=1 |l1m1win2=2 |l1m1stage2=Dream Land
+|l1m1t1p1char3=falco |l1m1t1p1stock3=0 |l1m1t1p2char3=marth |l1m1t1p2stock3=0
+|l1m1t2p1char3=fox |l1m1t2p1stock3=1 |l1m1t2p2char3=fox |l1m1t2p2stock3=1 |l1m1win3=2 |l1m1stage3=Dream Land
+|l1m1t1p1char4=falco |l1m1t1p1stock4=1 |l1m1t1p2char4=marth |l1m1t1p2stock4=0
+|l1m1t2p1char4=fox |l1m1t2p1stock4=0 |l1m1t2p2char4=fox |l1m1t2p2stock4=0 |l1m1win4=1 |l1m1stage4=Dream Land
+|l1m1t1p1char5=falco |l1m1t1p1stock5=1 |l1m1t1p2char5=marth |l1m1t1p2stock5=0
+|l1m1t2p1char5=fox |l1m1t2p1stock5=0 |l1m1t2p2char5=fox |l1m1t2p2stock5=0 |l1m1win5=1 |l1m1stage5=Pokémon Stadium
+|l1m1date=August 6, 2017
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/H8RpWjq2XHY}}
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Mojo |r2m1t1p1flag=us
+|r2m1t1p2=Jake13 |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Albert |r2m1t2p1flag=us
+|r2m1t2p2=Tai |r2m1t2p2flag=us |r2m1t2score=1
+|r2m1win=1
+|r2m1t1p1char1=fox |r2m1t1p1stock1=0 |r2m1t1p2char1=falco |r2m1t1p2stock1=0
+|r2m1t2p1char1=falco |r2m1t2p1stock1=1 |r2m1t2p2char1=marth |r2m1t2p2stock1=2 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1t1p1char2=fox |r2m1t1p1stock2=1 |r2m1t1p2char2=falco |r2m1t1p2stock2=1
+|r2m1t2p1char2=falco |r2m1t2p1stock2=0 |r2m1t2p2char2=marth |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Dream Land
+|r2m1t1p1char3=fox |r2m1t1p1stock3=1 |r2m1t1p2char3=falco |r2m1t1p2stock3=1
+|r2m1t2p1char3=falco |r2m1t2p1stock3=0 |r2m1t2p2char3=marth |r2m1t2p2stock3=0 |r2m1win3=1 |r2m1stage3=Pokémon Stadium
+|r2m1t1p1char4=fox |r2m1t1p1stock4=2 |r2m1t1p2char4=falco |r2m1t1p2stock4=2
+|r2m1t2p1char4=falco |r2m1t2p1stock4=0 |r2m1t2p2char4=marth |r2m1t2p2stock4=0 |r2m1win4=1 |r2m1stage4=Pokémon Stadium
+|r2m1date=August 6, 2017
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/NtwKCp2jAro}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Lucky |r3m1t1p1flag=us
+|r3m1t1p2=Alex19 |r3m1t1p2flag=us |r3m1t1score=3
+|r3m1t2p1=Mojo |r3m1t2p1flag=us
+|r3m1t2p2=Jake13 |r3m1t2p2flag=us |r3m1t2score=2
+|r3m1win=1
+|r3m1t1p1char1=fox |r3m1t1p1stock1=1 |r3m1t1p2char1=fox |r3m1t1p2stock1=0
+|r3m1t2p1char1=fox |r3m1t2p1stock1=0 |r3m1t2p2char1=fox |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Final Destination
+|r3m1t1p1char2=fox |r3m1t1p1stock2=0 |r3m1t1p2char2=fox |r3m1t1p2stock2=0
+|r3m1t2p1char2=fox |r3m1t2p1stock2=1 |r3m1t2p2char2=fox |r3m1t2p2stock2=1 |r3m1win2=2 |r3m1stage2=Dream Land
+|r3m1t1p1char3=fox |r3m1t1p1stock3=0 |r3m1t1p2char3=fox |r3m1t1p2stock3=0
+|r3m1t2p1char3=fox |r3m1t2p1stock3=1 |r3m1t2p2char3=fox |r3m1t2p2stock3=1 |r3m1win3=2 |r3m1stage3=Pokémon Stadium
+|r3m1t1p1char4=fox |r3m1t1p1stock4=1 |r3m1t1p2char4=fox |r3m1t1p2stock4=1
+|r3m1t2p1char4=fox |r3m1t2p1stock4=0 |r3m1t2p2char4=fox |r3m1t2p2stock4=0 |r3m1win4=1 |r3m1stage4=Pokémon Stadium
+|r3m1t1p1char5=fox |r3m1t1p1stock5=1 |r3m1t1p2char5=fox |r3m1t1p2stock5=1
+|r3m1t2p1char5=fox |r3m1t2p1stock5=0 |r3m1t2p2char5=fox |r3m1t2p2stock5=0 |r3m1win5=1 |r3m1stage5=Battlefield
+|r3m1date=August 6, 2017
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=A79LuNpLNDc}}
+}}
+</onlyinclude>

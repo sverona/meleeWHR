@@ -1,0 +1,181 @@
+{{DISPLAYTITLE:MLG Las Vegas 2006}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=MLG/2006/Las Vegas
+|name2=Singles Bracket
+|link2=MLG/2006/Las Vegas/Singles Bracket
+|name3=Doubles Bracket
+|link3=MLG/2006/Las Vegas/Doubles Bracket
+|This=2
+}}
+==Winners Bracket==
+{{8DEWBracketA
+|tourneylink=MLG/2006/Las Vegas
+|tourneyname=2006 MLG National Championships
+|column-width=200
+
+<!-- Quarterfinals -->
+|r1m1p1=Ken |r1m1p1flag=us| r1m1p1score=3
+|r1m1p2=HugS |r1m1p2flag=us| r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=marth |r1m1p2char1=samus |r1m1p1stock1=2 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=marth |r1m1p2char2=samus |r1m1p1stock2=2 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Dream Land
+|r1m1p1char3=marth |r1m1p2char3=samus |r1m1p1stock3=1 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Pokémon Stadium
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/e8E8-Fq32RU
+|vodgame2=https://youtu.be/nmVdkCuc5ek
+|vodgame3=https://youtu.be/YwHoLql6c3k}}
+
+|r1m2p1=Mew2King |r1m2p1flag=us| r1m2p1score=0
+|r1m2p2=KoreanDJ |r1m2p2flag=us| r1m2p2score=3
+|r1m2win=2
+
+|r1m3p1=PC Chris |r1m3p1flag=us| r1m3p1score=3
+|r1m3p2=Azen |r1m3p2flag=us| r1m3p2score=1
+|r1m3win=1
+
+|r1m4p1=Isai |r1m4p1flag=us| r1m4p1score=3
+|r1m4p2=ChuDat |r1m4p2flag=us| r1m4p2score=0
+|r1m4win=1
+
+<!-- SEMIFINALS -->
+|r2m1p1=Ken |r2m1p1flag=us| r2m1p1score=2
+|r2m1p2=KoreanDJ |r2m1p2flag=us| r2m1p2score=3
+|r2m1win=2
+|r2m1p1char1=marth |r2m1p2char1=sheik |r2m1p1stock1=1 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Fountain of Dreams
+|r2m1p1char2=marth |r2m1p2char2=sheik |r2m1p1stock2=0 |r2m1p2stock2=2 |r2m1win2=2 |r2m1stage2=Final Destination
+|r2m1p1char3=marth |r2m1p2char3=sheik |r2m1p1stock3=1 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Battlefield
+|r2m1p1char4=marth |r2m1p2char4=sheik |r2m1p1stock4=0 |r2m1p2stock4=2 |r2m1win4=2 |r2m1stage4=Pokémon Stadium
+|r2m1p1char5=marth |r2m1p2char5=sheik |r2m1p1stock5=0 |r2m1p2stock5=1 |r2m1win5=2 |r2m1stage5=Yoshi's Story
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/6g-x6G16qk0
+|vodgame2=https://youtu.be/BKEQc8v5-tM
+|vodgame3=https://youtu.be/xpZlHVOGUQU
+|vodgame4=https://youtu.be/UEbiWvaZusE
+|vodgame5=https://youtu.be/u9Tvdi0e56A}}
+
+|r2m2p1=PC Chris |r2m2p1flag=us| r2m2p1score=3
+|r2m2p2=Isai |r2m2p2flag=us| r2m2p2score=0
+|r2m2win=1
+}}
+
+==Losers Bracket==
+{{8DELBracketSmwA
+|tourneylink=MLG/2006/Las Vegas
+|tourneyname=2006 MLG National Championships
+|l1placement=7-8
+|l2placement=5-6
+|column-width=170
+
+<!-- Round 1 -->
+|l1m1p1=HugS |l1m1p1flag=us| l1m1p1score=0
+|l1m1p2=Mew2King |l1m1p2flag=us| l1m1p2score=3
+|l1m1win=2
+
+|l1m2p1=Azen |l1m2p1flag=us| l1m2p1score=3
+|l1m2p2=ChuDat |l1m2p2flag=us| l1m2p2score=1
+|l1m2win=1
+|l1m2p1char1=cf |l1m2p2char1=ic |l1m2p1stock1=1 |l1m2p2stock1=0 |l1m2win1=1 |l1m2stage1=Dream Land
+|l1m2p1char2=cf |l1m2p2char2=ic |l1m2p1stock2=0 |l1m2p2stock2=1 |l1m2win2=2 |l1m2stage2=Final Destination
+|l1m2p1char3=cf |l1m2p2char3=ic |l1m2p1stock3=2 |l1m2p2stock3=0 |l1m2win3=1 |l1m2stage3=Pokémon Stadium
+|l1m2p1char4=cf |l1m2p2char4=ic |l1m2p1stock4=1 |l1m2p2stock4=0 |l1m2win4=1 |l1m2stage4=Yoshi's Story
+|l1m2details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/2-Nb2U5W3Tw
+|vodgame2=https://youtu.be/jP7NC29Wvwk
+|vodgame3=https://youtu.be/TF146HPsdNs
+|vodgame4=https://youtu.be/Ie2U9ybrrng}}
+
+<!-- Round 2 -->
+|l2m1p1=Isai |l2m1p1flag=us| l2m1p1score=0
+|l2m1p2=Mew2King |l2m1p2flag=us| l2m1p2score=3
+|l2m1win=2
+
+|l2m2p1=Ken |l2m2p1flag=us| l2m2p1score=3
+|l2m2p2=Azen |l2m2p2flag=us| l2m2p2score=1
+|l2m2win=1
+|l2m2p1char1=marth |l2m2p2char1=marth |l2m2p1stock1=0 |l2m2p2stock1=1 |l2m2win1=2 |l2m2stage1=Yoshi's Story
+|l2m2p1char2=marth |l2m2p2char2=marth |l2m2p1stock2=1 |l2m2p2stock2=0 |l2m2win2=1 |l2m2stage2=Fountain of Dreams
+|l2m2p1char3=marth |l2m2p2char3=marth |l2m2p1stock3=1 |l2m2p2stock3=0 |l2m2win3=1 |l2m2stage3=Final Destination
+|l2m2p1char4=marth |l2m2p2char4=marth |l2m2p1stock4=2 |l2m2p2stock4=0 |l2m2win4=1 |l2m2stage4=Dream Land
+|l2m2details={{BracketMatchDetails|reddit=|comment=|vodgame1=https://youtu.be/d4iOarWCH_c
+|vodgame2=https://youtu.be/h07Mv048EJM
+|vodgame3=https://youtu.be/qBRprEkrV98
+|vodgame4=https://youtu.be/1PlkK11BFa4}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=MLG/2006/Las Vegas
+|tourneyname=2006 MLG National Championships
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+|column-width=155
+|column-width-finals=220
+
+<!-- FROM WINNERS -->
+|r1m1p1=KoreanDJ |r1m1p1flag=us |r1m1p1score=0
+|r1m1p2=PC Chris |r1m1p2flag=us |r1m1p2score=3
+|r1m1win=2
+|r1m1p1char1=fox |r1m1p2char1=falco |r1m1p1stock1=0 |r1m1p2stock1=1 |r1m1win1=2 |r1m1stage1=Yoshi's Story
+|r1m1p1char2=fox |r1m1p2char2=falco |r1m1p1stock2=0 |r1m1p2stock2=1 |r1m1win2=2 |r1m1stage2=Fountain of Dreams
+|r1m1p1char3=fox |r1m1p2char3=falco |r1m1p1stock3=0 |r1m1p2stock3=1 |r1m1win3=2 |r1m1stage3=Final Destination
+|r1m1date=November 19, 2006
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=
+|vodgame1=https://www.youtube.com/watch?v=BibXV978d4U
+|vodgame2=https://www.youtube.com/watch?v=bFICQe5aT0s
+|vodgame3=https://www.youtube.com/watch?v=KSMxvkq6X04
+|interview=
+|recap=
+|comment=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Mew2King |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Ken |l1m1p2flag=us |l1m1p2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1p1=KoreanDJ |r2m1p1flag=us |r2m1p1score=6
+|r2m1p2=Ken |r2m1p2flag=us |r2m1p2score=2
+|r2m1win=1
+|r2m1date=November 19, 2006
+|r2m1p1char1=sheik |r2m1p2char1=marth |r2m1p1stock1=1 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1p1char2=sheik |r2m1p2char2=fox |r2m1p1stock2=1 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1p1char3=sheik |r2m1p2char3=cf |r2m1p1stock3=2 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Final Destination
+|r2m1details={{BracketMatchDetails
+|vodgame1=https://youtu.be/v-TeW3Zp9fs
+|vodgame2=https://youtu.be/Ou87daO6BJE
+|vodgame3=https://youtu.be/DHRrVsJwKY0
+|interview=
+|recap=
+|comment=Losers Finals was a best of 11, but the set started 3-2 in KoreanDJ's favor due to the Winners Semis result.
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=PC Chris |r3m1p1flag=us |r3m1p1score=6
+|r3m1p2=KoreanDJ |r3m1p2flag=us |r3m1p2score=3
+|r3m1win=1
+|r3m1p1char1=falco |r3m1p2char1=fox |r3m1p1stock1=1 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Fountain of Dreams
+|r3m1p1char2=falco |r3m1p2char2=fox |r3m1p1stock2=0 |r3m1p2stock2=1 |r3m1win2=2 |r3m1stage2=Battlefield
+|r3m1p1char3=falco |r3m1p2char3=fox |r3m1p1stock3=0 |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Final Destination
+|r3m1p1char4=falco |r3m1p2char4=fox |r3m1p1stock4=0 |r3m1p2stock4=2 |r3m1win4=2 |r3m1stage4=Pokémon Stadium
+|r3m1p1char5=fox |r3m1p2char5=fox |r3m1p1stock5=1 |r3m1p2stock5=0 |r3m1win5=1 |r3m1stage5=Dream Land
+|r3m1p1char6=fox |r3m1p2char6=fox |r3m1p1stock6=2 |r3m1p2stock6=0 |r3m1win6=1 |r3m1stage6=Final Destination
+|r3m1date=November 19, 2006
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=
+|vodgame1=https://www.youtube.com/watch?v=XKf3Op79poc
+|vodgame2=https://www.youtube.com/watch?v=_O8_jWRmlq8
+|vodgame3=https://www.youtube.com/watch?v=kZAMKmDyQF4
+|vodgame4=https://www.youtube.com/watch?v=fAjW_e3A6Tk
+|vodgame5=https://www.youtube.com/watch?v=FjNvBxb9vTk
+|vodgame6=https://www.youtube.com/watch?v=F-N5eyus-mc
+|interview=
+|recap=
+|comment=Grand Finals was a best of 11, but the set started 3-0 in PC Chris' favor due to the Winners Finals result.
+}}
+}}
+</onlyinclude>

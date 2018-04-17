@@ -1,0 +1,457 @@
+{{SetGame|melee}}{{tabs static
+|name1=Overview
+|link1=Cannes Winter Clash
+|name2=Singles Pools
+|link2=Cannes Winter Clash/Singles Pools
+|name3=Singles Bracket
+|link3=Cannes Winter Clash/Singles Bracket
+|This=2
+}}
+
+==Pool 1==
+{{8DEBracket
+|column-width=150
+<!-- QUARTERFINALS -->
+|r1m1p1=Leffen |r1m1p1flag=se |r1m1p1score=W
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=-
+|r1m1win=1
+
+|r1m2p1=Nemo |r1m2p1flag= |r1m2p1score=
+|r1m2p2=ZCK |r1m2p2flag=fr |r1m2p2score={{win}}
+|r1m2win=2
+
+|r1m3p1=Meljin |r1m3p1flag=fr |r1m3p1score=W
+|r1m3p2=Bye |r1m3p2flag= |r1m3p2score=-
+|r1m3win=1
+
+|r1m4p1=Aephage |r1m4p1flag=fr |r1m4p1score={{win}}
+|r1m4p2=SaiX |r1m4p2flag=es |r1m4p2score= 
+|r1m4win=1
+
+<!-- SEMIFINALS -->
+|r2m1p1=Leffen |r2m1p1flag=se |r2m1p1score={{win}}
+|r2m1p2=ZCK |r2m1p2flag=fr |r2m1p2score=
+|r2m1win=1
+
+|r2m2p1=Meljin |r2m2p1flag=fr |r2m2p1score=
+|r2m2p2=Aephage |r2m2p2flag=fr |r2m2p2score={{win}}
+|r2m2win=2
+
+<!-- WINNER'S FINALS -->
+|r4m1p1=Leffen |r4m1p1flag=se |r4m1p1score={{win}}
+|r4m1p2=Aephage |r4m1p2flag=fr |r4m1p2score=
+|r4m1win=1
+
+<!-- LOSER'S ROUND 1 -->
+|l1m1p1=Nemo |l1m1p1flag= |l1m1p1score=W
+|l1m1p2=Bye |l1m1p2flag= |l1m1p2score=-
+|l1m1win=1
+
+|l1m2p1=SaiX |l1m2p1flag=es |l1m2p1score=W
+|l1m2p2=Bye |l1m2p2flag= |l1m2p2score=-
+|l1m2win=1
+
+<!-- LOSER'S ROUND 2 -->
+|l2m1p1=Meljin |l2m1p1flag=fr |l2m1p1score={{win}}
+|l2m1p2=Nemo |l2m1p2flag= |l2m1p2score=
+|l2m1win=1
+
+|l2m2p1=ZCK |l2m2p1flag=fr |l2m2p1score=
+|l2m2p2=SaiX |l2m2p2flag=es |l2m2p2score={{win}}
+|l2m2win=2
+
+<!-- LOSER'S ROUND 3 -->
+|l3m1p1=Meljin |l3m1p1flag=fr |l3m1p1score={{win}}
+|l3m1p2=SaiX {{advance|Cannes Winter Clash/Singles Top 32}}|l3m1p2flag=es |l3m1p2score=
+|l3m1win=1
+
+<!-- LOSER'S FINALS -->
+|l4m1p1=Aephage {{advance|Cannes Winter Clash/Singles Top 32}}|l4m1p1flag=fr |l4m1p1score=
+|l4m1p2=Meljin |l4m1p2flag=fr |l4m1p2score={{win}}
+|l4m1win=2
+
+<!-- FINALS -->
+|r5m1p1=Leffen |r5m1p1flag=se |r5m1p1score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1p2=Meljin |r5m1p2flag=fr |r5m1p2score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1win=
+}}
+
+==Pool 2==
+{{8DEBracket
+|column-width=150
+|r1m1p1=Jeapie |r1m1p1flag=nl |r1m1p1score=W |r1m1win=1
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=-
+
+|r1m2p1=BadNight |r1m2p1flag=fr |r1m2p1score={{win}} |r1m2win=1
+|r1m2p2=QuickSike |r1m2p2flag=ch |r1m2p2score=
+
+|r1m3p1=Leon |r1m3p1flag=fr |r1m3p1score=W |r1m3win=1
+|r1m3p2=Bye |r1m3p2flag= |r1m3p2score=-
+
+|r1m4p1=PandaSoldier |r1m4p1flag= |r1m4p1score={{win}} |r1m4win=1
+|r1m4p2=TSN matge |r1m4p2flag= |r1m4p2score=
+
+|r2m1p1=Jeapie |r2m1p1flag=nl |r2m1p1score={{win}} |r2m1win=1
+|r2m1p2=BadNight |r2m1p2flag=fr |r2m1p2score=
+
+|r2m2p1=Leon |r2m2p1flag=fr |r2m2p1score={{win}} |r2m2win=1
+|r2m2p2=PandaSoldier |r2m2p2flag= |r2m2p2score=
+
+<!-- WINNER'S FINALS -->
+|r4m1p1=Jeapie |r4m1p1flag=nl |r4m1p1score={{win}}
+|r4m1p2=Leon |r4m1p2flag=fr |r4m1p2score=
+|r4m1win=1
+
+|l1m1p1=Bye |l1m1p1flag= |l1m1p1score=- |l1m1win=2
+|l1m1p2=QuickSike |l1m1p2flag=ch |l1m1p2score=W
+
+|l1m2p1=Bye |l1m2p1flag= |l1m2p1score=- |l1m2win=2
+|l1m2p2=TSN matge |l1m2p2flag= |l1m2p2score=W
+
+|l2m1p1=PandaSoldier |l2m1p1flag= |l2m1p1score= |l2m1win=2
+|l2m1p2=QuickSike |l2m1p2flag=ch |l2m1p2score={{win}}
+
+|l2m2p1=BadNight |l2m2p1flag=fr |l2m2p1score={{win}} |l2m2win=1
+|l2m2p2=TSN matge |l2m2p2flag= |l2m2p2score=
+
+<!-- LOSER'S ROUND 3 -->
+|l3m1p1=QuickSike |l3m1p1flag=ch |l3m1p1score={{win}}
+|l3m1p2=BadNight {{advance|Cannes Winter Clash/Singles Top 32}}|l3m1p2flag=fr |l3m1p2score=
+|l3m1win=1
+
+<!-- LOSER'S FINALS -->
+|l4m1p1=Leon |l4m1p1flag=fr |l4m1p1score={{win}}
+|l4m1p2=QuickSike {{advance|Cannes Winter Clash/Singles Top 32}}|l4m1p2flag=ch |l4m1p2score=
+|l4m1win=1
+
+<!-- FINALS -->
+|r5m1p1=Jeapie |r5m1p1flag=nl |r5m1p1score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1p2=Leon |r5m1p2flag=fr |r5m1p2score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1win=
+}}
+
+==Pool 3==
+{{8DEBracket
+|column-width=150
+|r1m1p1=Tekk |r1m1p1flag=fr |r1m1p1score=W |r1m1win=1
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=-
+
+|r1m2p1=Circonflexe |r1m2p1flag=fr |r1m2p1score={{win}} |r1m2win=1
+|r1m2p2=MIDO |r1m2p2flag= |r1m2p2score=
+
+|r1m3p1=Abadango |r1m3p1flag=jp |r1m3p1score=W |r1m3win=1
+|r1m3p2=Bye |r1m3p2flag= |r1m3p2score=-
+
+|r1m4p1=Datto |r1m4p1flag=fr |r1m4p1score={{win}} |r1m4win=1
+|r1m4p2=SJ |r1m4p2flag= |r1m4p2score=
+
+|r2m1p1=Tekk |r2m1p1flag=fr |r2m1p1score={{win}} |r2m1win=1
+|r2m1p2=Circonflexe |r2m1p2flag=fr |r2m1p2score=
+
+|r2m2p1=Abadango |r2m2p1flag=jp |r2m2p1score= |r2m2win=2
+|r2m2p2=Datto |r2m2p2flag=fr |r2m2p2score={{win}}
+
+<!-- WINNER'S FINALS -->
+|r4m1p1=Tekk |r4m1p1flag=fr |r4m1p1score={{win}}
+|r4m1p2=Datto |r4m1p2flag=fr |r4m1p2score=
+|r4m1win=1
+
+|l1m1p1=Bye |l1m1p1flag= |l1m1p1score=- |l1m1win=2
+|l1m1p2=MIDO |l1m1p2flag= |l1m1p2score=W
+
+|l1m2p1=Bye |l1m2p1flag= |l1m2p1score=- |l1m2win=2
+|l1m2p2=SJ |l1m2p2flag= |l1m2p2score=W
+
+|l2m1p1=Abadango |l2m1p1flag=jp |l2m1p1score={{win}} |l2m1win=1
+|l2m1p2=MIDO |l2m1p2flag= |l2m1p2score=
+
+|l2m2p1=Circonflexe |l2m2p1flag=fr |l2m2p1score={{win}} |l2m2win=1
+|l2m2p2=SJ |l2m2p2flag= |l2m2p2score=
+
+<!-- LOSER'S ROUND 3 -->
+|l3m1p1=Abadango |l3m1p1flag=jp |l3m1p1score={{win}}
+|l3m1p2=Circonflexe {{advance|Cannes Winter Clash/Singles Top 32}}|l3m1p2flag=fr |l3m1p2score=
+|l3m1win=1
+
+<!-- LOSER'S FINALS -->
+|l4m1p1=Datto |l4m1p1flag=fr |l4m1p1score={{win}}
+|l4m1p2=Abadango {{advance|Cannes Winter Clash/Singles Top 32}}|l4m1p2flag=jp |l4m1p2score=
+|l4m1win=
+
+<!-- FINALS -->
+|r5m1p1=Tekk |r5m1p1flag=fr |r5m1p1score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1p2=Datto |r5m1p2flag=fr |r5m1p2score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1win=
+}}
+
+==Pool 4==
+{{8DEBracket
+|column-width=150
+|r1m1p1=Makenshi |r1m1p1flag=fr |r1m1p1score=W |r1m1win=1
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=-
+
+|r1m2p1=Brog |r1m2p1flag= |r1m2p1score={{win}} |r1m2win=1
+|r1m2p2=Copernicus |r1m2p2flag= |r1m2p2score=
+
+|r1m3p1=JiM |r1m3p1flag=fr |r1m3p1score=W |r1m3win=1
+|r1m3p2=Bye |r1m3p2flag= |r1m3p2score=-
+
+|r1m4p1=LuK |r1m4p1flag=fr |r1m4p1score={{win}} |r1m4win=1
+|r1m4p2=Kelasius |r1m4p2flag= |r1m4p2score=
+
+|r2m1p1=Makenshi |r2m1p1flag=fr |r2m1p1score={{win}} |r2m1win=1
+|r2m1p2=Brog |r2m1p2flag= |r2m1p2score=
+
+|r2m2p1=JiM |r2m2p1flag=fr |r2m2p1score={{win}} |r2m2win=1
+|r2m2p2=LuK |r2m2p2flag=fr |r2m2p2score=
+
+<!-- WINNER'S FINALS -->
+|r4m1p1=Makenshi |r4m1p1flag=fr |r4m1p1score={{win}}
+|r4m1p2=JiM |r4m1p2flag=fr |r4m1p2score=
+|r4m1win=1
+
+|l1m1p1=Bye |l1m1p1flag= |l1m1p1score=- |l1m1win=2
+|l1m1p2=Copernicus |l1m1p2flag= |l1m1p2score=W
+
+|l1m2p1=Bye |l1m2p1flag= |l1m2p1score=- |l1m2win=2
+|l1m2p2=Kelasius |l1m2p2flag= |l1m2p2score=W
+
+|l2m1p1=LuK |l2m1p1flag=fr |l2m1p1score={{win}} |l2m1win=1
+|l2m1p2=Copernicus |l2m1p2flag= |l2m1p2score=
+
+|l2m2p1=Brog |l2m2p1flag= |l2m2p1score= |l2m2win=2
+|l2m2p2=Kelasius |l2m2p2flag= |l2m2p2score={{win}}
+
+<!-- LOSER'S ROUND 3 -->
+|l3m1p1=LuK |l3m1p1flag=fr |l3m1p1score={{win}}
+|l3m1p2=Kelasius {{advance|Cannes Winter Clash/Singles Top 32}}|l3m1p2flag= |l3m1p2score=
+|l3m1win=1
+
+<!-- LOSER'S FINALS -->
+|l4m1p1=JiM {{advance|Cannes Winter Clash/Singles Top 32}}|l4m1p1flag=fr |l4m1p1score=
+|l4m1p2=LuK |l4m1p2flag=fr |l4m1p2score={{win}}
+|l4m1win=2
+
+<!-- FINALS -->
+|r5m1p1=Makenshi |r5m1p1flag=fr |r5m1p1score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1p2=LuK |r5m1p2flag=fr |r5m1p2score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1win=
+}}
+
+==Pool 5==
+{{8DEBracket
+|column-width=150
+|r1m1p1=Charlon |r1m1p1flag=fr |r1m1p1score=W |r1m1win=1
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=-
+
+|r1m2p1=UFS {{!}} Reyson |r1m2p1flag= |r1m2p1score= |r1m2win=2
+|r1m2p2=$kam |r1m2p2flag= |r1m2p2score={{win}}
+
+|r1m3p1=BrTalrog |r1m3p1flag=gb |r1m3p1score={{win}} |r1m3win=1
+|r1m3p2=Boobou |r1m3p2flag= |r1m3p2score=
+
+|r1m4p1=Jah Ridin' |r1m4p1flag=ch |r1m4p1score={{win}} |r1m4win=1
+|r1m4p2=Supernaze |r1m4p2flag= |r1m4p2score=
+
+|r2m1p1=Charlon |r2m1p1flag=fr |r2m1p1score={{win}} |r2m1win=1
+|r2m1p2=$kam |r2m1p2flag= |r2m1p2score=
+
+|r2m2p1=BrTalrog |r2m2p1flag=gb |r2m2p1score={{win}} |r2m2win=1
+|r2m2p2=Jah Ridin' |r2m2p2flag=ch |r2m2p2score=
+
+<!-- WINNER'S FINALS -->
+|r4m1p1=Charlon |r4m1p1flag=fr |r4m1p1score={{win}}
+|r4m1p2=BrTalrog |r4m1p2flag=gb |r4m1p2score=
+|r4m1win=1
+
+|l1m1p1=Bye |l1m1p1flag= |l1m1p1score=- |l1m1win=2
+|l1m1p2=UFS {{!}} Reyson |l1m1p2flag= |l1m1p2score=W
+
+|l1m2p1=Boobou |l1m2p1flag= |l1m2p1score={{win}} |l1m2win=1
+|l1m2p2=Supernaze |l1m2p2flag= |l1m2p2score=
+
+|l2m1p1=Jah Ridin' |l2m1p1flag=ch |l2m1p1score={{win}} |l2m1win=1
+|l2m1p2=UFS {{!}} Reyson |l2m1p2flag= |l2m1p2score=
+
+|l2m2p1=$kam |l2m2p1flag= |l2m2p1score={{win}} |l2m2win=1
+|l2m2p2=Boobou |l2m2p2flag= |l2m2p2score=
+
+<!-- LOSER'S ROUND 3 -->
+|l3m1p1=Jah Ridin' |l3m1p1flag=ch |l3m1p1score={{win}}
+|l3m1p2=kam {{advance|Cannes Winter Clash/Singles Top 32}}|l3m1p2flag= |l3m1p2score=
+|l3m1win=1
+
+<!-- LOSER'S FINALS -->
+|l4m1p1=BrTalrog |l4m1p1flag=gb |l4m1p1score={{win}}
+|l4m1p2=Jah Ridin' {{advance|Cannes Winter Clash/Singles Top 32}}|l4m1p2flag=ch |l4m1p2score=
+|l4m1win=1
+
+<!-- FINALS -->
+|r5m1p1=Charlon |r5m1p1flag=fr |r5m1p1score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1p2=BrTalrog |r5m1p2flag=gb |r5m1p2score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1win=
+}}
+
+==Pool 6==
+{{8DEBracket
+|column-width=150
+|r1m1p1=Mahie |r1m1p1flag=fr |r1m1p1score=W |r1m1win=1
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=-
+
+|r1m2p1=Rondelle |r1m2p1flag=fr |r1m2p1score={{win}} |r1m2win=1
+|r1m2p2=Kuro |r1m2p2flag= |r1m2p2score=
+
+|r1m3p1=AE. |r1m3p1flag=ch |r1m3p1score={{win}} |r1m3win=1
+|r1m3p2=Yami |r1m3p2flag= |r1m3p2score=
+
+|r1m4p1=StorMyu |r1m4p1flag=fr |r1m4p1score={{win}} |r1m4win=1
+|r1m4p2=Papy |r1m4p2flag= |r1m4p2score=
+
+|r2m1p1=Mahie |r2m1p1flag=fr |r2m1p1score={{win}} |r2m1win=1
+|r2m1p2=Rondelle |r2m1p2flag=fr |r2m1p2score=
+
+|r2m2p1=AE. |r2m2p1flag=ch |r2m2p1score={{win}} |r2m2win=1
+|r2m2p2=StorMyu |r2m2p2flag=fr |r2m2p2score=
+
+<!-- WINNER'S FINALS -->
+|r4m1p1=Mahie |r4m1p1flag=fr |r4m1p1score={{win}}
+|r4m1p2=AE. |r4m1p2flag=ch |r4m1p2score=
+|r4m1win=1
+
+|l1m1p1=Bye |l1m1p1flag= |l1m1p1score=- |l1m1win=2
+|l1m1p2=Kuro |l1m1p2flag= |l1m1p2score=W
+
+|l1m2p1=Yami |l1m2p1flag= |l1m2p1score={{win}} |l1m2win=1
+|l1m2p2=Papy |l1m2p2flag= |l1m2p2score=
+
+|l2m1p1=StorMyu |l2m1p1flag=fr |l2m1p1score={{win}} |l2m1win=1
+|l2m1p2=Kuro |l2m1p2flag= |l2m1p2score=
+
+|l2m2p1=Rondelle |l2m2p1flag=fr |l2m2p1score={{win}} |l2m2win=1
+|l2m2p2=Yami |l2m2p2flag= |l2m2p2score=
+
+<!-- LOSER'S ROUND 3 -->
+|l3m1p1=StorMyu |l3m1p1flag=fr |l3m1p1score={{win}}
+|l3m1p2=Rondelle {{advance|Cannes Winter Clash/Singles Top 32}}|l3m1p2flag=fr |l3m1p2score=
+|l3m1win=1
+
+<!-- LOSER'S FINALS -->
+|l4m1p1=AE. |l4m1p1flag=ch |l4m1p1score={{win}}
+|l4m1p2=StorMyu {{advance|Cannes Winter Clash/Singles Top 32}}|l4m1p2flag=fr |l4m1p2score=
+|l4m1win=1
+
+<!-- FINALS -->
+|r5m1p1=Mahie |r5m1p1flag=fr |r5m1p1score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1p2=AE. |r5m1p2flag=ch |r5m1p2score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1win=
+}}
+
+==Pool 7==
+{{8DEBracket
+|column-width=150
+
+|r1m1p1=Djagof |r1m1p1flag=fr |r1m1p1score=W |r1m1win=1
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=-
+
+|r1m2p1=SA {{!}} Tyc |r1m2p1flag= |r1m2p1score= |r1m2win=2
+|r1m2p2=Maruhai |r1m2p2flag= |r1m2p2score={{win}}
+
+|r1m3p1=LGuy |r1m3p1flag=fr |r1m3p1score={{win}} |r1m3win=1
+|r1m3p2=Tino |r1m3p2flag= |r1m3p2score=
+
+|r1m4p1=MonoPenisGuy |r1m4p1flag=fr |r1m4p1score={{win}} |r1m4win=1
+|r1m4p2=SSH |r1m4p2flag=fr |r1m4p2score=
+
+|r2m1p1=Djagof |r2m1p1flag=fr |r2m1p1score={{win}} |r2m1win=1
+|r2m1p2=Maruhai |r2m1p2flag= |r2m1p2score=
+
+|r2m2p1=LGuy |r2m2p1flag=fr |r2m2p1score={{win}} |r2m2win=1
+|r2m2p2=MonoPenisGuy |r2m2p2flag=fr |r2m2p2score=
+
+<!-- WINNER'S FINALS -->
+|r4m1p1=Djagof |r4m1p1flag=fr |r4m1p1score=
+|r4m1p2=LGuy |r4m1p2flag=fr |r4m1p2score={{win}}
+|r4m1win=2
+
+|l1m1p1=Bye |l1m1p1flag= |l1m1p1score=- |l1m1win=2
+|l1m1p2=SA {{!}} Tyc |l1m1p2flag= |l1m1p2score=W
+
+|l1m2p1=Tino |l1m2p1flag= |l1m2p1score= |l1m2win=2
+|l1m2p2=SSH |l1m2p2flag=fr |l1m2p2score={{win}}
+
+|l2m1p1=MonoPenisGuy |l2m1p1flag=fr |l2m1p1score={{win}} |l2m1win=1
+|l2m1p2=SA {{!}} Tyc |l2m1p2flag= |l2m1p2score=
+
+|l2m2p1=Maruhai |l2m2p1flag= |l2m2p1score= |l2m2win=2
+|l2m2p2=SSH |l2m2p2flag=fr |l2m2p2score={{win}}
+
+<!-- LOSER'S ROUND 3 -->
+|l3m1p1=MonoPenisGuy |l3m1p1flag=fr |l3m1p1score={{win}}
+|l3m1p2=SSH {{advance|Cannes Winter Clash/Singles Top 32}}|l3m1p2flag=fr |l3m1p2score=
+|l3m1win=1
+
+<!-- LOSER'S FINALS -->
+|l4m1p1=Djagof |l4m1p1flag=fr |l4m1p1score={{win}}
+|l4m1p2=MonoPenisGuy {{advance|Cannes Winter Clash/Singles Top 32}}|l4m1p2flag=fr |l4m1p2score=
+|l4m1win=1
+
+<!-- FINALS -->
+|r5m1p1=LGuy |r5m1p1flag=fr |r5m1p1score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1p2=Djagof |r5m1p2flag=fr |r5m1p2score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1win=
+}}
+
+==Pool 8==
+{{8DEBracket
+|column-width=150
+
+|r1m1p1=Aether |r1m1p1flag=fr |r1m1p1score=W |r1m1win=1
+|r1m1p2=Bye |r1m1p2flag= |r1m1p2score=-
+
+|r1m2p1=Poney |r1m2p1flag= |r1m2p1score= |r1m2win=2
+|r1m2p2=Yogui |r1m2p2flag= |r1m2p2score={{win}}
+
+|r1m3p1=Samplay |r1m3p1flag=fr |r1m3p1score={{win}} |r1m3win=1
+|r1m3p2=ZVAARI |r1m3p2flag= |r1m3p2score=
+
+|r1m4p1=Link_enfant |r1m4p1flag=fr |r1m4p1score={{win}} |r1m4win=1
+|r1m4p2=Bobi |r1m4p2flag= |r1m4p2score=
+
+|r2m1p1=Aether |r2m1p1flag=fr |r2m1p1score={{win}} |r2m1win=1
+|r2m1p2=Yogui |r2m1p2flag= |r2m1p2score=
+
+|r2m2p1=Samplay |r2m2p1flag=fr |r2m2p1score={{win}} |r2m2win=1
+|r2m2p2=Link_enfant |r2m2p2flag=fr |r2m2p2score=
+
+<!-- WINNER'S FINALS -->
+|r4m1p1=Aether |r4m1p1flag=fr |r4m1p1score=
+|r4m1p2=Samplay |r4m1p2flag=fr |r4m1p2score={{win}}
+|r4m1win=2
+
+|l1m1p1=Bye |l1m1p1flag= |l1m1p1score=- |l1m1win=2
+|l1m1p2=Poney |l1m1p2flag= |l1m1p2score=W
+
+|l1m2p1=ZVAARI |l1m2p1flag= |l1m2p1score= |l1m2win=2
+|l1m2p2=Bobi |l1m2p2flag= |l1m2p2score={{win}}
+
+|l2m1p1=Link_enfant |l2m1p1flag=fr |l2m1p1score={{win}} |l2m1win=1
+|l2m1p2=Poney |l2m1p2flag= |l2m1p2score=
+
+|l2m2p1=Yogui |l2m2p1flag= |l2m2p1score= |l2m2win=2
+|l2m2p2=Bobi |l2m2p2flag= |l2m2p2score={{win}}
+
+<!-- LOSER'S ROUND 3 -->
+|l3m1p1=Link_enfant |l3m1p1flag=fr |l3m1p1score={{win}}
+|l3m1p2=Bobi {{advance|Cannes Winter Clash/Singles Top 32}}|l3m1p2flag= |l3m1p2score=
+|l3m1win=1
+
+<!-- LOSER'S FINALS -->
+|l4m1p1=Aether |l4m1p1flag=fr |l4m1p1score={{win}}
+|l4m1p2=Link_enfant {{advance|Cannes Winter Clash/Singles Top 32}}|l4m1p2flag=fr |l4m1p2score=
+|l4m1win=1
+
+<!-- FINALS -->
+|r5m1p1=Samplay |r5m1p1flag=fr |r5m1p1score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1p2=Aether |r5m1p2flag=fr |r5m1p2score={{advance|Cannes Winter Clash/Singles Top 32}}
+|r5m1win=
+}}

@@ -1,0 +1,203 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Slug~",
+            "p1flag": "br",
+            "p1score": "1",
+            "p2": "Izzi",
+            "p2flag": "br",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Bobesco",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Aisengobay",
+            "p2flag": "br",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r2m1": {
+            "p1": "Bobesco",
+            "p1flag": "br",
+            "p1score": "3",
+            "p2": "Izzi",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "win": "2}}</onlyinclude>"
+        },
+        "r3m2": {
+            "p2score": "3"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Afro",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Asesino",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "McS33",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "W",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "Drut",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Weaselss",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Leso",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "dede",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Quip",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Asesino",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Viral",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "McS33",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Joker",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Drut",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Godzrage",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Leso",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Quip",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Viral",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Joker",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Godzrage",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Slug~",
+            "p1flag": "br",
+            "p1score": "3",
+            "p2": "Quip",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Izzi",
+            "p1flag": "br",
+            "p1score": "3",
+            "p2": "Godzrage",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Bobesco",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Viral",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Izzi",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Quip",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m3": {
+            "p1": "Godzrage",
+            "p1flag": "br",
+            "p1score": "0",
+            "p2": "Slug~",
+            "p2flag": "br",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m4": {
+            "p1": "Aisengobay",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Joker",
+            "p2flag": "br",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Bobesco",
+            "p1flag": "br",
+            "p1score": "3",
+            "p2": "Izzi",
+            "p2flag": "br",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Slug~",
+            "p1flag": "br",
+            "p1score": "2",
+            "p2": "Aisengobay",
+            "p2flag": "br",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

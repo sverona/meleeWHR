@@ -1,0 +1,71 @@
+{{DISPLAYTITLE:WTFox 2: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=WTFox/2/Melee
+|name2=Singles Pools
+|link2=WTFox/2/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=WTFox/2/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=WTFox/2/Melee/Doubles Bracket
+|This=3
+}}
+{{:WTFox/2/Melee/Singles Bracket/Winners}}
+{{:WTFox/2/Melee/Singles Bracket/Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=WTFox/2/Melee
+|tourneyname=WTFox 2
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=210
+|export_score=true
+
+|r1m1p1=Armada |r1m1p1flag=se |r1m1p1score=1
+|r1m1p2=Mango |r1m1p2flag=us |r1m1p2score=3
+|r1m1win=2
+|r1m1p1char1=fox |r1m1p2char1=fox |r1m1p1stock1=0 |r1m1p2stock1=2 |r1m1win1=2 |r1m1stage1=Battlefield
+|r1m1p1char2=peach |r1m1p2char2=marth |r1m1p1stock2=0 |r1m1p2stock2=1 |r1m1win2=2 |r1m1stage2=Final Destination
+|r1m1p1char3=peach |r1m1p2char3=marth |r1m1p1stock3=2 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Final Destination
+|r1m1p1char4=peach |r1m1p2char4=fox |r1m1p1stock4=0 |r1m1p2stock4=3 |r1m1win4=2 |r1m1stage4=Yoshi's Story
+|r1m1date=July 3, 2016
+|r1m1finished=
+|r1m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=SYrjcDi18J0}}
+
+|l1m1p1=Mew2King |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=Wizzrobe |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=1
+|l1m1p1char1=sheik |l1m1p2char1=cf |l1m1p1stock1=1 |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Dream Land
+|l1m1p1char2=sheik |l1m1p2char2=cf |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Pokémon Stadium
+|l1m1p1char3=sheik |l1m1p2char3=cf |l1m1p1stock3=1 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Fountain of Dreams
+|l1m1p1char4=sheik |l1m1p2char4=cf |l1m1p1stock4=0 |l1m1p2stock4=1 |l1m1win4=2 |l1m1stage4=Dream Land
+|l1m1p1char5=sheik |l1m1p2char5=cf |l1m1p1stock5=2 |l1m1p2stock5=0 |l1m1win5=1 |l1m1stage5=Yoshi's Story
+|l1m1date=July 3, 2016
+|l1m1finished=
+|l1m1details={{BracketMatchDetails|lrthread=|vod=https://youtu.be/nLockaOxjWc}}
+
+|r2m1p1=Armada |r2m1p1flag=se |r2m1p1score=3
+|r2m1p2=Mew2King |r2m1p2flag=us |r2m1p2score=1
+|r2m1win=1
+|r2m1p1char1=peach |r2m1p2char1=marth |r2m1p1stock1=0 |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Final Destination
+|r2m1p1char2=peach |r2m1p2char2=marth |r2m1p1stock2=2 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Dream Land
+|r2m1p1char3=peach |r2m1p2char3=marth |r2m1p1stock3=3 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Battlefield
+|r2m1p1char4=peach |r2m1p2char4=sheik |r2m1p1stock4=2 |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Yoshi's Story
+|r2m1date=July 3, 2016
+|r2m1finished=
+|r2m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=Kq13GY1IPLI}}
+
+|r3m1p1=Mango |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Armada |r3m1p2flag=se |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=fox |r3m1p2char1=fox |r3m1p1stock1=1 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=fox |r3m1p2char2=fox |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Dream Land
+|r3m1p1char3=marth |r3m1p2char3=peach |r3m1p1stock3=1 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Final Destination
+|r3m1date=July 3, 2016
+|r3m1finished=
+|r3m1details={{BracketMatchDetails|lrthread=|vod=https://www.youtube.com/watch?v=MSdgUv8Et7g}}
+}}
+</onlyinclude>

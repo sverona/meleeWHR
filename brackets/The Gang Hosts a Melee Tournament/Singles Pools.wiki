@@ -1,0 +1,332 @@
+{{DISPLAYTITLE:The Gang Hosts a Melee Tournament: Singles Pools}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=The Gang Hosts a Melee Tournament
+|name2=Singles Pools
+|link2=The Gang Hosts a Melee Tournament/Singles Pools
+|name3=Singles Bracket
+|link3=The Gang Hosts a Melee Tournament/Singles Bracket
+|name4=Doubles Bracket
+|link4=The Gang Hosts a Melee Tournament/Doubles Bracket
+}}
+==Wave A==
+{{Box|start|padding=4em}}
+==={{HiddenSort|A1}}===
+{{GroupTableStart |Bracket A1|width=300px}}
+{{GroupTableSlot|Crush|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Waddledude|flag=us|win_m=5|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|MOM!|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Ghost|flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Cory|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Grrg|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|carryme|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Aidan|flag=us|win_m=1|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Mootook|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|BIG KID|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Catastrophe|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|lime cat|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Johnthundr|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Supa|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|KayB|flag=|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|A2}}===
+{{GroupTableStart |Bracket A2|width=300px}}
+{{GroupTableSlot|Rishi|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Basic Stitch|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Holiday|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Rasen|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|KDP|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|bambi|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|BIGDADDYGANON|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Sunshine|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|JustMatt|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|SwagasaurusWrecks|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Toaster|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|White Iverson|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Noba|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|gl|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Kieran|flag=|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|A3}}===
+{{GroupTableStart |Bracket A3|width=300px}}
+{{GroupTableSlot|Stango|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Arty|flag=us|win_m=5|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Cool Lime|flag=us|win_m=2|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Joey-Laces|flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|TwistedStephanie|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|MFSA|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Kevorkian|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|EdwinBudding|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Userjoe9066|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|MonK 2.0|flag=|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Miffee|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Squilliam|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|elephant|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Rez|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|A4}}===
+{{GroupTableStart |Bracket A4|width=300px}}
+{{GroupTableSlot|R2DLiu|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Roboticphish|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Swiftbass|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Snacks!|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Zach Danger|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|socks|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Hazy|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Shameless|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Speezy|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|rollersurfer|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Vivion|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Jramaclub|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Joker|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|FWILL|flag=|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Pulch|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|A5}}===
+{{GroupTableStart |Bracket A5|width=300px}}
+{{GroupTableSlot|Ryobeat|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Son2|flag=us|win_m=5|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|ctrlaltdefeat|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Mk.II|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|1bm|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Ambisinister|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Mugs|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|KBag|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Zant|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Big B|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|AnorexicBurrito|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Endeavor|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|SaveAsUntitled|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Spevan|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Nemo|flag=|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|A6}}===
+{{GroupTableStart |Bracket A6|width=300px}}
+{{GroupTableSlot|Boyd|flag=us|win_m=4|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|GHETTOWARMACHINE420|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|lint|flag=us|win_m=2|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Vickram|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Ahab|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|DIO|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Vari|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Ears|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Calvin|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Lordgenome|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Blazt|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Chazlie|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Dead|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|EBND|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|PKSadness|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|A7}}===
+{{GroupTableStart |Bracket A7|width=300px}}
+{{GroupTableSlot|Kalvar|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Clutch|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|SluG|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Madcap|flag=|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Cascade|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Nurok|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Pi-Lingual|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Marcosis|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Dr. B|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Ted Greene|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Skin|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|JFM|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|CMass|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Ozo|flag=|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|LorMario|flag=|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|A8}}===
+{{GroupTableStart |Bracket A8|width=300px}}
+{{GroupTableSlot|Blake|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Frostbyte|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Thumbs|flag=us|win_m=2|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Nagy|flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Greasy|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Wassabi|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Ragnite|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Kevin|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Iroh|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Hiro|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Ucan|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Pharaoh|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Cupcake|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Smiles|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}
+
+==Wave B==
+{{Box|start|padding=4em}}
+==={{HiddenSort|B1}}===
+{{GroupTableStart |Bracket B1|width=300px}}
+{{GroupTableSlot|Zain|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Encore|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|BigFoig|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|ryfish|flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|2Framez|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Panties|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Barzoom|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|rad_dude_scuba|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Stormjaw|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Habilecho|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Wumbo|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Wheat|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Mr. F|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Shrub|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Viroda|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|B2}}===
+{{GroupTableStart |Bracket B2|width=300px}}
+{{GroupTableSlot|Swedish Delight|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Vincessant|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|FendrickLamar|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Puddle|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|UltimaScout|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|burnt beans|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Karun|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Dawson|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|WarmTurtle|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Ben Zed|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Khan|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Blank|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|vv|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|sadsquatch|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Double_D|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|B3}}===
+{{GroupTableStart |Bracket B3|width=300px}}
+{{GroupTableSlot|Jerry|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Qerb|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Tian|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|fortissimis|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Battery|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|soap|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Quality Steve|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|WUMPUS|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Tickle|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Archile|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|4est|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Lastpo|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|yummybeef64|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Shannara|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Sableye|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|B4}}===
+{{GroupTableStart |Bracket B4|width=300px}}
+{{GroupTableSlot|Captain Smuckers|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Bones|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Warmmer|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Shuffle|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|N0x|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|SpoodBeest|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Empale|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Zodiac|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Toe|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|oatmeal|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Hyruler|flag=mx|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|AKO|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|TMGD|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|SMDZ|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|drakethatsme|flag=|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|B5}}===
+{{GroupTableStart |Bracket B5|width=300px}}
+{{GroupTableSlot|Juicebox|flag=us|win_m=4|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|ASL|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Zealous5000|flag=us|win_m=2|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|GretchenWieners|flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|JSkeev|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|lpac|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Kofi|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|karol|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|CornCobKing|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Fishsticks|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Sporsinick|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Greg Glaze|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Snark|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Sef__|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|VW|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|B6}}===
+{{GroupTableStart |Bracket B6|width=300px}}
+{{GroupTableSlot|Drephen|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Edric|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|BonkCushy|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|nino|flag=us|win_m=4|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Parcheesy|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Bolt|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|emilywaves|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Patti|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|BriBri|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Sloth|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Daahoud|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Topher|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|totally butts|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Lev|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Mose|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|B7}}===
+{{GroupTableStart |Bracket B7|width=300px}}
+{{GroupTableSlot|KJH|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|Peanutphobia|flag=us|win_m=4|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Ricky|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Dialga|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Rok|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|BigWenz|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Jonny "Gumball" Gamble|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Yin|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Shk Shk|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Ryce|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|ParQua|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|EmceeCurtis|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Garbage Chic|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|b?|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|HSK|flag=|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|break|padding=4em}}
+
+==={{HiddenSort|B8}}===
+{{GroupTableStart |Bracket B8|width=300px}}
+{{GroupTableSlot|Slox|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Winners Bracket}}}}
+{{GroupTableSlot|FMB5k|flag=us|win_m=5|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|picofarad|flag=us|win_m=3|lose_m=1|place=2|bg=stay|go={{advance|The Gang Hosts a Melee Tournament/Singles Bracket#Losers Bracket}}}}
+{{GroupTableSlot|Mr. O|flag=us|win_m=3|lose_m=2|place=4|bg=down}}
+{{GroupTableSlot|Vintage|flag=us|win_m=3|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Fable|flag=us|win_m=2|lose_m=2|place=5|bg=down}}
+{{GroupTableSlot|Thrillhouse|flag=us|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Mizury|flag=|win_m=2|lose_m=2|place=7|bg=down}}
+{{GroupTableSlot|Wonder|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|bby|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Taig|flag=us|win_m=1|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Gobi|flag=us|win_m=0|lose_m=2|place=9|bg=down}}
+{{GroupTableSlot|Moretrone|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Chum|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableSlot|Nico|flag=us|win_m=0|lose_m=2|place=13|bg=down}}
+{{GroupTableEnd}}
+{{Box|end}}

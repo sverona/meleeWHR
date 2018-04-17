@@ -1,0 +1,382 @@
+{{DISPLAYTITLE:GENESIS 4: ''Melee'' Draft Crews}}{{tabs game|basepage=GENESIS/4|melee=true|wiiu=true|64=true}}
+{{GENESIS 4 Tabs|This=6}}<br/>
+==Crew Rosters==
+Names in '''bold''' indicate crew captains.<br>Names in ''italics'' indicate substitutes.<br>*Crews were re-drafted as [[Swedish Delight]] could not make it for crews<br>*[[Leffen]] did not appear in crews so [[Ryan Ford]] took his place<br>*[[Cactuar]] could not appear in crews so [[Gahtzu]] took his place<br>*[[Armada]] did not appear in crews so [[Slox]] took his place
+{{box|start|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team ChuDat
+|-
+|style="width:160px;"|{{flag/us}} {{head/ice climbers}} '''[[ChuDat]]'''
+|-
+|{{flag/us}} {{head/fox}} [[Slox]]
+|-
+|{{flag/us}} {{head/fox}} [[Lucky]]
+|-
+|{{flag/us}} {{head/sheik}} [[Laudandus]]
+|-
+|{{flag/us}} {{head/cf}} [[Gahtzu]]
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team Zhu
+|-
+|style="width:160px;"|{{flag/us}} {{head/falco}} '''[[Zhu]]'''
+|-
+|{{flag/us}} {{head/sheik}} [[Mew2King]]
+|-
+|{{flag/us}} {{head/fox}} [[Druggedfox]]
+|-
+|{{flag/us}} {{head/peach}} [[MacD]]
+|-
+|{{flag/us}} {{head/falco}} [[Santiago]]
+|-
+|{{flag/nl}} {{head/sheik}} ''([[Amsah]])''
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team Chillindude
+|-
+|style="width:160px;"|{{flag/us}} {{head/fox}} '''[[Chillindude]]'''
+|-
+|{{flag/ca}} {{head/fox}} [[Ryan Ford]]
+|-
+|{{flag/ni}} {{head/cf}} [[n0ne]]
+|-
+|{{flag/ca}} {{head/sheik}} [[KirbyKaze]]
+|-
+|{{flag/jp}} {{head/marth}} [[Rudolph]]
+|-
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team Silent Wolf
+|-
+|style="width:160px;"|{{flag/us}} {{head/fox}} '''[[Silent Wolf]]'''
+|-
+|{{flag/us}} {{head/fox}} [[Mango]]
+|-
+|{{flag/us}} {{head/marth}} [[The Moon]]
+|-
+|{{flag/us}} {{head/samus}} [[HugS]]
+|-
+|{{flag/us}} {{head/peach}} [[Bladewise]]
+|-
+|{{flag/us}} {{head/fox}} ''([[Lovage]])''
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team Nintendude
+|-
+|style="width:160px;"|{{flag/us}} {{head/ice climbers}} '''[[Nintendude]]'''
+|-
+|{{flag/us}} {{head/sheik}} [[Plup]]
+|-
+|{{flag/us}} {{head/cf}} [[S2J]]
+|-
+|{{flag/us}} {{head/fox}} [[Mike Haze]]
+|-
+|{{flag/uk}} {{head/fox}} [[Professor Pro]]
+|-
+|{{flag/us}} {{head/marth}} ''([[SmashG0D]])''
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team Duck
+|-
+|style="width:160px;"|{{flag/us}} {{head/samus}} '''[[Duck]]'''
+|-
+|{{flag/us}} {{head/falco}} [[Westballz]]
+|-
+|{{flag/de}} {{head/fox}} [[Ice]]
+|-
+|{{flag/us}} {{head/fox}} [[KJH]]
+|-
+|{{flag/us}} {{head/jigglypuff}} [[Prince Abu]]
+|-
+|{{flag/us}} {{head/peach}} ''([[Kalamazhu]])''
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team Hungrybox
+|-
+|style="width:160px;"|{{flag/us}} {{head/jigglypuff}} '''[[Hungrybox]]'''
+|-
+|{{flag/us}} {{head/pikachu}} [[Axe]]
+|-
+|{{flag/us}} {{head/cf}} [[Wizzrobe]]
+|-
+|{{flag/us}} {{head/luigi}} [[Abate]]
+|-
+|{{flag/us}} {{head/fox}} [[Colbol]]
+|-
+|{{flag/us}} {{head/samus}} ''([[ESAM]])''
+|-
+|{{flag/us}} {{head/sheik}} ''([[Captain Faceroll]])''
+|}
+{{box|break|padding=1em}}
+{| class="wikitable"
+! colspan="8" align="center"|Team SFAT
+|-
+|style="width:160px;"|{{flag/us}} {{head/fox}} '''[[SFAT]]'''
+|-
+|{{flag/us}} {{head/marth}} [[PewPewU]]
+|-
+|{{flag/us}} {{head/sheik}} [[Shroomed]]
+|-
+|{{flag/us}} {{head/peach}} [[Azusa]]
+|-
+|{{flag/us}} {{head/fox}} [[Syrox]]
+|-
+|{{flag/us}} {{head/fox}} ''([[CDK]])''
+|}
+{{box|end}}
+<onlyinclude>
+
+==Crews Bracket==
+{{8SEBracket
+<!-- QUARTERFINALS -->
+|r1m1p1=Team Chillindude |r1m1p1flag= |r1m1p1score=15
+|r1m1p2=Team Silent Wolf |r1m1p2flag= |r1m1p2score=20
+|r1m1win=2
+
+|r1m2p1=Team ChuDat |r1m2p1flag= |r1m2p1score=16
+|r1m2p2=Team SFAT |r1m2p2flag= |r1m2p2score=20
+|r1m2win=2
+
+|r1m3p1=Team Zhu |r1m3p1flag= |r1m3p1score=17
+|r1m3p2=Team Hungrybox |r1m3p2flag= |r1m3p2score=20
+|r1m3win=2
+
+|r1m4p1=Team Nintendude |r1m4p1flag= |r1m4p1score=20
+|r1m4p2=Team Duck |r1m4p2flag= |r1m4p2score=15
+|r1m4win=1
+
+<!-- SEMIFINALS -->
+|r2m1p1=Team Silent Wolf |r2m1p1flag= |r2m1p1score=20
+|r2m1p2=Team SFAT |r2m1p2flag= |r2m1p2score=15
+|r2m1win=1
+
+|r2m2p1=Team Hungrybox |r2m2p1flag= |r2m2p1score=20
+|r2m2p2=Team Nintendude |r2m2p2flag= |r2m2p2score=17
+|r2m2win=1
+
+<!-- FINALS -->
+|r3m1p1=Team Silent Wolf  |r3m1p1flag= |r3m1p1score=20
+|r3m1p2=Team Hungrybox |r3m1p2flag= |r3m1p2score=18
+|r3m1win=1
+}}
+</onlyinclude>
+
+===Quarterfinals===
+{{TeamMatch
+|team1literal='''Team Chillindude'''
+|team2literal='''Team Silent Wolf'''
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=WGBMuPjZRxA
+|teamwin=2
+|lrthread=
+|interview=
+|review=
+|width=320
+
+|team1matches=3
+|team2matches=5
+|team1stocks=0
+|team2stocks=5
+
+|m1p1=Chillindude |m1p1char=fox |m1p1s1=4 |m1p1s2=0 |m1p2=Bladewise |m1p2char=peach |m1p2s1=4 |m1p2s2=1 |m1win=2 |m1stage=Final Destination
+|m2p1=Ryan Ford |m2p1char=fox |m2p1s1=4 |m2p1s2=3 |m2p2=Bladewise |m2p2char=peach |m2p2s1=1 |m2p2s2=0 |m2win=1 |m2stage=Battlefield
+|m3p1=Ryan Ford |m3p1char=fox |m3p1s1=3 |m3p1s2=0 |m3p2=HugS |m3p2char=samus |m3p2s1=4 |m3p2s2=3 |m3win=2 |m3stage=Fountain of Dreams
+|m4p1=KirbyKaze |m4p1char=sheik |m4p1s1=4 |m4p1s2=2 |m4p2=HugS |m4p2char=samus |m4p2s1=3 |m4p2s2=0 |m4win=1 |m4stage=Final Destination
+|m5p1=KirbyKaze |m5p1char=sheik |m5p1s1=2 |m5p1s2=0 |m5p2=Silent Wolf |m5p2char=fox |m5p2s1=4 |m5p2s2=3 |m5win=2 |m5stage=Pokémon Stadium
+|m6p1=Rudolph |m6p1char=marth |m6p1s1=4 |m6p1s2=1 |m6p2=Silent Wolf |m6p2char=fox |m6p2s1=3 |m6p2s2=0 |m6win=1 |m6stage=Final Destination
+|m7p1=Rudolph |m7p1char=marth |m7p1s1=1 |m7p1s2=0 |m7p2=The Moon |m7p2char=marth |m7p2s1=4 |m7p2s2=4 |m7win=2 |m7stage=Battlefield
+|m8p1=n0ne |m8p1char=cf |m8p1s1=4 |m8p1s2=0 |m8p2=The Moon |m8p2char=marth |m8p2s1=4 |m8p2s2=1 |m8win=2 |m8stage=Dream Land
+}}
+
+
+{{TeamMatch
+|team1literal='''Team ChuDat'''
+|team2literal='''Team SFAT'''
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=dhJLeufgekY
+|teamwin=2
+|lrthread=
+|interview=
+|review=
+|width=320
+
+|team1matches=4
+|team2matches=5
+|team1stocks=0
+|team2stocks=4
+
+|m1p1=Slox |m1p1char=fox |m1p1s1=4 |m1p1s2=0 |m1p2=Syrox |m1p2char=fox |m1p2s1=4 |m1p2s2=3 |m1win=2 |m1stage=Battlefield
+|m2p1=Lucky |m2p1char=fox |m2p1s1=4 |m2p1s2=0 |m2p2=Syrox |m2p2char=fox |m2p2s1=3 |m2p2s2=2 |m2win=2 |m2stage=Pokémon Stadium
+|m3p1=Gahtzu |m3p1char=cf |m3p1s1=4 |m3p1s2=4 |m3p2=Syrox |m3p2char=fox |m3p2s1=2 |m3p2s2=0 |m3win=1 |m3stage=Battlefield
+|m4p1=Gahtzu |m4p1char=cf |m4p1s1=4 |m4p1s2=2 |m4p2=Shroomed |m4p2char=sheik |m4p2s1=4 |m4p2s2=0 |m4win=1 |m4stage=Battlefield
+|m5p1=Gahtzu |m5p1char=cf |m5p1s1=2 |m5p1s2=0 |m5p2=CDK |m5p2char=fox |m5p2s1=4 |m5p2s2=3 |m5win=2 |m5stage=Battlefield
+|m6p1=Laudandus |m6p1char=sheik |m6p1s1=4 |m6p1s2=0 |m6p2=CDK |m6p2char=fox |m6p2s1=3 |m6p2s2=1 |m6win=2 |m6stage=Battlefield
+|m7p1=ChuDat |m7p1char=ic |m7p1s1=4 |m7p1s2=4 |m7p2=CDK |m7p2char=fox |m7p2s1=1 |m7p2s2=0 |m7win=1 |m7stage=Pokémon Stadium
+|m8p1=ChuDat |m8p1char=ic |m8p1s1=4 |m8p1s2=1 |m8p2=PewPewU |m8p2char=marth |m8p2s1=4 |m8p2s2=0 |m8win=1 |m8stage=Battlefield
+|m9p1=ChuDat |m9p1char=ic |m9p1s1=1 |m9p1s2=0 |m9p2=SFAT |m9p2char=fox |m9p2s1=4 |m9p2s2=4 |m9win=2 |m9stage=Pokémon Stadium
+}}
+
+
+{{TeamMatch
+|team1literal='''Team Zhu'''
+|team2literal='''Team Hungrybox '''
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=MQjExAwyvHc
+|teamwin=2
+|lrthread=
+|interview=
+|review=
+|width=320
+
+|team1matches=4
+|team2matches=5
+|team1stocks=0
+|team2stocks=3
+
+|m1p1=Zhu |m1p1char=falco |m1p1s1=4 |m1p1s2=0 |m1p2=Axe |m1p2char=pikachu |m1p2s1=4 |m1p2s2=1 |m1win=2 |m1stage=Battlefield
+|m2p1=MacD |m2p1char=peach |m2p1s1=4 |m2p1s2=3 |m2p2=Axe |m2p2char=pikachu |m2p2s1=1 |m2p2s2=0 |m2win=1 |m2stage=Dream Land
+|m3p1=MacD |m3p1char=peach |m3p1s1=3 |m3p1s2=0 |m3p2=Wizzrobe |m3p2char=cf |m3p2s1=4 |m3p2s2=3 |m3win=2 |m3stage=Pokémon Stadium
+|m4p1=Santiago |m4p1char=falco |m4p1s1=4 |m4p1s2=0 |m4p2=Wizzrobe |m4p2char=cf |m4p2s1=3 |m4p2s2=1 |m4win=2 |m4stage=Final Destination
+|m5p1=Mew2King |m5p1char=sheik |m5p1s1=4 |m5p1s2=4 |m5p2=Wizzrobe |m5p2char=cf |m5p2s1=1 |m5p2s2=0 |m5win=1 |m5stage=Fountain of Dreams
+|m6p1=Mew2King |m6p1char=sheik |m6p1s1=4 |m6p1s2=1 |m6p2=Hungrybox |m6p2char=puff |m6p2s1=4 |m6p2s2=0 |m6win=1 |m6stage=Battlefield
+|m7p1=Mew2King |m7p1char=sheik |m7p1s1=1 |m7p1s2=0 |m7p2=Abate |m7p2char=luigi |m7p2s1=4 |m7p2s2=2 |m7win=2 |m7stage=Battlefield
+|m8p1=Druggedfox |m8p1char=fox |m8p1s1=4 |m8p1s2=2 |m8p2=Abate |m8p2char=luigi |m8p2s1=2 |m8p2s2=0 |m8win=1 |m8stage=Pokémon Stadium
+|m9p1=Druggedfox |m9p1char=fox |m9p1s1=2 |m9p1s2=0 |m9p2=Colbol |m9p2char=fox |m9p2s1=4 |m9p2s2=3 |m9win=2 |m9stage=Battlefield
+}}
+
+
+{{TeamMatch
+|team1literal='''Team Nintendude'''
+|team2literal='''Team Duck'''
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=DG3XjN52Jz8
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=320
+
+|team1matches=5
+|team2matches=3
+|team1stocks=5
+|team2stocks=0
+
+|m1p1=Plup |m1p1char=sheik |m1p1s1=4 |m1p1s2=3 |m1p2=Prince Abu |m1p2char=puff |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Fountain of Dreams
+|m2p1=Plup |m2p1char=sheik |m2p1s1=3 |m2p1s2=0 |m2p2=KJH |m2p2char=fox |m2p2s1=4 |m2p2s2=2 |m2win=2 |m2stage=Pokémon Stadium
+|m3p1=MikeHaze |m3p1char=fox |m3p1s1=4 |m3p1s2=3 |m3p2=KJH |m3p2char=fox |m3p2s1=2 |m3p2s2=0 |m3win=1 |m3stage=Battlefield
+|m4p1=MikeHaze |m4p1char=fox |m4p1s1=3 |m4p1s2=0 |m4p2=Kalamazhu |m4p2char=peach |m4p2s1=4 |m4p2s2=3 |m4win=2 |m4stage=Fountain of Dreams
+|m5p1=Professor Pro |m5p1char=fox |m5p1s1=4 |m5p1s2=2 |m5p2=Kalamazhu |m5p2char=peach |m5p2s1=3 |m5p2s2=0 |m5win=1 |m5stage=Battlefield
+|m6p1=Professor Pro |m6p1char=fox |m6p1s1=2 |m6p1s2=0 |m6p2=Duck |m6p2char=samus |m6p2s1=4 |m6p2s2=4 |m6win=2 |m6stage=Dream Land
+|m7p1=S2J |m7p1char=cf |m7p1s1=4 |m7p1s2=3 |m7p2=Duck |m7p2char=samus |m7p2s1=4 |m7p2s2=0 |m7win=1 |m7stage=Battlefield
+|m8p1=S2J |m8p1char=cf |m8p1s1=3 |m8p1s2=1 |m8p2=Westballz |m8p2char=falco |m8p2s1=4 |m8p2s2=0 |m8win=1 |m8stage=Yoshi's Story
+|m9p1= |m9p1char= |m9p1s1= |m9p1s2= |m9p2= |m9p2char= |m9p2s1= |m9p2s2= |m9win= |m9stage=
+}}
+
+===Semifinals===
+{{TeamMatch
+|team1literal='''Team Silent Wolf'''
+|team2literal='''Team SFAT'''
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=8Gz1gTPJJw8
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=320
+
+|team1matches=5
+|team2matches=3
+|team1stocks=5
+|team2stocks=0
+
+|m1p1=Bladewise |m1p1char=peach |m1p1s1=4 |m1p1s2=0 |m1p2=Shroomed |m1p2char=sheik |m1p2s1=4 |m1p2s2=1 |m1win=2 |m1stage=Final Destination
+|m2p1=Silent Wolf |m2p1char=fox |m2p1s1=4 |m2p1s2=4 |m2p2=Shroomed |m2p2char=sheik |m2p2s1=1 |m2p2s2=0 |m2win=1 |m2stage=Pokémon Stadium
+|m3p1=Silent Wolf |m3p1char=fox |m3p1s1=4 |m3p1s2=1 |m3p2=Syrox |m3p2char=fox |m3p2s1=4 |m3p2s2=0 |m3win=1 |m3stage=Battlefield
+|m4p1=Silent Wolf |m4p1char=fox |m4p1s1=1 |m4p1s2=0 |m4p2=SFAT |m4p2char=fox |m4p2s1=4 |m4p2s2=3 |m4win=2 |m4stage=Battlefield
+|m5p1=The Moon |m5p1char=marth |m5p1s1=4 |m5p1s2=2 |m5p2=SFAT |m5p2char=fox |m5p2s1=3 |m5p2s2=0 |m5win=1 |m5stage=Battlefield
+|m6p1=The Moon |m6p1char=marth |m6p1s1=2 |m6p1s2=0 |m6p2=CDK |m6p2char=fox |m6p2s1=4 |m6p2s2=1 |m6win=2 |m6stage=Battlefield
+|m7p1=HugS |m7p1char=samus |m7p1s1=4 |m7p1s2=4 |m7p2=CDK |m7p2char=fox |m7p2s1=1 |m7p2s2=0 |m7win=1 |m7stage=Dream Land
+|m8p1=HugS |m8p1char=samus |m8p1s1=4 |m8p1s2=1 |m8p2=PewPewU |m8p2char=marth |m8p2s1=4 |m8p2s2=0 |m8win=1 |m8stage=Battlefield
+|m9p1= |m9p1char= |m9p1s1= |m9p1s2= |m9p2= |m9p2char= |m9p2s1= |m9p2s2= |m9win= |m9stage=
+}}
+
+
+
+{{TeamMatch
+|team1literal='''Team Hungrybox'''
+|team2literal='''Team Nintendude'''
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=Ar41F3tsAEI
+|teamwin=1
+|lrthread=
+|interview=
+|review=
+|width=320
+
+|team1matches=5
+|team2matches=4
+|team1stocks=3
+|team2stocks=0
+
+|m1p1=Axe |m1p1char=pikachu |m1p1s1=4 |m1p1s2=1 |m1p2=Professor Pro |m1p2char=fox |m1p2s1=4 |m1p2s2=0 |m1win=1 |m1stage=Battlefield
+|m2p1=Axe |m2p1char=pikachu |m2p1s1=1 |m2p1s2=0 |m2p2=S2J |m2p2char=cf |m2p2s1=4 |m2p2s2=4 |m2win=2 |m2stage=Battlefield
+|m3p1=Hungrybox |m3p1char=puff |m3p1s1=4 |m3p1s2=2 |m3p2=S2J |m3p2char=cf |m3p2s1=4 |m3p2s2=0 |m3win=1 |m3stage=Battlefield
+|m4p1=Hungrybox |m4p1char=puff |m4p1s1=4 |m4p1s2=0 |m4p2=MikeHaze |m4p2char=fox |m4p2s1=4 |m4p2s2=1 |m4win=2 |m4stage=Final Destination
+|m5p1=Abate |m5p1char=luigi |m5p1s1=4 |m5p1s2=3 |m5p2=MikeHaze |m5p2char=fox |m5p2s1=1 |m5p2s2=0 |m5win=1 |m5stage=Battlefield
+|m6p1=Abate |m6p1char=luigi |m6p1s1=3 |m6p1s2=0 |m6p2=Nintendude |m6p2char=ic |m6p2s1=4 |m6p2s2=2 |m6win=2 |m6stage=Battlefield
+|m7p1=Colbol |m7p1char=fox |m7p1s1=4 |m7p1s2=3 |m7p2=Nintendude |m7p2char=ic |m7p2s1=2 |m7p2s2=0 |m7win=1 |m7stage=Yoshi's Story
+|m8p1=Colbol |m8p1char=fox |m8p1s1=3 |m8p1s2=0 |m8p2=Plup |m8p2char=sheik |m8p2s1=4 |m8p2s2=1 |m8win=2 |m8stage=Fountain of Dreams
+|m9p1=Wizzrobe |m9p1char=cf |m9p1s1=4 |m9p1s2=3 |m9p2=Plup |m9p2char=sheik |m9p2s1=1 |m9p2s2=0 |m9win=1 |m9stage=Pokémon Stadium
+}}
+
+===Final===
+{{TeamMatch
+|team1literal='''Team Silent Wolf'''
+|team2literal='''Team Hungrybox'''
+|date=
+|finished=
+|live=
+|vod=https://www.youtube.com/watch?v=jX0J2jpHits
+|teamwin=1
+|lrthread=
+|interview=https://www.youtube.com/watch?v=j7LmTbVj6Ng
+|review=
+|width=320
+
+|team1matches=5
+|team2matches=4
+|team1stocks=2
+|team2stocks=0
+
+|m1p1=Bladewise |m1p1char=peach |m1p1s1=4 |m1p1s2=0 |m1p2=Hungrybox |m1p2char=puff |m1p2s1=4 |m1p2s2=2 |m1win=2 |m1stage=Battlefield
+|m2p1=Mango |m2p1char=fox |m2p1s1=4 |m2p1s2=3 |m2p2=Hungrybox |m2p2char=puff |m2p2s1=2 |m2p2s2=0 |m2win=1 |m2stage=Final Destination
+|m3p1=Mango |m3p1char=fox |m3p1s1=3 |m3p1s2=0 |m3p2=Axe |m3p2char=pikachu |m3p2s1=4 |m3p2s2=2 |m3win=2 |m3stage=Fountain of Dreams
+|m4p1=HugS |m4p1char=samus |m4p1s1=4 |m4p1s2=3 |m4p2=Axe |m4p2char=pikachu |m4p2s1=2 |m4p2s2=0 |m4win=1 |m4stage=Yoshi's Story
+|m5p1=HugS |m5p1char=samus |m5p1s1=3 |m5p1s2=1 |m5p2=Colbol |m5p2char=fox |m5p2s1=4 |m5p2s2=0 |m5win=1 |m5stage=Pokémon Stadium
+|m6p1=HugS |m6p1char=samus |m6p1s1=1 |m6p1s2=0 |m6p2=Wizzrobe |m6p2char=cf |m6p2s1=4 |m6p2s2=4 |m6win=2 |m6stage=Pokémon Stadium
+|m7p1=Silent Wolf |m7p1char=fox |m7p1s1=4 |m7p1s2=0 |m7p2=Wizzrobe |m7p2char=cf |m7p2s1=4 |m7p2s2=1 |m7win=2 |m7stage=Yoshi's Story
+|m8p1=The Moon |m8p1char=marth |m8p1s1=4 |m8p1s2=3 |m8p2=Wizzrobe |m8p2char=cf |m8p2s1=1 |m8p2s2=0 |m8win=1 |m8stage=Battlefield
+|m9p1=The Moon |m9p1char=marth |m9p1s1=3 |m9p1s2=2 |m9p2=Abate |m9p2char=luigi |m9p2s1=4 |m9p2s2=0 |m9win=1 |m9stage=Battlefield
+}}
+
+==Sources==
+*[https://twitter.com/ScarTophShow/status/821201111856087041 Original crews]
+*[https://twitter.com/Genesis_Smash/status/821882026080899072 Redrafted crews]

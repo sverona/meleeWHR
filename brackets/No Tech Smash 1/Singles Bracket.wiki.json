@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Kellner",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "Mawacate",
+            "p2flag": "mx",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Usleon",
+            "p1flag": "cl",
+            "p1score": "3",
+            "p2": "Prinz",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Prinz",
+            "p1flag": "de",
+            "p1score": "3",
+            "p2": "Mawacate",
+            "p2flag": "mx",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Usleon",
+            "p1flag": "cl",
+            "p1score": "3",
+            "p2": "Prinz",
+            "p2flag": "de",
+            "p2score": "2 ",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Cone",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Citius",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Captain Hentai",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Dragon",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "thehunter",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "beld",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "thestriker",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Rikzz",
+            "p2flag": "de",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Yomi",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "Citius",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Blayd",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "Dragon",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Andy",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "thehunter",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "FrozenLight",
+            "p1flag": "de",
+            "p1score": "1",
+            "p2": "Rikzz",
+            "p2flag": "de",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Yomi",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "Blayd",
+            "p2flag": "ch",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "Andy",
+            "p1flag": "de",
+            "p1score": "1",
+            "p2": "Rikzz",
+            "p2flag": "de",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "Kellner",
+            "p1flag": "de",
+            "p1score": "3",
+            "p2": "Yomi",
+            "p2flag": "de",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Mawacate",
+            "p1flag": "mx",
+            "p1score": "3",
+            "p2": "Rikzz",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Usleon",
+            "p1flag": "cl",
+            "p1score": "2",
+            "p2": "Cone",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "FrozenLight",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "Citius",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Kellner",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "Captain Hentai",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Andy",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "Dragon",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Mawacate",
+            "p1flag": "mx",
+            "p1score": "2",
+            "p2": "thehunter",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Blayd",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "beld",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Prinz",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "thestriker",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Yomi",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "Rikzz",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Usleon",
+            "p1flag": "cl",
+            "p1score": "2",
+            "p2": "FrozenLight",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Kellner",
+            "p1flag": "de",
+            "p1score": "3",
+            "p2": "Andy",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Mawacate",
+            "p1flag": "mx",
+            "p1score": "2",
+            "p2": "Blayd",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Prinz",
+            "p1flag": "de",
+            "p1score": "2",
+            "p2": "Yomi",
+            "p2flag": "de",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Usleon",
+            "p1flag": "cl",
+            "p1score": "3",
+            "p2": "Kellner",
+            "p2flag": "de",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Mawacate",
+            "p1flag": "mx",
+            "p1score": "0",
+            "p2": "Prinz",
+            "p2flag": "de",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

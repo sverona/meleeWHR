@@ -1,0 +1,225 @@
+{{SetGame|melee}}{{DISPLAYTITLE:Summit: ''Melee'' Singles Bracket}}
+{{tabs static
+|name1=Overview
+|link1=Summit/2015/Melee
+|name2=Singles Bracket
+|link2=Summit/2015/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=Summit/2015/Melee/Doubles Bracket
+|This=2
+}}<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia name=SummitMelee -->
+
+==Winners Bracket==
+{{32DEWBracketA
+|r1m1p1=KirbyKaze |r1m1p1flag=ca |r1m1p1score=2 |r1m1win=1
+|r1m1p2=Plat |r1m1p2flag= |r1m1p2score=0
+
+|r1m2p1=4Serial |r1m2p1flag=ca |r1m2p1score=0 |r1m2win=2
+|r1m2p2=Navatar |r1m2p2flag= |r1m2p2score=2
+
+|r1m3p1=Idea |r1m3p1flag=ca |r1m3p1score=1 |r1m3win=2
+|r1m3p2=Riddlebox |r1m3p2flag=ca |r1m3p2score=2
+
+|r1m4p1=Coffeeblack |r1m4p1flag=ca |r1m4p1score=2 |r1m4win=1
+|r1m4p2=lonebutterfish |r1m4p2flag= |r1m4p2score=0
+
+|r1m5p1=RaynEX |r1m5p1flag=ca |r1m5p1score=2 |r1m5win=1
+|r1m5p2=OT Eric |r1m5p2flag= |r1m5p2score=0
+
+|r1m6p1=Jamrun |r1m6p1flag=ca |r1m6p1score=2 |r1m6win=1
+|r1m6p2=JP |r1m6p2flag= |r1m6p2score=0
+
+|r1m7p1=n0ne |r1m7p1flag=ni |r1m7p1score=2 |r1m7win=1
+|r1m7p2=DayZ |r1m7p2flag= |r1m7p2score=0
+
+|r1m8p1=Anther |r1m8p1flag= |r1m8p1score=2 |r1m8win=1
+|r1m8p2=Sanu |r1m8p2flag= |r1m8p2score=0
+
+|r1m9p1=Ryan Ford |r1m9p1flag=ca |r1m9p1score=2 |r1m9win=1
+|r1m9p2=InfernoJesus |r1m9p2flag=ca |r1m9p2score=0
+
+|r1m10p1=Kason |r1m10p1flag=ca |r1m10p1score=2 |r1m10win=1
+|r1m10p2=Fern |r1m10p2flag= |r1m10p2score=0
+
+|r1m11p1=HammerTime |r1m11p1flag=ca |r1m11p1score=2 |r1m11win=1
+|r1m11p2=Dime |r1m11p2flag= |r1m11p2score=0
+
+|r1m12p1=Chuffles |r1m12p1flag= |r1m12p1score=0 |r1m12win=2
+|r1m12p2=Gabe |r1m12p2flag= |r1m12p2score=2
+
+|r1m13p1=Weon-X |r1m13p1flag=cl |r1m13p1score=2 |r1m13win=1
+|r1m13p2=keatsta |r1m13p2flag= |r1m13p2score=0
+
+|r1m14p1=Nightmare |r1m14p1flag=ca |r1m14p1score=1 |r1m14win=2
+|r1m14p2=Windrose |r1m14p2flag=ca |r1m14p2score=2
+
+|r1m15p1=sauc3 |r1m15p1flag=ca |r1m15p1score=2 |r1m15win=1
+|r1m15p2=Kyle |r1m15p2flag= |r1m15p2score=0
+
+|r1m16p1=Trulliam |r1m16p1flag=ca |r1m16p1score=2 |r1m16win=1
+|r1m16p2=CMac |r1m16p2flag= |r1m16p2score=1
+
+|r2m1p1=KirbyKaze |r2m1p1flag=ca |r2m1p1score=2 |r2m1win=1
+|r2m1p2=Navatar |r2m1p2flag= |r2m1p2score=0
+
+|r2m2p1=Riddlebox |r2m2p1flag=ca |r2m2p1score=0 |r2m2win=2
+|r2m2p2=Coffeeblack |r2m2p2flag=ca |r2m2p2score=2
+
+|r2m3p1=RaynEX |r2m3p1flag=ca |r2m3p1score=2 |r2m3win=1
+|r2m3p2=Jamrun |r2m3p2flag=ca |r2m3p2score=0
+
+|r2m4p1=n0ne |r2m4p1flag=ni |r2m4p1score=1 |r2m4win=2
+|r2m4p2=Anther |r2m4p2flag= |r2m4p2score=2
+
+|r2m5p1=Ryan Ford |r2m5p1flag=ca |r2m5p1score=2 |r2m5win=1
+|r2m5p2=Kason |r2m5p2flag=ca |r2m5p2score=0
+
+|r2m6p1=HammerTime |r2m6p1flag=ca |r2m6p1score=2 |r2m6win=1
+|r2m6p2=Gabe |r2m6p2flag= |r2m6p2score=0
+
+|r2m7p1=Weon-X |r2m7p1flag=cl |r2m7p1score=2 |r2m7win=1
+|r2m7p2=Windrose |r2m7p2flag=ca |r2m7p2score=0
+
+|r2m8p1=sauc3 |r2m8p1flag=ca |r2m8p1score=2 |r2m8win=1
+|r2m8p2=Trulliam |r2m8p2flag=ca |r2m8p2score=1
+
+|r3m1p1=KirbyKaze |r3m1p1flag=ca |r3m1p1score=2 |r3m1win=1
+|r3m1p2=Coffeeblack |r3m1p2flag=ca |r3m1p2score=0
+
+|r3m2p1=RaynEX |r3m2p1flag=ca |r3m2p1score=2 |r3m2win=1
+|r3m2p2=Anther |r3m2p2flag= |r3m2p2score=1
+
+|r3m3p1=Ryan Ford |r3m3p1flag=ca |r3m3p1score=2 |r3m3win=1
+|r3m3p2=HammerTime |r3m3p2flag=ca |r3m3p2score=0
+
+|r3m4p1=Weon-X |r3m4p1flag=cl |r3m4p1score=1 |r3m4win=2
+|r3m4p2=sauc3 |r3m4p2flag=ca |r3m4p2score=2
+
+|r4m1p1=KirbyKaze |r4m1p1flag=ca |r4m1p1score=3 |r4m1win=1
+|r4m1p2=RaynEX |r4m1p2flag=ca |r4m1p2score=1
+
+|r4m2p1=Ryan Ford |r4m2p1flag=ca |r4m2p1score=3 |r4m2win=1
+|r4m2p2=sauc3 |r4m2p2flag=ca |r4m2p2score=0
+}}
+==Losers Bracket==
+{{32DELBracketSmwA
+|tourneylink=Summit/2015/Melee
+|tourneyname=Summit
+|l1placement=25-32
+|l2placement=17-24
+|l3placement=13-16
+|l4placement=9-12
+|l5placement=7-8
+|l6placement=5-6
+
+|l1m1p1=Plat |l1m1p1flag= |l1m1p1score=1 |l1m1win=2
+|l1m1p2=4Serial |l1m1p2flag=ca |l1m1p2score=2
+
+|l1m2p1=Idea |l1m2p1flag=ca |l1m2p1score=2 |l1m2win=1
+|l1m2p2=lonebutterfish |l1m2p2flag= |l1m2p2score=0
+
+|l1m3p1=OT Eric |l1m3p1flag= |l1m3p1score=0 |l1m3win=2
+|l1m3p2=JP |l1m3p2flag= |l1m3p2score=2
+
+|l1m4p1=DayZ |l1m4p1flag= |l1m4p1score=0 |l1m4win=2
+|l1m4p2=Sanu |l1m4p2flag= |l1m4p2score=2
+
+|l1m5p1=InfernoJesus |l1m5p1flag=ca |l1m5p1score=2 |l1m5win=1
+|l1m5p2=Fern |l1m5p2flag= |l1m5p2score=1
+
+|l1m6p1=Dime |l1m6p1flag= |l1m6p1score=0 |l1m6win=2
+|l1m6p2=Chuffles |l1m6p2flag= |l1m6p2score=2
+
+|l1m7p1=keatsta |l1m7p1flag= |l1m7p1score=0 |l1m7win=2
+|l1m7p2=Nightmare |l1m7p2flag=ca |l1m7p2score=2
+
+|l1m8p1=Kyle |l1m8p1flag= |l1m8p1score=2 |l1m8win=1
+|l1m8p2=CMac |l1m8p2flag= |l1m8p2score=0
+
+|l2m1p1=Trulliam |l2m1p1flag=ca |l2m1p1score=2 |l2m1win=1
+|l2m1p2=4Serial |l2m1p2flag=ca |l2m1p2score=1
+
+|l2m2p1=Windrose |l2m2p1flag=ca |l2m2p1score=0 |l2m2win=2
+|l2m2p2=Idea |l2m2p2flag=ca |l2m2p2score=2
+
+|l2m3p1=Gabe |l2m3p1flag= |l2m3p1score=2 |l2m3win=1
+|l2m3p2=JP |l2m3p2flag= |l2m3p2score=0
+
+|l2m4p1=Kason |l2m4p1flag=ca |l2m4p1score=2 |l2m4win=1
+|l2m4p2=Sanu |l2m4p2flag= |l2m4p2score=0
+
+|l2m5p1=n0ne |l2m5p1flag=ni |l2m5p1score=2 |l2m5win=1
+|l2m5p2=InfernoJesus |l2m5p2flag=ca |l2m5p2score=0
+
+|l2m6p1=Jamrun |l2m6p1flag=ca |l2m6p1score=0 |l2m6win=2
+|l2m6p2=Chuffles |l2m6p2flag= |l2m6p2score=2
+
+|l2m7p1=Riddlebox |l2m7p1flag=ca |l2m7p1score=0 |l2m7win=2
+|l2m7p2=Nightmare |l2m7p2flag=ca |l2m7p2score=2
+
+|l2m8p1=Navatar |l2m8p1flag= |l2m8p1score=1 |l2m8win=2
+|l2m8p2=Kyle |l2m8p2flag= |l2m8p2score=2
+
+|l3m1p1=Trulliam |l3m1p1flag=ca |l3m1p1score=1 |l3m1win=2
+|l3m1p2=Idea |l3m1p2flag=ca |l3m1p2score=2
+
+|l3m2p1=Gabe |l3m2p1flag= |l3m2p1score=1 |l3m2win=2
+|l3m2p2=Kason |l3m2p2flag=ca |l3m2p2score=2
+
+|l3m3p1=n0ne |l3m3p1flag=ni |l3m3p1score=2 |l3m3win=1
+|l3m3p2=Chuffles |l3m3p2flag= |l3m3p2score=0
+
+|l3m4p1=Nightmare |l3m4p1flag=ca |l3m4p1score=2 |l3m4win=1
+|l3m4p2=Kyle |l3m4p2flag= |l3m4p2score=1
+
+|l4m1p1=Anther |l4m1p1flag= |l4m1p1score=0 |l4m1win=2
+|l4m1p2=Idea |l4m1p2flag=ca |l4m1p2score=2
+
+|l4m2p1=Coffeeblack |l4m2p1flag=ca |l4m2p1score=2 |l4m2win=1
+|l4m2p2=Kason |l4m2p2flag=ca |l4m2p2score=0
+
+|l4m3p1=Weon-X |l4m3p1flag=cl |l4m3p1score=0 |l4m3win=2
+|l4m3p2=n0ne |l4m3p2flag=ni |l4m3p2score=2
+
+|l4m4p1=HammerTime |l4m4p1flag=ca |l4m4p1score=1 |l4m4win=2
+|l4m4p2=Nightmare |l4m4p2flag=ca |l4m4p2score=2
+
+|l5m1p1=Idea |l5m1p1flag=ca |l5m1p1score=0 |l5m1win=2
+|l5m1p2=Coffeeblack |l5m1p2flag=ca |l5m1p2score=2
+
+|l5m2p1=n0ne |l5m2p1flag=ni |l5m2p1score=2 |l5m2win=1
+|l5m2p2=Nightmare |l5m2p2flag=ca |l5m2p2score=0
+
+|l6m1p1=sauc3 |l6m1p1flag=ca |l6m1p1score=2 |l6m1win=1
+|l6m1p2=Coffeeblack |l6m1p2flag=ca |l6m1p2score=0
+
+|l6m2p1=RaynEX |l6m2p1flag=ca |l6m2p1score=0 |l6m2win=2
+|l6m2p2=n0ne |l6m2p2flag=ni |l6m2p2score=2
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=Summit/2015/Melee
+|tourneyname=Summit
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1p1=KirbyKaze |r1m1p1flag=ca |r1m1p1score=3 |r1m1win=1
+|r1m1p2=Ryan Ford |r1m1p2flag=ca |r1m1p2score=2
+
+<!-- FROM LOSERS -->
+|l1m1p1=sauc3 |l1m1p1flag=ca |l1m1p1score=0 |l1m1win=2
+|l1m1p2=n0ne |l1m1p2flag=ni |l1m1p2score=3
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Ryan Ford |r2m1p1flag=ca |r2m1p1score=3 |r2m1win=1
+|r2m1p2=n0ne |r2m1p2flag=ni |r2m1p2score=2
+
+<!-- GRAND FINALS -->
+|r3m1p1=KirbyKaze |r3m1p1flag=ca |r3m1p1score=3 |r3m1win=1
+|r3m1p2=Ryan Ford |r3m1p2flag=ca |r3m1p2score=0
+}}
+</onlyinclude>

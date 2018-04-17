@@ -1,0 +1,69 @@
+{{DISPLAYTITLE:Fight Pitt VI: Doubles Bracket}}{{SetGame|melee}}
+{{Fight Pitt VI|This=3}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesBracket
+<!-- FROM WINNERS -->
+|r1m1t1p1=Colbol |r1m1t1p1flag=us
+|r1m1t1p2=Duck |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=n0ne |r1m1t2p1flag=ni
+|r1m1t2p2=Eddy Mexico |r1m1t2p2flag=mx |r1m1t2score=1
+|r1m1win=1
+|r1m1t1p1char1=fox |r1m1t1p1stock1=1 |r1m1t1p2char1=samus |r1m1t1p2stock1=1
+|r1m1t2p1char1=cf |r1m1t2p1stock1=0 |r1m1t2p2char1=luigi |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1t1p1char2=fox |r1m1t1p1stock2=0 |r1m1t1p2char2=samus |r1m1t1p2stock2=0
+|r1m1t2p1char2=cf |r1m1t2p1stock2=1 |r1m1t2p2char2=luigi |r1m1t2p2stock2=0 |r1m1win2=2 |r1m1stage2=Final Destination
+|r1m1t1p1char3=fox |r1m1t1p1stock3=1 |r1m1t1p2char3=samus |r1m1t1p2stock3=3
+|r1m1t2p1char3=cf |r1m1t2p1stock3=0 |r1m1t2p2char3=luigi |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Pokémon Stadium
+|r1m1t1p1char4=fox |r1m1t1p1stock4=1 |r1m1t1p2char4=samus |r1m1t1p2stock4=2
+|r1m1t2p1char4=cf |r1m1t2p1stock4=0 |r1m1t2p2char4=luigi |r1m1t2p2stock4=0 |r1m1win4=1 |r1m1stage4=Battlefield
+|r1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/g9p-a17GENI}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Abate |l1m1t1p1flag=us
+|l1m1t1p2=Borp |l1m1t1p2flag=us |l1m1t1score=2
+|l1m1t2p1=Mafia |l1m1t2p1flag=us
+|l1m1t2p2=Stango |l1m1t2p2flag=us |l1m1t2score=3
+|l1m1win=2
+|l1m1t1p1char1= |l1m1t1p1stock1= |l1m1t1p2char1= |l1m1t1p2stock1=
+|l1m1t2p1char1= |l1m1t2p1stock1= |l1m1t2p2char1= |l1m1t2p2stock1= |l1m1win1= |l1m1stage1=
+|l1m1t1p1char2= |l1m1t1p1stock2= |l1m1t1p2char2= |l1m1t1p2stock2=
+|l1m1t2p1char2= |l1m1t2p1stock2= |l1m1t2p2char2= |l1m1t2p2stock2= |l1m1win2= |l1m1stage2=
+|l1m1t1p1char3= |l1m1t1p1stock3= |l1m1t1p2char3= |l1m1t1p2stock3=
+|l1m1t2p1char3= |l1m1t2p1stock3= |l1m1t2p2char3= |l1m1t2p2stock3= |l1m1win3= |l1m1stage3=
+|l1m1t1p1char4= |l1m1t1p1stock4= |l1m1t1p2char4= |l1m1t1p2stock4=
+|l1m1t2p1char4= |l1m1t2p1stock4= |l1m1t2p2char4= |l1m1t2p2stock4= |l1m1win4= |l1m1stage4=
+|l1m1t1p1char5= |l1m1t1p1stock5= |l1m1t1p2char5= |l1m1t1p2stock5=
+|l1m1t2p1char5= |l1m1t2p1stock5= |l1m1t2p2char5= |l1m1t2p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=
+|l1m1finished=
+|l1m1details=
+<!-- LOSERS FINALS -->
+|r2m1t1p1=n0ne |r2m1t1p1flag=ni
+|r2m1t1p2=Eddy Mexico |r2m1t1p2flag=mx |r2m1t1score=3
+|r2m1t2p1=Mafia |r2m1t2p1flag=us
+|r2m1t2p2=Stango |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1win=1
+|r2m1t1p1char1=cf |r2m1t1p1stock1=1 |r2m1t1p2char1=luigi |r2m1t1p2stock1=2
+|r2m1t2p1char1=peach |r2m1t2p1stock1=0 |r2m1t2p2char1=marth |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Final Destination
+|r2m1t1p1char2=cf |r2m1t1p1stock2=1 |r2m1t1p2char2=luigi |r2m1t1p2stock2=1
+|r2m1t2p1char2=peach |r2m1t2p1stock2=0 |r2m1t2p2char2=marth |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1t1p1char3=cf |r2m1t1p1stock3=1 |r2m1t1p2char3=luigi |r2m1t1p2stock3=1
+|r2m1t2p1char3=peach |r2m1t2p1stock3=0 |r2m1t2p2char3=marth |r2m1t2p2stock3=0 |r2m1win3=1 |r2m1stage3=Pokémon Stadium
+|r2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/g86jBUnBVMU}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Colbol|r3m1t1p1flag=us
+|r3m1t1p2=Duck|r3m1t1p2flag=us |r3m1t1score=3
+|r3m1t2p1=n0ne |r3m1t2p1flag=ni
+|r3m1t2p2=Eddy Mexico |r3m1t2p2flag=mx |r3m1t2score=0
+|r3m1win=1
+|r3m1t1p1char1=fox |r3m1t1p1stock1=3 |r3m1t1p2char1=samus |r3m1t1p2stock1=3
+|r3m1t2p1char1=cf |r3m1t2p1stock1=0 |r3m1t2p2char1=luigi |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1t1p1char2=fox |r3m1t1p1stock2=1 |r3m1t1p2char2=samus |r3m1t1p2stock2=1
+|r3m1t2p1char2=cf |r3m1t2p1stock2=0 |r3m1t2p2char2=luigi |r3m1t2p2stock2=0 |r3m1win2=1 |r3m1stage2=Dream Land
+|r3m1t1p1char3=fox |r3m1t1p1stock3=0 |r3m1t1p2char3=samus |r3m1t1p2stock3=1
+|r3m1t2p1char3=cf |r3m1t2p1stock3=0 |r3m1t2p2char3=luigi |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Final Destination
+|r3m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/FnwhcKfh_wE}}
+}}
+</onlyinclude>

@@ -1,0 +1,64 @@
+{{DISPLAYTITLE:Battle GateWay 1: Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Battle GateWay/1
+|name2=Singles Bracket
+|link2=Battle GateWay/1/Singles Bracket
+|This=2
+}}
+<onlyinclude>
+==Top 8==
+{{8SEBracketSmw
+|tourneylink=Battle GateWay/1
+|tourneyname=Battle GateWay 1
+|r1placement=5-8
+|r2placement=3-4
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=150
+|export_score=true
+
+<!-- QUARTERFINALS -->
+|r1m1p1=Muteki no kamae |r1m1p1flag=jp |r1m1p1score=
+|r1m1p2=aMSa |r1m1p2flag=jp |r1m1p2score={{win}}
+|r1m1win=2
+
+|r1m2p1=Katou Hayate |r1m2p1flag=jp |r1m2p1score={{win}}
+|r1m2p2=Ururomu |r1m2p2flag=jp |r1m2p2score=
+|r1m2win=1
+
+|r1m3p1=Yasha |r1m3p1flag=jp |r1m3p1score={{win}}
+|r1m3p2=Hashimo |r1m3p2flag=jp |r1m3p2score=
+|r1m3win=1
+
+|r1m4p1=Yoroz |r1m4p1flag=jp |r1m4p1score=
+|r1m4p2=Chogokujo |r1m4p2flag=jp |r1m4p2score={{win}}
+|r1m4win=2
+
+<!-- SEMIFINALS -->
+|r2m1p1=aMSa |r2m1p1flag=jp |r2m1p1score=2
+|r2m1p2=Katou Hayate |r2m1p2flag=jp |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=yoshi |r2m1p2char1=falco |r2m1p1stock1=1 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Final Destination
+|r2m1p1char2=yoshi |r2m1p2char2=falco |r2m1p1stock2=1 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1date=August 4, 2013
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/er9EwC4yYC0}}
+
+|r2m2p1=Yasha |r2m2p1flag=jp |r2m2p1score=2
+|r2m2p2=Chogokujo |r2m2p2flag=jp |r2m2p2score=0
+|r2m2win=1
+|r2m2p1char1=falco |r2m2p2char1=falco |r2m2p1stock1=2 |r2m2p2stock1=0 |r2m2win1=1 |r2m2stage1=Final Destination
+|r2m2p1char2=falco |r2m2p2char2=falco |r2m2p1stock2=2 |r2m2p2stock2=0 |r2m2win2=1 |r2m2stage2=Final Destination
+|r2m2date=August 4, 2013
+|r2m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/ZwvSSIgYlP0}}
+
+<!-- FINALS -->
+|r3m1p1=aMSa |r3m1p1flag=jp |r3m1p1score=0
+|r3m1p2=Yasha |r3m1p2flag=jp |r3m1p2score=2
+|r3m1win=2
+|r3m1p1char1=yoshi |r3m1p2char1=falco |r3m1p1stock1=0 |r3m1p2stock1=1 |r3m1win1=2 |r3m1stage1=Final Destination
+|r3m1p1char2=yoshi |r3m1p2char2=falco |r3m1p1stock2=0 |r3m1p2stock2=1 |r3m1win2=2 |r3m1stage2=Final Destination
+|r3m1date=August 4, 2013
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/yqLIh4zfadQ}}
+}}
+</onlyinclude>

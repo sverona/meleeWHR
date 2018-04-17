@@ -1,0 +1,125 @@
+{
+    "==Final Doubles Bracket==": {
+        "l1m1": {
+            "t1p1": "n0ne",
+            "t1p1flag": "ni",
+            "t1p2": "Nightmare",
+            "t1p2flag": "ca",
+            "t1score": "3",
+            "t2p1": "Rabbit",
+            "t2p1flag": "ca",
+            "t2p2": "Garbage Prince",
+            "t2p2flag": "ca",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r1m1": {
+            "t1p1": "Ryan Ford",
+            "t1p1flag": "ca",
+            "t1p2": "Trulliam",
+            "t1p2flag": "ca",
+            "t1score": "3",
+            "t2p1": "Professor Pro",
+            "t2p1flag": "uk",
+            "t2p2": "Coffeeblack",
+            "t2p2flag": "ca",
+            "t2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "t1p1": "Professor Pro",
+            "t1p1flag": "uk",
+            "t1p2": "Coffeeblack",
+            "t1p2flag": "ca",
+            "t1score": "0",
+            "t2p1": "n0ne",
+            "t2p1flag": "ni",
+            "t2p2": "Nightmare",
+            "t2p2flag": "ca",
+            "t2score": "3",
+            "win": "2"
+        },
+        "r3m1": {
+            "t1p1": "Ryan Ford",
+            "t1p1flag": "ca",
+            "t1p2": "Trulliam",
+            "t1p2flag": "ca",
+            "t1score": "3",
+            "t2p1": "n0ne",
+            "t2p1flag": "ni",
+            "t2p2": "Nightmare",
+            "t2p2flag": "ca",
+            "t2score": "1",
+            "win": "1}}</onlyinclude>"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "t1p1": "Heartbreaker",
+            "t1p1flag": "ca",
+            "t1p2": "K",
+            "t1p2flag": "ca",
+            "t1score": "0",
+            "t2p1": "Monib",
+            "t2p1flag": "ca",
+            "t2p2": "Moky",
+            "t2p2flag": "ca",
+            "t2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "t1p1": "Plum",
+            "t1p1flag": "ca",
+            "t1p2": "Blitz",
+            "t1p2flag": "ca",
+            "t1score": "1",
+            "t2p1": "Rabbit",
+            "t2p1flag": "ca",
+            "t2p2": "Garbage Prince",
+            "t2p2flag": "ca",
+            "t2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "t1p1": "n0ne",
+            "t1p1flag": "ni",
+            "t1p2": "Nightmare",
+            "t1p2flag": "ca",
+            "t1score": "3",
+            "t2p1": "Monib",
+            "t2p1flag": "ca",
+            "t2p2": "Moky",
+            "t2p2flag": "ca",
+            "t2score": "1",
+            "win": "1"
+        },
+        "l2m2": {
+            "t1p1": "Legend",
+            "t1p1flag": "ca",
+            "t1p2": "Kyle",
+            "t1p2flag": "ca",
+            "t1score": "2",
+            "t2p1": "Rabbit",
+            "t2p1flag": "ca",
+            "t2p2": "Garbage Prince",
+            "t2p2flag": "ca",
+            "t2score": "3",
+            "win": "2"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "t1p1": "n0ne",
+            "t1p1flag": "ni",
+            "t1p2": "Nightmare",
+            "t1p2flag": "ca",
+            "t1score": "0",
+            "t2p1": "Professor Pro",
+            "t2p1flag": "uk",
+            "t2p2": "Coffeeblack",
+            "t2p2flag": "ca",
+            "t2score": "3",
+            "win": "2"
+        }
+    }
+}

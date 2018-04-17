@@ -1,0 +1,479 @@
+<noinclude>
+{{tabs static
+|name1=Overview
+|link1=The Golden Bair 2
+|name2=Invitational Pools
+|link2=The Golden Bair 2/Invitational Pools
+|name3=Open Bracket
+|link3=The Golden Bair 2/Open Bracket
+|name4=Championship Bracket
+|link4=The Golden Bair 2/Championship Bracket
+|name5=The Melee Games
+|link5=The Golden Bair 2/The Melee Games
+|This=2
+}}
+</noinclude>
+{{Box|start|padding=2em}}
+===={{HiddenSort|Group A}}====
+{{GroupTableStart| Group A |width=400px
+|preview=
+|lrthread=
+|date=March 8, 2015
+|vod=
+|interview=
+|review=
+|finished=
+}}
+{{GroupTableSlot| {{Flag/us}} {{Head/fox}} [[SFAT]] |team=miom |place=|win_m=3|lose_m=0|win_g=6|lose_g=?|bg=}}
+{{GroupTableSlot| {{Flag/us}} {{Head/sheik}} [[Laudandus]] |team=noteam |place=|win_m=0|lose_m=1|win_g=?|lose_g=2|bg=}}
+{{GroupTableSlot| {{Flag/us}} {{Head/peach}} [[Alan]] |team=noteam |place=|win_m=|lose_m=|win_g=|lose_g=|bg=}}
+{{GroupTableSlot| {{Flag/us}} {{Head/cf}} [[SilentSpectre]] |team=noteam |place=|win_m=0|lose_m=1|win_g=0|lose_g=2|bg=}}
+{{GroupTableSlot| {{Flag/us}} {{Head/ic}} [[Delphiki]] |team=noteam |place=|win_m=1|lose_m=0|win_g=2|lose_g=0|bg=}}
+{{GroupTableSlot| {{Flag/us}} {{head/falco}} {{Head/fox}} [[Ralph]] |team=noteam |place=|win_m=0|lose_m=2|win_g=0|lose_g=4|bg=}}
+{{GroupTableEnd}}
+{{match list start
+|width=400px
+|title=Group A Matches}}
+{{Match stages
+|p1=Ralph |p1flag=us
+|p2=Delphiki |p2flag=us
+|p1score=0
+|p2score=2
+|winner=2
+|date=March 8, 2015
+|stage1win=2 |p1char1=falco |p2char1=ic |p1stock1=0 |p2stock1=1 |stage1=Battlefield
+|stage2win=2 |p1char2=falco |p2char2=ic |p1stock2=0 |p2stock2=2 |stage2=Battlefield
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=SFAT |p1flag=us
+|p2=Laudandus |p2flag=us
+|p1score=
+|p2score=
+|winner=1
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=SFAT |p1flag=us
+|p2=Ralph |p2flag=us
+|p1score=2
+|p2score=0
+|winner=1
+|date=March 8, 2015
+|stage1win=1 |p1char1=fox |p2char1=falco |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=fox |p2char2=falco |p1stock2=1 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=SilentSpectre |p1flag=us
+|p2=SFAT |p2flag=us
+|p1score=0
+|p2score=2
+|winner=2
+|date=March 8, 2015
+|stage1win=2 |p1char1=falcon |p2char1=fox |p1stock1=0 |p2stock1=2 |stage1=Battlefield
+|stage2win=2 |p1char2=falcon |p2char2=fox |p1stock2=0 |p2stock2=3 |stage2=Pokémon Stadium
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+{{match list end}}
+{{Box|break|padding=2em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableStart| Group B |width=400px
+|preview=
+|lrthread=
+|date=March 8, 2015
+|vod=
+|interview=
+|review=
+|finished=
+}}
+{{GroupTableSlot| {{Flag/us}} {{Head/sheik}} [[Shroomed]] |team=noteam |place=|win_m=5|lose_m=0|win_g=10|lose_g=?|bg=}}
+{{GroupTableSlot| {{Flag/us}} {{Head/ganondorf}} [[Bizzarro Flame]] |team=noteam |place=|win_m=4|lose_m=1|win_g=4|lose_g=2|bg=}}
+{{GroupTableSlot| {{Flag/us}} {{Head/fox}} [[Toph]] |team=miom |place=|win_m=3|lose_m=2|win_g=6|lose_g=?|bg=}}
+{{GroupTableSlot| {{Flag/us}} {{Head/peach}} [[Azusa]] |team=noteam |place=|win_m=1|lose_m=2|win_g=?|lose_g=4|bg=}}
+{{GroupTableSlot| {{Flag/us}} {{Head/sheik}} [[gaR]] |team=noteam |place=|win_m=1|lose_m=2|win_g=|lose_g=|bg=}}
+{{GroupTableSlot| {{Flag/us}} {{head/cf}} [[NMW]] |team=noteam |place=|win_m=0|lose_m=3|win_g=0|lose_g=4|bg=}}
+{{GroupTableEnd}}
+{{match list start
+|width=400px
+|title=Group B Matches}}
+{{Match stages
+|p1=Bizzarro Flame |p1flag=us
+|p2=Toph |p2flag=us
+|p1score=2
+|p2score=0
+|winner=1
+|date=March 8, 2015
+|stage1win=1 |p1char1=ganondorf |p2char1=fox |p1stock1=2 |p2stock1=0 |stage1=Yoshi's Story
+|stage2win=1 |p1char2=ganondorf |p2char2=fox |p1stock2=1 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=Toph |p1flag=us
+|p2=Azusa |p2flag=us
+|p1score=2
+|p2score=0
+|winner=1
+|date=March 8, 2015
+|stage1win=1 |p1char1=Fox |p2char1=Peach |p1stock1= |p2stock1= |stage1=
+|stage2win=1 |p1char2=Fox |p2char2=Peach |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=Shroomed |p1flag=us
+|p2=gaR |p2flag=us
+|p1score=
+|p2score=
+|winner=1
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=gaR |p1flag=us
+|p2=Azusa |p2flag=us
+|p1score=
+|p2score=
+|winner=1
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=Bizzarro Flame |p1flag=us
+|p2=NMW |p2flag=us
+|p1score=2
+|p2score=0
+|winner=1
+|date=March 8, 2015
+|stage1win=1 |p1char1=ganondorf |p2char1=captain falcon |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=ganondorf |p2char2=captain falcon |p1stock2=1 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=NMW |p1flag=us
+|p2=Azusa |p2flag=us
+|p1score=0
+|p2score=2
+|winner=2
+|date=March 8, 2015
+|stage1win=2 |p1char1=captain falcon |p2char1=peach |p1stock1=0 |p2stock1=3 |stage1=Final Destination
+|stage2win=2 |p1char2=captain falcon |p2char2=peach |p1stock2=0 |p2stock2=2 |stage2=Dream Land
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=Shroomed |p1flag=us
+|p2=Toph |p2flag=us
+|p1score=2
+|p2score=0
+|winner=1
+|date=March 8, 2015
+|stage1win=1 |p1char1=sheik |p2char1=fox |p1stock1=1 |p2stock1=0 |stage1=Battlefield
+|stage2win=1 |p1char2=sheik |p2char2=fox |p1stock2=2 |p2stock2=0 |stage2=Pokémon Stadium
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=Bizzarro Flame |p1flag=us
+|p2=Shroomed |p2flag=us
+|p1score=0
+|p2score=2
+|winner=2
+|date=March 8, 2015
+|stage1win=2 |p1char1=ganondorf |p2char1=sheik |p1stock1=0 |p2stock1=3 |stage1=Battlefield
+|stage2win=2 |p1char2=ganondorf |p2char2=marth |p1stock2=0 |p2stock2=2 |stage2=Dream Land
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=Toph |p1flag=us
+|p2=NMW |p2flag=us
+|p1score=
+|p2score=
+|winner=1
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=Toph |p1flag=us
+|p2=gaR |p2flag=us
+|p1score=
+|p2score=
+|winner=1
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+
+{{Match stages
+|p1=
+|p2=
+|p1score=
+|p2score=
+|winner=
+|date=March 8, 2015
+|stage1win= |p1char1= |p2char1= |p1stock1= |p2stock1= |stage1=
+|stage2win= |p1char2= |p2char2= |p1stock2= |p2stock2= |stage2=
+|stage3win= |p1char3= |p2char3= |p1stock3= |p2stock3= |stage3=
+|stage4win= |p1char4= |p2char4= |p1stock4= |p2stock4= |stage4=
+|vod=
+}}
+{{match list end}}
+{{box|end}}

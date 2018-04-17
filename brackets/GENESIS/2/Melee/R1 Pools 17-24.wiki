@@ -1,0 +1,337 @@
+{{DISPLAYTITLE:GENESIS 2: ''Melee'' R1 Pools 17-24}}
+{{GENESIS 2 Melee Tabs|This=5}}
+==Pool 17==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=SFAT|player1char=Fox|player1flag=us|player1bg=up|player1link=|player1_w=6|player1_l=0
+|player2=Nizro|player2char=Falcon|player2flag=se|player2bg=up|player2link=false|player2_w=5|player2_l=1
+|player3=Anto Park|player3char=Samus|player3flag=us|player3bg=|player3link=false|player3_w=1|player3_l=5
+|player4=JpegImage|player4char=Falcon|player4flag=us|player4bg=up|player4link=false|player4_w=3|player4_l=3
+|player5=Meta|player5char=Jigglypuff|player5flag=ca|player5bg=up|player5link=false|player5_w=4|player5_l=2
+|player6=Violence|player6char=Samus|player6flag=us|player6bg=|player6link=false|player6_w=2|player6_l=4
+|player7=Yoshiman|player7char=Falcon|player7flag=us|player7bg=|player7link=false|player7_w=0|player7_l=6
+
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=1
+|1vs5result=2|1vs5resultvs=1
+|1vs6result=2|1vs6resultvs=0
+|1vs7result=2|1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=2|2vs3resultvs=0
+|2vs4result=2|2vs4resultvs=1
+|2vs5result=2|2vs5resultvs=0
+|2vs6result=2|2vs6resultvs=0
+|2vs7result=2|2vs7resultvs=0
+<!--Games of Player 3-->
+|3vs4result=0|3vs4resultvs=2
+|3vs5result=1|3vs5resultvs=2
+|3vs6result=1|3vs6resultvs=2
+|3vs7result=2|3vs7resultvs=0
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=2|4vs6resultvs=0
+|4vs7result=2|4vs7resultvs=0
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+|5vs7result=2|5vs7resultvs=0
+<!--Games of Player 6-->
+|6vs7result=2|6vs7resultvs=1
+}}
+
+==Pool 18==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Leffen|player1char=Falco|player1flag=se|player1bg=up|player1link=|player1_w=6|player1_l=0
+|player2=GERM|player2char=Link|player2flag=us|player2bg=up|player2link=false|player2_w=4|player2_l=2
+|player3=ThePrime|player3char=Samus|player3flag=us|player3bg=up|player3link=false|player3_w=3|player3_l=3
+|player4=WZRD|player4char=Falcon|player4flag=us|player4bg=|player4link=false|player4_w=1|player4_l=5
+|player5=Elliot|player5char=Peach|player5flag=us|player5bg=|player5link=false|player5_w=1|player5_l=5
+|player6=Gishnak|player6char=Fox|player6flag=us|player6bg=up|player6link=false|player6_w=3|player6_l=3
+|player7=1XTC|player7char=Falco|player7flag=us|player7bg=|player7link=false|player7_w=3|player7_l=3
+
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=1
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+|1vs7result=2|1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=2|2vs3resultvs=0
+|2vs4result=2|2vs4resultvs=0
+|2vs5result=2|2vs5resultvs=0
+|2vs6result=2|2vs6resultvs=1
+|2vs7result=0|2vs7resultvs=2
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=1|3vs6resultvs=2
+|3vs7result=2|3vs7resultvs=0
+<!--Games of Player 4-->
+|4vs5result=1|4vs5resultvs=2
+|4vs6result=0|4vs6resultvs=2
+|4vs7result=2|4vs7resultvs=1
+<!--Games of Player 5-->
+|5vs6result=0|5vs6resultvs=2
+|5vs7result=0|5vs7resultvs=2
+<!--Games of Player 6-->
+|6vs7result=1|6vs7resultvs=2
+}}
+
+==Pool 19==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=PewPewU|player1char=Marth|player1flag=us|player1bg=up|player1link=|player1_w=6|player1_l=0
+|player2=Eikelmann|player2char=Ganondorf|player2flag=us|player2bg=up|player2link=false|player2_w=3|player2_l=3
+|player3=Itakio|player3char=Falcon|player3flag=us|player3bg=|player3link=false|player3_w=0|player3_l=6
+|player4=MyKo|player4char=Falco|player4flag=us|player4bg=|player4link=false|player4_w=3|player4_l=3
+|player5=RubyIris|player5char=Falco|player5flag=us|player5bg=up|player5link=false|player5_w=3|player5_l=3
+|player6=Yamer|player6char=Falco|player6flag=us|player6bg=|player6link=false|player6_w=2|player6_l=4
+|player7=Juce|player7char=Fox|player7flag=us|player7bg=up|player7link=false|player7_w=4|player7_l=2
+
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=1
+|1vs6result=2|1vs6resultvs=0
+|1vs7result=2|1vs7resultvs=1
+<!--Games of Player 2-->
+|2vs3result=2|2vs3resultvs=1
+|2vs4result=0|2vs4resultvs=2
+|2vs5result=2|2vs5resultvs=0
+|2vs6result=2|2vs6resultvs=1
+|2vs7result=1|2vs7resultvs=2
+<!--Games of Player 3-->
+|3vs4result=0|3vs4resultvs=2
+|3vs5result=0|3vs5resultvs=2
+|3vs6result=0|3vs6resultvs=2
+|3vs7result=0|3vs7resultvs=2
+<!--Games of Player 4-->
+|4vs5result=2|4vs5resultvs=1
+|4vs6result=0|4vs6resultvs=2
+|4vs7result=0|4vs7resultvs=2
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+|5vs7result=2|5vs7resultvs=0
+<!--Games of Player 6-->
+|6vs7result=0|6vs7resultvs=2
+}}
+
+==Pool 20==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=S2J|player1char=Falcon|player1flag=us|player1bg=up|player1link=|player1_w=6|player1_l=0
+|player2=Big Dick Darrell|player2char=Samus|player2flag=us|player2bg=up|player2link=false|player2_w=4|player2_l=2
+|player3=Tirno|player3char=Falco|player3flag=us|player3bg=up|player3link=false|player3_w=5|player3_l=1
+|player4=Zoler|player4char=Fox|player4flag=se|player4bg=|player4link=false|player4_w=1|player4_l=5
+|player5=JustforLight|player5char=|player5flag=us|player5bg=|player5link=false|player5_w=0|player5_l=6
+|player6=KAOSTAR|player6char=Mewtwo|player6flag=us|player6bg=|player6link=false|player6_w=2|player6_l=4
+|player7=leoforthewin|player7char=Dr Mario|player7flag=us|player7bg=up|player7link=false|player7_w=3|player7_l=3
+
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+|1vs7result=2|1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=1|2vs3resultvs=2
+|2vs4result=2|2vs4resultvs=0
+|2vs5result=2|2vs5resultvs=0
+|2vs6result=2|2vs6resultvs=0
+|2vs7result=2|2vs7resultvs=0
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+|3vs7result=2|3vs7resultvs=1
+<!--Games of Player 4-->
+|4vs5result=2|4vs5resultvs=0
+|4vs6result=1|4vs6resultvs=2
+|4vs7result=0|4vs7resultvs=2
+<!--Games of Player 5-->
+|5vs6result=0|5vs6resultvs=2
+|5vs7result=0|5vs7resultvs=2
+<!--Games of Player 6-->
+|6vs7result=0|6vs7resultvs=2
+}}
+
+==Pool 21==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Fuzzyness|player1char=Falcon|player1flag=uk|player1bg=up|player1link=|player1_w=6|player1_l=0
+|player2=Zeborg|player2char=|player2flag=us|player2bg=|player2link=false|player2_w=1|player2_l=5
+|player3=Kizzo|player3char=Young Link|player3flag=us|player3bg=up|player3link=false|player3_w=4|player3_l=2
+|player4=G$|player4char=Marth|player4flag=us|player4bg=up|player4link=false|player4_w=5|player4_l=1
+|player5=LosMatix|player5char=Marth|player5flag=us|player5bg=up|player5link=false|player5_w=3|player5_l=3
+|player6=Queso|player6char=Falco|player6flag=us|player6bg=|player6link=false|player6_w=0|player6_l=6
+|player7=Raze|player7char=Young Link|player7flag=us|player7bg=|player7link=false|player7_w=2|player7_l=4
+
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+|1vs7result=2|1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=0|2vs4resultvs=2
+|2vs5result=0|2vs5resultvs=2
+|2vs6result=2|2vs6resultvs=0
+|2vs7result=0|2vs7resultvs=2
+<!--Games of Player 3-->
+|3vs4result=0|3vs4resultvs=2
+|3vs5result=2|3vs5resultvs=1
+|3vs6result=2|3vs6resultvs=0
+|3vs7result=2|3vs7resultvs=0
+<!--Games of Player 4-->
+|4vs5result=2|4vs5resultvs=0
+|4vs6result=2|4vs6resultvs=0
+|4vs7result=2|4vs7resultvs=0
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+|5vs7result=2|5vs7resultvs=1
+<!--Games of Player 6-->
+|6vs7result=1|6vs7resultvs=2
+}}
+
+==Pool 22==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=DEHF|player1char=Falco|player1flag=us|player1bg=up|player1link=|player1_w=6|player1_l=0
+|player2=Phil|player2char=Fox|player2flag=us|player2bg=up|player2link=|player2_w=4|player2_l=2
+|player3=Baka4moe|player3char=Peach|player3flag=us|player3bg=up|player3link=false|player3_w=5|player3_l=1
+|player4=Zeta|player4char=Falco|player4flag=us|player4bg=|player4link=false|player4_w=2|player4_l=4
+|player5=Dunks|player5char=Falcon|player5flag=us|player5bg=up|player5link=Dunk|player5_w=3|player5_l=3
+|player6=Rappster|player6char=Sheik|player6flag=us|player6bg=|player6link=false|player6_w=0|player6_l=6
+|player7=Jamnt0ast|player7char=Falco|player7flag=us|player7bg=|player7link=false|player7_w=1|player7_l=5
+
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=0
+|1vs3result=2|1vs3resultvs=1
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+|1vs7result=2|1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=0|2vs3resultvs=2
+|2vs4result=2|2vs4resultvs=0
+|2vs5result=2|2vs5resultvs=0
+|2vs6result=2|2vs6resultvs=0
+|2vs7result=2|2vs7resultvs=0
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=0
+|3vs6result=2|3vs6resultvs=0
+|3vs7result=2|3vs7resultvs=0
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=2|4vs6resultvs=0
+|4vs7result=2|4vs7resultvs=0
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+|5vs7result=2|5vs7resultvs=0
+<!--Games of Player 6-->
+|6vs7result=0|6vs7resultvs=2
+}}
+
+==Pool 23==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=Lovage|player1char=Fox|player1flag=us|player1bg=up|player1link=|player1_w=5|player1_l=1
+|player2=Shoyo|player2char=Fox|player2flag=us|player2bg=up|player2link=false|player2_w=5|player2_l=1
+|player3=forte27|player3char=|player3flag=us|player3bg=|player3link=false|player3_w=0|player3_l=6
+|player4=ORLY|player4char=Falcon|player4flag=us|player4bg=up|player4link=false|player4_w=4|player4_l=2
+|player5=ESAM|player5char=Samus|player5flag=us|player5bg=up|player5link=|player5_w=4|player5_l=2
+|player6=Laudandus|player6char=Sheik|player6flag=us|player6bg=|player6link=|player6_w=2|player6_l=4
+|player7=CoCo|player7char=Fox|player7flag=us|player7bg=|player7link=false|player7_w=1|player7_l=5
+
+<!--Games of Player 1-->
+|1vs2result=0|1vs2resultvs=2
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+|1vs7result=2|1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=2|2vs3resultvs=0
+|2vs4result=2|2vs4resultvs=1
+|2vs5result=1|2vs5resultvs=2
+|2vs6result=2|2vs6resultvs=0
+|2vs7result=2|2vs7resultvs=0
+<!--Games of Player 3-->
+|3vs4result=0|3vs4resultvs=2
+|3vs5result=0|3vs5resultvs=2
+|3vs6result=0|3vs6resultvs=2
+|3vs7result=0|3vs7resultvs=2
+<!--Games of Player 4-->
+|4vs5result=2|4vs5resultvs=1
+|4vs6result=2|4vs6resultvs=0
+|4vs7result=2|4vs7resultvs=0
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+|5vs7result=2|5vs7resultvs=0
+<!--Games of Player 6-->
+|6vs7result=2|6vs7resultvs=0
+}}
+
+==Pool 24==
+{{PlayerCrossTable
+|cell-width=100
+|doublerounded=false
+|displaystats=true
+|player1=DoH|player1char=Peach|player1flag=us|player1bg=up|player1link=|player1_w=6|player1_l=0
+|player2=Westballz|player2char=Falco|player2flag=us|player2bg=up|player2link=|player2_w=5|player2_l=1
+|player3=Zoap|player3char=Peach|player3flag=us|player3bg=up|player3link=false|player3_w=3|player3_l=3
+|player4=Razputin|player4char=Falco|player4flag=us|player4bg=|player4link=false|player4_w=0|player4_l=6
+|player5=MattDotZeb|player5char=Falco|player5flag=us|player5bg=|player5link=|player5_w=3|player5_l=3
+|player6=DCAP|player6char=Mr Game and Watch|player6flag=us|player6bg=|player6link=false|player6_w=1|player6_l=5
+|player7=Black Hayate|player7char=Fox|player7flag=us|player7bg=up|player7link=false|player7_w=3|player7_l=3
+
+<!--Games of Player 1-->
+|1vs2result=2|1vs2resultvs=1
+|1vs3result=2|1vs3resultvs=0
+|1vs4result=2|1vs4resultvs=0
+|1vs5result=2|1vs5resultvs=0
+|1vs6result=2|1vs6resultvs=0
+|1vs7result=2|1vs7resultvs=0
+<!--Games of Player 2-->
+|2vs3result=2|2vs3resultvs=0
+|2vs4result=2|2vs4resultvs=0
+|2vs5result=2|2vs5resultvs=0
+|2vs6result=2|2vs6resultvs=0
+|2vs7result=2|2vs7resultvs=0
+<!--Games of Player 3-->
+|3vs4result=2|3vs4resultvs=0
+|3vs5result=2|3vs5resultvs=1
+|3vs6result=2|3vs6resultvs=0
+|3vs7result=1|3vs7resultvs=2
+<!--Games of Player 4-->
+|4vs5result=0|4vs5resultvs=2
+|4vs6result=0|4vs6resultvs=2
+|4vs7result=0|4vs7resultvs=2
+<!--Games of Player 5-->
+|5vs6result=2|5vs6resultvs=0
+|5vs7result=2|5vs7resultvs=1
+<!--Games of Player 6-->
+|6vs7result=0|6vs7resultvs=2
+}}

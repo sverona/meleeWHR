@@ -1,0 +1,104 @@
+{{DISPLAYTITLE:Battle Arena Melbourne 8: ''Melee'' Doubles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=Battle Arena Melbourne/8/Melee
+|name2=Singles Pools
+|link2=Battle Arena Melbourne/8/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Battle Arena Melbourne/8/Melee/Singles Bracket
+|name4=Doubles Pools
+|link4=Battle Arena Melbourne/8/Melee/Doubles Pools
+|name5=Doubles Bracket
+|link5=Battle Arena Melbourne/8/Melee/Doubles Bracket
+|This=5
+}}
+==Winners Bracket==
+{{2SEDoublesBracket
+|r1m1t1p1=S.D |r1m1t1p1flag=au
+|r1m1t1p2=Syke |r1m1t1p2flag=au |r1m1t1score=3
+|r1m1t2p1=Kaiza |r1m1t2p1flag=au
+|r1m1t2p2=Rainbow |r1m1t2p2flag=au |r1m1t2score=2
+|r1m1win=1
+}}
+{{2SEDoublesBracket
+|hideroundtitles=true
+
+|r1m1t1p1=Atticus |r1m1t1p1flag=au
+|r1m1t1p2=Splice |r1m1t1p2flag=au |r1m1t1score=3
+|r1m1t2p1=JBirds |r1m1t2p1flag=
+|r1m1t2p2=smopup |r1m1t2p2flag=au |r1m1t2score=0
+|r1m1win=1
+}}
+
+==Losers Bracket==
+{{8DEDoublesLBracketSmwA
+|tourneylink=Battle Arena Melbourne/8/Melee
+|tourneyname=Battle Arena Melbourne 8
+|l1placement=7-8
+|l2placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=MC |l1m1t1p1flag=au
+|l1m1t1p2=Cunchy |l1m1t1p2flag= |l1m1t1score=2
+|l1m1t2p1=Redact |l1m1t2p1flag=au
+|l1m1t2p2=Dekar |l1m1t2p2flag=au |l1m1t2score=3
+|l1m1win=2
+
+|l1m2t1p1=sundowns |l1m2t1p1flag=au
+|l1m2t1p2=Spud |l1m2t1p2flag=nz |l1m2t1score=3
+|l1m2t2p1=Tyler |l1m2t2p1flag=au
+|l1m2t2p2=mask1n |l1m2t2p2flag=au |l1m2t2score=1
+|l1m2win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Kaiza |l2m1t1p1flag=au
+|l2m1t1p2=Rainbow |l2m1t1p2flag=au |l2m1t1score=2
+|l2m1t2p1=Redact |l2m1t2p1flag=au
+|l2m1t2p2=Dekar |l2m1t2p2flag=au |l2m1t2score=3
+|l2m1win=2
+
+|l2m2t1p1=JBirds |l2m2t1p1flag=
+|l2m2t1p2=smopup |l2m2t1p2flag=au |l2m2t1score=2
+|l2m2t2p1=sundowns |l2m2t2p1flag=au
+|l2m2t2p2=Spud |l2m2t2p2flag=nz |l2m2t2score=3
+|l2m2win=2
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Battle Arena Melbourne/8/Melee
+|tourneyname=Battle Arena Melbourne 8
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=S.D |r1m1t1p1flag=au
+|r1m1t1p2=Syke |r1m1t1p2flag=au |r1m1t1score=3
+|r1m1t2p1=Atticus |r1m1t2p1flag=au
+|r1m1t2p2=Splice |r1m1t2p2flag=au |r1m1t2score=1
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Redact |l1m1t1p1flag=au
+|l1m1t1p2=Dekar |l1m1t1p2flag=au |l1m1t1score=1
+|l1m1t2p1=sundowns |l1m1t2p1flag=au
+|l1m1t2p2=Spud |l1m1t2p2flag=nz |l1m1t2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Atticus |r2m1t1p1flag=au
+|r2m1t1p2=Splice |r2m1t1p2flag=au |r2m1t1score=3
+|r2m1t2p1=sundowns |r2m1t2p1flag=au
+|r2m1t2p2=Spud |r2m1t2p2flag=nz |r2m1t2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=S.D |r3m1t1p1flag=au
+|r3m1t1p2=Syke |r3m1t1p2flag=au |r3m1t1score=3 |r3m2t1score=
+|r3m1t2p1=Atticus |r3m1t2p1flag=au
+|r3m1t2p2=Splice |r3m1t2p2flag=au |r3m1t2score=1 |r3m2t2score=
+|r3m1win=1
+}}
+</onlyinclude>

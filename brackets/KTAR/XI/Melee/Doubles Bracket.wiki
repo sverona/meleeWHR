@@ -1,0 +1,66 @@
+{{SetGame|melee}}{{DISPLAYTITLE:KTAR XI: Doubles Bracket}}{{tabs static
+|name1=Overview
+|link1=KTAR/XI/Melee
+|name2=Singles Bracket
+|link2=KTAR/XI/Melee/Singles Bracket
+|name3=Doubles Bracket
+|link3=KTAR/XI/Melee/Doubles Bracket
+|This=3
+}}
+{{:KTAR/XI/Melee/Doubles Winners}}
+{{:KTAR/XI/Melee/Doubles Losers}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=KTAR/XI/Melee
+|tourneyname=KTAR XI
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=160
+<!-- FROM WINNERS -->
+|r1m1t1p1=Mew2King |r1m1t1p2=Hax  |r1m1t1p1flag=us |r1m1t1p2flag=us |r1m1t1score=3 |r1m1win=1
+|r1m1t2p1=Milkman |r1m1t2p2=Chillindude  |r1m1t2p1flag=us |r1m1t2p2flag=us |r1m1t2score=0
+|r1m1t1p1char1=sheik |r1m1t1p1stock1=1 |r1m1t1p2char1=fox |r1m1t1p2stock1=1
+|r1m1t2p1char1=fox |r1m1t2p1stock1=0 |r1m1t2p2char1=fox |r1m1t2p2stock1=0 |r1m1win1=1 |r1m1stage1=Final Destination
+|r1m1t1p1char2=sheik |r1m1t1p1stock2=1 |r1m1t1p2char2=fox |r1m1t1p2stock2=1
+|r1m1t2p1char2=fox |r1m1t2p1stock2=0 |r1m1t2p2char2=fox |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+|r1m1t1p1char3=sheik |r1m1t1p1stock3=2 |r1m1t1p2char3=fox |r1m1t1p2stock3=1
+|r1m1t2p1char3=fox |r1m1t2p1stock3=0 |r1m1t2p2char3=fox |r1m1t2p2stock3=0 |r1m1win3=1 |r1m1stage3=Final Destination
+|r1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/iLPYNL4Bdn0}}
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Jsex |l1m1t1p2=Swedish Delight  |l1m1t1p1flag=us |l1m1t1p2flag=us |l1m1t1score=2 |l1m1win=1
+|l1m1t2p1=Gahtzu |l1m1t2p2=Wizzrobe  |l1m1t2p1flag=us |l1m1t2p2flag=us |l1m1t2score=1
+|l1m1t1p1char1=fox |l1m1t1p1stock1=0 |l1m1t1p2char1=sheik |l1m1t1p2stock1=0
+|l1m1t2p1char1=cf |l1m1t2p1stock1=2 |l1m1t2p2char1=cf |l1m1t2p2stock1=1 |l1m1win1=2 |l1m1stage1=Battlefield
+|l1m1t1p1char2=fox |l1m1t1p1stock2=1 |l1m1t1p2char2=sheik |l1m1t1p2stock2=1
+|l1m1t2p1char2=cf |l1m1t2p1stock2=0 |l1m1t2p2char2=cf |l1m1t2p2stock2=0 |l1m1win2=1 |l1m1stage2=Final Destination
+|l1m1t1p1char3=fox |l1m1t1p1stock3=2 |l1m1t1p2char3=sheik |l1m1t1p2stock3=1
+|l1m1t2p1char3=cf |l1m1t2p1stock3=0 |l1m1t2p2char3=cf |l1m1t2p2stock3=0 |l1m1win3=1 |l1m1stage3=Dream Land
+|l1m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/ZtcRQR55yJ8}}
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Milkman |r2m1t1p2=Chillindude  |r2m1t1p1flag=us |r2m1t1p2flag=us |r2m1t1score=3 |r2m1win=1
+|r2m1t2p1=Jsex |r2m1t2p2=Swedish Delight  |r2m1t2p1flag=us |r2m1t2p2flag=us |r2m1t2score=0
+|r2m1t1p1char1=fox |r2m1t1p1stock1=1 |r2m1t1p2char1=fox |r2m1t1p2stock1=1
+|r2m1t2p1char1=fox |r2m1t2p1stock1=0 |r2m1t2p2char1=sheik |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Final Destination
+|r2m1t1p1char2=fox |r2m1t1p1stock2=1 |r2m1t1p2char2=fox |r2m1t1p2stock2=3
+|r2m1t2p1char2=fox |r2m1t2p1stock2=0 |r2m1t2p2char2=sheik |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1t1p1char3=fox |r2m1t1p1stock3=1 |r2m1t1p2char3=fox |r2m1t1p2stock3=2
+|r2m1t2p1char3=fox |r2m1t2p1stock3=0 |r2m1t2p2char3=sheik |r2m1t2p2stock3=0 |r2m1win3=1 |r2m1stage3=Dream Land
+|r2m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/0dl9pKm2XK4}}
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=Mew2King |r3m1t1p2=Hax  |r3m1t1p1flag=us |r3m1t1p2flag=us |r3m1t1score=3 |r3m1win=1
+|r3m1t2p1=Milkman |r3m1t2p2=Chillindude  |r3m1t2p1flag=us |r3m1t2p2flag=us |r3m1t2score=0
+|r3m1t1p1char1=sheik |r3m1t1p1stock1=2 |r3m1t1p2char1=fox |r3m1t1p2stock1=1
+|r3m1t2p1char1=fox |r3m1t2p1stock1=0 |r3m1t2p2char1=fox |r3m1t2p2stock1=0 |r3m1win1=1 |r3m1stage1=Final Destination
+|r3m1t1p1char2=sheik |r3m1t1p1stock2=1 |r3m1t1p2char2=fox |r3m1t1p2stock2=2
+|r3m1t2p1char2=fox |r3m1t2p1stock2=0 |r3m1t2p2char2=fox |r3m1t2p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1t1p1char3=sheik |r3m1t1p1stock3=2 |r3m1t1p2char3=fox |r3m1t1p2stock3=3
+|r3m1t2p1char3=fox |r3m1t2p1stock3=0 |r3m1t2p2char3=fox |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Final Destination
+|r3m1details={{BracketMatchDetails|preview=|lrthread=|interview=|recap=|comment=|live=|vod=https://youtu.be/PkGYS_JYNY4}}
+}}
+</onlyinclude>

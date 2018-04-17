@@ -1,0 +1,122 @@
+{{DISPLAYTITLE:B.E.A.S.T 6: ''Melee'' Doubles Bracket}}{{B.E.A.S.T_6_Tabs|This=5}}{{SetGame|melee}}
+{{:B.E.A.S.T/6/Melee/Doubles Bracket/Winners}}
+{{:B.E.A.S.T/6/Melee/Doubles Bracket/Losers}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=B.E.A.S.T/6/Melee
+|tourneyname=B.E.A.S.T 6
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+<!-- FROM WINNERS -->
+|r1m1t1p1=Leffen |r1m1t1p1flag=se
+|r1m1t1p2=Ice |r1m1t1p2flag=de |r1m1t1score=3
+|r1m1t2p1=Android |r1m1t2p1flag=se
+|r1m1t2p2=Armada |r1m1t2p2flag=se |r1m1t2score=2
+|r1m1win=1
+|r1m1t1p1char1=Fox |r1m1t1p1stock1=0 |r1m1t1p2char1=Fox |r1m1t1p2stock1=0
+|r1m1t2p1char1=Sheik |r1m1t2p1stock1=3 |r1m1t2p2char1=Peach |r1m1t2p2stock1=2 |r1m1win1=2 |r1m1stage1=Yoshi's Story
+|r1m1t1p1char2=Fox |r1m1t1p1stock2=0 |r1m1t1p2char2=Fox |r1m1t1p2stock2=1
+|r1m1t2p1char2=Sheik |r1m1t2p1stock2=0 |r1m1t2p2char2=Peach |r1m1t2p2stock2=0 |r1m1win2=1 |r1m1stage2=Pokémon Stadium
+|r1m1t1p1char3=Fox |r1m1t1p1stock3=0 |r1m1t1p2char3=Fox |r1m1t1p2stock3=0
+|r1m1t2p1char3=Sheik |r1m1t2p1stock3=1 |r1m1t2p2char3=Peach |r1m1t2p2stock3=1 |r1m1win3=2 |r1m1stage3=Dream Land
+|r1m1t1p1char4=Fox |r1m1t1p1stock4=1 |r1m1t1p2char4=Fox |r1m1t1p2stock4=1
+|r1m1t2p1char4=Sheik |r1m1t2p1stock4=0 |r1m1t2p2char4=Peach |r1m1t2p2stock4=0 |r1m1win4=1 |r1m1stage4=Battlefield
+|r1m1t1p1char5=Fox |r1m1t1p1stock5=2 |r1m1t1p2char5=Fox |r1m1t1p2stock5=2
+|r1m1t2p1char5=Sheik |r1m1t2p1stock5=0 |r1m1t2p2char5=Peach |r1m1t2p2stock5=0 |r1m1win5=1 |r1m1stage5=Final Destination
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=https://youtu.be/tth79NbXdb4
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+<!-- FROM LOSERS -->
+|l1m1t1p1=Professor Pro |l1m1t1p1flag=gb
+|l1m1t1p2=Fuzzyness |l1m1t1p2flag=gb |l1m1t1score=3
+|l1m1t2p1=Amsah |l1m1t2p1flag=nl
+|l1m1t2p2=Vanity Angel |l1m1t2p2flag=gb |l1m1t2score=1
+|l1m1win=1
+|l1m1t1p1char1=Fox |l1m1t1p1stock1=1 |l1m1t1p2char1=Fox |l1m1t1p2stock1=1
+|l1m1t2p1char1=Sheik |l1m1t2p1stock1=0 |l1m1t2p2char1=Peach |l1m1t2p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1t1p1char2=Fox |l1m1t1p1stock2=0 |l1m1t1p2char2=Fox |l1m1t1p2stock2=0
+|l1m1t2p1char2=Sheik |l1m1t2p1stock2=2 |l1m1t2p2char2=Peach |l1m1t2p2stock2=1 |l1m1win2=2 |l1m1stage2=Yoshi's Story
+|l1m1t1p1char3=fox |l1m1t1p1stock3=1 |l1m1t1p2char3=fox |l1m1t1p2stock3=1
+|l1m1t2p1char3=sheik |l1m1t2p1stock3=0 |l1m1t2p2char3=peach |l1m1t2p2stock3=0 |l1m1win3=1 |l1m1stage3=Pokémon Stadium
+|l1m1t1p1char4=fox |l1m1t1p1stock4=1 |l1m1t1p2char4=fox |l1m1t1p2stock4=0
+|l1m1t2p1char4=sheik |l1m1t2p1stock4=0 |l1m1t2p2char4=peach |l1m1t2p2stock4=0 |l1m1win4=1 |l1m1stage4=Dream Land
+|l1m1t1p1char5= |l1m1t1p1stock5= |l1m1t1p2char5= |l1m1t1p2stock5=
+|l1m1t2p1char5= |l1m1t2p1stock5= |l1m1t2p2char5= |l1m1t2p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=https://youtu.be/GhhNT2Up1Yg
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Android |r2m1t1p1flag=se
+|r2m1t1p2=Armada |r2m1t1p2flag=se |r2m1t1score=3
+|r2m1t2p1=Professor Pro |r2m1t2p1flag=gb
+|r2m1t2p2=Fuzzyness |r2m1t2p2flag=gb |r2m1t2score=0
+|r2m1win=1
+|r2m1t1p1char1=sheik |r2m1t1p1stock1=1 |r2m1t1p2char1=sheik |r2m1t1p2stock1=2
+|r2m1t2p1char1=fox |r2m1t2p1stock1=0 |r2m1t2p2char1=fox |r2m1t2p2stock1=0 |r2m1win1=1 |r2m1stage1=Battlefield
+|r2m1t1p1char2=sheik |r2m1t1p1stock2=2 |r2m1t1p2char2=sheik |r2m1t1p2stock2=2
+|r2m1t2p1char2=fox |r2m1t2p1stock2=0 |r2m1t2p2char2=fox |r2m1t2p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+|r2m1t1p1char3=sheik |r2m1t1p1stock3=1 |r2m1t1p2char3=sheik |r2m1t1p2stock3=1
+|r2m1t2p1char3=fox |r2m1t2p1stock3=0 |r2m1t2p2char3=cf |r2m1t2p2stock3=0 |r2m1win3=1 |r2m1stage3=Pokémon Stadium
+|r2m1t1p1char4= |r2m1t1p1stock4= |r2m1t1p2char4= |r2m1t1p2stock4=
+|r2m1t2p1char4= |r2m1t2p1stock4= |r2m1t2p2char4= |r2m1t2p2stock4= |r2m1win4= |r2m1stage4=
+|r2m1t1p1char5= |r2m1t1p1stock5= |r2m1t1p2char5= |r2m1t1p2stock5=
+|r2m1t2p1char5= |r2m1t2p1stock5= |r2m1t2p2char5= |r2m1t2p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=https://youtu.be/gtAHo6o-T_c
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+<!-- GRAND FINALS -->
+|r3m1t1p1=Leffen |r3m1t1p1flag=se
+|r3m1t1p2=Ice |r3m1t1p2flag=de |r3m1t1score=3
+|r3m1t2p1=Android |r3m1t2p1flag=se
+|r3m1t2p2=Armada |r3m1t2p2flag=se |r3m1t2score=2
+|r3m1win=1
+|r3m1t1p1char1=fox |r3m1t1p1stock1=0 |r3m1t1p2char1=fox |r3m1t1p2stock1=0
+|r3m1t2p1char1=sheik |r3m1t2p1stock1=2 |r3m1t2p2char1=peach |r3m1t2p2stock1=2 |r3m1win1=2 |r3m1stage1=Battlefield
+|r3m1t1p1char2=fox |r3m1t1p1stock2=0 |r3m1t1p2char2=fox |r3m1t1p2stock2=0
+|r3m1t2p1char2=sheik |r3m1t2p1stock2=1 |r3m1t2p2char2=peach |r3m1t2p2stock2=1 |r3m1win2=2 |r3m1stage2=Pokémon Stadium
+|r3m1t1p1char3=fox |r3m1t1p1stock3=1 |r3m1t1p2char3=fox |r3m1t1p2stock3=2
+|r3m1t2p1char3=sheik |r3m1t2p1stock3=0 |r3m1t2p2char3=peach |r3m1t2p2stock3=0 |r3m1win3=1 |r3m1stage3=Pokémon Stadium
+|r3m1t1p1char4=fox |r3m1t1p1stock4=2 |r3m1t1p2char4=fox |r3m1t1p2stock4=2
+|r3m1t2p1char4=sheik |r3m1t2p1stock4=0 |r3m1t2p2char4=peach |r3m1t2p2stock4=0 |r3m1win4=1 |r3m1stage4=Yoshi's Story
+|r3m1t1p1char5=fox |r3m1t1p1stock5=1 |r3m1t1p2char5=fox |r3m1t1p2stock5=3
+|r3m1t2p1char5=sheik |r3m1t2p1stock5=0 |r3m1t2p2char5=peach |r3m1t2p2stock5=0 |r3m1win5=1 |r3m1stage5=Dream Land
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=https://youtu.be/WlCDbkEfcj4
+|preview=
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>

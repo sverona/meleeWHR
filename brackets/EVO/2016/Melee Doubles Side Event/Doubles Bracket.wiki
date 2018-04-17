@@ -1,0 +1,100 @@
+{{DISPLAYTITLE:EVO 2016: ''Melee'' Doubles Side Event Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=EVO/2016/Melee Doubles Side Event
+|name2=Doubles Pools
+|link2=EVO/2016/Melee Doubles Side Event/Doubles Pools
+|name3=Doubles Bracket
+|link3=EVO/2016/Melee Doubles Side Event/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{2SEDoublesBracket
+|R1=Winners Semis
+|r1m1t1p1=Mew2King |r1m1t1p1flag=us
+|r1m1t1p2=Hungrybox |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Alan |r1m1t2p1flag=us
+|r1m1t2p2=Shroomed |r1m1t2p2flag=us |r1m1t2score=
+|r1m1win=1
+
+}}
+{{2SEDoublesBracket
+|hideroundtitles=true
+|r1m1t1p1=PewPewU |r1m1t1p1flag=us
+|r1m1t1p2=SFAT |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=ChuDat |r1m1t2p1flag=us
+|r1m1t2p2=Chillindude |r1m1t2p2flag=us |r1m1t2score=
+|r1m1win=1
+
+}}
+==Losers Bracket==
+{{8DEDoublesLBracketSmwA
+|tourneylink=EVO/2016/Melee Doubles Side Event
+|tourneyname=EVO 2016 Side Event
+|l1placement=7-8
+|l2placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Druggedfox |l1m1t1p1flag=us
+|l1m1t1p2=SleepyK |l1m1t1p2flag=us |l1m1t1score=
+|l1m1t2p1=Darkatma |l1m1t2p1flag=us
+|l1m1t2p2=Frootloop |l1m1t2p2flag=us |l1m1t2score={{win}}
+|l1m1win=2
+
+|l1m2t1p1=Bladewise |l1m2t1p1flag=us
+|l1m2t1p2=JAVI |l1m2t1p2flag=mx |l1m2t1score=
+|l1m2t2p1=Reno |l1m2t2p1flag=us
+|l1m2t2p2=Lucky |l1m2t2p2flag=us |l1m2t2score={{win}}
+|l1m2win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Alan |l2m1t1p1flag=us
+|l2m1t1p2=Shroomed |l2m1t1p2flag=us |l2m1t1score={{win}}
+|l2m1t2p1=Darkatma |l2m1t2p1flag=us
+|l2m1t2p2=Frootloop |l2m1t2p2flag=us |l2m1t2score=
+|l2m1win=1
+
+|l2m2t1p1=ChuDat |l2m2t1p1flag=us
+|l2m2t1p2=Chillindude |l2m2t1p2flag=us |l2m2t1score=
+|l2m2t2p1=Reno |l2m2t2p1flag=us
+|l2m2t2p2=Lucky |l2m2t2p2flag=us |l2m2t2score={{win}}
+|l2m2win=2
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=EVO/2016/Melee Doubles Side Event
+|tourneyname=EVO 2016 Side Event
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=Mew2King |r1m1t1p1flag=us
+|r1m1t1p2=Hungrybox |r1m1t1p2flag=us |r1m1t1score=
+|r1m1t2p1=PewPewU |r1m1t2p1flag=us
+|r1m1t2p2=SFAT |r1m1t2p2flag=us |r1m1t2score={{win}}
+|r1m1win=2
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Alan |l1m1t1p1flag=us
+|l1m1t1p2=Shroomed |l1m1t1p2flag=us |l1m1t1score={{win}}
+|l1m1t2p1=Reno |l1m1t2p1flag=us
+|l1m1t2p2=Lucky |l1m1t2p2flag=us |l1m1t2score=
+|l1m1win=1
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=Mew2King |r2m1t1p1flag=us
+|r2m1t1p2=Hungrybox |r2m1t1p2flag=us |r2m1t1score=3
+|r2m1t2p1=Alan |r2m1t2p1flag=us
+|r2m1t2p2=Shroomed |r2m1t2p2flag=us |r2m1t2score=2
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=PewPewU |r3m1t1p1flag=us
+|r3m1t1p2=SFAT |r3m1t1p2flag=us |r3m1t1score=2 |r3m2t1score=3
+|r3m1t2p1=Mew2King |r3m1t2p1flag=us
+|r3m1t2p2=Hungrybox |r3m1t2p2flag=us |r3m1t2score=3 |r3m2t2score=1
+|r3m1win=1
+}}</onlyinclude>

@@ -1,0 +1,697 @@
+{{DISPLAYTITLE:Kickstart 13: Doubles Bracket}}
+{{tabs static
+|name1=Overview
+|link1=Kickstart/13
+|name2=Singles Bracket
+|link2=Kickstart/13/Singles Bracket
+|name3=Doubles Bracket
+|link3=Kickstart/13/Doubles Bracket
+|This=3
+}}
+==Winners Bracket==
+{{64DEDoublesWBracketA
+|column-width=150
+<!-- ROUND 1 -->
+|r1m1t1p1=Hungrybox |r1m1t1p1flag=us
+|r1m1t1p2=Crunch |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Bye |r1m1t2p1flag=
+|r1m1t2p2=Bye |r1m1t2p2flag= |r1m1t2score=
+|r1m1win=1
+
+|r1m2t1p1=skrull |r1m2t1p1flag=gb
+|r1m2t1p2=Airfire |r1m2t1p2flag=gb |r1m2t1score=0
+|r1m2t2p1=Ali |r1m2t2p1flag=gb
+|r1m2t2p2=DiabolicalSloth |r1m2t2p2flag=gb |r1m2t2score=2
+|r1m2win=2
+
+|r1m3t1p1=UnHaven |r1m3t1p1flag=gb
+|r1m3t1p2=Edgeville |r1m3t1p2flag=gb |r1m3t1score={{win}}
+|r1m3t2p1=Bye |r1m3t2p1flag=
+|r1m3t2p2=Bye |r1m3t2p2flag= |r1m3t2score=
+|r1m3win=1
+
+|r1m4t1p1=CptNebula |r1m4t1p1flag=gb
+|r1m4t1p2=Mordo |r1m4t1p2flag=gb |r1m4t1score={{win}}
+|r1m4t2p1=Bye |r1m4t2p1flag=
+|r1m4t2p2=Bye |r1m4t2p2flag= |r1m4t2score=
+|r1m4win=1
+
+|r1m5t1p1=Alpha Dash |r1m5t1p1flag=gb
+|r1m5t1p2=Ryan S |r1m5t1p2flag=gb |r1m5t1score={{win}}
+|r1m5t2p1=Bye |r1m5t2p1flag=
+|r1m5t2p2=Bye |r1m5t2p2flag= |r1m5t2score=
+|r1m5win=1
+
+|r1m6t1p1=Omega |r1m6t1p1flag=gb
+|r1m6t1p2=Glaikit |r1m6t1p2flag=gb |r1m6t1score=0
+|r1m6t2p1=Lultam |r1m6t2p1flag=ie
+|r1m6t2p2=Herrok |r1m6t2p2flag=ie |r1m6t2score=2
+|r1m6win=2
+
+|r1m7t1p1=Frenzy |r1m7t1p1flag=gb
+|r1m7t1p2=Willz |r1m7t1p2flag=gb |r1m7t1score={{win}}
+|r1m7t2p1=Bye |r1m7t2p1flag=
+|r1m7t2p2=Bye |r1m7t2p2flag= |r1m7t2score=
+|r1m7win=1
+
+|r1m8t1p1=SHIP |r1m8t1p1flag=gb
+|r1m8t1p2=Biss |r1m8t1p2flag=gb |r1m8t1score=2
+|r1m8t2p1=xychojack |r1m8t2p1flag=gb
+|r1m8t2p2=Bengay |r1m8t2p2flag=us |r1m8t2score=0
+|r1m8win=1
+
+|r1m9t1p1=$tijn |r1m9t1p1flag=nl
+|r1m9t1p2=BrTarolg |r1m9t1p2flag=gb |r1m9t1score={{win}}
+|r1m9t2p1=Bye |r1m9t2p1flag=
+|r1m9t2p2=Bye |r1m9t2p2flag= |r1m9t2score=
+|r1m9win=1
+
+|r1m10t1p1=YellooW |r1m10t1p1flag=gb
+|r1m10t1p2=Loto |r1m10t1p2flag=gb |r1m10t1score=1
+|r1m10t2p1=WadaWada |r1m10t2p1flag=gb
+|r1m10t2p2=Kaspa |r1m10t2p2flag=gb |r1m10t2score=2
+|r1m10win=2
+
+|r1m11t1p1=Xardov |r1m11t1p1flag=es
+|r1m11t1p2=BGT! |r1m11t1p2flag=us |r1m11t1score={{win}}
+|r1m11t2p1=Bye |r1m11t2p1flag=
+|r1m11t2p2=Bye |r1m11t2p2flag= |r1m11t2score=
+|r1m11win=1
+
+|r1m12t1p1=Kipkosky |r1m12t1p1flag=gb
+|r1m12t1p2=Batch |r1m12t1p2flag=gb |r1m12t1score={{win}}
+|r1m12t2p1=Bye |r1m12t2p1flag=
+|r1m12t2p2=Bye |r1m12t2p2flag= |r1m12t2score=
+|r1m12win=1
+
+|r1m13t1p1=beLia |r1m13t1p1flag=fr
+|r1m13t1p2=Deathgazer |r1m13t1p2flag=gb |r1m13t1score={{win}}
+|r1m13t2p1=Bye |r1m13t2p1flag=
+|r1m13t2p2=Bye |r1m13t2p2flag= |r1m13t2score=
+|r1m13win=1
+
+|r1m14t1p1=Kieran |r1m14t1p1flag=gb
+|r1m14t1p2=Mr P |r1m14t1p2flag= |r1m14t1score=2
+|r1m14t2p1=Shark |r1m14t2p1flag=gb
+|r1m14t2p2=SporK |r1m14t2p2flag=gb |r1m14t2score=0
+|r1m14win=1
+
+|r1m15t1p1=Craft |r1m15t1p1flag=gb
+|r1m15t1p2=Way |r1m15t1p2flag=gb |r1m15t1score={{win}}
+|r1m15t2p1=Bye |r1m15t2p1flag=
+|r1m15t2p2=Bye |r1m15t2p2flag= |r1m15t2score=
+|r1m15win=1
+
+|r1m16t1p1=BapMoney |r1m16t1p1flag=gb
+|r1m16t1p2=Cong |r1m16t1p2flag=gb |r1m16t1score=2
+|r1m16t2p1=Chelly |r1m16t2p1flag=gb
+|r1m16t2p2=B34N |r1m16t2p2flag=us |r1m16t2score=0
+|r1m16win=1
+
+|r1m17t1p1=R23 |r1m17t1p1flag=gb
+|r1m17t1p2=Vanity Angel |r1m17t1p2flag=gb |r1m17t1score={{win}}
+|r1m17t2p1=Bye |r1m17t2p1flag=
+|r1m17t2p2=Bye |r1m17t2p2flag= |r1m17t2score=
+|r1m17win=1
+
+|r1m18t1p1=2K12 |r1m18t1p1flag=gb
+|r1m18t1p2=Design out of Shield |r1m18t1p2flag=gb |r1m18t1score=0
+|r1m18t2p1=Amitwin |r1m18t2p1flag=gb
+|r1m18t2p2=Chaindog777 |r1m18t2p2flag=gb |r1m18t2score=2
+|r1m18win=2
+
+|r1m19t1p1=Jett Star |r1m19t1p1flag=gb
+|r1m19t1p2=Diabound |r1m19t1p2flag=gb |r1m19t1score={{win}}
+|r1m19t2p1=Bye |r1m19t2p1flag=
+|r1m19t2p2=Bye |r1m19t2p2flag= |r1m19t2score=
+|r1m19win=1
+
+|r1m20t1p1=Setchi |r1m20t1p1flag=gb
+|r1m20t1p2=Liberz |r1m20t1p2flag=gb |r1m20t1score={{win}}
+|r1m20t2p1=Bye |r1m20t2p1flag=
+|r1m20t2p2=Bye |r1m20t2p2flag= |r1m20t2score=
+|r1m20win=1
+
+|r1m21t1p1=Phade |r1m21t1p1flag=gb
+|r1m21t1p2=Maskless |r1m21t1p2flag=gb |r1m21t1score={{win}}
+|r1m21t2p1=Bye |r1m21t2p1flag=
+|r1m21t2p2=Bye |r1m21t2p2flag= |r1m21t2score=
+|r1m21win=1
+
+|r1m22t1p1=Karhu |r1m22t1p1flag=gb
+|r1m22t1p2=PatSheezy |r1m22t1p2flag=gb |r1m22t1score=2
+|r1m22t2p1=Kami |r1m22t2p1flag=gb
+|r1m22t2p2=Guile |r1m22t2p2flag=gb |r1m22t2score=0
+|r1m22win=1
+
+|r1m23t1p1=23 |r1m23t1p1flag=gb
+|r1m23t1p2=JMG |r1m23t1p2flag=gb |r1m23t1score={{win}}
+|r1m23t2p1=Bye |r1m23t2p1flag=
+|r1m23t2p2=Bye |r1m23t2p2flag= |r1m23t2score=
+|r1m23win=1
+
+|r1m24t1p1=Munx |r1m24t1p1flag=gb
+|r1m24t1p2=Lalzu |r1m24t1p2flag=gb |r1m24t1score=2
+|r1m24t2p1=Deku_Don |r1m24t2p1flag=gb
+|r1m24t2p2=TruthTeller12 |r1m24t2p2flag=gb |r1m24t2score=0
+|r1m24win=1
+
+|r1m25t1p1=TimeMuffinPhD |r1m25t1p1flag=gb
+|r1m25t1p2=MINT |r1m25t1p2flag=gb |r1m25t1score={{win}}
+|r1m25t2p1=Bye |r1m25t2p1flag=
+|r1m25t2p2=Bye |r1m25t2p2flag= |r1m25t2score=
+|r1m25win=1
+
+|r1m26t1p1=Cogh |r1m26t1p1flag=gb
+|r1m26t1p2=Weaboowarrior |r1m26t1p2flag=gb |r1m26t1score=0
+|r1m26t2p1=Droblexero |r1m26t2p1flag=gb
+|r1m26t2p2=Sgt. Snuggles |r1m26t2p2flag=gb |r1m26t2score=2
+|r1m26win=2
+
+|r1m27t1p1=Reb |r1m27t1p1flag=gb
+|r1m27t1p2=Okameed |r1m27t1p2flag=gb |r1m27t1score={{win}}
+|r1m27t2p1=Bye |r1m27t2p1flag=
+|r1m27t2p2=Bye |r1m27t2p2flag= |r1m27t2score=
+|r1m27win=1
+
+|r1m28t1p1=Leaf |r1m28t1p1flag=gb
+|r1m28t1p2=Bungle |r1m28t1p2flag=gb |r1m28t1score={{win}}
+|r1m28t2p1=Bye |r1m28t2p1flag=
+|r1m28t2p2=Bye |r1m28t2p2flag= |r1m28t2score=
+|r1m28win=1
+
+|r1m29t1p1=CaptainJack |r1m29t1p1flag=jp
+|r1m29t1p2=MISTRRLOVE |r1m29t1p2flag=de |r1m29t1score={{win}}
+|r1m29t2p1=Bye |r1m29t2p1flag=
+|r1m29t2p2=Bye |r1m29t2p2flag= |r1m29t2score=
+|r1m29win=1
+
+|r1m30t1p1=Schwifty |r1m30t1p1flag=gb
+|r1m30t1p2=Scooty Booty Man |r1m30t1p2flag=gb |r1m30t1score=2
+|r1m30t2p1=Swish |r1m30t2p1flag=gb
+|r1m30t2p2=Judacris |r1m30t2p2flag=gb |r1m30t2score=0
+|r1m30win=1
+
+|r1m31t1p1=X1 |r1m31t1p1flag=gb
+|r1m31t1p2=JoMo |r1m31t1p2flag=gb |r1m31t1score={{win}}
+|r1m31t2p1=Bye |r1m31t2p1flag=
+|r1m31t2p2=Bye |r1m31t2p2flag= |r1m31t2score=
+|r1m31win=1
+
+|r1m32t1p1=Wellsanin |r1m32t1p1flag=gb
+|r1m32t1p2=ModestMajor |r1m32t1p2flag=gb |r1m32t1score=2
+|r1m32t2p1=BanBang |r1m32t2p1flag=gb
+|r1m32t2p2=Molten |r1m32t2p2flag=gb |r1m32t2score=0
+|r1m32win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=Hungrybox |r2m1t1p1flag=us
+|r2m1t1p2=Crunch |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=Ali |r2m1t2p1flag=gb
+|r2m1t2p2=DiabolicalSloth |r2m1t2p2flag=gb |r2m1t2score=1
+|r2m1win=1
+
+|r2m2t1p1=UnHaven |r2m2t1p1flag=gb
+|r2m2t1p2=Edgeville |r2m2t1p2flag=gb |r2m2t1score=1
+|r2m2t2p1=CptNebula |r2m2t2p1flag=gb
+|r2m2t2p2=Mordo |r2m2t2p2flag=gb |r2m2t2score=2
+|r2m2win=2
+
+|r2m3t1p1=Alpha Dash |r2m3t1p1flag=gb
+|r2m3t1p2=Ryan S |r2m3t1p2flag=gb |r2m3t1score=2
+|r2m3t2p1=Lultam |r2m3t2p1flag=ie
+|r2m3t2p2=Herrok |r2m3t2p2flag=ie |r2m3t2score=0
+|r2m3win=1
+
+|r2m4t1p1=Frenzy |r2m4t1p1flag=gb
+|r2m4t1p2=Willz |r2m4t1p2flag=gb |r2m4t1score=DQ
+|r2m4t2p1=SHIP |r2m4t2p1flag=gb
+|r2m4t2p2=Biss |r2m4t2p2flag=gb |r2m4t2score={{win}}
+|r2m4win=2
+
+|r2m5t1p1=$tijn |r2m5t1p1flag=nl
+|r2m5t1p2=BrTarolg |r2m5t1p2flag=gb |r2m5t1score={{win}}
+|r2m5t2p1=WadaWada |r2m5t2p1flag=gb
+|r2m5t2p2=Kaspa |r2m5t2p2flag=gb |r2m5t2score=DQ
+|r2m5win=1
+
+|r2m6t1p1=Xardov |r2m6t1p1flag=es
+|r2m6t1p2=BGT! |r2m6t1p2flag=us |r2m6t1score=2
+|r2m6t2p1=Kipkosky |r2m6t2p1flag=gb
+|r2m6t2p2=Batch |r2m6t2p2flag=gb |r2m6t2score=0
+|r2m6win=1
+
+|r2m7t1p1=beLia |r2m7t1p1flag=fr
+|r2m7t1p2=Deathgazer |r2m7t1p2flag=gb |r2m7t1score=2
+|r2m7t2p1=Kieran |r2m7t2p1flag=gb
+|r2m7t2p2=Mr P |r2m7t2p2flag= |r2m7t2score=0
+|r2m7win=1
+
+|r2m8t1p1=Craft |r2m8t1p1flag=gb
+|r2m8t1p2=Way |r2m8t1p2flag=gb |r2m8t1score=2
+|r2m8t2p1=BapMoney |r2m8t2p1flag=gb
+|r2m8t2p2=Cong |r2m8t2p2flag=gb |r2m8t2score=0
+|r2m8win=1
+
+|r2m9t1p1=R23 |r2m9t1p1flag=gb
+|r2m9t1p2=Vanity Angel |r2m9t1p2flag=gb |r2m9t1score=2
+|r2m9t2p1=Amitwin |r2m9t2p1flag=gb
+|r2m9t2p2=Chaindog777 |r2m9t2p2flag=gb |r2m9t2score=0
+|r2m9win=1
+
+|r2m10t1p1=Jett Star |r2m10t1p1flag=gb
+|r2m10t1p2=Diabound |r2m10t1p2flag=gb |r2m10t1score=2
+|r2m10t2p1=Setchi |r2m10t2p1flag=gb
+|r2m10t2p2=Liberz |r2m10t2p2flag=gb |r2m10t2score=0
+|r2m10win=1
+
+|r2m11t1p1=Phade |r2m11t1p1flag=gb
+|r2m11t1p2=Maskless |r2m11t1p2flag=gb |r2m11t1score=2
+|r2m11t2p1=Karhu |r2m11t2p1flag=gb
+|r2m11t2p2=PatSheezy |r2m11t2p2flag=gb |r2m11t2score=0
+|r2m11win=1
+
+|r2m12t1p1=23 |r2m12t1p1flag=gb
+|r2m12t1p2=JMG |r2m12t1p2flag=gb |r2m12t1score=2
+|r2m12t2p1=Munx |r2m12t2p1flag=gb
+|r2m12t2p2=Lalzu |r2m12t2p2flag=gb |r2m12t2score=0
+|r2m12win=1
+
+|r2m13t1p1=TimeMuffinPhD |r2m13t1p1flag=gb
+|r2m13t1p2=MINT |r2m13t1p2flag=gb |r2m13t1score=2
+|r2m13t2p1=Droblexero |r2m13t2p1flag=gb
+|r2m13t2p2=Sgt. Snuggles |r2m13t2p2flag=gb |r2m13t2score=0
+|r2m13win=1
+
+|r2m14t1p1=Reb |r2m14t1p1flag=gb
+|r2m14t1p2=Okameed |r2m14t1p2flag=gb |r2m14t1score=2
+|r2m14t2p1=Leaf |r2m14t2p1flag=gb
+|r2m14t2p2=Bungle |r2m14t2p2flag=gb |r2m14t2score=0
+|r2m14win=1
+
+|r2m15t1p1=CaptainJack |r2m15t1p1flag=jp
+|r2m15t1p2=MISTRRLOVE |r2m15t1p2flag=de |r2m15t1score=2
+|r2m15t2p1=Schwifty |r2m15t2p1flag=gb
+|r2m15t2p2=Scooty Booty Man |r2m15t2p2flag=gb |r2m15t2score=0
+|r2m15win=1
+
+|r2m16t1p1=X1 |r2m16t1p1flag=gb
+|r2m16t1p2=JoMo |r2m16t1p2flag=gb |r2m16t1score=2
+|r2m16t2p1=Wellsanin |r2m16t2p1flag=gb
+|r2m16t2p2=ModestMajor |r2m16t2p2flag=gb |r2m16t2score=1
+|r2m16win=1
+
+<!-- ROUND 3 -->
+|r3m1t1p1=Hungrybox |r3m1t1p1flag=us
+|r3m1t1p2=Crunch |r3m1t1p2flag=us |r3m1t1score=2
+|r3m1t2p1=CptNebula |r3m1t2p1flag=gb
+|r3m1t2p2=Mordo |r3m1t2p2flag=gb |r3m1t2score=1
+|r3m1win=1
+
+|r3m2t1p1=Alpha Dash |r3m2t1p1flag=gb
+|r3m2t1p2=Ryan S |r3m2t1p2flag=gb |r3m2t1score=2
+|r3m2t2p1=SHIP |r3m2t2p1flag=gb
+|r3m2t2p2=Biss |r3m2t2p2flag=gb |r3m2t2score=0
+|r3m2win=1
+
+
+|r3m3t1p1=$tijn |r3m3t1p1flag=nl
+|r3m3t1p2=BrTarolg |r3m3t1p2flag=gb |r3m3t1score=2
+|r3m3t2p1=Xardov |r3m3t2p1flag=es
+|r3m3t2p2=BGT! |r3m3t2p2flag=us |r3m3t2score=0
+|r3m3win=1
+
+|r3m4t1p1=beLia |r3m4t1p1flag=fr
+|r3m4t1p2=Deathgazer |r3m4t1p2flag=gb |r3m4t1score=0
+|r3m4t2p1=Craft |r3m4t2p1flag=gb
+|r3m4t2p2=Way |r3m4t2p2flag=gb |r3m4t2score=2
+|r3m4win=2
+
+|r3m5t1p1=R23 |r3m5t1p1flag=gb
+|r3m5t1p2=Vanity Angel |r3m5t1p2flag=gb |r3m5t1score=2
+|r3m5t2p1=Jett Star |r3m5t2p1flag=gb
+|r3m5t2p2=Diabound |r3m5t2p2flag=gb |r3m5t2score=0
+|r3m5win=1
+
+|r3m6t1p1=Phade |r3m6t1p1flag=gb
+|r3m6t1p2=Maskless |r3m6t1p2flag=gb |r3m6t1score=1
+|r3m6t2p1=23 |r3m6t2p1flag=gb
+|r3m6t2p2=JMG |r3m6t2p2flag=gb |r3m6t2score=2
+|r3m6win=2
+
+|r3m7t1p1=TimeMuffinPhD |r3m7t1p1flag=gb
+|r3m7t1p2=MINT |r3m7t1p2flag=gb |r3m7t1score=2
+|r3m7t2p1=Reb |r3m7t2p1flag=gb
+|r3m7t2p2=Okameed |r3m7t2p2flag=gb |r3m7t2score=1
+|r3m7win=1
+
+|r3m8t1p1=CaptainJack |r3m8t1p1flag=jp
+|r3m8t1p2=MISTRRLOVE |r3m8t1p2flag=de |r3m8t1score=2
+|r3m8t2p1=X1 |r3m8t2p1flag=gb
+|r3m8t2p2=JoMo |r3m8t2p2flag=gb |r3m8t2score=0
+|r3m8win=1
+
+<!-- ROUND 4 -->
+|r4m1t1p1=Hungrybox |r4m1t1p1flag=us
+|r4m1t1p2=Crunch |r4m1t1p2flag=us |r4m1t1score=0
+|r4m1t2p1=Alpha Dash |r4m1t2p1flag=gb
+|r4m1t2p2=Ryan S |r4m1t2p2flag=gb |r4m1t2score=2
+|r4m1win=2
+
+|r4m2t1p1=$tijn |r4m2t1p1flag=nl
+|r4m2t1p2=BrTarolg |r4m2t1p2flag=gb |r4m2t1score=2
+|r4m2t2p1=Craft |r4m2t2p1flag=gb
+|r4m2t2p2=Way |r4m2t2p2flag=gb |r4m2t2score=0
+|r4m2win=1
+
+|r4m3t1p1=R23 |r4m3t1p1flag=gb
+|r4m3t1p2=Vanity Angel |r4m3t1p2flag=gb |r4m3t1score=2
+|r4m3t2p1=23 |r4m3t2p1flag=gb
+|r4m3t2p2=JMG |r4m3t2p2flag=gb |r4m3t2score=0
+|r4m3win=1
+
+|r4m4t1p1=TimeMuffinPhD |r4m4t1p1flag=gb
+|r4m4t1p2=MINT |r4m4t1p2flag=gb |r4m4t1score=2
+|r4m4t2p1=CaptainJack |r4m4t2p1flag=jp
+|r4m4t2p2=MISTRRLOVE |r4m4t2p2flag=de |r4m4t2score=0
+|r4m4win=1
+
+<!-- ROUND 5 -->
+|r5m1t1p1=Alpha Dash |r5m1t1p1flag=gb
+|r5m1t1p2=Ryan S |r5m1t1p2flag=gb |r5m1t1score=0
+|r5m1t2p1=$tijn |r5m1t2p1flag=nl
+|r5m1t2p2=BrTarolg |r5m1t2p2flag=gb |r5m1t2score=3
+|r5m1win=2
+
+|r5m2t1p1=R23 |r5m2t1p1flag=gb
+|r5m2t1p2=Vanity Angel |r5m2t1p2flag=gb |r5m2t1score=3
+|r5m2t2p1=TimeMuffinPhD |r5m2t2p1flag=gb
+|r5m2t2p2=MINT |r5m2t2p2flag=gb |r5m2t2score=1
+|r5m2win=1
+}}
+==Losers Bracket==
+{{48DEDoublesLBracketA
+|column-width=150
+<!-- ROUND 1 -->
+|l1m1t1p1=Wellsanin |l1m1t1p1flag=gb
+|l1m1t1p2=ModestMajor |l1m1t1p2flag=gb |l1m1t1score=2
+|l1m1t2p1=skrull |l1m1t2p1flag=gb
+|l1m1t2p2=Airfire |l1m1t2p2flag=gb |l1m1t2score=0
+|l1m1win=1
+
+|l1m2t1p1=Schwifty |l1m2t1p1flag=gb
+|l1m2t1p2=Scooty Booty Man |l1m2t1p2flag=gb |l1m2t1score={{win}}
+|l1m2t2p1=Bye |l1m2t2p1flag=
+|l1m2t2p2=Bye |l1m2t2p2flag= |l1m2t2score=
+|l1m2win=1
+
+|l1m3t1p1=Leaf |l1m3t1p1flag=gb
+|l1m3t1p2=Bungle |l1m3t1p2flag=gb |l1m3t1score=DQ
+|l1m3t2p1=Omega |l1m3t2p1flag=gb
+|l1m3t2p2=Glaikit |l1m3t2p2flag=gb |l1m3t2score={{win}}
+|l1m3win=2
+
+|l1m4t1p1=Droblexero |l1m4t1p1flag=gb
+|l1m4t1p2=Sgt. Snuggles |l1m4t1p2flag=gb |l1m4t1score=2
+|l1m4t2p1=xychojack |l1m4t2p1flag=gb
+|l1m4t2p2=Bengay |l1m4t2p2flag=us |l1m4t2score=0
+|l1m4win=1
+
+|l1m5t1p1=Munx |l1m5t1p1flag=gb
+|l1m5t1p2=Lalzu |l1m5t1p2flag=gb |l1m5t1score=2
+|l1m5t2p1=YellooW |l1m5t2p1flag=gb
+|l1m5t2p2=Loto |l1m5t2p2flag=gb |l1m5t2score=0
+|l1m5win=1
+
+|l1m6t1p1=Karhu |l1m6t1p1flag=gb
+|l1m6t1p2=PatSheezy |l1m6t1p2flag=gb |l1m6t1score={{win}}
+|l1m6t2p1=Bye |l1m6t2p1flag=
+|l1m6t2p2=Bye |l1m6t2p2flag= |l1m6t2score=
+|l1m6win=1
+
+|l1m7t1p1=Setchi |l1m7t1p1flag=gb
+|l1m7t1p2=Liberz |l1m7t1p2flag=gb |l1m7t1score=2
+|l1m7t2p1=Shark |l1m7t2p1flag=gb
+|l1m7t2p2=SporK |l1m7t2p2flag=gb |l1m7t2score=0
+|l1m7win=1
+
+|l1m8t1p1=Amitwin |l1m8t1p1flag=gb
+|l1m8t1p2=Chaindog777 |l1m8t1p2flag=gb |l1m8t1score=2
+|l1m8t2p1=Chelly |l1m8t2p1flag=gb
+|l1m8t2p2=B34N |l1m8t2p2flag=us |l1m8t2score=0
+|l1m8win=1
+
+|l1m9t1p1=BapMoney |l1m9t1p1flag=gb
+|l1m9t1p2=Cong |l1m9t1p2flag=gb |l1m9t1score=2
+|l1m9t2p1=2K12 |l1m9t2p1flag=gb
+|l1m9t2p2=Design out of Shield |l1m9t2p2flag=gb |l1m9t2score=0
+|l1m9win=1
+
+|l1m10t1p1=Kieran |l1m10t1p1flag=gb
+|l1m10t1p2=Mr P |l1m10t1p2flag= |l1m10t1score={{win}}
+|l1m10t2p1=Bye |l1m10t2p1flag=
+|l1m10t2p2=Bye |l1m10t2p2flag= |l1m10t2score=
+|l1m10win=1
+
+|l1m11t1p1=Kipkosky |l1m11t1p1flag=gb
+|l1m11t1p2=Batch |l1m11t1p2flag=gb |l1m11t1score=2
+|l1m11t2p1=Kami |l1m11t2p1flag=gb
+|l1m11t2p2=Guile |l1m11t2p2flag=gb |l1m11t2score=0
+|l1m11win=1
+
+|l1m12t1p1=WadaWada |l1m12t1p1flag=gb
+|l1m12t1p2=Kaspa |l1m12t1p2flag=gb |l1m12t1score=0
+|l1m12t2p1=Deku_Don |l1m12t2p1flag=gb
+|l1m12t2p2=TruthTeller12 |l1m12t2p2flag=gb |l1m12t2score=2
+|l1m12win=2
+
+|l1m13t1p1=Frenzy |l1m13t1p1flag=gb
+|l1m13t1p2=Willz |l1m13t1p2flag=gb |l1m13t1score=2
+|l1m13t2p1=Cogh |l1m13t2p1flag=gb
+|l1m13t2p2=Weaboowarrior |l1m13t2p2flag=gb |l1m13t2score=0
+|l1m13win=1
+
+|l1m14t1p1=Lultam |l1m14t1p1flag=ie
+|l1m14t1p2=Herrok |l1m14t1p2flag=ie |l1m14t1score={{win}}
+|l1m14t2p1=Bye |l1m14t2p1flag=
+|l1m14t2p2=Bye |l1m14t2p2flag= |l1m14t2score=
+|l1m14win=1
+
+|l1m15t1p1=UnHaven |l1m15t1p1flag=gb
+|l1m15t1p2=Edgeville |l1m15t1p2flag=gb |l1m15t1score=2
+|l1m15t2p1=Swish |l1m15t2p1flag=gb
+|l1m15t2p2=Judacris |l1m15t2p2flag=gb |l1m15t2score=0
+|l1m15win=1
+
+|l1m16t1p1=Ali |l1m16t1p1flag=gb
+|l1m16t1p2=DiabolicalSloth |l1m16t1p2flag=gb |l1m16t1score=2
+|l1m16t2p1=BanBang |l1m16t2p1flag=gb
+|l1m16t2p2=Molten |l1m16t2p2flag=gb |l1m16t2score=1
+|l1m16win=1
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Wellsanin |l2m1t1p1flag=gb
+|l2m1t1p2=ModestMajor |l2m1t1p2flag=gb |l2m1t1score=0
+|l2m1t2p1=Schwifty |l2m1t2p1flag=gb
+|l2m1t2p2=Scooty Booty Man |l2m1t2p2flag=gb |l2m1t2score=2
+|l2m1win=2
+
+|l2m2t1p1=Omega |l2m2t1p1flag=gb
+|l2m2t1p2=Glaikit |l2m2t1p2flag=gb |l2m2t1score=1
+|l2m2t2p1=Droblexero |l2m2t2p1flag=gb
+|l2m2t2p2=Sgt. Snuggles |l2m2t2p2flag=gb |l2m2t2score=2
+|l2m2win=2
+
+|l2m3t1p1=Munx |l2m3t1p1flag=gb
+|l2m3t1p2=Lalzu |l2m3t1p2flag=gb |l2m3t1score=1
+|l2m3t2p1=Karhu |l2m3t2p1flag=gb
+|l2m3t2p2=PatSheezy |l2m3t2p2flag=gb |l2m3t2score=2
+|l2m3win=2
+
+|l2m4t1p1=Setchi |l2m4t1p1flag=gb
+|l2m4t1p2=Liberz |l2m4t1p2flag=gb |l2m4t1score=2
+|l2m4t2p1=Amitwin |l2m4t2p1flag=gb
+|l2m4t2p2=Chaindog777 |l2m4t2p2flag=gb |l2m4t2score=1
+|l2m4win=1
+
+|l2m5t1p1=BapMoney |l2m5t1p1flag=gb
+|l2m5t1p2=Cong |l2m5t1p2flag=gb |l2m5t1score=2
+|l2m5t2p1=Kieran |l2m5t2p1flag=gb
+|l2m5t2p2=Mr P |l2m5t2p2flag= |l2m5t2score=1
+|l2m5win=1
+
+|l2m6t1p1=Kipkosky |l2m6t1p1flag=gb
+|l2m6t1p2=Batch |l2m6t1p2flag=gb |l2m6t1score=2
+|l2m6t2p1=Deku_Don |l2m6t2p1flag=gb
+|l2m6t2p2=TruthTeller12 |l2m6t2p2flag=gb |l2m6t2score=0
+|l2m6win=1
+
+|l2m7t1p1=Frenzy |l2m7t1p1flag=gb
+|l2m7t1p2=Willz |l2m7t1p2flag=gb |l2m7t1score=2
+|l2m7t2p1=Lultam |l2m7t2p1flag=ie
+|l2m7t2p2=Herrok |l2m7t2p2flag=ie |l2m7t2score=0
+|l2m7win=1
+
+|l2m8t1p1=UnHaven |l2m8t1p1flag=gb
+|l2m8t1p2=Edgeville |l2m8t1p2flag=gb |l2m8t1score=2
+|l2m8t2p1=Ali |l2m8t2p1flag=gb
+|l2m8t2p2=DiabolicalSloth |l2m8t2p2flag=gb |l2m8t2score=1
+|l2m8win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=beLia |l3m1t1p1flag=fr
+|l3m1t1p2=Deathgazer |l3m1t1p2flag=gb |l3m1t1score=2
+|l3m1t2p1=Schwifty |l3m1t2p1flag=gb
+|l3m1t2p2=Scooty Booty Man |l3m1t2p2flag=gb |l3m1t2score=0
+|l3m1win=1
+
+|l3m2t1p1=Xardov |l3m2t1p1flag=es
+|l3m2t1p2=BGT! |l3m2t1p2flag=us |l3m2t1score=2
+|l3m2t2p1=Droblexero |l3m2t2p1flag=gb
+|l3m2t2p2=Sgt. Snuggles |l3m2t2p2flag=gb |l3m2t2score=0
+|l3m2win=1
+
+|l3m3t1p1=SHIP |l3m3t1p1flag=gb
+|l3m3t1p2=Biss |l3m3t1p2flag=gb |l3m3t1score=2
+|l3m3t2p1=Karhu |l3m3t2p1flag=gb
+|l3m3t2p2=PatSheezy |l3m3t2p2flag=gb |l3m3t2score=0
+|l3m3win=1
+
+|l3m4t1p1=CptNebula |l3m4t1p1flag=gb
+|l3m4t1p2=Mordo |l3m4t1p2flag=gb |l3m4t1score=2
+|l3m4t2p1=Setchi |l3m4t2p1flag=gb
+|l3m4t2p2=Liberz |l3m4t2p2flag=gb |l3m4t2score=1
+|l3m4win=1
+
+|l3m5t1p1=X1 |l3m5t1p1flag=gb
+|l3m5t1p2=JoMo |l3m5t1p2flag=gb |l3m5t1score=2
+|l3m5t2p1=BapMoney |l3m5t2p1flag=gb
+|l3m5t2p2=Cong |l3m5t2p2flag=gb |l3m5t2score=0
+|l3m5win=1
+
+|l3m6t1p1=Reb |l3m6t1p1flag=gb
+|l3m6t1p2=Okameed |l3m6t1p2flag=gb |l3m6t1score=2
+|l3m6t2p1=Kipkosky |l3m6t2p1flag=gb
+|l3m6t2p2=Batch |l3m6t2p2flag=gb |l3m6t2score=1
+|l3m6win=1
+
+|l3m7t1p1=Phade |l3m7t1p1flag=gb
+|l3m7t1p2=Maskless |l3m7t1p2flag=gb |l3m7t1score=2
+|l3m7t2p1=Frenzy |l3m7t2p1flag=gb
+|l3m7t2p2=Willz |l3m7t2p2flag=gb |l3m7t2score=1
+|l3m7win=1
+
+|l3m8t1p1=Jett Star |l3m8t1p1flag=gb
+|l3m8t1p2=Diabound |l3m8t1p2flag=gb |l3m8t1score=0
+|l3m8t2p1=UnHaven |l3m8t2p1flag=gb
+|l3m8t2p2=Edgeville |l3m8t2p2flag=gb |l3m8t2score=2
+|l3m8win=2
+
+<!-- ROUND 4 -->
+|l4m1t1p1=beLia |l4m1t1p1flag=fr
+|l4m1t1p2=Deathgazer |l4m1t1p2flag=gb |l4m1t1score=2
+|l4m1t2p1=Xardov |l4m1t2p1flag=es
+|l4m1t2p2=BGT! |l4m1t2p2flag=us |l4m1t2score=0
+|l4m1win=1
+
+|l4m2t1p1=SHIP |l4m2t1p1flag=gb
+|l4m2t1p2=Biss |l4m2t1p2flag=gb |l4m2t1score=1
+|l4m2t2p1=CptNebula |l4m2t2p1flag=gb
+|l4m2t2p2=Mordo |l4m2t2p2flag=gb |l4m2t2score=2
+|l4m2win=2
+
+|l4m3t1p1=X1 |l4m3t1p1flag=gb
+|l4m3t1p2=JoMo |l4m3t1p2flag=gb |l4m3t1score=2
+|l4m3t2p1=Reb |l4m3t2p1flag=gb
+|l4m3t2p2=Okameed |l4m3t2p2flag=gb |l4m3t2score=0
+|l4m3win=1
+
+|l4m4t1p1=Phade |l4m4t1p1flag=gb
+|l4m4t1p2=Maskless |l4m4t1p2flag=gb |l4m4t1score=2
+|l4m4t2p1=UnHaven |l4m4t2p1flag=gb
+|l4m4t2p2=Edgeville |l4m4t2p2flag=gb |l4m4t2score=0
+|l4m4win=1
+
+<!-- ROUND 5 -->
+|l5m1t1p1=23 |l5m1t1p1flag=gb
+|l5m1t1p2=JMG |l5m1t1p2flag=gb |l5m1t1score=2
+|l5m1t2p1=beLia |l5m1t2p1flag=fr
+|l5m1t2p2=Deathgazer |l5m1t2p2flag=gb |l5m1t2score=0
+|l5m1win=1
+
+|l5m2t1p1=CaptainJack |l5m2t1p1flag=jp
+|l5m2t1p2=MISTRRLOVE |l5m2t1p2flag=de |l5m2t1score=2
+|l5m2t2p1=CptNebula |l5m2t2p1flag=gb
+|l5m2t2p2=Mordo |l5m2t2p2flag=gb |l5m2t2score=0
+|l5m2win=1
+
+|l5m3t1p1=Hungrybox |l5m3t1p1flag=us
+|l5m3t1p2=Crunch |l5m3t1p2flag=us |l5m3t1score=2
+|l5m3t2p1=X1 |l5m3t2p1flag=gb
+|l5m3t2p2=JoMo |l5m3t2p2flag=gb |l5m3t2score=0
+|l5m3win=1
+
+|l5m4t1p1=Craft |l5m4t1p1flag=gb
+|l5m4t1p2=Way |l5m4t1p2flag=gb |l5m4t1score=2
+|l5m4t2p1=Phade |l5m4t2p1flag=gb
+|l5m4t2p2=Maskless |l5m4t2p2flag=gb |l5m4t2score=0
+|l5m4win=1
+
+<!-- ROUND 6 -->
+|l6m1t1p1=23 |l6m1t1p1flag=gb
+|l6m1t1p2=JMG |l6m1t1p2flag=gb |l6m1t1score=1
+|l6m1t2p1=CaptainJack |l6m1t2p1flag=jp
+|l6m1t2p2=MISTRRLOVE |l6m1t2p2flag=de |l6m1t2score=2
+|l6m1win=2
+
+|l6m2t1p1=Hungrybox |l6m2t1p1flag=us
+|l6m2t1p2=Crunch |l6m2t1p2flag=us |l6m2t1score=2
+|l6m2t2p1=Craft |l6m2t2p1flag=gb
+|l6m2t2p2=Way |l6m2t2p2flag=gb |l6m2t2score=0
+|l6m2win=1
+
+<!-- ROUND 7 -->
+|l7m1t1p1=Alpha Dash |l7m1t1p1flag=gb
+|l7m1t1p2=Ryan S |l7m1t1p2flag=gb |l7m1t1score=3
+|l7m1t2p1=CaptainJack |l7m1t2p1flag=jp
+|l7m1t2p2=MISTRRLOVE |l7m1t2p2flag=de |l7m1t2score=2
+|l7m1win=1
+
+|l7m2t1p1=TimeMuffinPhD |l7m2t1p1flag=gb
+|l7m2t1p2=MINT |l7m2t1p2flag=gb |l7m2t1score=0
+|l7m2t2p1=Hungrybox |l7m2t2p1flag=us
+|l7m2t2p2=Crunch |l7m2t2p2flag=us |l7m2t2score=3
+|l7m2win=2
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesBracket
+<!-- FROM WINNERS -->
+|r1m1t1p1=$tijn |r1m1t1p1flag=nl
+|r1m1t1p2=BrTarolg |r1m1t1p2flag=gb |r1m1t1score=0
+|r1m1t2p1=R23 |r1m1t2p1flag=gb
+|r1m1t2p2=Vanity Angel |r1m1t2p2flag=gb |r1m1t2score=3
+|r1m1win=2
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Alpha Dash |l1m1t1p1flag=gb
+|l1m1t1p2=Ryan S |l1m1t1p2flag=gb |l1m1t1score=0
+|l1m1t2p1=Hungrybox |l1m1t2p1flag=us
+|l1m1t2p2=Crunch |l1m1t2p2flag=us |l1m1t2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=$tijn |r2m1t1p1flag=nl
+|r2m1t1p2=BrTarolg |r2m1t1p2flag=gb |r2m1t1score=DQ
+|r2m1t2p1=Hungrybox |r2m1t2p1flag=us
+|r2m1t2p2=Crunch |r2m1t2p2flag=us |r2m1t2score={{win}}
+|r2m1win=2
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=R23 |r3m1t1p1flag=gb
+|r3m1t1p2=Vanity Angel |r3m1t1p2flag=gb |r3m1t1score=3
+|r3m1t2p1=Hungrybox |r3m1t2p1flag=us
+|r3m1t2p2=Crunch |r3m1t2p2flag=us |r3m1t2score=1
+|r3m1win=1
+}}
+</onlyinclude>

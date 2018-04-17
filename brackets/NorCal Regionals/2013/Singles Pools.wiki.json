@@ -1,0 +1,497 @@
+{
+    "===Final Bracket===": {
+        "l1m1": {
+            "p1": "HomeMadeWaffles",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Tafokints",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Fly Amanita",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Fly Amanita",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "HomeMadeWaffles",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "advance",
+            "p2": "Fly Amanita",
+            "p2flag": "us",
+            "p2score": "advance"
+        }
+    },
+    "===Losers Bracket===": {
+        "l1m1": {
+            "p1": "Mogwai",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Ilya",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Hoon",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "NWC22B",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Dunk",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Coolkid",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "CrispyTacoz",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "FFM",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m7": {
+            "p1": "FOO #1",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "CAMERON",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "!*J~Wise*!",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Mogwai",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Ilya",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m2": {
+            "p1": "NWC22B",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Dunk",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "Coolkid",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "CrispyTacoz",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "FOO #1",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "CAMERON",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "HomeMadeWaffles",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Ilya",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Bizzarro Flame",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Dunk",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Isis",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Coolkid",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Germ",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "CAMERON",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "HomeMadeWaffles",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bizzarro Flame",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Coolkid",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Germ",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m1": {
+            "p1": "Silent Wolf",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "HomeMadeWaffles",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l5m2": {
+            "p1": "Tafokints",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Germ",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "===Winners Bracket===": {
+        "r1m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m10": {
+            "p1": "Ilya",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "FFM",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m11": {
+            "p1": "Mogwai",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m12": {
+            "p1": "Isis",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m13": {
+            "p1": "Silent Wolf",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m14": {
+            "p1": "!*J~Wise*!",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "NWC22B",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m15": {
+            "p1": "Germ",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m16": {
+            "p1": "Dunk",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Hoon",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "CrispyTacoz",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "Coolkid",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "HomeMadeWaffles",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Tafokints",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "CAMERON",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Bizzarro Flame",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "FOO #1",
+            "p1flag": "",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m9": {
+            "p1": "Fly Amanita",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "CrispyTacoz",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "Coolkid",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "HomeMadeWaffles",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "Tafokints",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "CAMERON",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Bizzarro Flame",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "FOO #1",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m5": {
+            "p1": "Fly Amanita",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Ilya",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m6": {
+            "p1": "Mogwai",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Isis",
+            "p2flag": "",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r2m7": {
+            "p1": "Silent Wolf",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "NWC22B",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m8": {
+            "p1": "Germ",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Dunk",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "HomeMadeWaffles",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Tafokints",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bizzarro Flame",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m3": {
+            "p1": "Fly Amanita",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Isis",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m4": {
+            "p1": "Silent Wolf",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Germ",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Tafokints",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r4m2": {
+            "p1": "Fly Amanita",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Silent Wolf",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        }
+    },
+    "==Pool 1==": {},
+    "==Pool 2==": {},
+    "==Pool 3==": {},
+    "==Pool 4==": {}
+}

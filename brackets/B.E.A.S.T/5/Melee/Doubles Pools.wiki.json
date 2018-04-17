@@ -1,0 +1,286 @@
+{
+    "===Final Bracket===": {
+        "l1m1": {
+            "p1": "/ {{flag/gb}} Yeniths/Willz",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Hack & Viper",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "/ {{flag/se}} Humpe/Calle W",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "/ {{flag/fr}} Salepate/Mahie",
+            "p2flag": "fr",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "/ {{flag/fr}} Salepate/Mahie",
+            "p1flag": "fr",
+            "p1score": "3",
+            "p2": "Hack & Viper",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "",
+            "p2flag": "",
+            "p2score": "",
+            "win": ""
+        }
+    },
+    "===Losers===": {
+        "l1m1": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "-",
+            "p2": "Shakey & Ac_Anon",
+            "p2flag": "",
+            "p2score": "W",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "Noizeeh & Widde",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Dyne & Smesh",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "xzx & ccst",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Aellgi & Macgyver",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "BrTarolg & Pop",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "R0ob & Krisseh",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "Cock & Citius",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Shakey & Ac_Anon",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "IND {{!}} Kwiddo & Franker_Zinatra",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "Noizeeh & Widde",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "VJ & Kikkoman",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "xzx & ccst",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Flodens Mun & RPG",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "BrTarolg & Pop",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l3m1": {
+            "p1": "Cock & Citius",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Noizeeh & Widde",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "xzx & ccst",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Flodens Mun & RPG",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "/ {{flag/gb}} Yeniths/Willz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Noizeeh & Widde",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "Hack & Viper",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Flodens Mun & RPG",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "===Winners===": {
+        "r1m1": {
+            "p1": "/ {{flag/se}} Humpe/Calle W",
+            "p1flag": "",
+            "p1score": "W",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "-",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Shakey & Ac_Anon",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Flodens Mun & RPG",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "/ {{flag/gb}} Yeniths/Willz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Noizeeh & Widde",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "VJ & Kikkoman",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Dyne & Smesh",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "/ {{flag/fr}} Salepate/Mahie",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "xzx & ccst",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "Aellgi & Macgyver",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "IND {{!}} Kwiddo & Franker_Zinatra",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m7": {
+            "p1": "Hack & Viper",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "BrTarolg & Pop",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Cock & Citius",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "R0ob & Krisseh",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "/ {{flag/se}} Humpe/Calle W",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Flodens Mun & RPG",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "/ {{flag/gb}} Yeniths/Willz",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "VJ & Kikkoman",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "/ {{flag/fr}} Salepate/Mahie",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "IND {{!}} Kwiddo & Franker_Zinatra",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Hack & Viper",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Cock & Citius",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "/ {{flag/se}} Humpe/Calle W",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "/ {{flag/gb}} Yeniths/Willz",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "/ {{flag/fr}} Salepate/Mahie",
+            "p1flag": "fr",
+            "p1score": "2",
+            "p2": "Hack & Viper",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Pool 1==": {},
+    "==Pool 2==": {},
+    "==Pool 3==": {},
+    "==Pool 4==": {},
+    "==Pool 5==": {},
+    "==Pool 6==": {},
+    "==Pool 7==": {},
+    "==Pool 8==": {}
+}

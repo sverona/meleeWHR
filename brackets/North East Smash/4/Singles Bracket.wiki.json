@@ -1,0 +1,278 @@
+{
+    "==Finals Bracket==": {
+        "l1m1": {
+            "p1": "Alpha Dash",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "Jolteon",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Jin",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Jin",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Jolteon",
+            "p2flag": "gb",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Jin",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "Hen",
+            "p1flag": "",
+            "p1score": "1",
+            "p2": "BAPMoney",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m2": {
+            "p1": "TimeMuffinPHD",
+            "p1flag": "",
+            "p1score": "2",
+            "p2": "Phade",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "EGGDiabound",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Bullet Bill",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "TFU",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Maskless",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Alpha Dash",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "BAPMoney",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "JJLinyard",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "TimeMuffinPHD",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m3": {
+            "p1": "Willz",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Bullet Bill",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Frenzy",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "Maskless",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Alpha Dash",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "JJLinyard",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Willz",
+            "p1flag": "gb",
+            "p1score": "0",
+            "p2": "Maskless",
+            "p2flag": "",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l4m1": {
+            "p1": "HaoTwo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Alpha Dash",
+            "p2flag": "gb",
+            "p2score": "3",
+            "win": "2"
+        },
+        "l4m2": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Maskless",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Hen",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "BAPMoney",
+            "p1flag": "",
+            "p1score": "0",
+            "p2": "Frenzy",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "HaoTwo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "TimeMuffinPHD",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Willz",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Phade",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Jin",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Diabound",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m6": {
+            "p1": "JJLinyard",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Bullet Bill",
+            "p2flag": "",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "TFU",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Alpha Dash",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Maskless",
+            "p2flag": "",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Frenzy",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "HaoTwo",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Willz",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m3": {
+            "p1": "Jin",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "JJLinyard",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Jolteon",
+            "p1flag": "gb",
+            "p1score": "2",
+            "p2": "Alpha Dash",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "p1": "Fuzzyness",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "HaoTwo",
+            "p2flag": "gb",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "Jin",
+            "p1flag": "gb",
+            "p1score": "3",
+            "p2": "Jolteon",
+            "p2flag": "gb",
+            "p2score": "1",
+            "win": "1"
+        }
+    }
+}

@@ -1,0 +1,181 @@
+{{DISPLAYTITLE:CEO Prologue 2016: ''Melee'' Singles Bracket}}{{SetGame|melee}}
+{{tabs static
+|name1=Overview
+|link1=CEO/2016/Prologue/Melee
+|name2=Singles Bracket
+|link2=CEO/2016/Prologue/Melee/Singles Bracket
+|This=2
+}}
+==Winners Bracket==
+{{8DEWBracketA
+|tourneylink=CEO/2016/Prologue/Melee
+|tourneyname=CEO Prologue 2016
+<!-- Quarterfinals -->
+|r1m1p1=Plup |r1m1p1flag=us |r1m1p1score=2
+|r1m1p2=Tempo |r1m1p2flag=us |r1m1p2score=0
+|r1m1win=1
+
+|r1m2p1=Blea Gelo |r1m2p1flag=ve |r1m2p1score=2
+|r1m2p2=Pengie |r1m2p2flag=us |r1m2p2score=1
+|r1m2win=1
+|r1m2p1char1=luigi |r1m2p2char1=fox |r1m2p1stock1=1 |r1m2p2stock1=0 |r1m2win1=1 |r1m2stage1=Battlefield
+|r1m2p1char2=luigi |r1m2p2char2=fox |r1m2p1stock2=0 |r1m2p2stock2=1 |r1m2win2=2 |r1m2stage2=Yoshi's Story
+|r1m2p1char3=luigi |r1m2p2char3=fox |r1m2p1stock3=3 |r1m2p2stock3=0 |r1m2win3=1 |r1m2stage3=Final Destination
+|r1m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/cQpvgsJwSVQ}}
+
+|r1m3p1=Colbol |r1m3p1flag=us |r1m3p1score=2
+|r1m3p2=Rula |r1m3p2flag=us |r1m3p2score=0
+|r1m3win=1
+
+|r1m4p1=Gahtzu |r1m4p1flag=us |r1m4p1score=2
+|r1m4p2=Harriet |r1m4p2flag=us |r1m4p2score=0
+|r1m4win=1
+|r1m4p1char1=cf |r1m4p2char1=fox |r1m4p1stock1=2 |r1m4p2stock1=0 |r1m4win1=1 |r1m4stage1=Fountain of Dreams
+|r1m4p1char2=cf |r1m4p2char2=fox |r1m4p1stock2=1 |r1m4p2stock2=0 |r1m4win2=1 |r1m4stage2=Yoshi's Story
+|r1m4details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/cWFGrJltSLM}}
+
+<!-- SEMIFINALS -->
+|r2m1p1=Plup |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Blea Gelo |r2m1p2flag=ve |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=sheik |r2m1p2char1=luigi |r2m1p1stock1=2 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Yoshi's Story
+|r2m1p1char2=sheik |r2m1p2char2=luigi |r2m1p1stock2=2 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Dream Land
+|r2m1p1char3=sheik |r2m1p2char3=luigi |r2m1p1stock3=1 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Yoshi's Story
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/BNzhj4mL3j4}}
+
+|r2m2p1=Colbol |r2m2p1flag=us |r2m2p1score=3
+|r2m2p2=Gahtzu |r2m2p2flag=us |r2m2p2score=0
+|r2m2win=1
+|r2m2p1char1=fox |r2m2p2char1=cf |r2m2p1stock1=2 |r2m2p2stock1=0 |r2m2win1=1 |r2m2stage1=Yoshi's Story
+|r2m2p1char2=fox |r2m2p2char2=cf |r2m2p1stock2=2 |r2m2p2stock2=0 |r2m2win2=1 |r2m2stage2=Battlefield
+|r2m2p1char3=fox |r2m2p2char3=cf |r2m2p1stock3=1 |r2m2p2stock3=0 |r2m2win3=1 |r2m2stage3=Battlefield
+|r2m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/gBgvh1X1hkg}}
+}}
+==Losers Bracket==
+{{16DELBracketSmwA
+|tourneylink=CEO/2016/Prologue/Melee
+|tourneyname=CEO Prologue 2016
+|l1placement=13-16
+|l2placement=9-12
+|l3placement=7-8
+|l4placement=5-6
+|column-width=200
+
+<!-- Round 1 -->
+|l1m1p1=Fro Fo Sho |l1m1p1flag=us |l1m1p1score=0
+|l1m1p2=Oaty |l1m1p2flag=us |l1m1p2score=2
+|l1m1win=2
+
+|l1m2p1=JRad |l1m2p1flag=us |l1m2p1score=2
+|l1m2p2=Wreck |l1m2p2flag=us |l1m2p2score=0
+|l1m2win=1
+
+|l1m3p1=Kuya |l1m3p1flag=us |l1m3p1score=2
+|l1m3p2=DINGO |l1m3p2flag=us |l1m3p2score=1
+|l1m3win=1
+
+|l1m4p1=Moltov |l1m4p1flag=us |l1m4p1score=1
+|l1m4p2=prof |l1m4p2flag=us |l1m4p2score=2
+|l1m4win=2
+
+<!-- Round 2 -->
+|l2m1p1=Tempo |l2m1p1flag=us |l2m1p1score=2
+|l2m1p2=Oaty |l2m1p2flag=us |l2m1p2score=0
+|l2m1win=1
+
+|l2m2p1=Pengie |l2m2p1flag=us |l2m2p1score=2
+|l2m2p2=JRad |l2m2p2flag=us |l2m2p2score=0
+|l2m2win=1
+
+|l2m3p1=Rula |l2m3p1flag=us |l2m3p1score=1
+|l2m3p2=Kuya |l2m3p2flag=us |l2m3p2score=2
+|l2m3win=2
+
+|l2m4p1=Harriet |l2m4p1flag=us |l2m4p1score=2
+|l2m4p2=prof |l2m4p2flag=us |l2m4p2score=0
+|l2m4win=1
+
+<!-- Round 3 -->
+|l3m1p1=Tempo |l3m1p1flag=us |l3m1p1score=3
+|l3m1p2=Pengie |l3m1p2flag=us |l3m1p2score=2
+|l3m1win=1
+
+|l3m2p1=Kuya |l3m2p1flag=us |l3m2p1score=1
+|l3m2p2=Harriet |l3m2p2flag=us |l3m2p2score=3
+|l3m2win=2
+
+<!-- Round 4 -->
+|l4m1p1=Gahtzu |l4m1p1flag=us |l4m1p1score=3
+|l4m1p2=Tempo |l4m1p2flag=us |l4m1p2score=1
+|l4m1win=1
+
+|l4m2p1=Blea Gelo |l4m2p1flag=ve |l4m2p1score=3
+|l4m2p2=Harriet |l4m2p2flag=us |l4m2p2score=2
+|l4m2win=1
+|l4m2p1char1=luigi |l4m2p2char1=fox |l4m2p1stock1=1 |l4m2p2stock1=0 |l4m2win1=1 |l4m2stage1=Battlefield
+|l4m2p1char2=luigi |l4m2p2char2=fox |l4m2p1stock2=1 |l4m2p2stock2=0 |l4m2win2=1 |l4m2stage2=Yoshi's Story
+|l4m2p1char3=luigi |l4m2p2char3=fox |l4m2p1stock3=0 |l4m2p2stock3=2 |l4m2win3=2 |l4m2stage3=Yoshi's Story
+|l4m2p1char4=luigi |l4m2p2char4=fox |l4m2p1stock4=0 |l4m2p2stock4=1 |l4m2win4=2 |l4m2stage4=Dream Land
+|l4m2p1char5=luigi |l4m2p2char5=fox |l4m2p1stock5=2 |l4m2p2stock5=0 |l4m2win5=1 |l4m2stage5=Final Destination
+|l4m2details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/JRSi88jSWSc}}
+}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=CEO/2016/Prologue/Melee
+|tourneyname=CEO Prologue 2016
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|export_score=true
+|column-width=190
+|column-width-finals=220
+
+<!-- FROM WINNERS -->
+|r1m1p1=Plup |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Colbol |r1m1p2flag=us |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1=sheik |r1m1p2char1=fox |r1m1p1stock1=1 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=marth |r1m1p2char2=fox |r1m1p1stock2=0 |r1m1p2stock2=1 |r1m1win2=2 |r1m1stage2=Final Destination
+|r1m1p1char3=sheik |r1m1p2char3=fox |r1m1p1stock3=2 |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Dream Land
+|r1m1p1char4=sheik |r1m1p2char4=fox |r1m1p1stock4=2 |r1m1p2stock4=0 |r1m1win4=1 |r1m1stage4=Yoshi's Story
+|r1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/58U_Qp5JkCE}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=Gahtzu |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=Blea Gelo |l1m1p2flag=ve |l1m1p2score=2
+|l1m1win=1
+|l1m1p1char1=cf |l1m1p2char1=luigi |l1m1p1stock1=0 |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=Dream Land
+|l1m1p1char2=cf |l1m1p2char2=luigi |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Battlefield
+|l1m1p1char3=cf |l1m1p2char3=luigi |l1m1p1stock3=1 |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Battlefield
+|l1m1p1char4=cf |l1m1p2char4=luigi |l1m1p1stock4=1 |l1m1p2stock4=0 |l1m1win4=1 |l1m1stage4=Final Destination
+|l1m1p1char5=cf |l1m1p2char5=luigi |l1m1p1stock5=1 |l1m1p2stock5=0 |l1m1win5=1 |l1m1stage5=Battlefield
+|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/mP7K80f7gkc}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Colbol |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=Gahtzu |r2m1p2flag=us |r2m1p2score=1
+|r2m1win=1
+|r2m1p1char1=fox |r2m1p2char1=cf |r2m1p1stock1=2 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=Yoshi's Story
+|r2m1p1char2=fox |r2m1p2char2=cf |r2m1p1stock2=0 |r2m1p2stock2=1 |r2m1win2=2 |r2m1stage2=Battlefield
+|r2m1p1char3=fox |r2m1p2char3=cf |r2m1p1stock3=1 |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Fountain of Dreams
+|r2m1p1char4=fox |r2m1p2char4=cf |r2m1p1stock4=2 |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Dream Land
+|r2m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/-QM6QiGcM0g}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Plup |r3m1p1flag=us |r3m1p1score=2 |r3m2p1score=3
+|r3m1p2=Colbol |r3m1p2flag=us |r3m1p2score=3 |r3m2p2score=0
+|r3m1win=1
+|r3m1p1char1=sheik |r3m1p2char1=fox |r3m1p1stock1=2 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Battlefield
+|r3m1p1char2=marth |r3m1p2char2=fox |r3m1p1stock2=0 |r3m1p2stock2=3 |r3m1win2=2 |r3m1stage2=Final Destination
+|r3m1p1char3=sheik |r3m1p2char3=fox |r3m1p1stock3=0 |r3m1p2stock3=2 |r3m1win3=2 |r3m1stage3=Dream Land
+|r3m1p1char4=sheik |r3m1p2char4=fox |r3m1p1stock4=1 |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Dream Land
+|r3m1p1char5=sheik |r3m1p2char5=fox |r3m1p1stock5=0 |r3m1p2stock5=2 |r3m1win5=2 |r3m1stage5=Pokémon Stadium
+
+|r3m2p1char1=sheik |r3m2p2char1=fox |r3m2p1stock1=2 |r3m2p2stock1=0 |r3m2win1=1 |r3m2stage1=Battlefield
+|r3m2p1char2=samus |r3m2p2char2=fox |r3m2p1stock2=2 |r3m2p2stock2=0 |r3m2win2=1 |r3m2stage2=Final Destination
+|r3m2p1char3=samus |r3m2p2char3=fox |r3m2p1stock3=2 |r3m2p2stock3=0 |r3m2win3=1 |r3m2stage3=Final Destination
+|r3m1details={{BracketMatchDetails|reddit=|comment=|vod=https://youtu.be/qMHX9GnAGbI}}
+}}
+</onlyinclude>

@@ -1,0 +1,158 @@
+{{DX Ranking Navbox}}
+
+{{SetGame|melee}}{{tabs static
+|name1=Overview
+|link1=DX Ranking Session 4
+|name2=Pools
+|link2=DX Ranking Session 4/Pools
+|name3=Top 16 Bracket
+|link3=DX Ranking Session 4/Top 16 Bracket
+|This=3
+}}
+
+==Winners==
+
+{{16DEWBracketA
+|r1m1p1=Cyr |r1m1p1flag=fr |r1m1p1score=2
+|r1m1p2=Aspr0 |r1m1p2flag=fr |r1m1p2score=0
+|r1m1win=1
+|r1m1p1char1=Falco |r1m1p2char1=Fox |r1m1p1stock1=4 |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=Falcon |r1m1p2char2=Fox |r1m1p1stock2=4 |r1m1p2stock2=0 |r1m1win2=1 |r1m1stage2=Final Destination
+
+|r1m2p1=Darx |r1m2p1flag=fr |r1m2p1score=1
+|r1m2p2=Leman |r1m2p2flag=fr |r1m2p2score=2
+|r1m2win=
+|r1m2p1char1=Falco |r1m2p2char1=Marth |r1m2p1stock1=1 |r1m2p2stock1=0 |r1m2win1=1 |r1m2stage1=DreamLand
+|r1m2p1char2=Falco |r1m2p2char2=Marth |r1m2p1stock2=0 |r1m2p2stock2=1 |r1m2win2=2 |r1m2stage2=Final Destination
+|r1m2p1char3=Falco |r1m2p2char3=Marth |r1m2p1stock3=0 |r1m2p2stock3=1 |r1m2win3=2 |r1m2stage3=Pokémon Stadium
+|r1m2date=
+|r1m2finished=
+|r1m2details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m3p1=Cpt. L0ve |r1m3p1flag=fr |r1m3p1score=0
+|r1m3p2=StorMyu |r1m3p2flag=fr |r1m3p2score=2
+|r1m3win=2
+|r1m4p1=Yultan |r1m4p1flag=fr |r1m4p1score=2
+|r1m4p2=Raoul |r1m4p2flag=fr |r1m4p2score=0
+|r1m4win=1
+
+|r1m5p1=KillerGanon |r1m5p1flag=fr |r1m5p1score=0
+|r1m5p2=BeLia |r1m5p2flag=fr |r1m5p2score=2
+|r1m5win=2
+
+|r1m6p1=Jr. |r1m6p1flag=fr |r1m6p1score=0
+|r1m6p2=Doraki |r1m6p2flag=fr |r1m6p2score=2
+|r1m6win=2
+
+|r1m7p1=Clyde Wuts |r1m7p1flag=fr |r1m7p1score=0
+|r1m7p2=Charlon |r1m7p2flag=fr |r1m7p2score=2
+|r1m7win=2
+|r1m7p1char1=Jigglypuff |r1m7p2char1=Marth |r1m7p1stock1=0 |r1m7p2stock1=2 |r1m7win1=2 |r1m7stage1=Battlefield
+|r1m7p1char2=Jigglypuff |r1m7p2char2=Marth |r1m7p1stock2=0 |r1m7p2stock2=3 |r1m7win2=2 |r1m7stage2=Fountain of Dreams
+|r1m7date=
+|r1m7finished=
+|r1m7details={{BracketMatchDetails|comment=|preview=|lrthread=|vod=|interview=|recap=}}
+
+|r1m8p1=Explodroid |r1m8p1flag=fr |r1m8p1score=0
+|r1m8p2=Guilu |r1m8p2flag=fr |r1m8p2score=2
+|r1m8win=2
+
+|r2m1p1=Cyr |r2m1p1flag=fr |r2m1p1score=2
+|r2m1p2=Leman |r2m1p2flag=fr |r2m1p2score=0
+|r2m1win=1
+|r2m1p1char1=Falcon |r2m1p2char1=Marth |r2m1p1stock1=3 |r2m1p2stock1=0 |r2m1win1=1 |r2m1stage1=DreamLand
+|r2m1p1char2=Falco |r2m1p2char2=Falco |r2m1p1stock2=4 |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Pokémon Stadium
+
+|r2m2p1=StorMyu |r2m2p1flag=fr |r2m2p1score=2
+|r2m2p2=Yultan |r2m2p2flag=fr |r2m2p2score=0
+|r2m2win=1
+
+|r2m3p1=Belia |r2m3p1flag=fr |r2m3p1score=0
+|r2m3p2=Doraki |r2m3p2flag=fr |r2m3p2score=2
+|r2m3win=2
+|r2m3p1char1=Fox |r2m3p2char1=Fox |r2m3p1stock1=0 |r2m3p2stock1=1 |r2m3win1=2 |r2m3stage1=DreamLand
+|r2m3p1char2=Fox |r2m3p2char2=Fox |r2m3p1stock2=0 |r2m3p2stock2=2 |r2m3win2=2 |r2m3stage2=DreamLand
+
+|r2m4p1=Charlon |r2m4p1flag=fr |r2m4p1score=2
+|r2m4p2=Guilu |r2m4p2flag=fr |r2m4p2score=0
+|r2m4win=1
+|r2m4p1char1=Fox |r2m4p2char1=Marth |r2m4p1stock1=3 |r2m4p2stock1=0 |r2m4win1=1 |r2m4stage1=Battlefield
+|r2m4p1char2=Fox |r2m4p2char2=Marth |r2m4p1stock2=3 |r2m4p2stock2=0 |r2m4win2=1 |r2m4stage2=Battlefield
+
+|r3m1p1=Cyr |r3m1p1flag=fr |r3m1p1score=3
+|r3m1p2=StorMyu |r3m1p2flag=fr |r3m1p2score=0
+|r3m1win=1
+|r3m1p1char1=Falco |r3m1p2char1=Fox |r3m1p1stock1=3 |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=DreamLand
+|r3m1p1char2=Falco |r3m1p2char2=Fox |r3m1p1stock2=1 |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Pokémon Stadium
+|r3m1p1char3=Fox |r3m1p2char3=Fox |r3m1p1stock3=2 |r3m1p2stock3=0 |r3m1win3=1 |r3m1stage3=Yoshi's Story
+|r3m1p1char4= |r3m1p2char4= |r3m1p1stock4= |r3m1p2stock4= |r3m1win4= |r3m1stage4=
+|r3m1p1char5= |r3m1p2char5= |r3m1p1stock5= |r3m1p2stock5= |r3m1win5= |r3m1stage5=
+
+|r3m2p1=Doraki |r3m2p1flag=fr |r3m2p1score=0
+|r3m2p2=Charlon |r3m2p2flag=fr |r3m2p2score=3
+|r3m2win=2
+|r3m2p1char1=Fox |r3m2p2char1=Marth |r3m2p1stock1=0 |r3m2p2stock1=1 |r3m2win1=2 |r3m2stage1=Battlefield
+|r3m2p1char2=Fox |r3m2p2char2=Marth |r3m2p1stock2=0 |r3m2p2stock2=2 |r3m2win2=2 |r3m2stage2=Battlefield
+|r3m2p1char3=Fox |r3m2p2char3=Marth |r3m2p1stock3=0 |r3m2p2stock3=1 |r3m2win3=2 |r3m2stage3=DreamLand
+|r3m2p1char4= |r3m2p2char4= |r3m2p1stock4= |r3m2p2stock4= |r3m2win4= |r3m2stage4=
+|r3m2p1char5= |r3m2p2char5= |r3m2p1stock5= |r3m2p2stock5= |r3m2win5= |r3m2stage5=
+}}
+
+==Losers==
+
+{{16DELBracketA
+|l1m1p1=Aspr0 |l1m1p1flag=fr |l1m1p1score=0
+|l1m1p2=Darx |l1m1p2flag=fr |l1m1p2score=2
+|l1m1win=2
+|l1m1p1char1=Fox |l1m1p2char1=Falco |l1m1p1stock1=0 |l1m1p2stock1=1 |l1m1win1=2 |l1m1stage1=DreamLand
+|l1m1p1char2=Fox |l1m1p2char2=Falco |l1m1p1stock2=0 |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Pokémon Stadium
+
+|l1m2p1=Cpt. L0ve |l1m2p1flag=fr |l1m2p1score=2
+|l1m2p2=Raoul |l1m2p2flag=fr |l1m2p2score=0
+|l1m2win=1
+
+|l1m3p1=KillerGanon |l1m3p1flag=fr |l1m3p1score=2
+|l1m3p2=Jr. |l1m3p2flag=fr |l1m3p2score=1
+|l1m3win=1
+
+|l1m4p1=Clyde Wuts |l1m4p1flag=fr |l1m4p1score=2
+|l1m4p2=Explodroid |l1m4p2flag=fr |l1m4p2score=0
+|l1m4win=1
+
+|l2m1p1=Guilu |l2m1p1flag=fr |l2m1p1score=2
+|l2m1p2=Darx |l2m1p2flag=fr |l2m1p2score=1
+|l2m1win=1
+
+|l2m2p1=BeLia |l2m2p1flag=fr |l2m2p1score=2
+|l2m2p2=Cpt. L0ve |l2m2p2flag=fr |l2m2p2score=0
+|l2m2win=1
+
+|l2m3p1=Yultan |l2m3p1flag=fr |l2m3p1score=2
+|l2m3p2=KillerGanon |l2m3p2flag=fr |l2m3p2score=0
+|l2m3win=1
+
+|l2m4p1=Leman |l2m4p1flag=fr |l2m4p1score=2
+|l2m4p2=Clyde Wuts |l2m4p2flag=fr |l2m4p2score=0
+|l2m4win=1
+
+|l3m1p1=Guilu |l3m1p1flag=fr |l3m1p1score=0
+|l3m1p2=BeLia |l3m1p2flag=fr |l3m1p2score=2
+|l3m1win=2
+|l3m1p1char1=Fox |l3m1p2char1=Marth |l3m1p1stock1=0 |l3m1p2stock1=3 |l3m1win1=2 |l3m1stage1=Final Destination
+|l3m1p1char2=Falcon |l3m1p2char2=Marth |l3m1p1stock2=0 |l3m1p2stock2=3 |l3m1win2=2 |l3m1stage2=Battlefield
+
+|l3m2p1=Yultan |l3m2p1flag=fr |l3m2p1score=2
+|l3m2p2=Leman |l3m2p2flag=fr |l3m2p2score=0
+|l3m2win=1
+
+|l4m1p1=StorMyu |l4m1p1flag=fr |l4m1p1score=0
+|l4m1p2=BeLia |l4m1p2flag=fr |l4m1p2score=3
+|l4m1win=2
+|l4m1p1char1=Fox |l4m1p2char1=Fox |l4m1p1stock1=0 |l4m1p2stock1=2 |l4m1win1=2 |l4m1stage1=DreamLand
+|l4m1p1char2=Fox |l4m1p2char2=Fox |l4m1p1stock2=0 |l4m1p2stock2=2 |l4m1win2=2 |l4m1stage2=Fountain of Dreams
+|l4m1p1char3=Falco |l4m1p2char3=Fox |l4m1p1stock3=0 |l4m1p2stock3=1 |l4m1win3=2 |l4m1stage3=DreamLand
+
+|l4m2p1=Doraki |l4m2p1flag=fr |l4m2p1score=3
+|l4m2p2=Yultan |l4m2p2flag=fr |l4m2p2score=1
+|l4m2win=1
+}}

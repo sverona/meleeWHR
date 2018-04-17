@@ -1,0 +1,815 @@
+{{DISPLAYTITLE: Battle of BC: ''Melee'' Doubles Bracket}}{{SetGame|melee}}{{BracketMatchSMWDisambig |oldtags=ADAM |newtags=ADAM (Canadian player)}}
+{{Tabs static
+|name1=Overview
+|link1=Battle of BC/1/Melee
+|name2=Singles Pools
+|link2=Battle of BC/1/Melee/Singles Pools
+|name3=Singles Bracket
+|link3=Battle of BC/1/Melee/Singles Bracket
+|name4=Doubles Bracket
+|link4=Battle of BC/1/Melee/Doubles Bracket
+|This=4
+}}
+==Winners Bracket==
+{{64DEDoublesWBracketA
+|column-width=190
+<!-- ROUND 1 -->
+|r1m1t1p1=SFAT |r1m1t1p1flag=us
+|r1m1t1p2=HomeMadeWaffles |r1m1t1p2flag=us |r1m1t1score={{win}}
+|r1m1t2p1=Snwmanassassin9 |r1m1t2p1flag=ca
+|r1m1t2p2=Jon Johns |r1m1t2p2flag=ca |r1m1t2score=DQ
+|r1m1win=1
+
+|r1m2t1p1=Blue |r1m2t1p1flag=ca
+|r1m2t1p2=Pasta |r1m2t1p2flag=ca |r1m2t1score=1
+|r1m2t2p1=beeWesley |r1m2t2p1flag=us
+|r1m2t2p2=Naztoise |r1m2t2p2flag=ca |r1m2t2score=2
+|r1m2win=2
+
+|r1m3t1p1=Graham |r1m3t1p1flag=ca
+|r1m3t1p2=Duotas |r1m3t1p2flag=ca |r1m3t1score=2
+|r1m3t2p1=ExpandDong |r1m3t2p1flag=ca
+|r1m3t2p2=Armless Kirby |r1m3t2p2flag=ca |r1m3t2score=0
+|r1m3win=1
+
+|r1m4t1p1=Perrilox |r1m4t1p1flag=ca
+|r1m4t1p2=Fitz |r1m4t1p2flag=ca |r1m4t1score=2
+|r1m4t2p1=Leonidas |r1m4t2p1flag=ca
+|r1m4t2p2=sean |r1m4t2p2flag=ca |r1m4t2score=0
+|r1m4win=1
+
+|r1m5t1p1=bwmat |r1m5t1p1flag=ca
+|r1m5t1p2=Rusty Shacklefurd |r1m5t1p2flag=ca |r1m5t1score=2
+|r1m5t2p1=SerFluffles |r1m5t2p1flag=ca
+|r1m5t2p2=Slurms |r1m5t2p2flag=ca |r1m5t2score=0
+|r1m5win=1
+
+|r1m6t1p1=Will |r1m6t1p1flag=ca
+|r1m6t1p2=Vista |r1m6t1p2flag=us |r1m6t1score=2
+|r1m6t2p1=Sage |r1m6t2p1flag=ca
+|r1m6t2p2=goatlink |r1m6t2p2flag=us |r1m6t2score=0
+|r1m6win=1
+
+|r1m7t1p1=Syd |r1m7t1p1flag=ca
+|r1m7t1p2=Calvin |r1m7t1p2flag=us |r1m7t1score=2
+|r1m7t2p1=Axel |r1m7t2p1flag=ca
+|r1m7t2p2=Ronnok |r1m7t2p2flag=ca |r1m7t2score=0
+|r1m7win=1
+
+|r1m8t1p1=TheGTree |r1m8t1p1flag=ca
+|r1m8t1p2=shmugs |r1m8t1p2flag=ca |r1m8t1score={{win}}
+|r1m8t2p1=bSM |r1m8t2p1flag=ca
+|r1m8t2p2=ADAM |r1m8t2p2flag=ca |r1m8t2score=DQ
+|r1m8win=1
+
+|r1m9t1p1=Shunsuke |r1m9t1p1flag=jp
+|r1m9t1p2=Edgeluca |r1m9t1p2flag=ca |r1m9t1score=2
+|r1m9t2p1=Elliot |r1m9t2p1flag=ca
+|r1m9t2p2=Thomas The Legend |r1m9t2p2flag=ca |r1m9t2score=0
+|r1m9win=1
+
+|r1m10t1p1=Aurum |r1m10t1p1flag=ca
+|r1m10t1p2=TPS |r1m10t1p2flag=ca |r1m10t1score=2
+|r1m10t2p1=Donald_Drumpf |r1m10t2p1flag=ca
+|r1m10t2p2=HAVOC |r1m10t2p2flag=ca |r1m10t2score=0
+|r1m10win=1
+
+|r1m11t1p1=Theo |r1m11t1p1flag=ca
+|r1m11t1p2=Bodlack |r1m11t1p2flag=ca |r1m11t1score=2
+|r1m11t2p1=WetFood |r1m11t2p1flag=ca
+|r1m11t2p2=Svecks |r1m11t2p2flag=ca |r1m11t2score=0
+|r1m11win=1
+
+|r1m12t1p1=celestial |r1m12t1p1flag=ca
+|r1m12t1p2=Red Lego |r1m12t1p2flag=ca |r1m12t1score=2
+|r1m12t2p1=Dozy |r1m12t2p1flag=ca
+|r1m12t2p2=Bupo |r1m12t2p2flag=ca |r1m12t2score=1
+|r1m12win=1
+
+|r1m13t1p1=Espi |r1m13t1p1flag=ca
+|r1m13t1p2=Rustin |r1m13t1p2flag=us |r1m13t1score=2
+|r1m13t2p1=Hexa |r1m13t2p1flag=ca
+|r1m13t2p2=WhiteBoyFresh |r1m13t2p2flag=ca |r1m13t2score=0
+|r1m13win=1
+
+|r1m14t1p1=DelfoxPuddles |r1m14t1p1flag=ca
+|r1m14t1p2=Finscael |r1m14t1p2flag=ca |r1m14t1score=2
+|r1m14t2p1=ezryph |r1m14t2p1flag=ca
+|r1m14t2p2=NiteCyper |r1m14t2p2flag=ca |r1m14t2score=1
+|r1m14win=1
+
+|r1m15t1p1=Golf |r1m15t1p1flag=ca
+|r1m15t1p2=TKO |r1m15t1p2flag=ca |r1m15t1score=2
+|r1m15t2p1=Bri-bri |r1m15t2p1flag=ca
+|r1m15t2p2=Kev |r1m15t2p2flag=ca |r1m15t2score=0
+|r1m15win=1
+
+|r1m16t1p1=Coon |r1m16t1p1flag=ca
+|r1m16t1p2=Lev |r1m16t1p2flag=ca |r1m16t1score=2
+|r1m16t2p1=Aaron G |r1m16t2p1flag=ca
+|r1m16t2p2=Jodie Joestar |r1m16t2p2flag=ca |r1m16t2score=1
+|r1m16win=1
+
+|r1m17t1p1=MikeHaze |r1m17t1p1flag=us
+|r1m17t1p2=Bladewise |r1m17t1p2flag=us |r1m17t1score=2
+|r1m17t2p1=Drago |r1m17t2p1flag=ca
+|r1m17t2p2=ScruffyHearts |r1m17t2p2flag=ca |r1m17t2score=0
+|r1m17win=1
+
+|r1m18t1p1=Arm & Hammer |r1m18t1p1flag=ca
+|r1m18t1p2=CyborgCarlSagan |r1m18t1p2flag=ca |r1m18t1score={{win}}
+|r1m18t2p1=Tumbles |r1m18t2p1flag=ca
+|r1m18t2p2=tlo |r1m18t2p2flag=us |r1m18t2score=DQ
+|r1m18win=1
+
+|r1m19t1p1=elfman |r1m19t1p1flag=
+|r1m19t1p2=BiscuitTricks |r1m19t1p2flag=ca |r1m19t1score=2
+|r1m19t2p1=Cheesedog |r1m19t2p1flag=ca
+|r1m19t2p2=Glacien |r1m19t2p2flag=ca |r1m19t2score=0
+|r1m19win=1
+
+|r1m20t1p1=Qualp |r1m20t1p1flag=ca
+|r1m20t1p2=Reeves |r1m20t1p2flag=ca |r1m20t1score=2
+|r1m20t2p1=MattC |r1m20t2p1flag=ca
+|r1m20t2p2=shan3p |r1m20t2p2flag=ca |r1m20t2score=1
+|r1m20win=1
+
+|r1m21t1p1=RK |r1m21t1p1flag=ca
+|r1m21t1p2=zilo |r1m21t1p2flag=ca |r1m21t1score=2
+|r1m21t2p1=Tony_Chen |r1m21t2p1flag=ca
+|r1m21t2p2=TGCP |r1m21t2p2flag=ca |r1m21t2score=0
+|r1m21win=1
+
+|r1m22t1p1=Kori |r1m22t1p1flag=ca
+|r1m22t1p2=Wrackle |r1m22t1p2flag=ca |r1m22t1score=0
+|r1m22t2p1=Genesis FTW |r1m22t2p1flag=ca
+|r1m22t2p2=Chocolate Thunda |r1m22t2p2flag=ca |r1m22t2score=2
+|r1m22win=2
+
+|r1m23t1p1=Yakal |r1m23t1p1flag=ca
+|r1m23t1p2=ANG3L |r1m23t1p2flag=ca |r1m23t1score=2
+|r1m23t2p1=DKarnage |r1m23t2p1flag=ca
+|r1m23t2p2=Kiri |r1m23t2p2flag=ca |r1m23t2score=0
+|r1m23win=1
+
+|r1m24t1p1=Sosa |r1m24t1p1flag=ca
+|r1m24t1p2=Sus |r1m24t1p2flag=ca |r1m24t1score=2
+|r1m24t2p1=Midnight_B1u3 |r1m24t2p1flag=ca
+|r1m24t2p2=Lu•Lu |r1m24t2p2flag=ca |r1m24t2score=0
+|r1m24win=1
+
+|r1m25t1p1=eBay |r1m25t1p1flag=us
+|r1m25t1p2=Vinodh |r1m25t1p2flag=us |r1m25t1score={{win}}
+|r1m25t2p1=Top 5 |r1m25t2p1flag=ca
+|r1m25t2p2=Gooby |r1m25t2p2flag=ca |r1m25t2score=DQ
+|r1m25win=1
+
+|r1m26t1p1=SOUPOSTRICH |r1m26t1p1flag=ca
+|r1m26t1p2=Lakerbaker |r1m26t1p2flag=ca |r1m26t1score=2
+|r1m26t2p1=Eleven |r1m26t2p1flag=ca
+|r1m26t2p2=Chef |r1m26t2p2flag=ca |r1m26t2score=0
+|r1m26win=1
+
+|r1m27t1p1=Polo |r1m27t1p1flag=ca
+|r1m27t1p2=Jerry Jurr |r1m27t1p2flag=ca |r1m27t1score=2
+|r1m27t2p1=Zipp |r1m27t2p1flag=ca
+|r1m27t2p2=Crotes |r1m27t2p2flag=ca |r1m27t2score=0
+|r1m27win=1
+
+|r1m28t1p1=Tyme |r1m28t1p1flag=ca
+|r1m28t1p2=SnesR0X |r1m28t1p2flag=ca |r1m28t1score=2
+|r1m28t2p1=Sorry |r1m28t2p1flag=ca
+|r1m28t2p2=Quibb |r1m28t2p2flag=ca |r1m28t2score=0
+|r1m28win=1
+
+|r1m29t1p1=Webwipe |r1m29t1p1flag=ca
+|r1m29t1p2=MojoMonkey |r1m29t1p2flag=ca |r1m29t1score=2
+|r1m29t2p1=Electrosandwich |r1m29t2p1flag=ca
+|r1m29t2p2=John-Fraud Van Damme |r1m29t2p2flag=ca |r1m29t2score=0
+|r1m29win=1
+
+|r1m30t1p1=Spirits |r1m30t1p1flag=ca
+|r1m30t1p2=Sloth |r1m30t1p2flag=ca |r1m30t1score=2
+|r1m30t2p1=TDawg |r1m30t2p1flag=ca
+|r1m30t2p2=Microwave |r1m30t2p2flag=ca |r1m30t2score=1
+|r1m30win=1
+
+|r1m31t1p1=Shon |r1m31t1p1flag=ca
+|r1m31t1p2=BOR |r1m31t1p2flag=ca |r1m31t1score={{win}}
+|r1m31t2p1=north face bomber |r1m31t2p1flag=ca
+|r1m31t2p2=Brown clown |r1m31t2p2flag=ca |r1m31t2score=DQ
+|r1m31win=1
+
+|r1m32t1p1=Stress |r1m32t1p1flag=ca
+|r1m32t1p2=Yield |r1m32t1p2flag=ca |r1m32t1score=2
+|r1m32t2p1=Simba |r1m32t2p1flag=ca
+|r1m32t2p2=Rhythm |r1m32t2p2flag=ca |r1m32t2score=0
+|r1m32win=1
+
+<!-- ROUND 2 -->
+|r2m1t1p1=SFAT |r2m1t1p1flag=us
+|r2m1t1p2=HomeMadeWaffles |r2m1t1p2flag=us |r2m1t1score=2
+|r2m1t2p1=beeWesley |r2m1t2p1flag=us
+|r2m1t2p2=Naztoise |r2m1t2p2flag=ca |r2m1t2score=0
+|r2m1win=1
+
+|r2m2t1p1=Graham |r2m2t1p1flag=ca
+|r2m2t1p2=Duotas |r2m2t1p2flag=ca |r2m2t1score=1
+|r2m2t2p1=Perrilox |r2m2t2p1flag=ca
+|r2m2t2p2=Fitz |r2m2t2p2flag=ca |r2m2t2score=2
+|r2m2win=2
+
+|r2m3t1p1=bwmat |r2m3t1p1flag=ca
+|r2m3t1p2=Rusty Shacklefurd |r2m3t1p2flag=ca |r2m3t1score=2
+|r2m3t2p1=Will |r2m3t2p1flag=ca
+|r2m3t2p2=Vista |r2m3t2p2flag=us |r2m3t2score=0
+|r2m3win=1
+
+|r2m4t1p1=Syd |r2m4t1p1flag=ca
+|r2m4t1p2=Calvin |r2m4t1p2flag=us |r2m4t1score=2
+|r2m4t2p1=TheGTree |r2m4t2p1flag=ca
+|r2m4t2p2=shmugs |r2m4t2p2flag=ca |r2m4t2score=0
+|r2m4win=1
+
+|r2m5t1p1=Shunsuke |r2m5t1p1flag=jp
+|r2m5t1p2=Edgeluca |r2m5t1p2flag=ca |r2m5t1score=2
+|r2m5t2p1=Aurum |r2m5t2p1flag=ca
+|r2m5t2p2=TPS |r2m5t2p2flag=ca |r2m5t2score=0
+|r2m5win=1
+
+|r2m6t1p1=Theo |r2m6t1p1flag=ca
+|r2m6t1p2=Bodlack |r2m6t1p2flag=ca |r2m6t1score=2
+|r2m6t2p1=celestial |r2m6t2p1flag=ca
+|r2m6t2p2=Red Lego |r2m6t2p2flag=ca |r2m6t2score=1
+|r2m6win=1
+
+|r2m7t1p1=Espi |r2m7t1p1flag=ca
+|r2m7t1p2=Rustin |r2m7t1p2flag=us |r2m7t1score=2
+|r2m7t2p1=DelfoxPuddles |r2m7t2p1flag=ca
+|r2m7t2p2=Finscael |r2m7t2p2flag=ca |r2m7t2score=0
+|r2m7win=1
+
+|r2m8t1p1=Golf |r2m8t1p1flag=ca
+|r2m8t1p2=TKO |r2m8t1p2flag=ca |r2m8t1score=2
+|r2m8t2p1=Coon |r2m8t2p1flag=ca
+|r2m8t2p2=Lev |r2m8t2p2flag=ca |r2m8t2score=1
+|r2m8win=1
+
+|r2m9t1p1=MikeHaze |r2m9t1p1flag=us
+|r2m9t1p2=Bladewise |r2m9t1p2flag=us |r2m9t1score=2
+|r2m9t2p1=Arm & Hammer |r2m9t2p1flag=ca
+|r2m9t2p2=CyborgCarlSagan |r2m9t2p2flag=ca |r2m9t2score=0
+|r2m9win=1
+
+|r2m10t1p1=elfman |r2m10t1p1flag=
+|r2m10t1p2=BiscuitTricks |r2m10t1p2flag=ca |r2m10t1score=2
+|r2m10t2p1=Qualp |r2m10t2p1flag=ca
+|r2m10t2p2=Reeves |r2m10t2p2flag=ca |r2m10t2score=0
+|r2m10win=1
+
+|r2m11t1p1=RK |r2m11t1p1flag=ca
+|r2m11t1p2=zilo |r2m11t1p2flag=ca |r2m11t1score=2
+|r2m11t2p1=Genesis FTW |r2m11t2p1flag=ca
+|r2m11t2p2=Chocolate Thunda |r2m11t2p2flag=ca |r2m11t2score=0
+|r2m11win=1
+
+|r2m12t1p1=Yakal |r2m12t1p1flag=ca
+|r2m12t1p2=ANG3L |r2m12t1p2flag=ca |r2m12t1score=2
+|r2m12t2p1=Sosa |r2m12t2p1flag=ca
+|r2m12t2p2=Sus |r2m12t2p2flag=ca |r2m12t2score=0
+|r2m12win=1
+
+|r2m13t1p1=eBay |r2m13t1p1flag=us
+|r2m13t1p2=Vinodh |r2m13t1p2flag=us |r2m13t1score=2
+|r2m13t2p1=SOUPOSTRICH |r2m13t2p1flag=ca
+|r2m13t2p2=Lakerbaker |r2m13t2p2flag=ca |r2m13t2score=0
+|r2m13win=1
+
+|r2m14t1p1=Polo |r2m14t1p1flag=ca
+|r2m14t1p2=Jerry Jurr |r2m14t1p2flag=ca |r2m14t1score=2
+|r2m14t2p1=Tyme |r2m14t2p1flag=ca
+|r2m14t2p2=SnesR0X |r2m14t2p2flag=ca |r2m14t2score=0
+|r2m14win=1
+
+|r2m15t1p1=Webwipe |r2m15t1p1flag=ca
+|r2m15t1p2=MojoMonkey |r2m15t1p2flag=ca |r2m15t1score=2
+|r2m15t2p1=Spirits |r2m15t2p1flag=ca
+|r2m15t2p2=Sloth |r2m15t2p2flag=ca |r2m15t2score=0
+|r2m15win=1
+
+|r2m16t1p1=Shon |r2m16t1p1flag=ca
+|r2m16t1p2=BOR |r2m16t1p2flag=ca |r2m16t1score=1
+|r2m16t2p1=Stress |r2m16t2p1flag=ca
+|r2m16t2p2=Yield |r2m16t2p2flag=ca |r2m16t2score=2
+|r2m16win=2
+
+<!-- ROUND 3 -->
+|r3m1t1p1=SFAT |r3m1t1p1flag=us
+|r3m1t1p2=HomeMadeWaffles |r3m1t1p2flag=us |r3m1t1score=2
+|r3m1t2p1=Perrilox |r3m1t2p1flag=ca
+|r3m1t2p2=Fitz |r3m1t2p2flag=ca |r3m1t2score=0
+|r3m1win=1
+
+|r3m2t1p1=bwmat |r3m2t1p1flag=ca
+|r3m2t1p2=Rusty Shacklefurd |r3m2t1p2flag=ca |r3m2t1score=2
+|r3m2t2p1=Syd |r3m2t2p1flag=ca
+|r3m2t2p2=Calvin |r3m2t2p2flag=us |r3m2t2score=0
+|r3m2win=1
+
+
+|r3m3t1p1=Shunsuke |r3m3t1p1flag=jp
+|r3m3t1p2=Edgeluca |r3m3t1p2flag=ca |r3m3t1score=2
+|r3m3t2p1=Theo |r3m3t2p1flag=ca
+|r3m3t2p2=Bodlack |r3m3t2p2flag=ca |r3m3t2score=0
+|r3m3win=1
+
+|r3m4t1p1=Espi |r3m4t1p1flag=ca
+|r3m4t1p2=Rustin |r3m4t1p2flag=us |r3m4t1score=2
+|r3m4t2p1=Golf |r3m4t2p1flag=ca
+|r3m4t2p2=TKO |r3m4t2p2flag=ca |r3m4t2score=0
+|r3m4win=1
+
+|r3m5t1p1=MikeHaze |r3m5t1p1flag=us
+|r3m5t1p2=Bladewise |r3m5t1p2flag=us |r3m5t1score=2
+|r3m5t2p1=elfman |r3m5t2p1flag=
+|r3m5t2p2=BiscuitTricks |r3m5t2p2flag=ca |r3m5t2score=0
+|r3m5win=1
+
+|r3m6t1p1=RK |r3m6t1p1flag=ca
+|r3m6t1p2=zilo |r3m6t1p2flag=ca |r3m6t1score=2
+|r3m6t2p1=Yakal |r3m6t2p1flag=ca
+|r3m6t2p2=ANG3L |r3m6t2p2flag=ca |r3m6t2score=0
+|r3m6win=1
+
+|r3m7t1p1=eBay |r3m7t1p1flag=us
+|r3m7t1p2=Vinodh |r3m7t1p2flag=us |r3m7t1score=2
+|r3m7t2p1=Polo |r3m7t2p1flag=ca
+|r3m7t2p2=Jerry Jurr |r3m7t2p2flag=ca |r3m7t2score=0
+|r3m7win=1
+
+|r3m8t1p1=Webwipe |r3m8t1p1flag=ca
+|r3m8t1p2=MojoMonkey |r3m8t1p2flag=ca |r3m8t1score=2
+|r3m8t2p1=Stress |r3m8t2p1flag=ca
+|r3m8t2p2=Yield |r3m8t2p2flag=ca |r3m8t2score=0
+|r3m8win=1
+
+<!-- ROUND 4 -->
+|r4m1t1p1=SFAT |r4m1t1p1flag=us
+|r4m1t1p2=HomeMadeWaffles |r4m1t1p2flag=us |r4m1t1score=2
+|r4m1t2p1=bwmat |r4m1t2p1flag=ca
+|r4m1t2p2=Rusty Shacklefurd |r4m1t2p2flag=ca |r4m1t2score=0
+|r4m1win=1
+
+|r4m2t1p1=Shunsuke |r4m2t1p1flag=jp
+|r4m2t1p2=Edgeluca |r4m2t1p2flag=ca |r4m2t1score=2
+|r4m2t2p1=Espi |r4m2t2p1flag=ca
+|r4m2t2p2=Rustin |r4m2t2p2flag=us |r4m2t2score=0
+|r4m2win=1
+
+|r4m3t1p1=MikeHaze |r4m3t1p1flag=us
+|r4m3t1p2=Bladewise |r4m3t1p2flag=us |r4m3t1score=2
+|r4m3t2p1=RK |r4m3t2p1flag=ca
+|r4m3t2p2=zilo |r4m3t2p2flag=ca |r4m3t2score=0
+|r4m3win=1
+
+|r4m4t1p1=eBay |r4m4t1p1flag=us
+|r4m4t1p2=Vinodh |r4m4t1p2flag=us |r4m4t1score=1
+|r4m4t2p1=Webwipe |r4m4t2p1flag=ca
+|r4m4t2p2=MojoMonkey |r4m4t2p2flag=ca |r4m4t2score=2
+|r4m4win=2
+
+<!-- ROUND 5 -->
+|r5m1t1p1=SFAT |r5m1t1p1flag=us
+|r5m1t1p2=HomeMadeWaffles |r5m1t1p2flag=us |r5m1t1score=3
+|r5m1t2p1=Shunsuke |r5m1t2p1flag=jp
+|r5m1t2p2=Edgeluca |r5m1t2p2flag=ca |r5m1t2score=0
+|r5m1win=1
+
+|r5m2t1p1=MikeHaze |r5m2t1p1flag=us
+|r5m2t1p2=Bladewise |r5m2t1p2flag=us |r5m2t1score=3
+|r5m2t2p1=Webwipe |r5m2t2p1flag=ca
+|r5m2t2p2=MojoMonkey |r5m2t2p2flag=ca |r5m2t2score=0
+|r5m2win=1
+}}
+==Losers Bracket==
+{{64DEDoublesLBracketSmwA
+|column-width=190
+|tourneylink=Battle of BC/1/Melee
+|tourneyname=Battle of BC
+|l1placement=49-64
+|l2placement=33-48
+|l3placement=25-32
+|l4placement=17-24
+|l5placement=13-16
+|l6placement=9-12
+|l7placement=7-8
+|l8placement=5-6
+
+<!-- ROUND 1 -->
+|l1m1t1p1=Snwmanassassin9 |l1m1t1p1flag=ca
+|l1m1t1p2=Jon Johns |l1m1t1p2flag=ca |l1m1t1score=DQ
+|l1m1t2p1=Blue |l1m1t2p1flag=ca
+|l1m1t2p2=Pasta |l1m1t2p2flag=ca |l1m1t2score={{win}}
+|l1m1win=2
+
+|l1m2t1p1=ExpandDong |l1m2t1p1flag=ca
+|l1m2t1p2=Armless Kirby |l1m2t1p2flag=ca |l1m2t1score=0
+|l1m2t2p1=Leonidas |l1m2t2p1flag=ca
+|l1m2t2p2=sean |l1m2t2p2flag=ca |l1m2t2score=2
+|l1m2win=2
+
+|l1m3t1p1=SerFluffles |l1m3t1p1flag=ca
+|l1m3t1p2=Slurms |l1m3t1p2flag=ca |l1m3t1score=2
+|l1m3t2p1=Sage |l1m3t2p1flag=ca
+|l1m3t2p2=goatlink |l1m3t2p2flag=us |l1m3t2score=1
+|l1m3win=1
+
+|l1m4t1p1=Axel |l1m4t1p1flag=ca
+|l1m4t1p2=Ronnok |l1m4t1p2flag=ca |l1m4t1score={{win}}
+|l1m4t2p1=bSM |l1m4t2p1flag=ca
+|l1m4t2p2=ADAM |l1m4t2p2flag=ca |l1m4t2score=DQ
+|l1m4win=1
+
+|l1m5t1p1=Elliot |l1m5t1p1flag=ca
+|l1m5t1p2=Thomas The Legend |l1m5t1p2flag=ca |l1m5t1score={{win}}
+|l1m5t2p1=Donald_Drumpf |l1m5t2p1flag=ca
+|l1m5t2p2=HAVOC |l1m5t2p2flag=ca |l1m5t2score=DQ
+|l1m5win=1
+
+|l1m6t1p1=WetFood |l1m6t1p1flag=ca
+|l1m6t1p2=Svecks |l1m6t1p2flag=ca |l1m6t1score=1
+|l1m6t2p1=Dozy |l1m6t2p1flag=ca
+|l1m6t2p2=Bupo |l1m6t2p2flag=ca |l1m6t2score=2
+|l1m6win=2
+
+|l1m7t1p1=Hexa |l1m7t1p1flag=ca
+|l1m7t1p2=WhiteBoyFresh |l1m7t1p2flag=ca |l1m7t1score=2
+|l1m7t2p1=ezryph |l1m7t2p1flag=ca
+|l1m7t2p2=NiteCyper |l1m7t2p2flag=ca |l1m7t2score=0
+|l1m7win=1
+
+|l1m8t1p1=Bri-bri |l1m8t1p1flag=ca
+|l1m8t1p2=Kev |l1m8t1p2flag=ca |l1m8t1score=0
+|l1m8t2p1=Aaron G |l1m8t2p1flag=ca
+|l1m8t2p2=Jodie Joestar |l1m8t2p2flag=ca |l1m8t2score=2
+|l1m8win=2
+
+|l1m9t1p1=Drago |l1m9t1p1flag=ca
+|l1m9t1p2=ScruffyHearts |l1m9t1p2flag=ca |l1m9t1score={{win}}
+|l1m9t2p1=Tumbles |l1m9t2p1flag=ca
+|l1m9t2p2=tlo |l1m9t2p2flag=us |l1m9t2score=DQ
+|l1m9win=1
+
+|l1m10t1p1=Cheesedog |l1m10t1p1flag=ca
+|l1m10t1p2=Glacien |l1m10t1p2flag=ca |l1m10t1score=0
+|l1m10t2p1=MattC |l1m10t2p1flag=ca
+|l1m10t2p2=shan3p |l1m10t2p2flag=ca |l1m10t2score=2
+|l1m10win=2
+
+|l1m11t1p1=Tony_Chen |l1m11t1p1flag=ca
+|l1m11t1p2=TGCP |l1m11t1p2flag=ca |l1m11t1score=0
+|l1m11t2p1=Kori |l1m11t2p1flag=ca
+|l1m11t2p2=Wrackle |l1m11t2p2flag=ca |l1m11t2score=2
+|l1m11win=2
+
+|l1m12t1p1=DKarnage |l1m12t1p1flag=ca
+|l1m12t1p2=Kiri |l1m12t1p2flag=ca |l1m12t1score=2
+|l1m12t2p1=Midnight_B1u3 |l1m12t2p1flag=ca
+|l1m12t2p2=Lu•Lu |l1m12t2p2flag=ca |l1m12t2score=0
+|l1m12win=1
+
+|l1m13t1p1=Top 5 |l1m13t1p1flag=ca
+|l1m13t1p2=Gooby |l1m13t1p2flag=ca |l1m13t1score=0
+|l1m13t2p1=Eleven |l1m13t2p1flag=ca
+|l1m13t2p2=Chef |l1m13t2p2flag=ca |l1m13t2score=2
+|l1m13win=2
+
+|l1m14t1p1=Zipp |l1m14t1p1flag=ca
+|l1m14t1p2=Crotes |l1m14t1p2flag=ca |l1m14t1score=2
+|l1m14t2p1=Sorry |l1m14t2p1flag=ca
+|l1m14t2p2=Quibb |l1m14t2p2flag=ca |l1m14t2score=0
+|l1m14win=1
+
+|l1m15t1p1=Electrosandwich |l1m15t1p1flag=ca
+|l1m15t1p2=John-Fraud Van Damme |l1m15t1p2flag=ca |l1m15t1score=0
+|l1m15t2p1=TDawg |l1m15t2p1flag=ca
+|l1m15t2p2=Microwave |l1m15t2p2flag=ca |l1m15t2score=2
+|l1m15win=2
+
+|l1m16t1p1=north face bomber |l1m16t1p1flag=ca
+|l1m16t1p2=Brown clown |l1m16t1p2flag=ca |l1m16t1score=DQ
+|l1m16t2p1=Simba |l1m16t2p1flag=ca
+|l1m16t2p2=Rhythm |l1m16t2p2flag=ca |l1m16t2score={{win}}
+|l1m16win=2
+
+<!-- ROUND 2 -->
+|l2m1t1p1=Shon |l2m1t1p1flag=ca
+|l2m1t1p2=BOR |l2m1t1p2flag=ca |l2m1t1score=2
+|l2m1t2p1=Blue |l2m1t2p1flag=ca
+|l2m1t2p2=Pasta |l2m1t2p2flag=ca |l2m1t2score=1
+|l2m1win=1
+
+|l2m2t1p1=Spirits |l2m2t1p1flag=ca
+|l2m2t1p2=Sloth |l2m2t1p2flag=ca |l2m2t1score=2
+|l2m2t2p1=Leonidas |l2m2t2p1flag=ca
+|l2m2t2p2=sean |l2m2t2p2flag=ca |l2m2t2score=1
+|l2m2win=1
+
+|l2m3t1p1=Tyme |l2m3t1p1flag=ca
+|l2m3t1p2=SnesR0X |l2m3t1p2flag=ca |l2m3t1score=0
+|l2m3t2p1=SerFluffles |l2m3t2p1flag=ca
+|l2m3t2p2=Slurms |l2m3t2p2flag=ca |l2m3t2score=2
+|l2m3win=2
+
+|l2m4t1p1=SOUPOSTRICH |l2m4t1p1flag=ca
+|l2m4t1p2=Lakerbaker |l2m4t1p2flag=ca |l2m4t1score=2
+|l2m4t2p1=Axel |l2m4t2p1flag=ca
+|l2m4t2p2=Ronnok |l2m4t2p2flag=ca |l2m4t2score=0
+|l2m4win=1
+
+|l2m5t1p1=Sosa |l2m5t1p1flag=ca
+|l2m5t1p2=Sus |l2m5t1p2flag=ca |l2m5t1score=2
+|l2m5t2p1=Elliot |l2m5t2p1flag=ca
+|l2m5t2p2=Thomas The Legend |l2m5t2p2flag=ca |l2m5t2score=0
+|l2m5win=1
+
+|l2m6t1p1=Genesis FTW |l2m6t1p1flag=ca
+|l2m6t1p2=Chocolate Thunda |l2m6t1p2flag=ca |l2m6t1score=2
+|l2m6t2p1=Dozy |l2m6t2p1flag=ca
+|l2m6t2p2=Bupo |l2m6t2p2flag=ca |l2m6t2score=0
+|l2m6win=1
+
+|l2m7t1p1=Qualp |l2m7t1p1flag=ca
+|l2m7t1p2=Reeves |l2m7t1p2flag=ca |l2m7t1score=1
+|l2m7t2p1=Hexa |l2m7t2p1flag=ca
+|l2m7t2p2=WhiteBoyFresh |l2m7t2p2flag=ca |l2m7t2score=2
+|l2m7win=2
+
+|l2m8t1p1=Arm & Hammer |l2m8t1p1flag=ca
+|l2m8t1p2=CyborgCarlSagan |l2m8t1p2flag=ca |l2m8t1score=2
+|l2m8t2p1=Aaron G |l2m8t2p1flag=ca
+|l2m8t2p2=Jodie Joestar |l2m8t2p2flag=ca |l2m8t2score=1
+|l2m8win=1
+
+|l2m9t1p1=Coon |l2m9t1p1flag=ca
+|l2m9t1p2=Lev |l2m9t1p2flag=ca |l2m9t1score=2
+|l2m9t2p1=Drago |l2m9t2p1flag=ca
+|l2m9t2p2=ScruffyHearts |l2m9t2p2flag=ca |l2m9t2score=0
+|l2m9win=1
+
+|l2m10t1p1=DelfoxPuddles |l2m10t1p1flag=ca
+|l2m10t1p2=Finscael |l2m10t1p2flag=ca |l2m10t1score=2
+|l2m10t2p1=MattC |l2m10t2p1flag=ca
+|l2m10t2p2=shan3p |l2m10t2p2flag=ca |l2m10t2score=0
+|l2m10win=1
+
+|l2m11t1p1=celestial |l2m11t1p1flag=ca
+|l2m11t1p2=Red Lego |l2m11t1p2flag=ca |l2m11t1score=0
+|l2m11t2p1=Kori |l2m11t2p1flag=ca
+|l2m11t2p2=Wrackle |l2m11t2p2flag=ca |l2m11t2score=2
+|l2m11win=2
+
+|l2m12t1p1=Aurum |l2m12t1p1flag=ca
+|l2m12t1p2=TPS |l2m12t1p2flag=ca |l2m12t1score=2
+|l2m12t2p1=DKarnage |l2m12t2p1flag=ca
+|l2m12t2p2=Kiri |l2m12t2p2flag=ca |l2m12t2score=0
+|l2m12win=1
+
+|l2m13t1p1=TheGTree |l2m13t1p1flag=ca
+|l2m13t1p2=shmugs |l2m13t1p2flag=ca |l2m13t1score=2
+|l2m13t2p1=Eleven |l2m13t2p1flag=ca
+|l2m13t2p2=Chef |l2m13t2p2flag=ca |l2m13t2score=1
+|l2m13win=1
+
+|l2m14t1p1=Will |l2m14t1p1flag=ca
+|l2m14t1p2=Vista |l2m14t1p2flag=us |l2m14t1score=2
+|l2m14t2p1=Zipp |l2m14t2p1flag=ca
+|l2m14t2p2=Crotes |l2m14t2p2flag=ca |l2m14t2score=0
+|l2m14win=1
+
+|l2m15t1p1=Graham |l2m15t1p1flag=ca
+|l2m15t1p2=Duotas |l2m15t1p2flag=ca |l2m15t1score=0
+|l2m15t2p1=TDawg |l2m15t2p1flag=ca
+|l2m15t2p2=Microwave |l2m15t2p2flag=ca |l2m15t2score=2
+|l2m15win=2
+
+|l2m16t1p1=beeWesley |l2m16t1p1flag=us
+|l2m16t1p2=Naztoise |l2m16t1p2flag=ca |l2m16t1score=2
+|l2m16t2p1=Simba |l2m16t2p1flag=ca
+|l2m16t2p2=Rhythm |l2m16t2p2flag=ca |l2m16t2score=1
+|l2m16win=1
+
+<!-- ROUND 3 -->
+|l3m1t1p1=Shon |l3m1t1p1flag=ca
+|l3m1t1p2=BOR |l3m1t1p2flag=ca |l3m1t1score=2
+|l3m1t2p1=Spirits |l3m1t2p1flag=ca
+|l3m1t2p2=Sloth |l3m1t2p2flag=ca |l3m1t2score=0
+|l3m1win=1
+
+|l3m2t1p1=SerFluffles |l3m2t1p1flag=ca
+|l3m2t1p2=Slurms |l3m2t1p2flag=ca |l3m2t1score=2
+|l3m2t2p1=SOUPOSTRICH |l3m2t2p1flag=ca
+|l3m2t2p2=Lakerbaker |l3m2t2p2flag=ca |l3m2t2score=0
+|l3m2win=1
+
+|l3m3t1p1=Sosa |l3m3t1p1flag=ca
+|l3m3t1p2=Sus |l3m3t1p2flag=ca |l3m3t1score=0
+|l3m3t2p1=Genesis FTW |l3m3t2p1flag=ca
+|l3m3t2p2=Chocolate Thunda |l3m3t2p2flag=ca |l3m3t2score=2
+|l3m3win=2
+
+|l3m4t1p1=Hexa |l3m4t1p1flag=ca
+|l3m4t1p2=WhiteBoyFresh |l3m4t1p2flag=ca |l3m4t1score=2
+|l3m4t2p1=Arm & Hammer |l3m4t2p1flag=ca
+|l3m4t2p2=CyborgCarlSagan |l3m4t2p2flag=ca |l3m4t2score=0
+|l3m4win=1
+
+|l3m5t1p1=Coon |l3m5t1p1flag=ca
+|l3m5t1p2=Lev |l3m5t1p2flag=ca |l3m5t1score=1
+|l3m5t2p1=DelfoxPuddles |l3m5t2p1flag=ca
+|l3m5t2p2=Finscael |l3m5t2p2flag=ca |l3m5t2score=2
+|l3m5win=2
+
+|l3m6t1p1=Kori |l3m6t1p1flag=ca
+|l3m6t1p2=Wrackle |l3m6t1p2flag=ca |l3m6t1score=2
+|l3m6t2p1=Aurum |l3m6t2p1flag=ca
+|l3m6t2p2=TPS |l3m6t2p2flag=ca |l3m6t2score=0
+|l3m6win=1
+
+|l3m7t1p1=TheGTree |l3m7t1p1flag=ca
+|l3m7t1p2=shmugs |l3m7t1p2flag=ca |l3m7t1score=0
+|l3m7t2p1=Will |l3m7t2p1flag=ca
+|l3m7t2p2=Vista |l3m7t2p2flag=us |l3m7t2score=2
+|l3m7win=2
+
+|l3m8t1p1=TDawg |l3m8t1p1flag=ca
+|l3m8t1p2=Microwave |l3m8t1p2flag=ca |l3m8t1score=0
+|l3m8t2p1=beeWesley |l3m8t2p1flag=us
+|l3m8t2p2=Naztoise |l3m8t2p2flag=ca |l3m8t2score=2
+|l3m8win=2
+
+<!-- ROUND 4 -->
+|l4m1t1p1=Golf |l4m1t1p1flag=ca
+|l4m1t1p2=TKO |l4m1t1p2flag=ca |l4m1t1score=0
+|l4m1t2p1=Shon |l4m1t2p1flag=ca
+|l4m1t2p2=BOR |l4m1t2p2flag=ca |l4m1t2score=2
+|l4m1win=2
+
+|l4m2t1p1=Theo |l4m2t1p1flag=ca
+|l4m2t1p2=Bodlack |l4m2t1p2flag=ca |l4m2t1score=2
+|l4m2t2p1=SerFluffles |l4m2t2p1flag=ca
+|l4m2t2p2=Slurms |l4m2t2p2flag=ca |l4m2t2score=1
+|l4m2win=1
+
+|l4m3t1p1=Syd |l4m3t1p1flag=ca
+|l4m3t1p2=Calvin |l4m3t1p2flag=us |l4m3t1score=2
+|l4m3t2p1=Genesis FTW |l4m3t2p1flag=ca
+|l4m3t2p2=Chocolate Thunda |l4m3t2p2flag=ca |l4m3t2score=1
+|l4m3win=1
+
+|l4m4t1p1=Perrilox |l4m4t1p1flag=ca
+|l4m4t1p2=Fitz |l4m4t1p2flag=ca |l4m4t1score=2
+|l4m4t2p1=Hexa |l4m4t2p1flag=ca
+|l4m4t2p2=WhiteBoyFresh |l4m4t2p2flag=ca |l4m4t2score=0
+|l4m4win=1
+
+|l4m5t1p1=Stress |l4m5t1p1flag=ca
+|l4m5t1p2=Yield |l4m5t1p2flag=ca |l4m5t1score=0
+|l4m5t2p1=DelfoxPuddles |l4m5t2p1flag=ca
+|l4m5t2p2=Finscael |l4m5t2p2flag=ca |l4m5t2score=2
+|l4m5win=2
+
+|l4m6t1p1=Polo |l4m6t1p1flag=ca
+|l4m6t1p2=Jerry Jurr |l4m6t1p2flag=ca |l4m6t1score=0
+|l4m6t2p1=Kori |l4m6t2p1flag=ca
+|l4m6t2p2=Wrackle |l4m6t2p2flag=ca |l4m6t2score=2
+|l4m6win=2
+
+|l4m7t1p1=Yakal |l4m7t1p1flag=ca
+|l4m7t1p2=ANG3L |l4m7t1p2flag=ca |l4m7t1score=0
+|l4m7t2p1=Will |l4m7t2p1flag=ca
+|l4m7t2p2=Vista |l4m7t2p2flag=us |l4m7t2score=2
+|l4m7win=2
+
+|l4m8t1p1=elfman |l4m8t1p1flag=
+|l4m8t1p2=BiscuitTricks |l4m8t1p2flag=ca |l4m8t1score=DQ
+|l4m8t2p1=beeWesley |l4m8t2p1flag=us
+|l4m8t2p2=Naztoise |l4m8t2p2flag=ca |l4m8t2score={{win}}
+|l4m8win=2
+
+<!-- ROUND 5 -->
+|l5m1t1p1=Shon |l5m1t1p1flag=ca
+|l5m1t1p2=BOR |l5m1t1p2flag=ca |l5m1t1score=2
+|l5m1t2p1=Theo |l5m1t2p1flag=ca
+|l5m1t2p2=Bodlack |l5m1t2p2flag=ca |l5m1t2score=1
+|l5m1win=1
+
+|l5m2t1p1=Syd |l5m2t1p1flag=ca
+|l5m2t1p2=Calvin |l5m2t1p2flag=us |l5m2t1score=2
+|l5m2t2p1=Perrilox |l5m2t2p1flag=ca
+|l5m2t2p2=Fitz |l5m2t2p2flag=ca |l5m2t2score=0
+|l5m2win=1
+
+|l5m3t1p1=DelfoxPuddles |l5m3t1p1flag=ca
+|l5m3t1p2=Finscael |l5m3t1p2flag=ca |l5m3t1score=0
+|l5m3t2p1=Kori |l5m3t2p1flag=ca
+|l5m3t2p2=Wrackle |l5m3t2p2flag=ca |l5m3t2score=2
+|l5m3win=2
+
+|l5m4t1p1=Will |l5m4t1p1flag=ca
+|l5m4t1p2=Vista |l5m4t1p2flag=us |l5m4t1score=2
+|l5m4t2p1=beeWesley |l5m4t2p1flag=us
+|l5m4t2p2=Naztoise |l5m4t2p2flag=ca |l5m4t2score=0
+|l5m4win=1
+
+<!-- ROUND 6 -->
+|l6m1t1p1=RK |l6m1t1p1flag=ca
+|l6m1t1p2=zilo |l6m1t1p2flag=ca |l6m1t1score=2
+|l6m1t2p1=Shon |l6m1t2p1flag=ca
+|l6m1t2p2=BOR |l6m1t2p2flag=ca |l6m1t2score=0
+|l6m1win=1
+
+|l6m2t1p1=eBay |l6m2t1p1flag=us
+|l6m2t1p2=Vinodh |l6m2t1p2flag=us |l6m2t1score=2
+|l6m2t2p1=Syd |l6m2t2p1flag=ca
+|l6m2t2p2=Calvin |l6m2t2p2flag=us |l6m2t2score=1
+|l6m2win=1
+
+|l6m3t1p1=bwmat |l6m3t1p1flag=ca
+|l6m3t1p2=Rusty Shacklefurd |l6m3t1p2flag=ca |l6m3t1score=2
+|l6m3t2p1=Kori |l6m3t2p1flag=ca
+|l6m3t2p2=Wrackle |l6m3t2p2flag=ca |l6m3t2score=0
+|l6m3win=1
+
+|l6m4t1p1=Espi |l6m4t1p1flag=ca
+|l6m4t1p2=Rustin |l6m4t1p2flag=us |l6m4t1score=2
+|l6m4t2p1=Will |l6m4t2p1flag=ca
+|l6m4t2p2=Vista |l6m4t2p2flag=us |l6m4t2score=0
+|l6m4win=1
+
+<!-- ROUND 7 -->
+|l7m1t1p1=RK |l7m1t1p1flag=ca
+|l7m1t1p2=zilo |l7m1t1p2flag=ca |l7m1t1score=2
+|l7m1t2p1=eBay |l7m1t2p1flag=us
+|l7m1t2p2=Vinodh |l7m1t2p2flag=us |l7m1t2score=1
+|l7m1win=1
+
+|l7m2t1p1=bwmat |l7m2t1p1flag=ca
+|l7m2t1p2=Rusty Shacklefurd |l7m2t1p2flag=ca |l7m2t1score=1
+|l7m2t2p1=Espi |l7m2t2p1flag=ca
+|l7m2t2p2=Rustin |l7m2t2p2flag=us |l7m2t2score=3
+|l7m2win=2
+
+<!-- ROUND 8 -->
+|l8m1t1p1=Shunsuke |l8m1t1p1flag=jp
+|l8m1t1p2=Edgeluca |l8m1t1p2flag=ca |l8m1t1score=2
+|l8m1t2p1=RK |l8m1t2p1flag=ca
+|l8m1t2p2=zilo |l8m1t2p2flag=ca |l8m1t2score=1
+|l8m1win=1
+
+|l8m2t1p1=Webwipe |l8m2t1p1flag=ca
+|l8m2t1p2=MojoMonkey |l8m2t1p2flag=ca |l8m2t1score=3
+|l8m2t2p1=Espi |l8m2t2p1flag=ca
+|l8m2t2p2=Rustin |l8m2t2p2flag=us |l8m2t2score=2
+|l8m2win=1
+}}
+<onlyinclude>
+==Final Doubles Bracket==
+{{DEFinalDoublesSmwBracket
+|tourneylink=Battle of BC/1/Melee
+|tourneyname=Battle of BC
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=170
+
+<!-- FROM WINNERS -->
+|r1m1t1p1=SFAT |r1m1t1p1flag=us
+|r1m1t1p2=HomeMadeWaffles |r1m1t1p2flag=us |r1m1t1score=3
+|r1m1t2p1=MikeHaze |r1m1t2p1flag=us
+|r1m1t2p2=Bladewise |r1m1t2p2flag=us |r1m1t2score=1
+|r1m1win=1
+
+<!-- FROM LOSERS -->
+|l1m1t1p1=Shunsuke |l1m1t1p1flag=jp
+|l1m1t1p2=Edgeluca |l1m1t1p2flag=ca |l1m1t1score=1
+|l1m1t2p1=Webwipe |l1m1t2p1flag=ca
+|l1m1t2p2=MojoMonkey |l1m1t2p2flag=ca |l1m1t2score=3
+|l1m1win=2
+
+<!-- LOSERS FINALS -->
+|r2m1t1p1=MikeHaze |r2m1t1p1flag=us
+|r2m1t1p2=Bladewise |r2m1t1p2flag=us |r2m1t1score={{win}}
+|r2m1t2p1=Webwipe |r2m1t2p1flag=ca
+|r2m1t2p2=MojoMonkey |r2m1t2p2flag=ca |r2m1t2score=
+|r2m1win=1
+
+<!-- GRAND FINALS -->
+|r3m1t1p1=SFAT |r3m1t1p1flag=us
+|r3m1t1p2=HomeMadeWaffles |r3m1t1p2flag=us |r3m1t1score=3
+|r3m1t2p1=MikeHaze |r3m1t2p1flag=us
+|r3m1t2p2=Bladewise |r3m1t2p2flag=us |r3m1t2score=0
+|r3m1win=1
+}}
+</onlyinclude>

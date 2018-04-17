@@ -1,0 +1,102 @@
+{{SetGame|melee}}{{DISPLAYTITLE:CEO 2016: ''Melee'' Singles Bracket}}{{Tabs game|basepage=CEO/2016|melee=true|wiiu=true}}
+{{CEO 2016 Tabs|This=3}}<br/>
+{{:CEO/2016/Melee/Singles Bracket/Winners}}
+{{:CEO/2016/Melee/Singles Bracket/Losers}}
+<onlyinclude>
+==Final Singles Bracket==
+{{DEFinalSmwBracket
+|tourneylink=CEO/2016/Melee
+|tourneyname=CEO 2016
+|l1placement=4
+|r2placement=3
+|r3loserplacement=2
+|r3winnerplacement=1
+|column-width=200
+
+<!-- FROM WINNERS -->
+|r1m1p1=Hungrybox |r1m1p1flag=us |r1m1p1score=3
+|r1m1p2=Mew2King |r1m1p2flag=us |r1m1p2score=1
+|r1m1win=1
+|r1m1p1char1=jigglypuff |r1m1p1stock1=2 |r1m1p2char1=fox |r1m1p2stock1=0 |r1m1win1=1 |r1m1stage1=Battlefield
+|r1m1p1char2=jigglypuff |r1m1p1stock2=0 |r1m1p2char2=fox |r1m1p2stock2=1 |r1m1win2=2 |r1m1stage2=Pokémon Stadium
+|r1m1p1char3=jigglypuff |r1m1p1stock3=2 |r1m1p2char3=fox |r1m1p2stock3=0 |r1m1win3=1 |r1m1stage3=Dream Land
+|r1m1p1char4=jigglypuff |r1m1p1stock4=3 |r1m1p2char4=fox |r1m1p2stock4=0 |r1m1win4=1 |r1m1stage4=Yoshi's Story
+|r1m1date=
+|r1m1finished=
+|r1m1details={{BracketMatchDetails
+|vod=http://www.youtube.com/watch?v=JBhsePpUa_c
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- FROM LOSERS -->
+|l1m1p1=SFAT |l1m1p1flag=us |l1m1p1score=3
+|l1m1p2=Plup |l1m1p2flag=us |l1m1p2score=1
+|l1m1win=1
+|l1m1p1char1=fox |l1m1p1stock1=2 |l1m1p2char1=sheik |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Battlefield
+|l1m1p1char2=fox |l1m1p1stock2=0 |l1m1p2char2=samus |l1m1p2stock2=1 |l1m1win2=2 |l1m1stage2=Fountain of Dreams
+|l1m1p1char3=fox |l1m1p1stock3=1 |l1m1p2char3=samus |l1m1p2stock3=0 |l1m1win3=1 |l1m1stage3=Final Destination
+|l1m1p1char4=fox |l1m1p1stock4=1 |l1m1p2char4=samus |l1m1p2stock4=0 |l1m1win4=1 |l1m1stage4=Yoshi's Story
+|l1m1p1char5= |l1m1p1stock5= |l1m1p2char5= |l1m1p2stock5= |l1m1win5= |l1m1stage5=
+|l1m1date=
+|l1m1finished=
+|l1m1details={{BracketMatchDetails
+|vod=http://www.youtube.com/watch?v=Mzf7uuNhkrk
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- LOSERS FINALS -->
+|r2m1p1=Mew2King |r2m1p1flag=us |r2m1p1score=3
+|r2m1p2=SFAT |r2m1p2flag=us |r2m1p2score=1
+|r2m1win=1
+|r2m1p1char1=sheik |r2m1p1stock1=0 |r2m1p2char1=fox |r2m1p2stock1=1 |r2m1win1=2 |r2m1stage1=Battlefield
+|r2m1p1char2=marth |r2m1p1stock2=3 |r2m1p2char2=fox |r2m1p2stock2=0 |r2m1win2=1 |r2m1stage2=Final Destination
+|r2m1p1char3=marth |r2m1p1stock3=2 |r2m1p2char3=fox |r2m1p2stock3=0 |r2m1win3=1 |r2m1stage3=Dream Land
+|r2m1p1char4=marth |r2m1p1stock4=1 |r2m1p2char4=fox |r2m1p2stock4=0 |r2m1win4=1 |r2m1stage4=Dream Land
+|r2m1p1char5= |r2m1p1stock5= |r2m1p2char5= |r2m1p2stock5= |r2m1win5= |r2m1stage5=
+|r2m1date=
+|r2m1finished=
+|r2m1details={{BracketMatchDetails
+|vod=http://www.youtube.com/watch?v=yVxuWA_PyN8
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+
+<!-- GRAND FINALS -->
+|r3m1p1=Hungrybox |r3m1p1flag=us |r3m1p1score=3
+|r3m1p2=Mew2King |r3m1p2flag=us |r3m1p2score=1
+|export_score=true
+|r3m1win=1
+|r3m1p1char1=jigglypuff |r3m1p1stock1=2 |r3m1p2char1=marth |r3m1p2stock1=0 |r3m1win1=1 |r3m1stage1=Fountain of Dreams
+|r3m1p1char2=jigglypuff |r3m1p1stock2=2 |r3m1p2char2=sheik |r3m1p2stock2=0 |r3m1win2=1 |r3m1stage2=Yoshi's Story
+|r3m1p1char3=jigglypuff |r3m1p1stock3=0 |r3m1p2char3=fox |r3m1p2stock3=1 |r3m1win3=2 |r3m1stage3=Pokémon Stadium
+|r3m1p1char4=jigglypuff |r3m1p1stock4=2 |r3m1p2char4=fox |r3m1p2stock4=0 |r3m1win4=1 |r3m1stage4=Dream Land
+|r3m1date=
+|r3m1finished=
+|r3m1details={{BracketMatchDetails
+|vod=http://www.youtube.com/watch?v=8W54WsDbBKo
+|preview= 
+|lrthread=
+|interview=
+|recap=
+|comment=
+|live=
+}}
+}}
+</onlyinclude>
+
+==Sources==
+*[https://pbs.twimg.com/media/ClzeI0fWMAAx21O.jpg:large Paper bracket]

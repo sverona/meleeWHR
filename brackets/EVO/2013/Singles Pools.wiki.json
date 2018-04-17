@@ -1,0 +1,519 @@
+{
+    "===Losers Bracket===": {
+        "l1m1": {
+            "p1": "Kels",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Android",
+            "p2flag": "se",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Milkman",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m3": {
+            "p1": "StriCNYN3",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Mr. F",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l1m4": {
+            "p1": "Bimbo",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m5": {
+            "p1": "Boback",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Meta",
+            "p2flag": "ca",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m6": {
+            "p1": "Kounotori",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m7": {
+            "p1": "Jazdero",
+            "p1flag": "mx",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l1m8": {
+            "p1": "Larry Lurr",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m1": {
+            "p1": "DaShizWiz",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Kels",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Milkman",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Mr. F",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m4": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Bimbo",
+            "p2flag": "mx",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m5": {
+            "p1": "Zoso",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Boback",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m6": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Kounotori",
+            "p2flag": "jp",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l2m7": {
+            "p1": "Ken",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Jazdero",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "l2m8": {
+            "p1": "Bye",
+            "p1flag": "",
+            "p1score": "",
+            "p2": "Larry Lurr",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "DaShizWiz",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Milkman",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m2": {
+            "p1": "Mr. F",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bimbo",
+            "p2flag": "mx",
+            "p2score": "",
+            "win": "1"
+        },
+        "l3m3": {
+            "p1": "Boback",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Kounotori",
+            "p2flag": "jp",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l3m4": {
+            "p1": "Ken",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Larry Lurr",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l4m1": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "interview": "",
+                "lrthread": "",
+                "preview": "",
+                "recap": "",
+                "vod": "https://youtu.be/b87J-dCdKCs"
+            },
+            "finished": "",
+            "p1": "SilentSpectre",
+            "p1char1": "cf",
+            "p1char2": "cf",
+            "p1flag": "us",
+            "p1score": "0",
+            "p1stock1": "0",
+            "p1stock2": "0",
+            "p2": "DaShizWiz",
+            "p2char1": "falco",
+            "p2char2": "falco",
+            "p2flag": "us",
+            "p2score": "2",
+            "p2stock1": "1",
+            "p2stock2": "3",
+            "stage1": "Dream Land",
+            "stage2": "Battlefield",
+            "win": "2",
+            "win1": "2",
+            "win2": "2"
+        },
+        "l4m2": {
+            "p1": "aMSa",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Mr. F",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m3": {
+            "p1": "Nite",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Kounotori",
+            "p2flag": "jp",
+            "p2score": "",
+            "win": "1"
+        },
+        "l4m4": {
+            "p1": "Ice",
+            "p1flag": "de",
+            "p1score": "win",
+            "p2": "Larry Lurr",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m1": {
+            "p1": "DaShizWiz",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "aMSa",
+            "p2flag": "jp",
+            "p2score": "",
+            "win": "1"
+        },
+        "l5m2": {
+            "p1": "Nite",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Ice",
+            "p2flag": "de",
+            "p2score": "win",
+            "win": "2"
+        },
+        "l6m1": {
+            "p1": "Lucien",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "DaShizWiz",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "l6m2": {
+            "p1": "Zhu",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Ice",
+            "p2flag": "de",
+            "p2score": "win",
+            "win": "2"
+        }
+    },
+    "===Winners Bracket===": {
+        "r1m1": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "interview": "",
+                "lrthread": "",
+                "preview": "",
+                "recap": "",
+                "vod": "https://youtu.be/59TxUa0o-A4"
+            },
+            "finished": "",
+            "p1": "Mew2King",
+            "p1char1": "sheik",
+            "p1char2": "sheik",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "3",
+            "p1stock2": "4",
+            "p2": "Zoso",
+            "p2char1": "fox",
+            "p2char2": "fox",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Dream Land",
+            "stage2": "Yoshi's Story",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r1m2": {
+            "p1": "aMSa",
+            "p1flag": "jp",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m3": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "interview": "",
+                "lrthread": "",
+                "preview": "",
+                "recap": "",
+                "vod": "https://youtu.be/UMpwli9-KWI"
+            },
+            "finished": "",
+            "p1": "Zhu",
+            "p1char1": "falco",
+            "p1char2": "falco",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "3",
+            "p1stock2": "2",
+            "p2": "Ken",
+            "p2char1": "marth",
+            "p2char2": "marth",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Yoshi's Story",
+            "stage2": "Yoshi's Story",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r1m4": {
+            "p1": "SilentSpectre",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "DaShizWiz",
+            "p1flag": "us",
+            "p1score": "",
+            "p2": "Silent Wolf",
+            "p2flag": "us",
+            "p2score": "win",
+            "win": "2"
+        },
+        "r1m6": {
+            "p1": "Ice",
+            "p1flag": "de",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Lucien",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Nite",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Bye",
+            "p2flag": "",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "aMSa",
+            "p2flag": "jp",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m2": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "interview": "",
+                "lrthread": "",
+                "preview": "",
+                "recap": "",
+                "vod": "https://youtu.be/MCCosURj6oo"
+            },
+            "finished": "",
+            "p1": "Zhu",
+            "p1char1": "falco",
+            "p1char2": "falco",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "2",
+            "p1stock2": "2",
+            "p2": "SilentSpectre",
+            "p2char1": "cf",
+            "p2char2": "cf",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Battlefield",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r2m3": {
+            "p1": "Silent Wolf",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Ice",
+            "p2flag": "de",
+            "p2score": "",
+            "win": "1"
+        },
+        "r2m4": {
+            "p1": "Lucien",
+            "p1flag": "us",
+            "p1score": "win",
+            "p2": "Nite",
+            "p2flag": "us",
+            "p2score": "",
+            "win": "1"
+        },
+        "r3m1": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "interview": "",
+                "lrthread": "",
+                "preview": "",
+                "recap": "",
+                "vod": "https://www.youtube.com/watch?v=Okg7mxiAD6c"
+            },
+            "finished": "",
+            "p1char1": "Sheik",
+            "p1char2": "Sheik",
+            "p1stock1": "2",
+            "p1stock2": "2",
+            "p2char1": "Falco",
+            "p2char2": "Falco",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Dream Land",
+            "stage2": "Battlefield",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r3m2": {
+            "date": "",
+            "details": {
+                "comment": "",
+                "interview": "",
+                "lrthread": "",
+                "preview": "",
+                "recap": "",
+                "vod": "https://youtu.be/CW4koU4jj0w"
+            },
+            "finished": "",
+            "p1": "Silent Wolf",
+            "p1char1": "fox",
+            "p1char2": "fox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p1stock1": "3",
+            "p1stock2": "3",
+            "p2": "Lucien",
+            "p2char1": "marth",
+            "p2char2": "marth",
+            "p2flag": "us",
+            "p2score": "0",
+            "p2stock1": "0",
+            "p2stock2": "0",
+            "stage1": "Battlefield",
+            "stage2": "Yoshi's Story",
+            "win": "1",
+            "win1": "1",
+            "win2": "1"
+        },
+        "r3m5": {
+            "p2score": "0"
+        }
+    },
+    "==Pool I57==": {},
+    "==Pool I59==": {},
+    "==Pool I61==": {},
+    "==Pool I63==": {},
+    "==References==": {},
+    "==Sources==": {}
+}

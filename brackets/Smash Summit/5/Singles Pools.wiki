@@ -1,0 +1,295 @@
+{{DISPLAYTITLE:Smash Summit 5: Singles Pools}}{{SetGame|melee}}
+{{Smash Summit 5 Tabs}}
+==Round Robin Pools==
+{{Box|start|padding=2em}}
+===={{HiddenSort|Pool 1}}====
+{{GroupTableStart |Pool 1|width=300px}}
+{{GroupTableSlot|Hungrybox|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|Wizzrobe|flag=us|win_m=2|lose_m=1|place=2|bg=stayup|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|aMSa|flag=jp|win_m=1|lose_m=2|place=3|bg=stay|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|Blea Gelo|flag=ve|win_m=0|lose_m=3|place=4|bg=staydown|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages
+|p1=Hungrybox |p1flag=us |p1score=3
+|p2=Blea Gelo |p2flag=ve |p2score=0
+|win=1
+|p1char1=jigglypuff |p2char1=luigi |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=jigglypuff |p2char2=luigi |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Battlefield
+|p1char3=jigglypuff |p2char3=luigi |p1stock3=3 |p2stock3=0 |win3=1 |stage3=Yoshi's Story
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=eOqAllSQv98}}
+}}
+{{Match stages
+|p1=aMSa |p1flag=jp |p1score=0
+|p2=Wizzrobe |p2flag=us |p2score=3
+|win=2
+|p1char1=yoshi |p2char1=cf |p1stock1=0 |p2stock1=2 |win1=2 |stage1=Final Destination
+|p1char2=yoshi |p2char2=cf |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Fountain of Dreams
+|p1char3=yoshi |p2char3=cf |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Yoshi's Story
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=XuuAa0JsCZs}}
+}}
+{{Match stages
+|p1=Blea Gelo |p1flag=ve |p1score=0
+|p2=aMSa |p2flag=jp |p2score=3
+|win=2
+|p1char1=luigi |p2char1=yoshi |p1stock1=0 |p2stock1=2 |win1=2 |stage1=Dream Land
+|p1char2=luigi |p2char2=yoshi |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Final Destination
+|p1char3=luigi |p2char3=yoshi |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Fountain of Dreams
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=AZHEzP--bCo}}
+}}
+{{Match stages
+|p1=Hungrybox |p1flag=us |p1score=3
+|p2=Wizzrobe |p2flag=us |p2score=1
+|win=1
+|p1char1=jigglypuff |p2char1=cf |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=jigglypuff |p2char2=cf |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Final Destination
+|p1char3=jigglypuff |p2char3=cf |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Yoshi's Story
+|p1char4=jigglypuff |p2char4=cf |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Yoshi's Story
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=qKyvFefTuCE}}
+}}
+{{Match stages
+|p1=Blea Gelo |p1flag=ve |p1score=0
+|p2=Wizzrobe |p2flag=us |p2score=3
+|win=2
+|p1char1=luigi |p2char1=cf |p1stock1=0 |p2stock1=2 |win1=2 |stage1=Battlefield
+|p1char2=luigi |p2char2=cf |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Final Destination
+|p1char3=luigi |p2char3=cf |p1stock3=0 |p2stock3=3 |win3=2 |stage3=Final Destination
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=Unpwvz6r2MU}}
+}}
+{{Match stages
+|p1=Hungrybox |p1flag=us |p1score=3
+|p2=aMSa |p2flag=jp |p2score=1
+|win=1
+|p1char1=jigglypuff |p2char1=yoshi |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=jigglypuff |p2char2=yoshi |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Final Destination
+|p1char3=jigglypuff |p2char3=yoshi |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Yoshi's Story
+|p1char4=jigglypuff |p2char4=yoshi |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Yoshi's Story
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=MbbUP0jqFps}}
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+===={{HiddenSort|Pool 2}}====
+{{GroupTableStart |Pool 2|width=300px}}
+{{GroupTableSlot|Armada|flag=se|win_m=3|lose_m=0|place=1|bg=up|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|Plup|flag=us|win_m=2|lose_m=1|place=2|bg=stayup|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|MikeHaze|flag=us|win_m=1|lose_m=2|place=3|bg=stay|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|Shroomed|flag=us|win_m=0|lose_m=3|place=4|bg=staydown|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages
+|p1=Armada |p1flag=se |p1score=3
+|p2=MikeHaze |p2flag=us |p2score=0
+|win=1
+|p1char1=peach |p1stock1=2 |p2char1=fox |p2stock1=0 |win1=1 |stage1=Fountain of Dreams
+|p1char2=peach |p1stock2=1 |p2char2=fox |p2stock2=0 |win2=1 |stage2=Pokémon Stadium
+|p1char3=peach |p1stock3=1 |p2char3=fox |p2stock3=0 |win3=1 |stage3=Pokémon Stadium
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=F_XlnO0K_fU}}
+}}
+{{Match stages
+|p1=Shroomed |p1flag=us |p1score=2
+|p2=Plup |p2flag=us |p2score=3
+|win=2
+|p1char1=sheik |p2char1=sheik |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=sheik |p2char2=sheik |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Battlefield
+|p1char3=sheik |p2char3=sheik |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Pokémon Stadium
+|p1char4=sheik |p2char4=sheik |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Fountain of Dreams
+|p1char5=sheik |p2char5=sheik |p1stock5=0 |p2stock5=1 |win5=2 |stage5=Yoshi's Story
+
+}}
+{{Match stages
+|p1=Shroomed |p1flag=us |p1score=1
+|p2=MikeHaze |p2flag=us |p2score=3
+|win=2
+|p1char1=sheik |p2char1=fox |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Dream Land
+|p1char2=marth |p2char2=fox |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Pokémon Stadium
+|p1char3=marth |p2char3=fox |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Final Destination
+|p1char4=marth |p2char4=fox |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Yoshi's Story
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=ejpTCwpJKw4}}
+}}
+{{Match stages
+|p1=Plup |p1flag=us |p1score=2
+|p2=Armada |p2flag=se |p2score=3
+|win=2
+|p1char1=sheik |p2char1=fox |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=sheik |p2char2=fox |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Battlefield
+|p1char3=samus |p2char3=peach |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Final Destination
+|p1char4=sheik |p2char4=fox |p1stock4=2 |p2stock4=0 |win4=1 |stage4=Fountain of Dreams
+|p1char5=sheik |p2char5=fox |p1stock5=0 |p2stock5=2 |win5=2 |stage5=Pokémon Stadium
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=RSbYboL-Row}}
+}}
+{{Match stages
+|p1=Plup |p1flag=us |p1score=3
+|p2=MikeHaze |p2flag=us |p2score=0
+|win=1
+|p1char1=sheik |p2char1=fox |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=fox |p2char2=fox |p1stock2=3 |p2stock2=0 |win2=1 |stage2=Final Destination
+|p1char3=sheik |p2char3=fox |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Dream Land
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=Eqa9kB9M51k}}
+}}
+{{Match stages
+|p1=Armada |p1flag=se |p1score=3
+|p2=Shroomed |p2flag=us |p2score=0
+|win=1
+|p1char1=fox |p2char1=marth |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=fox |p2char2=marth |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Yoshi's Story
+|p1char3=fox |p2char3=marth |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=ZQOy8KazVzA}}
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+===={{HiddenSort|Pool 3}}====
+{{GroupTableStart |Pool 3|width=300px}}
+{{GroupTableSlot|Leffen|flag=se|win_m=3|lose_m=0|place=1|bg=up|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|Mango|flag=us|win_m=2|lose_m=1|place=2|bg=stayup|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|Crush|flag=us|win_m=1|lose_m=2|place=3|bg=stay|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|S2J|flag=us|win_m=0|lose_m=3|place=4|bg=staydown|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages
+|p1=Mango |p1flag=us |p1score=3
+|p2=Crush |p2flag=us |p2score=2
+|win=1
+|p1char1=falco |p2char1=fox |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=falco |p2char2=fox |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Dream Land
+|p1char3=falco |p2char3=fox |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Dream Land
+|p1char4=falco |p2char4=fox |p1stock4=2 |p2stock4=0 |win4=1 |stage4=Yoshi's Story
+|p1char5=falco |p2char5=fox |p1stock5=3 |p2stock5=0 |win5=1 |stage5=Final Destination
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=a6MmS7TOyZQ}}
+}}
+{{Match stages
+|p1=S2J |p1flag=us |p1score=1
+|p2=Leffen |p2flag=se |p2score=3
+|win=2
+|p1char1=cf |p2char1=fox |p1stock1=0 |p2stock1=3 |win1=2 |stage1=Battlefield
+|p1char2=cf |p2char2=fox |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Pokémon Stadium
+|p1char3=cf |p2char3=fox |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Pokémon Stadium
+|p1char4=cf |p2char4=fox |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Final Destination
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=hUcrpbDZCD0}}
+}}
+{{Match stages
+|p1=Mango |p1flag=us |p1score=3
+|p2=S2J |p2flag=us |p2score=1
+|win=1
+|p1char1=falco |p2char1=falco |p1stock1=3 |p2stock1=0 |win1=1 |stage1=Battlefield
+|p1char2=falco |p2char2=cf |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Pokémon Stadium
+|p1char3=falco |p2char3=cf |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Pokémon Stadium
+|p1char4=falco |p2char4=cf |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Yoshi's Story
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=f4Edjo4S-s8}}
+}}
+{{Match stages
+|p1=Leffen |p1flag=se |p1score=3
+|p2=Crush |p2flag=us |p2score=0
+|win=1
+|p1char1=fox |p2char1=fox |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Fountain of Dreams
+|p1char2=fox |p2char2=fox |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Fountain of Dreams
+|p1char3=fox |p2char3=fox |p1stock3=2 |p2stock3=0 |win3=1 |stage3=Fountain of Dreams
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=TF9IjebHpPA}}
+}}
+{{Match stages
+|p1=S2J |p1flag=us |p1score=2
+|p2=Crush |p2flag=us |p2score=3
+|win=2
+|p1char1=cf |p2char1=fox |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=cf |p2char2=fox |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Pokémon Stadium
+|p1char3=cf |p2char3=fox |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Fountain of Dreams
+|p1char4=cf |p2char4=fox |p1stock4=0 |p2stock4=2 |win4=2 |stage4=Yoshi's Story
+|p1char5=cf |p2char5=fox |p1stock5=0 |p2stock5=2 |win5=2 |stage5=Dream Land
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=ktuKBVvUy74}}
+}}
+{{Match stages
+|p1=Mango |p1flag=us |p1score=2
+|p2=Leffen |p2flag=se |p2score=3
+|win=2
+|p1char1=falco |p2char1=fox |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Dream Land
+|p1char2=falco |p2char2=fox |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Final Destination
+|p1char3=falco |p2char3=fox |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Pokémon Stadium
+|p1char4=falco |p2char4=fox |p1stock4=0 |p2stock4=1 |win4=2 |stage4=Dream Land
+|p1char5=falco |p2char5=fox |p1stock5=0 |p2stock5=2 |win5=2 |stage5=Fountain of Dreams
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=enshnd6VRSk}}
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}
+
+===={{HiddenSort|Pool 4}}====
+{{GroupTableStart |Pool 4|width=300px}}
+{{GroupTableSlot|Axe|flag=us|win_m=3|lose_m=0|place=1|bg=up|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|SFAT|flag=us|win_m=2|lose_m=1|place=2|bg=stayup|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|Mew2King|flag=us|win_m=1|lose_m=2|place=3|bg=stay|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableSlot|Hax|flag=us|win_m=0|lose_m=3|place=4|bg=staydown|go={{advance|Smash Summit/5/Singles Bracket}}}}
+{{GroupTableEnd}}
+{{Match list start|width=300px}}
+{{Match stages
+|p1=Mew2King |p1flag=us |p1score=3
+|p2=Hax |p2flag=us |p2score=0
+|win=1
+|p1char1=marth |p2char1=fox |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Yoshi's Story
+|p1char2=marth |p2char2=fox |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Dream Land
+|p1char3=marth |p2char3=fox |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Battlefield
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=6j7lI-rUlQk}}
+}}
+{{Match stages
+|p1=SFAT |p1flag=us |p1score=0
+|p2=Axe |p2flag=us |p2score=3
+|win=2
+|p1char1=fox |p2char1=pikachu |p1stock1=0 |p2stock1=1 |win1=2 |stage1=Battlefield
+|p1char2=fox |p2char2=marth |p1stock2=0 |p2stock2=1 |win2=2 |stage2=Pokémon Stadium
+|p1char3=fox |p2char3=marth |p1stock3=0 |p2stock3=2 |win3=2 |stage3=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=55WPY8Z8VYI}}
+}}
+{{Match stages
+|p1=SFAT |p1flag=us |p1score=3
+|p2=Hax |p2flag=us |p2score=1
+|win=1
+|p1char1=fox |p2char1=fox |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Dream Land
+|p1char2=fox |p2char2=fox |p1stock2=2 |p2stock2=0 |win2=1 |stage2=Battlefield
+|p1char3=fox |p2char3=fox |p1stock3=0 |p2stock3=3 |win3=2 |stage3=Battlefield
+|p1char4=fox |p2char4=fox |p1stock4=2 |p2stock4=0 |win4=1 |stage4=Final Destination
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=TCBkU1mm4jY}}
+}}
+{{Match stages
+|p1=Axe |p1flag=us |p1score=3
+|p2=Mew2King |p2flag=us |p2score=1
+|win=1
+|p1char1=pikachu |p2char1=sheik |p1stock1=1 |p2stock1=0 |win1=1 |stage1=Dream Land
+|p1char2=falco |p2char2=marth |p1stock2=0 |p2stock2=3 |win2=2 |stage2=Final Destination
+|p1char3=pikachu |p2char3=sheik |p1stock3=1 |p2stock3=0 |win3=1 |stage3=Fountain of Dreams
+|p1char4=pikachu |p2char4=sheik |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=Z6hTVA7YOhI}}
+}}
+{{Match stages
+|p1=Hax |p1flag=us |p1score=0
+|p2=Axe |p2flag=us |p2score=3
+|win=2
+|p1char1=fox |p2char1=pikachu |p1stock1=0 |p2stock1=2 |win1=2 |stage1=Battlefield
+|p1char2=fox |p2char2=pikachu |p1stock2=0 |p2stock2=2 |win2=2 |stage2=Battlefield
+|p1char3=fox |p2char3=pikachu |p1stock3=0 |p2stock3=1 |win3=2 |stage3=Battlefield
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=be-zpO9jWsQ}}
+}}
+{{Match stages
+|p1=SFAT |p1flag=us |p1score=3
+|p2=Mew2King |p2flag=us |p2score=1
+|win=1
+|p1char1=fox |p2char1=marth |p1stock1=2 |p2stock1=0 |win1=1 |stage1=Fountain of Dreams
+|p1char2=fox |p2char2=marth |p1stock2=1 |p2stock2=0 |win2=1 |stage2=Final Destination
+|p1char3=fox |p2char3=marth |p1stock3=0 |p2stock3=3 |win3=2 |stage3=Final Destination
+|p1char4=fox |p2char4=marth |p1stock4=1 |p2stock4=0 |win4=1 |stage4=Pokémon Stadium
+|date=
+|details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=bZlBkIPEzVQ}}
+}}
+{{Match list end}}
+{{Box|break|padding=2em}}

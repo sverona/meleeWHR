@@ -1,0 +1,280 @@
+{
+    "==Final Singles Bracket==": {
+        "l1m1": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "The Moon",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        },
+        "r1m1": {
+            "date": "November 17, 2013",
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Hungrybox",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "The Moon",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m1": {
+            "date": "November 17, 2013",
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Hungrybox",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Losers Bracket==": {
+        "l1m1": {
+            "p1": "C!Z",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Knut",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m2": {
+            "p1": "Teczero",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Darc",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l1m3": {
+            "p1": "Toph",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "G$",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l1m4": {
+            "p1": "Nando",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Darrell",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m1": {
+            "p1": "Tope",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "C!Z",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m2": {
+            "p1": "StriCNYN3",
+            "p1flag": "us",
+            "p1score": "1",
+            "p2": "Darc",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l2m3": {
+            "p1": "DJ Nintendo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Toph",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l2m4": {
+            "p1": "Kage",
+            "p1flag": "ca",
+            "p1score": "1",
+            "p2": "Darrell",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m1": {
+            "p1": "Tope",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Darc",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "l3m2": {
+            "p1": "DJ Nintendo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Darrell",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "l4m1": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Darc",
+            "p2flag": "us",
+            "p2score": "1",
+            "win": "1"
+        },
+        "l4m2": {
+            "p1": "The Moon",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "DJ Nintendo",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        }
+    },
+    "==Winners Bracket==": {
+        "r1m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "C!Z",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m2": {
+            "p1": "Knut",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Kage",
+            "p2flag": "ca",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m3": {
+            "p1": "DJ Nintendo",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Teczero",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m4": {
+            "p1": "Chillindude",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Darc",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m5": {
+            "p1": "Toph",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "StriCNYN3",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r1m6": {
+            "p1": "The Moon",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "G$",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m7": {
+            "p1": "Tope",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Nando",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r1m8": {
+            "p1": "Hungrybox",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Darrell",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "2",
+            "p2": "Kage",
+            "p2flag": "ca",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r2m2": {
+            "p1": "DJ Nintendo",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Chillindude",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m3": {
+            "p1": "StriCNYN3",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "The Moon",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r2m4": {
+            "p1": "Tope",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Hungrybox",
+            "p2flag": "us",
+            "p2score": "2",
+            "win": "2"
+        },
+        "r3m1": {
+            "p1": "Mew2King",
+            "p1flag": "us",
+            "p1score": "3",
+            "p2": "Chillindude",
+            "p2flag": "us",
+            "p2score": "0",
+            "win": "1"
+        },
+        "r3m2": {
+            "p1": "The Moon",
+            "p1flag": "us",
+            "p1score": "0",
+            "p2": "Hungrybox",
+            "p2flag": "us",
+            "p2score": "3",
+            "win": "2"
+        }
+    }
+}

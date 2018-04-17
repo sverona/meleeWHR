@@ -1,0 +1,93 @@
+{{SetGame|melee}}{{tabs static
+|name1=Overview
+|link1=DX Ranking Session 5
+|name2=Swiss Rounds
+|link2=DX Ranking Session 5/Swiss Rounds
+|name3=Top 16 Bracket
+|link3=DX Ranking Session 5/Top 16 Bracket
+|This=3
+}}
+<!-- Generated with http://tournament-nub.rhcloud.com/toliquipedia -->
+==Winners==
+{{16DEWBracketA
+|r1m1p1=Cyr |r1m1p1flag=fr |r1m1p1score=2 |r1m1win=1
+|r1m1p2=Funk Puissante |r1m1p2flag= |r1m1p2score=0
+
+|r1m2p1=Maxattack |r1m2p1flag= |r1m2p1score=0 |r1m2win=2
+|r1m2p2=Pute |r1m2p2flag= |r1m2p2score=2
+
+|r1m3p1=BeLia |r1m3p1flag=fr |r1m3p1score=2 |r1m3win=1
+|r1m3p2=Jr. |r1m3p2flag= |r1m3p2score=0
+
+|r1m4p1=Guilu |r1m4p1flag= |r1m4p1score=2 |r1m4win=1
+|r1m4p2=Darx |r1m4p2flag= |r1m4p2score=1
+
+|r1m5p1=Shloub |r1m5p1flag=fr |r1m5p1score=2 |r1m5win=1
+|r1m5p2=Eternay |r1m5p2flag= |r1m5p2score=0
+
+|r1m6p1=Clyde Wuts |r1m6p1flag= |r1m6p1score=1 |r1m6win=2
+|r1m6p2=Raoul |r1m6p2flag= |r1m6p2score=2
+
+|r1m7p1=Cpt. L0ve |r1m7p1flag= |r1m7p1score=2 |r1m7win=1
+|r1m7p2=Jambon |r1m7p2flag= |r1m7p2score=0
+
+|r1m8p1=Slhoka |r1m8p1flag=fr |r1m8p1score=2 |r1m8win=1
+|r1m8p2=Lion's Curry |r1m8p2flag= |r1m8p2score=0
+
+|r2m1p1=Cyr |r2m1p1flag=fr |r2m1p1score=2 |r2m1win=1
+|r2m1p2=Pute |r2m1p2flag= |r2m1p2score=0
+
+|r2m2p1=BeLia |r2m2p1flag=fr |r2m2p1score=2 |r2m2win=1
+|r2m2p2=Guilu |r2m2p2flag= |r2m2p2score=0
+
+|r2m3p1=Shloub |r2m3p1flag=fr |r2m3p1score=2 |r2m3win=1
+|r2m3p2=Raoul |r2m3p2flag= |r2m3p2score=0
+
+|r2m4p1=Cpt. L0ve |r2m4p1flag= |r2m4p1score=0 |r2m4win=2
+|r2m4p2=Slhoka |r2m4p2flag=fr |r2m4p2score=2
+
+|r3m1p1=Cyr |r3m1p1flag=fr |r3m1p1score=2 |r3m1win=1
+|r3m1p2=BeLia |r3m1p2flag=fr |r3m1p2score=0
+
+|r3m2p1=Shloub |r3m2p1flag=fr |r3m2p1score=2 |r3m2win=1
+|r3m2p2=Slhoka |r3m2p2flag=fr |r3m2p2score=0
+}}
+
+==Losers==
+{{16DELBracketA
+|l1m1p1=Funk Puissante |l1m1p1flag= |l1m1p1score=2 |l1m1win=1
+|l1m1p2=Maxattack |l1m1p2flag= |l1m1p2score=1
+
+|l1m2p1=Jr. |l1m2p1flag= |l1m2p1score=0 |l1m2win=2
+|l1m2p2=Darx |l1m2p2flag= |l1m2p2score=2
+
+|l1m3p1=Eternay |l1m3p1flag= |l1m3p1score=1 |l1m3win=2
+|l1m3p2=Clyde Wuts |l1m3p2flag= |l1m3p2score=2
+
+|l1m4p1=Jambon |l1m4p1flag= |l1m4p1score=1 |l1m4win=2
+|l1m4p2=Lion's Curry |l1m4p2flag= |l1m4p2score=2
+
+|l2m1p1=Cpt. L0ve |l2m1p1flag= |l2m1p1score=2 |l2m1win=1
+|l2m1p2=Funk Puissante |l2m1p2flag= |l2m1p2score=0
+
+|l2m2p1=Raoul |l2m2p1flag= |l2m2p1score=2 |l2m2win=1
+|l2m2p2=Darx |l2m2p2flag= |l2m2p2score=1
+
+|l2m3p1=Guilu |l2m3p1flag= |l2m3p1score=2 |l2m3win=1
+|l2m3p2=Clyde Wuts |l2m3p2flag= |l2m3p2score=1
+
+|l2m4p1=Pute |l2m4p1flag= |l2m4p1score=1 |l2m4win=2
+|l2m4p2=Lion's Curry |l2m4p2flag= |l2m4p2score=2
+
+|l3m1p1=Cpt. L0ve |l3m1p1flag= |l3m1p1score=2 |l3m1win=1
+|l3m1p2=Raoul |l3m1p2flag= |l3m1p2score=1
+
+|l3m2p1=Guilu |l3m2p1flag= |l3m2p1score=1 |l3m2win=2
+|l3m2p2=Lion's Curry |l3m2p2flag= |l3m2p2score=2
+
+|l4m1p1=BeLia |l4m1p1flag=fr |l4m1p1score=2 |l4m1win=1
+|l4m1p2=Cpt. L0ve |l4m1p2flag= |l4m1p2score=0
+
+|l4m2p1=Slhoka |l4m2p1flag=fr |l4m2p1score=2 |l4m2win=1
+|l4m2p2=Lion's Curry |l4m2p2flag= |l4m2p2score=0
+}}
