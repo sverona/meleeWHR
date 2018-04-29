@@ -10,6 +10,28 @@ def tourney_time(t)
     Time.at t['printouts']['Has start date'][0]['timestamp'].to_i
 end
 
+def fix(tag)
+    changes = {'chu dat' => 'chudat',
+               'sephirothken' => 'ken',
+               'the moon' => 'la luna',
+               'azen zagenite' => 'azen',
+               'chillin' => 'chillindude',
+               'king' => 'the king',
+               'dr. peepee' => 'ppmd',
+               'unknown522' => 'ryan ford',
+               'el fuego' => 'santiago',
+               'smashg0d' => 'rishi',
+               'takuto' => 's-royal',
+               'luninspectra' => 'lunin',
+               'tori' => 'dj combo'
+    }
+    if changes[tag]
+        return changes[tag]
+    else
+        return tag
+    end
+end
+
 tourneys.sort_by { |name, t| tourney_time(t) }.each do |name, t|
     # puts Date.parse(tourney_time(t).to_s).step(Date.new(2003, 1, 1), 7).to_a
     date = Date.new(2003, 1, 1).step(Date.parse(tourney_time(t).to_s), 7).count
@@ -22,7 +44,7 @@ tourneys.sort_by { |name, t| tourney_time(t) }.each do |name, t|
                 bracket.each do |n, brak|
                     brak.each do |round, game|
                         if game['p1'] and game['p2'] and game['p1'] != 'Bye' and game['p2'] != 'Bye' and game['p1'] != game['p2']
-                            @whr.create_game(game['p1'].downcase, game['p2'].downcase,
+                            @whr.create_game(fix(game['p1'].downcase), fix(game['p2'].downcase),
                                              'BW'[game['win'].to_i - 1], date, 0)
                             puts "#{game['p1']}\t#{game['p2']}\t#{game['win']}"
                         end
@@ -43,5 +65,5 @@ ratings = Hash.new([])
 end
 
 puts ratings
-rate_list = File.new("ratings_whr.json", "w")
+rate_list = File.new("ratings_whr_2.json", "w")
 rate_list.write JSON.pretty_generate(ratings)
