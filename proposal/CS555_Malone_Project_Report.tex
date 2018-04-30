@@ -1,6 +1,6 @@
 \documentclass[10pt]{article}
 
-\title{Term project proposal}
+\title{Term project report}
 \newcommand{\course}{CS 555: Data Science}
 
 \author{Sasha Malone}
@@ -17,10 +17,13 @@
 \usepackage{units}    % non-stacked fractions and better unit spacing
 \usepackage{multicol} % multiple column layout facilities
 % \usepackage{fullpage} % reduce margins
-\usepackage[margin=0.5in,tmargin=0.4in,includehead,includefoot,headheight=12pt,heightrounded]{geometry}
+\usepackage[margin=1in,tmargin=0.7in,includehead,includefoot,headheight=12pt,heightrounded]{geometry}
 
 \usepackage{hyperref}
 
+\usepackage{lmodern}
+\usepackage{xcolor}
+\usepackage{listings}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 
@@ -30,11 +33,30 @@
 \makeatother
 
 \usepackage{enumerate}
+
 \usepackage{titlesec}
+\colorlet{punct}{red!60!black}
+\definecolor{background}{HTML}{EEEEEE}
+\definecolor{delim}{RGB}{20,105,176}
+\colorlet{numb}{magenta!60!black}
+
+\lstdefinelanguage{json}{
+    basicstyle=\normalfont\ttfamily,
+    showstringspaces=false,
+    breaklines=true,
+    literate=
+     *{:}{{{\color{punct}{:}}}}{1}
+      {,}{{{\color{punct}{,}}}}{1}
+      {\{}{{{\color{delim}{\{}}}}{1}
+      {\}}{{{\color{delim}{\}}}}}{1}
+      {[}{{{\color{delim}{[}}}}{1}
+      {]}{{{\color{delim}{]}}}}{1},
+}
+
 
 \usepackage{fontspec}
 \setmainfont{Century Expanded Regular.otf}[
-    Path =  /usr/share/fonts/TTF/,
+    Path =  /usr/share/fonts/OTF/,
     BoldFont = Century Expanded Bold.otf,
     ItalicFont = Century Expanded Italic.otf
 ]
@@ -81,11 +103,15 @@
 
 \begin{document}
 
-\hypertarget{background-and-problem-description}{%
-\section{Background and problem
-description}\label{background-and-problem-description}}
+\emph{NB:} As the total filesize of my data and project code exceeds
+Blackboard's upload limit, please note that it is publicly available on Github
+at URL \texttt{http://github.com/sverona/meleeWHR}. Replication instructions
+are available in the repository's readme file.
 
-\emph{Super Smash Bros.~Melee} (hereafter \emph{SSBM},) a fighting game
+\hypertarget{background-and-problem-description}{%
+\section{Background and problem description}\label{background-and-problem-description}}
+
+\emph{Super Smash Bros.~Melee}, a fighting game
 originally released in 2001, has recently experienced a resurgence in
 competitive play. Major tournament series such as Genesis and Evolution
 regularly attract upwards of 1,000 entrants {[}1{]}, a scale otherwise
@@ -93,10 +119,11 @@ unheard of for decade-old games incapable of online play.
 
 Melee It On Me (\emph{MIOM}), the competitive community's primary
 governing body, produces annual ranking lists of the 100 most skilled
-players, established by panel vote. The accuracy of these lists and
-their methodology are highly debated within the community at large.
-There have been many attempts at using existing rating systems such as
-Elo and Glicko to generate comparable rankings, but few are still
+players, established by panel vote. While the general accuracy of these
+lists is widely accepted, both the placement of individual players and
+the rankings' general methodology are highly debated within the community
+at large. There have been many attempts at using existing rating systems such
+as Elo and Glicko to generate comparable rankings, but few are still
 publicly maintained, partially due to the scattered nature of the
 available data. Further, these rankings (like their MIOM counterparts)
 are produced at infrequent intervals from aggregated resuls. Thus, since
@@ -107,7 +134,7 @@ purposes) falls mainly on that tournament's organizers.
 \hypertarget{objectives}{%
 \section{Objectives}\label{objectives}}
 
-I propose to
+The goals of this project were to
 
 \begin{enumerate}
 \def\labelenumi{\roman{enumi}.}
@@ -117,7 +144,7 @@ I propose to
   2003-4, into a publicly maintained dataset;
 \item
   use this dataset and a maximum-likelihood estimation method such as
-  Whole- History Rating (\emph{WHR}) {[}2{]} to reconstruct real-time
+  Whole-History Rating (\emph{WHR}) {[}2{]} to reconstruct real-time
   ratings for the period comprising the earliest MLG tournaments in
   2005-6 to the present day;
 \item
@@ -125,34 +152,7 @@ I propose to
   to {[}4{]}.
 \end{enumerate}
 
-\hypertarget{basic-data-model-and-project-workflow}{%
-\section{Basic data model and project
-workflow}\label{basic-data-model-and-project-workflow}}
-
-The data will consist primarily of match metadata from tournament
-brackets, as shown in the code snippet below. This data will be cleaned
-and reformatted into a format more appropriate for storage in a
-relational database, most likely JSON or CSV.
-
-The baseline schema (omitting unnecessary attributes) has the following
-tables:
-\begin{enumerate}[i.]
-    \item TOURNAMENTS, having attribute \texttt{ID} and \texttt{date};
-    \item MATCHES, having attributes \texttt{ID}, \texttt{bracket\_ID},
-        \texttt{winner\_ID}, \texttt{loser\_ID};
-    \item PLAYERS, having attribute \texttt{ID};
-    \item MATCHES\_PLAYERS, join table.
-\end{enumerate}
-
-At the basic level, within this database, tournaments are ordered
-temporally by their \texttt{date} attributes, while their brackets are
-ordered temporally by the match attributes \texttt{winner\_ID} and
-\texttt{loser\_ID}, which contain the IDs of the matches the winner and
-loser of that match play next. \texttt{loser\_ID} is \texttt{NULL} only
-if the loser is eliminated from the tournament; \texttt{winner\_ID} is
-\texttt{NULL} only if the winner of the match is the winner of the
-tournament.
-
+\section{Overview of methodology and research question}
 The primary question of interest is to derive a stable measure of player
 skill from the sequence of match records. One method of doing so that
 has been adopted by other e-sports communities is TrueSkill {[}5{]},
@@ -171,34 +171,27 @@ assumption. One goal of this project is to adapt this algorithm slightly
 to model some of the peculiarities of \emph{SSBM}'s competitive
 environment, as demonstrated, e.g., in {[}6{]}.
 
-\hypertarget{sample-data-format}{%
-\section{Sample data format}\label{sample-data-format}}
+The WHR algorithm differs from TrueSkill in that it performs MLE over the
+player's entire rating history (hence the name.) 
 
-Currently, the data is primarily stored on sites such as Liquipedia
-{[}7{]} in a markup format. The following snippet (sourced from {[}8{]})
-contains the match data from three sets between top-level players at the
-tournament Shine 2017:
+\hypertarget{basic-data-model-and-project-workflow}{%
+\section{Data cleaning}\label{basic-data-model-and-project-workflow}}
 
-\begin{verbatim}
-|l1m1p1=PewPewU |l1m1p1flag=us |l1m1p1score=3
-|l1m1p2=Trif |l1m1p2flag=es |l1m1p2score=2
-|l1m1win=1
-|l1m1p1char1=marth |l1m1p2char1=peach |l1m1p1stock1= |l1m1p2stock1=0 |l1m1win1=1 |l1m1stage1=Unknown
-|l1m1p1char2=marth |l1m1p2char2=peach |l1m1p1stock2= |l1m1p2stock2=0 |l1m1win2=1 |l1m1stage2=Unknown
-|l1m1p1char3=marth |l1m1p2char3=peach |l1m1p1stock3=0 |l1m1p2stock3=1 |l1m1win3=2 |l1m1stage3=Dream Land
-|l1m1p1char4=marth |l1m1p2char4=peach |l1m1p1stock4=0 |l1m1p2stock4=1 |l1m1win4=2 |l1m1stage4=Yoshi's Story
-|l1m1p1char5=marth |l1m1p2char5=peach |l1m1p1stock5=1 |l1m1p2stock5=0 |l1m1win5=1 |l1m1stage5=Pokémon Stadium
-|l1m1date=August 26, 2017
-|l1m1details={{BracketMatchDetails|reddit=|comment=|vod=}}
+The data consists primarily of match metadata from tournament brackets,
+as shown in the sample below at left. This data was sourced from Liquipedia,
+using a scraper written in Python, and cleaned and reformatted into JSON, as
+in the sample below at right. It contains the match data from a set between
+top-level players at the tournament Shine 2017:
 
-|l1m2p1=Westballz |l1m2p1flag=us |l1m2p1score=3
-|l1m2p2=Lucky |l1m2p2flag=us |l1m2p2score=0
-|l1m2win=1
-|l1m2p1char1=falco |l1m2p2char1=fox |l1m2p1stock1=1 |l1m2p2stock1=0 |l1m2win1=1 |l1m2stage1=Battlefield
-|l1m2p1char2=falco |l1m2p2char2=fox |l1m2p1stock2=2 |l1m2p2stock2=0 |l1m2win2=1 |l1m2stage2=Dream Land
-|l1m2p1char3=falco |l1m2p2char3=fox |l1m2p1stock3=1 |l1m2p2stock3=0 |l1m2win3=1 |l1m2stage3=Pokémon Stadium
-|l1m2details={{BracketMatchDetails|vod=https://www.youtube.com/watch?v=4bMa_nRjC3E|comment=}}
-
+\lstset{frame=single,
+        basicstyle=\small\ttfamily,
+        basewidth=0.5em,
+        breaklines=true,
+        postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space}
+    }
+\begin{figure}[!ht]
+    \begin{minipage}[t][][t]{.46\textwidth}
+        \begin{lstlisting}
 |l1m3p1=S2J |l1m3p1flag=us |l1m3p1score=3
 |l1m3p2=HugS |l1m3p2flag=us |l1m3p2score=1
 |l1m3win=1
@@ -208,7 +201,41 @@ tournament Shine 2017:
 |l1m3p1char4=cf |l1m3p2char4=samus |l1m3p1stock4=3 |l1m3p2stock4=0 |l1m3win4=1 |l1m3stage4=Yoshi's Story
 |l1m3date=August 26, 2017
 |l1m3details={{BracketMatchDetails|reddit=|comment=|vod=https://www.youtube.com/watch?v=7zTSvNM-E1c}}
-\end{verbatim}
+        \end{lstlisting}
+    \end{minipage} \hfill
+    \begin{minipage}[t][][t]{.5\textwidth}
+        \begin{lstlisting}[language=json]
+"l1m3": {
+    "date": "August 26, 2017",
+    "details": {
+        "comment": "",
+        "reddit": "",
+        "vod": "https://www.youtube.com/watch?v=7zTSvNM-E1c"
+    },
+    "p1": "S2J",
+    "p1char1": "cf", "p1char2": "cf", "p1char3": "cf", "p1char4": "cf",
+    "p1flag": "us",
+    "p1score": "3",
+    "p1stock1": "0", "p1stock2": "1", "p1stock3": "2", "p1stock4": "3",
+
+    "p2": "HugS",
+    "p2char1": "samus", "p2char2": "samus", "p2char3": "samus", "p2char4": "samus",
+    "p2flag": "us",
+    "p2score": "1",
+    "p2stock1": "1", "p2stock2": "0", "p2stock3": "0", "p2stock4": "0",
+
+    "stage1": "Yoshi's Story", "stage2": "Pok\u00e9mon Stadium", "stage3": "Yoshi's Story", "stage4": "Yoshi's Story",
+
+    "win": "1",
+    "win1": "2", "win2": "1", "win3": "1", "win4": "1"
+}
+        \end{lstlisting}
+    \end{minipage}
+\end{figure}
+
+\section{Results}
+
+\section{Directions for further improvement}
 
 \begin{thebibliography}{7}
 \bibitem{size} https://www.ssbwiki.com/List\_of\_largest\_Smash\_tournaments

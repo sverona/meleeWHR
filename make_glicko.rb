@@ -1,8 +1,6 @@
-require 'whole_history_rating'
 require 'date'
 require 'json'
-
-@whr = WholeHistoryRating::Base.new(:w2 => 100)
+require 'glicko2'
 
 tourneys = JSON.load File.open "all_tournaments.json"
 
@@ -32,8 +30,9 @@ def fix(tag)
     end
 end
 
+games = []
+
 tourneys.sort_by { |name, t| tourney_time(t) }.each do |name, t|
-    # puts Date.parse(tourney_time(t).to_s).step(Date.new(2003, 1, 1), 7).to_a
     date = Date.new(2003, 1, 1).step(Date.parse(tourney_time(t).to_s), 7).count
     begin
         dir = "./brackets/#{t['fulltext']}"
@@ -62,13 +61,12 @@ tourneys.sort_by { |name, t| tourney_time(t) }.each do |name, t|
                             end
 
                             p1.times do |i|
-                                @whr.create_game(fix(game['p1'].downcase), fix(game['p2'].downcase), 'B', date, 0)
+                                games << [date, [fix(game['p1'].downcase), fix(game['p2'].downcase)], [1, 2]]
                             end
 
                             p2.times do |i|
-                                @whr.create_game(fix(game['p1'].downcase), fix(game['p2'].downcase), 'W', date, 0)
+                                games << [date, [fix(game['p1'].downcase), fix(game['p2'].downcase)], [2, 1]]
                             end
-                            puts "#{game['p1']}\t#{game['p2']}\t#{game['win']}"
                         end
                     end
                 end
@@ -77,13 +75,33 @@ tourneys.sort_by { |name, t| tourney_time(t) }.each do |name, t|
     end
 end
 
-@whr.iterate(1000)
-ratings = Hash.new([])
+puts "Parsed #{games.length} games"
 
-@whr.players.each do |tag, rates|
-    ratings[tag] = @whr.ratings_for_player(tag)
+Rating = Struct.new(:id, :rating, :rating_deviation, :volatility)
+current_ratings = Hash.new
+ratings = Hash.new
+
+num_players = 0
+
+games.group_by {|game| game[0]}.each do |date, games_at_date|
+    players = games_at_date.map {|game| game[1]}.flatten.uniq
+    puts players.inspect
+    players.each do |p|
+        if not current_ratings[p]
+            current_ratings[p] = Glicko2::Player.from_obj Rating.new(num_players, 1500, 100, 0.06)
+            num_players += 1
+        end
+    end
+    puts players.map{ |p| current_ratings[p] }
+    period = Glicko2::RatingPeriod.new players.map { |p| current_ratings[p] }
+    games_at_date.each do |game|
+        puts game.inspect
+        game_players = game[1].map { |p| current_ratings[p] }
+        puts game_players.inspect
+        period.game(game_players, game[2])
+    end
+
+    next_period = period.generate_next(0.5)
+    next_period.players.each { |p| p.update_obj }
+    puts current_ratings
 end
-
-puts ratings
-rate_list = File.new("ratings_whr_5.json", "w")
-rate_list.write JSON.pretty_generate(ratings)
