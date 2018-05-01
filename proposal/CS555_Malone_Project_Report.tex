@@ -145,8 +145,8 @@ The goals of this project were to
 \item
   use this dataset and a maximum-likelihood estimation method such as
   Whole-History Rating (\emph{WHR}) {[}2{]} to reconstruct real-time
-  ratings for the period comprising the earliest MLG tournaments in
-  2005-6 to the present day;
+  ratings for the period comprising the earliest modern tournaments in
+  2004-5 to the present day;
 \item
   use D3.js {[}3{]} to visualize these time-series in a manner similar
   to {[}4{]}.
@@ -171,8 +171,9 @@ assumption. One goal of this project is to adapt this algorithm slightly
 to model some of the peculiarities of \emph{SSBM}'s competitive
 environment, as demonstrated, e.g., in {[}6{]}.
 
-The WHR algorithm differs from TrueSkill in that it performs MLE over the
-player's entire rating history (hence the name.) 
+The WHR algorithm differs from TrueSkill in that it performs MLE retroactively
+over the player's entire rating history (hence the name.) This can lead to a
+tendency to 
 
 \hypertarget{basic-data-model-and-project-workflow}{%
 \section{Data cleaning}\label{basic-data-model-and-project-workflow}}
@@ -181,7 +182,7 @@ The data consists primarily of match metadata from tournament brackets,
 as shown in the sample below at left. This data was sourced from Liquipedia,
 using a scraper written in Python, and cleaned and reformatted into JSON, as
 in the sample below at right. It contains the match data from a set between
-top-level players at the tournament Shine 2017:
+top-level players at the tournament Shine 2017.
 
 \lstset{frame=single,
         basicstyle=\small\ttfamily,
@@ -233,10 +234,104 @@ top-level players at the tournament Shine 2017:
     \end{minipage}
 \end{figure}
 
+The resulting JSON data was sufficiently flexible to be input into the WHR
+algorithm. Further applications of this data may require the imposition of
+a relational schema.
+
+\subsection{Relevant source code}
+The raw bracket data is stored in the directory \texttt{brackets/}. Data
+formatted as Wikitext (above left) has the extension \texttt{*.wiki}, while
+data stored as JSON has the extension \texttt{*.wiki.json}.
+
 \section{Results}
+The computed ratings are stored in a JSON file
+
+\subsection{Evaluation}
+This section compares the results output by the WHR algorithm at the end of
+each year from 2004 to the present with those compiled by MIOM (from 2013 to
+2017) or by the RetroSSBMRank panel (from 2004 to 2012.) The algorithm's
+precision, recall, and $F_1$-score is evaluated for the top 10 (for Retro
+rankings) or top 100 (for MIOM rankings) players as evaluated by the foregoing
+source. Other 
+
+\textbf{2004}
+\begin{tabular}{lcc}
+    \textbf{Player} & \textbf{Retro Rank} & \textbf{WHR Rank} \\
+    Ken             & 1                      & 1        \\
+    Captain Jack    & 2                      & 3        \\
+    Azen            & 3                      & 2        \\
+    Isai            & 4                      & 6        \\
+    ChuDat          & 5                      & 4        \\
+    Sastopher       & 6                      & 5        \\
+    Wes             & 7                      & NR       \\
+    Rori            & 8                      & NR       \\
+    Chillindude     & 9                      & 8        \\
+    Rob\$           & 10                     & 7        \\
+\end{tabular}
+
+\textbf{2005}
+\begin{tabular}{lcc}
+    \textbf{Player} & \textbf{Retro Rank} & \textbf{WHR Rank} \\
+    Ken             & 1                      & 1        \\
+    ChuDat          & 2                      & 4        \\
+    Isai            & 3                      & 8        \\
+    Azen            & 4                      & 2        \\
+    Vidjo           & 5                      & 10       \\
+    NEO             & 6                      & 6        \\
+    Chillindude     & 7                      & 9        \\
+    KrazyJones      & 8                      & 13       \\
+    Caveman         & 9                      & 20       \\
+    DieSuperFly     & 10                     & 22       \\
+    PC Chris        & HM                     & 5        \\
+    Captain Jack    & NR                     & 3        \\
+    Sastopher       & NR                     & 7        \\
+\end{tabular}
+
+\textbf{2006}
+\begin{tabular}{lcc}
+    \textbf{Player} & \textbf{Retro Rank} & \textbf{WHR Rank} \\
+    Ken             & 1                      & 2        \\
+    Azen            & 2                      & 1        \\
+    PC Chris        & 3                      & 4        \\
+    ChuDat          & 4                      & 7        \\
+    KrazyJones      & 8                      & 13       \\
+    Vidjo           & 8                      & 14       \\
+    NEO             & 6                      & 6        \\
+    Isai            & 7                      & 19       \\
+    Chillindude     & 7                      & 9        \\
+    Caveman         & 9                      & 20       \\
+    DieSuperFly     & 10                     & 22       \\
+    Captain Jack    & NR                     & 3        \\
+    Sastopher       & NR                     & 7        \\
+\end{tabular}
 
 \section{Directions for further improvement}
+\subsection{Better missing value interpolation}
+The primary shortcoming of this project is its total ignorance of tournaments
+for which the brackets have been lost to history, but the rank-order placement
+data survives. Many such events fall between 2003 and 2006, during the
+competitive scene's so-called ``stone age'' and ``golden age.'' Both periods
+predated widespread use of tournament tracking software (brackets were kept on
+paper, etc.) Adding these results to the dataset will require some form of
+interpolation to approximate each player's path through the bracket. For
+example, the round in which each player was eliminated can be determined
+purely from the rank-order data. Working backward from this, Monte Carlo
+methods can be used to obtain an approximation of the mean strength of each
+bracket round. Then, each entrant's approximate bracket path can be
+represented by 
 
+\subsection{Further data gathering}
+Many other events have bracket data that is either not publicly available or
+in a different format (e.g., XML documents generated by 
+It should be noted that there are major tournament brackets, most prominently
+MELEE FC-Diamond, that can largely be reconstructed from the available data,
+but could not be added to the dataset in time.
+
+\subsection{More robust data model}
+
+\subsection{Visualization and web application}
+
+\newpage
 \begin{thebibliography}{7}
 \bibitem{size} https://www.ssbwiki.com/List\_of\_largest\_Smash\_tournaments
 \bibitem{whr} https://www.remi-coulom.fr/WHR/WHR.pdf 

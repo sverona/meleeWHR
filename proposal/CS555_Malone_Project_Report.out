@@ -2,5 +2,11 @@
 \BOOKMARK [1][-]{section.2}{Objectives}{}% 2
 \BOOKMARK [1][-]{section.3}{Overview\040of\040methodology\040and\040research\040question}{}% 3
 \BOOKMARK [1][-]{section.4}{Data\040cleaning}{}% 4
-\BOOKMARK [1][-]{section.5}{Results}{}% 5
-\BOOKMARK [1][-]{section.6}{Directions\040for\040further\040improvement}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Relevant\040source\040code}{section.4}% 5
+\BOOKMARK [1][-]{section.5}{Results}{}% 6
+\BOOKMARK [2][-]{subsection.5.1}{Evaluation}{section.5}% 7
+\BOOKMARK [1][-]{section.6}{Directions\040for\040further\040improvement}{}% 8
+\BOOKMARK [2][-]{subsection.6.1}{Better\040missing\040value\040interpolation}{section.6}% 9
+\BOOKMARK [2][-]{subsection.6.2}{Further\040data\040gathering}{section.6}% 10
+\BOOKMARK [2][-]{subsection.6.3}{More\040robust\040data\040model}{section.6}% 11
+\BOOKMARK [2][-]{subsection.6.4}{Visualization\040and\040web\040application}{section.6}% 12

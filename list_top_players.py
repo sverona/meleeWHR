@@ -11,10 +11,10 @@ from cycler import cycler
 
 startdate = date(2003, 1, 1)
 
-ratings = json.load(open('ratings_whr_4.json'))
+ratings = json.load(open('ratings_whr.json'))
 
 
-def wiener_rate(player, t, K=0.01):
+def wiener_rate(player, t, K=0.00075):
     def nearest_ratings(series):
         prevs = [k for k, rate in enumerate(series) if rate[0] <= t]
         if prevs:
@@ -76,8 +76,8 @@ def plot_top_players(ratings):
     ax.set_prop_cycle(cycler('linestyle', [':', '--', "-"]) *
                       cycler('color', list('rbgckm') + ['xkcd:burgundy', 'xkcd:lavender', 'xkcd:gold']))
 
-    ax.set_yticks(range(1800, 2800, 100))
-    ax.set_yticks(range(1800, 2800, 25), minor=True)
+    ax.set_yticks(range(1000, 2800, 100))
+    ax.set_yticks(range(1000, 2800, 25), minor=True)
     ax.grid(which='both')
 
     for t in tops:
@@ -88,13 +88,32 @@ def plot_top_players(ratings):
 
         dates = [startdate + timedelta(days=7) * w for w in weeks]
         # rates = [1800 + 0.5 * r[1] for r in ratings[t]]
-        rates = [1800 + 0.5 * wiener_rate(t, w) for w in weeks]
+        rates = [1500 + 0.7 * wiener_rate(t, w) for w in weeks]
         if len(rates) >= 2:
             # cs = CubicSpline(weeks, rates)
             # plt.plot(dates, cs(weeks), label=t)
             for z in zip(dates, rates):
                 print(z)
             plt.plot(dates, rates, label=t)
+
+    ax.set_prop_cycle(cycler('linestyle', ['-']) *
+                      cycler('color', list('k')))
+    for name, series in ratings.items():
+        if name not in tops:
+            entry_date = series[0][0]
+            end_date = min(795, series[-1][0] + 10)
+            weeks = range(entry_date, end_date + 1)
+            # weeks = [r[0] for r in ratings[t]]
+
+            dates = [startdate + timedelta(days=7) * w for w in weeks]
+            # rates = [1800 + 0.5 * r[1] for r in ratings[t]]
+            rates = [1500 + 0.7 * wiener_rate(name, w) for w in weeks]
+            if len(rates) >= 2:
+                # cs = CubicSpline(weeks, rates)
+                # plt.plot(dates, cs(weeks), label=t)
+                for z in zip(dates, rates):
+                    print(z)
+                plt.plot(dates, rates, alpha=0.1)
 
     handles, labels = ax.get_legend_handles_labels()
     labels, handles = zip(*sorted(zip(labels, handles), key=lambda t: wiener_rate(t[0], 795), reverse=True))
@@ -104,9 +123,8 @@ def plot_top_players(ratings):
 
 
 def __main__():
-    for p, r in top_players(ratings, week=52 * (2004 - 2003 + 1), K=0.00075, threshold=10):
+    for p, r in enumerate(top_players(ratings, week=52 * (2006 - 2003 + 1), K=0.00075, threshold=50)):
         print(p, r, sep='\t')
-
 
 
 if __name__ == "__main__":

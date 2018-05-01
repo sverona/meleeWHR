@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.3.14)  29 APR 2018 05:45
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.3.14)  30 APR 2018 19:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1084,9 +1084,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 195.
+(Font)              <9> on input line 196.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 195.
+(Font)              <6> on input line 196.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1095,8 +1095,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 250.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 26.60004pt.
@@ -1104,19 +1102,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 250.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 26.60004pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 345.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 26.60004pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 345.
  (./CS555_Malone_Project_Report.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 250.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 250.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 250.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 345.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 345.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 345.
  ) 
 Here is how much of TeX's memory you used:
- 22987 strings out of 493007
- 420526 string characters out of 6140075
- 716270 words of memory out of 5000000
- 26736 multiletter control sequences out of 15000+600000
- 551023 words of font info for 63 fonts, out of 8000000 for 9000
+ 22999 strings out of 493007
+ 420866 string characters out of 6140075
+ 716276 words of memory out of 5000000
+ 26746 multiletter control sequences out of 15000+600000
+ 551039 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  39i,11n,68p,10453b,1165s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on CS555_Malone_Project_Report.pdf (3 pages).
+Output written on CS555_Malone_Project_Report.pdf (5 pages).
