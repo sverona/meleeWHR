@@ -123,8 +123,8 @@ def plot_top_players(ratings):
 
 
 def __main__():
-    for p, r in enumerate(top_players(ratings, week=52 * (2006 - 2003 + 1), K=0.00075, threshold=50)):
-        print(p, r, sep='\t')
+    for p, r in enumerate(top_players(ratings, week=52 * (2005 - 2003 + 1), K=0.00075, threshold=50)):
+        print(1 + p, r, sep='\t')
 
 
 if __name__ == "__main__":
