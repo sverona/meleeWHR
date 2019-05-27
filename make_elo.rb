@@ -6,6 +6,8 @@ require 'json'
 
 tourneys = JSON.load File.open "all_tournaments.json"
 
+end_date = DateTime.new(2015,1,1,0,0,0)
+
 def tourney_time(t)
     Time.at t['printouts']['Has start date'][0]['timestamp'].to_i
 end
@@ -32,7 +34,7 @@ def fix(tag)
     end
 end
 
-tourneys.sort_by { |name, t| tourney_time(t) }.each do |name, t|
+tourneys.sort_by { |name, t| tourney_time(t) }.select{ |name, t| tourney_time(t).to_datetime < end_date }.each do |name, t|
     # puts Date.parse(tourney_time(t).to_s).step(Date.new(2003, 1, 1), 7).to_a
     date = Date.new(2003, 1, 1).step(Date.parse(tourney_time(t).to_s), 7).count
     begin

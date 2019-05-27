@@ -11,7 +11,7 @@ from cycler import cycler
 
 startdate = date(2003, 1, 1)
 
-ratings = json.load(open('ratings_whr.json'))
+ratings = json.load(open('ratings_whr_5.json'))
 
 
 def wiener_rate(player, t, K=0.00075):
@@ -123,6 +123,7 @@ def plot_top_players(ratings):
 
 
 def __main__():
+    plot_top_players(ratings)
     for p, r in enumerate(top_players(ratings, week=52 * (2005 - 2003 + 1), K=0.00075, threshold=50)):
         print(1 + p, r, sep='\t')
 
